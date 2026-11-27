@@ -1,0 +1,2092 @@
+1
+00:00:04,000 --> 00:00:13,060
+The first one can be called pre-tension.
+
+2
+00:00:16,040 --> 00:00:21,060
+The second one can be called burst tension.
+
+3
+00:00:22,080 --> 00:00:22,920
+We have two techniques.
+
+4
+00:00:25,000 --> 00:00:33,400
+The first one probably most used in the company which
+
+5
+00:00:33,580 --> 00:00:37,740
+produce pre-stressed unit in a company, not on site.
+
+6
+00:00:39,060 --> 00:00:44,200
+So we have form of concrete, and you
+
+7
+00:00:44,200 --> 00:00:46,280
+will put your cable, whatever the shape.
+
+8
+00:00:47,280 --> 00:00:50,180
+And you have jack here, and another jack,
+
+9
+00:00:51,800 --> 00:00:58,460
+or probably dead end, whatever, and we have hydraulic jack.
+
+10
+00:00:59,300 --> 00:01:02,700
+This jack is boiling this cable and it's
+
+11
+00:01:02,940 --> 00:01:07,360
+staying boiling the cable until you bore concrete
+
+12
+00:01:08,380 --> 00:01:10,260
+and the concrete is hardening.
+
+13
+00:01:11,160 --> 00:01:13,760
+And you get the full strength of concrete.
+
+14
+00:01:14,300 --> 00:01:19,580
+Then go ahead and release this cable from this side
+
+15
+00:01:19,700 --> 00:01:20,280
+and this side.
+
+16
+00:01:21,680 --> 00:01:23,640
+This is called "pre-tension".
+
+17
+00:01:23,720 --> 00:01:29,100
+That means you apply the both tension first, pre-first,
+
+18
+00:01:29,960 --> 00:01:33,080
+then you pour the concrete and wait
+
+19
+00:01:33,820 --> 00:01:37,540
+until the concrete gets the strength.
+
+20
+00:01:38,520 --> 00:01:42,720
+Not the full strength, but at least acceptable strength
+
+21
+00:01:43,680 --> 00:01:45,900
+before releasing the force.
+
+22
+00:01:46,160 --> 00:01:47,060
+This is the first technique.
+
+23
+00:01:48,320 --> 00:01:50,560
+This technique is used most of the time
+
+24
+00:01:50,560 --> 00:01:54,680
+in the breast-dress companies, not on site.
+
+25
+00:01:55,220 --> 00:01:59,260
+It's very difficult to put the hydraulic jack
+
+26
+00:01:59,580 --> 00:02:03,100
+waiting to pull this cable until the concrete.
+
+27
+00:02:03,320 --> 00:02:06,620
+You are talking about seven or 14, probably 28 days.
+
+28
+00:02:07,700 --> 00:02:08,440
+It's not common.
+
+29
+00:02:08,619 --> 00:02:11,480
+In a bridge on site, you can apply this technique.
+
+30
+00:02:12,040 --> 00:02:16,640
+We have another technique, which called BOST tension.
+
+31
+00:02:17,680 --> 00:02:19,060
+What is the meaning of BOST tension?
+
+32
+00:02:19,640 --> 00:02:23,100
+we have the concrete formwork.
+
+33
+00:02:25,780 --> 00:02:33,240
+Before doing anything, I will put a tube,
+
+34
+00:02:38,980 --> 00:02:48,700
+bvc tube or whatever, something to maintain this position without any concrete.
+
+35
+00:02:51,400 --> 00:02:54,660
+Then go ahead and put your reinforcement, go ahead and board the concrete.
+
+36
+00:02:55,920 --> 00:03:00,060
+I didn't apply any stress, I didn't put my cable, I didn't do anything.
+
+37
+00:03:00,660 --> 00:03:07,180
+I just put a tube at the location of the expected cable.
+
+38
+00:03:08,340 --> 00:03:15,500
+Then I board my concrete, the concrete is hardening, strength after seven days, 14 days,
+
+39
+00:03:15,760 --> 00:03:22,100
+28 days, then I will come to put my cable in this tube.
+
+40
+00:03:27,840 --> 00:03:34,340
+Then in a few minutes, I will apply the pre-stressed force
+
+41
+00:03:35,050 --> 00:03:35,880
+in few minutes.
+
+42
+00:03:36,560 --> 00:03:40,700
+Then plug this end with anchor.
+
+43
+00:03:42,180 --> 00:03:44,040
+And then plug this end with anchor.
+
+44
+00:03:44,480 --> 00:03:48,620
+then I will release, then the tendon would like to go back.
+
+45
+00:03:50,260 --> 00:03:53,040
+So in this technique, we board concrete,
+
+46
+00:03:53,440 --> 00:03:59,300
+we are, we waited for, for strength, whatever the time,
+
+47
+00:03:59,560 --> 00:04:03,360
+then we will apply the breast rest.
+
+48
+00:04:03,980 --> 00:04:06,520
+So we have two technique, one called pre tension
+
+49
+00:04:06,760 --> 00:04:08,120
+and one called both tension.
+
+50
+00:04:08,700 --> 00:04:11,399
+This one, most of the time is used on site
+
+51
+00:04:12,200 --> 00:04:14,000
+during the construction of the project.
+
+52
+00:04:15,500 --> 00:04:18,600
+So as I told you, the hydraulic jack can apply
+
+53
+00:04:18,959 --> 00:04:21,340
+pre-stress in few minutes, just a few minutes
+
+54
+00:04:22,360 --> 00:04:24,520
+because you don't need to wait until concrete
+
+55
+00:04:25,240 --> 00:04:26,680
+gets the full strength.
+
+56
+00:04:27,120 --> 00:04:33,520
+No, concrete is already ready to be applied by pre-stress.
+
+57
+00:04:35,760 --> 00:04:36,700
+Okay, Roberto?
+
+58
+00:04:39,360 --> 00:04:40,880
+- Yes, I understand now.
+
+59
+00:04:41,360 --> 00:04:41,500
+Yeah.
+
+60
+00:04:46,800 --> 00:04:47,740
+Okay, let me start.
+
+61
+00:04:52,220 --> 00:04:54,500
+Yeah, last time I talked about
+
+62
+00:04:59,720 --> 00:05:01,760
+test for fresh concrete.
+
+63
+00:05:02,760 --> 00:05:05,380
+By the way, when you are boring concrete,
+
+64
+00:05:05,880 --> 00:05:08,540
+the concrete can be called fresh concrete.
+
+65
+00:05:10,120 --> 00:05:15,460
+So we have a common test which called slump test.
+
+66
+00:05:16,340 --> 00:05:18,460
+Your concrete is still fresh, so you
+
+67
+00:05:18,560 --> 00:05:22,500
+need to judge if this mix is good or not.
+
+68
+00:05:23,819 --> 00:05:28,540
+So by the result, you can judge this mix
+
+69
+00:05:28,660 --> 00:05:32,380
+will need more water or less water.
+
+70
+00:05:32,960 --> 00:05:35,300
+If you need to add more water, that's fine.
+
+71
+00:05:35,840 --> 00:05:38,140
+But if you need less water, how can I do this?
+
+72
+00:05:38,760 --> 00:05:43,720
+you can reject the mix and ask the driver of the truck
+
+73
+00:05:43,720 --> 00:05:44,980
+to go back to the company.
+
+74
+00:05:46,680 --> 00:05:48,900
+After concrete is hardening,
+
+75
+00:05:50,900 --> 00:05:55,020
+probably after 28 days, we have another test
+
+76
+00:05:55,780 --> 00:05:57,940
+which called very, very famous test,
+
+77
+00:05:58,160 --> 00:06:00,680
+compressive or compression test
+
+78
+00:06:01,040 --> 00:06:04,600
+to get the compressive strands of concrete.
+
+79
+00:06:05,480 --> 00:06:10,780
+But you need to prepare some samples,
+
+80
+00:06:11,900 --> 00:06:13,520
+cylinders, concrete cylinders.
+
+81
+00:06:14,300 --> 00:06:15,180
+We have two standard.
+
+82
+00:06:16,280 --> 00:06:21,480
+Probably you can bore cylinders with diameter
+
+83
+00:06:21,720 --> 00:06:26,280
+for inch and the height 8 inch or diameter 6 inch.
+
+84
+00:06:26,600 --> 00:06:28,540
+And the height is 12 inch.
+
+85
+00:06:28,960 --> 00:06:29,800
+Both of them works.
+
+86
+00:06:30,580 --> 00:06:35,460
+The standard said for inch diameter and 8 inch height
+
+87
+00:06:35,460 --> 00:06:43,760
+6-inch diameter and 12-inch height. There is a plastic tube, a plastic slender,
+
+88
+00:06:44,220 --> 00:06:51,040
+you can buy them and bore your samples and wait for 28 days then you can apply
+
+89
+00:06:51,800 --> 00:06:58,660
+there or you can run the compression test. Remember from mechanics of material
+
+90
+00:06:58,740 --> 00:07:05,280
+or material strength of material. If you have slender
+
+91
+00:07:08,820 --> 00:07:17,260
+and you are applying the force, we are increasing this force gradually. So we can expect stress
+
+92
+00:07:18,240 --> 00:07:26,819
+equal to b, the applied force, divide the cross-section area of the cylinder. I believe
+
+93
+00:07:27,380 --> 00:07:35,160
+you can figure out the area of the cylinder which is by divide four time diameter square.
+
+94
+00:07:36,520 --> 00:07:44,180
+What is the value of diameter as I told you? Which standard dimension you use? Is it four
+
+95
+00:07:44,420 --> 00:07:51,600
+inch time eight or six inch time 12? So you need to figure out what is the used diameter.
+
+96
+00:07:52,580 --> 00:07:59,260
+So once you figure out the diameter, I can figure out the area of the cylinder. During the test,
+
+97
+00:08:00,620 --> 00:08:07,900
+during you are running the test, this machine can give you the applied force.
+
+98
+00:08:10,140 --> 00:08:18,640
+Every 10 seconds or every 5 seconds or every 1 minute, whatever, you can read the applied force.
+
+99
+00:08:19,300 --> 00:08:23,880
+So I can figure out the applied force during the test.
+
+100
+00:08:24,740 --> 00:08:29,140
+If you divide the applied force by the cross-section area of the cylinder,
+
+101
+00:08:29,680 --> 00:08:32,820
+I can figure out what stress.
+
+102
+00:08:35,340 --> 00:08:35,740
+That's right.
+
+103
+00:08:37,660 --> 00:08:48,180
+Also, during the test, the machine can give you what is the contraction of the cylinder.
+
+104
+00:08:48,500 --> 00:08:57,960
+I know concrete is very strong, but whatever the material, if you apply compression force, we can expect contraction.
+
+105
+00:09:03,500 --> 00:09:13,860
+So the machine during the test can give you what is the value of contraction, 0.1 inch, 0.2 inch, 0.3 inch, whatever the value.
+
+106
+00:09:14,980 --> 00:09:20,360
+From strengths of material, you learn it. We have something called the strain. Do you remember?
+
+107
+00:09:22,160 --> 00:09:29,200
+Strain equal, the elongation or the contraction delta divides the original length.
+
+108
+00:09:32,060 --> 00:09:36,880
+Do you remember the original length? The original length of the cylinder. Yes.
+
+109
+00:09:38,140 --> 00:09:41,760
+I told you we have two standard dimensions.
+
+110
+00:09:42,840 --> 00:09:46,360
+Four inch time eight, so eight is the original length,
+
+111
+00:09:46,860 --> 00:09:51,540
+or six inch diameter time 12, so 12 will be the original length.
+
+112
+00:09:52,460 --> 00:09:57,660
+So please, you need to decide which dimension I will use, I will buy.
+
+113
+00:09:58,620 --> 00:10:03,140
+Which dimension I will buy the plastic slenders.
+
+114
+00:10:05,060 --> 00:10:12,640
+And the machine during the test can tell you what is the value of contraction, what is the value of applied force.
+
+115
+00:10:14,240 --> 00:10:21,560
+So during the test, I can figure out what is the value of stress and what is the corresponding value of strain.
+
+116
+00:10:24,100 --> 00:10:27,020
+Until you reach this failure.
+
+117
+00:10:29,640 --> 00:10:30,700
+Of concrete.
+
+118
+00:10:31,980 --> 00:10:39,580
+If you set up a relationship between stress and the strain,
+
+119
+00:10:39,820 --> 00:10:44,680
+strain on the horizontal x and the stress on the vertical x,
+
+120
+00:10:44,900 --> 00:10:49,020
+you can reach this curve,
+
+121
+00:10:49,650 --> 00:10:53,000
+which you call stress-strain-care of concrete.
+
+122
+00:10:54,480 --> 00:10:57,080
+This care, please put it in your mind.
+
+123
+00:10:58,000 --> 00:11:00,760
+You need to remember this care all the time.
+
+124
+00:11:00,900 --> 00:11:02,360
+if you are working with concrete.
+
+125
+00:11:03,460 --> 00:11:05,600
+The relationship between stress--
+
+126
+00:11:05,680 --> 00:11:08,680
+I'm sorry, strain on the horizontal axis
+
+127
+00:11:09,460 --> 00:11:11,680
+and the stress on the vertical axis,
+
+128
+00:11:11,960 --> 00:11:14,780
+it will look like this.
+
+129
+00:11:16,280 --> 00:11:16,960
+One more time.
+
+130
+00:11:17,300 --> 00:11:19,760
+How can I construct this curve?
+
+131
+00:11:20,280 --> 00:11:21,680
+I told you the story.
+
+132
+00:11:22,780 --> 00:11:26,460
+The story is you need to decide first which
+
+133
+00:11:26,840 --> 00:11:29,200
+ballistic cylinder I will buy.
+
+134
+00:11:29,940 --> 00:11:33,800
+So let's try or let's assume we bought
+
+135
+00:11:36,160 --> 00:11:37,120
+plastic cylinders
+
+136
+00:11:39,200 --> 00:11:42,720
+four inch diameter time eight inch height.
+
+137
+00:11:43,760 --> 00:11:49,440
+I board these cylinders with concrete and waited for 28 days.
+
+138
+00:11:51,360 --> 00:11:56,819
+Then I will get this concrete out of the cylinder and I will
+
+139
+00:11:58,660 --> 00:12:02,820
+apply the compressor force using compression machine.
+
+140
+00:12:04,980 --> 00:12:09,520
+During the test, during the test, the machine
+
+141
+00:12:10,320 --> 00:12:15,460
+will tell me what is the applied force p
+
+142
+00:12:15,990 --> 00:12:19,060
+and what is the corresponding delta.
+
+143
+00:12:19,720 --> 00:12:21,920
+This value of delta will be very, very, very small.
+
+144
+00:12:22,540 --> 00:12:27,100
+Very small. 0.001 or 0.05 or 0.03.
+
+145
+00:12:27,940 --> 00:12:32,820
+Whatever. So if you have P, I can figure out the stress.
+
+146
+00:12:34,120 --> 00:12:36,800
+P divide area, don't forget this area.
+
+147
+00:12:39,460 --> 00:12:45,460
+I can figure out the strain. What is the value of strain? This contraction delta divides the
+
+148
+00:12:45,580 --> 00:12:51,760
+original lens, l node. If you construct a relationship because we have many values of P
+
+149
+00:12:52,120 --> 00:12:57,139
+and many corresponding value of delta during the test until failure, if you construct a
+
+150
+00:12:57,140 --> 00:13:02,900
+relationship between strain and the stress, you can reach this relationship.
+
+151
+00:13:06,080 --> 00:13:15,260
+The maximum value of stress can be called compressive stress of concrete. This one is very,
+
+152
+00:13:15,440 --> 00:13:24,659
+very, very important. We will design using this value of concrete, which called compressive
+
+153
+00:13:25,220 --> 00:13:33,460
+strength of concrete, which is the maximum stress you reach during the compression test.
+
+154
+00:13:34,300 --> 00:13:36,300
+This value is very important.
+
+155
+00:13:39,720 --> 00:13:47,760
+During you are working as engineer, please remember this curve and what is the meaning of the highest
+
+156
+00:13:48,000 --> 00:13:49,420
+value of this curve.
+
+157
+00:13:52,320 --> 00:13:53,200
+Any questions so far?
+
+158
+00:13:56,060 --> 00:14:05,700
+Any questions so far? So we have a good story here about the compression test.
+
+159
+00:14:09,380 --> 00:14:15,380
+And the machine can give you the data for applied force and
+
+160
+00:14:15,420 --> 00:14:21,339
+contraction so I can figure out the relationship between stress and strain. Once you construct
+
+161
+00:14:21,340 --> 00:14:26,080
+your stress and the strain, I can figure out the maximum value of stress, which can be
+
+162
+00:14:26,140 --> 00:14:31,960
+called compressive strengths of concrete. This value, most of the time, probably between
+
+163
+00:14:32,220 --> 00:14:42,780
+2000 until 6000 PSR for normal concrete. If you go up 7000, 8000, 10000, you are talking
+
+164
+00:14:42,900 --> 00:14:48,680
+about high strengths concrete, which is very, very, very strong high strengths concrete.
+
+165
+00:14:49,060 --> 00:14:54,740
+the normal concrete, something between 2000 very weak concrete, 6000 very strong concrete,
+
+166
+00:14:55,500 --> 00:15:02,980
+something in between, but probably 3000 or 4000. This is the common concrete we are using
+
+167
+00:15:03,360 --> 00:15:10,880
+during construction 3000 to 4000 BSI. What is the meaning of this value? The meaning of this value
+
+168
+00:15:10,900 --> 00:15:13,540
+is the highest value in this curve.
+
+169
+00:15:18,860 --> 00:15:20,640
+And how can I construct this curve?
+
+170
+00:15:20,880 --> 00:15:22,360
+Go back to this compression test.
+
+171
+00:15:22,560 --> 00:15:25,660
+You can understand what does that mean.
+
+172
+00:15:26,360 --> 00:15:28,360
+OK, this concrete in compression,
+
+173
+00:15:28,700 --> 00:15:30,180
+we have concrete intention.
+
+174
+00:15:31,340 --> 00:15:34,120
+If you would like to figure out that inside strings
+
+175
+00:15:35,300 --> 00:15:44,660
+of concrete, actually I cannot handle this cylinder and apply tension like this, which
+
+176
+00:15:44,740 --> 00:15:52,000
+called direct attention. I cannot, nobody can do it because you will get failure at this catch area.
+
+177
+00:15:52,840 --> 00:15:59,520
+This area I cannot because concrete is very weak in tension. So we have a direct
+
+178
+00:16:01,700 --> 00:16:09,640
+test which called the split cylinder test. I will put my cylinder like this,
+
+179
+00:16:10,940 --> 00:16:20,120
+not vertical but horizontal and I will apply the force until you have failure splitting in the
+
+180
+00:16:20,340 --> 00:16:28,899
+concrete. From this formula, this equation, two times the applied force until failure
+
+181
+00:16:28,900 --> 00:16:39,380
+divided by the diameter L the lens. I can figure out the tensile strength of concrete.
+
+182
+00:16:40,550 --> 00:16:50,980
+So I cannot handle concrete cylinders vertically to apply tension force. So I will handle it
+
+183
+00:16:51,220 --> 00:16:59,100
+horizontally and I will apply the force like compression but this force will cause splitting
+
+184
+00:16:59,940 --> 00:17:07,260
+in the concrete cylinder by this equation I can figure out the tensile strength of concrete.
+
+185
+00:17:07,920 --> 00:17:15,100
+This test is very common in concrete which called indirect test, indirect detention test.
+
+186
+00:17:15,459 --> 00:17:22,160
+why it's indirect because if you are watching you will see this force is applied in compression
+
+187
+00:17:22,689 --> 00:17:29,380
+on the cylinder but it's indirect because this force will cause splitting. This splitting means
+
+188
+00:17:29,470 --> 00:17:37,000
+we have tension to split this cylinder so we have indirect tension on the concrete cylinder.
+
+189
+00:17:39,310 --> 00:17:43,779
+We have another test also which called flexural test. We have a concrete beam
+
+190
+00:17:44,500 --> 00:17:50,020
+and you are applying one concentrated load. Sometimes it's a two concentrated load.
+
+191
+00:17:50,710 --> 00:17:57,360
+And based on the value of the maximum load, I can figure out the tensile strength of concrete,
+
+192
+00:17:57,880 --> 00:17:59,760
+but this one is more common.
+
+193
+00:18:03,500 --> 00:18:11,379
+This curve is very important. What is the meaning of this curve? We have relationship between strain
+
+194
+00:18:13,900 --> 00:18:24,200
+and stress for concrete in compression. So we have this curve. So this curve relationship
+
+195
+00:18:24,440 --> 00:18:33,240
+between strain and the stress of concrete in compression that I discussed before.
+
+196
+00:18:34,980 --> 00:18:47,340
+One more time. The highest value here can be called f'c, which is the compressive
+
+197
+00:18:47,820 --> 00:18:57,620
+strength of concrete. Can you draw a relationship between strain and stress for concrete intention?
+
+198
+00:18:59,380 --> 00:19:03,380
+From this test, yeah, here is the relationship.
+
+199
+00:19:06,660 --> 00:19:13,240
+And at this value, we have the maximum value which called tensile strength of concrete.
+
+200
+00:19:14,680 --> 00:19:18,540
+Anybody can recognize anything from this curve?
+
+201
+00:19:20,830 --> 00:19:26,940
+Do you think you can conclude any information from this curve?
+
+202
+00:19:30,100 --> 00:19:42,160
+any conclusion guys I got high brock thank you for coming any conclusion from this curve
+
+203
+00:19:44,820 --> 00:20:02,300
+Yeah. Yes, tension curve is very smaller. That means concrete is very strong in compression
+
+204
+00:20:02,480 --> 00:20:15,840
+and very weak intention. If you go back, this is the main reason why we are using steel reinforcement.
+
+205
+00:20:18,600 --> 00:20:26,980
+Because concrete is very strong in compression, but very weak in tension. So concrete works
+
+206
+00:20:27,080 --> 00:20:35,220
+well in compression and the steel and the concrete is not work well in tension. So we
+
+207
+00:20:35,220 --> 00:20:40,280
+need to add the steering enforcement and the steering enforcement will be added in the
+
+208
+00:20:40,320 --> 00:20:47,020
+tension zone. If you can decide the tension zone in concrete at this zone, we need to
+
+209
+00:20:47,140 --> 00:20:53,740
+add reinforcement. How much? This course will let you know how much. So about this curve,
+
+210
+00:20:54,040 --> 00:20:59,240
+It's very important to understand concrete intention is nothing.
+
+211
+00:21:00,200 --> 00:21:03,200
+So all the time we neglect concrete intention.
+
+212
+00:21:03,980 --> 00:21:09,920
+But concrete in compression is most strong, very strong.
+
+213
+00:21:15,020 --> 00:21:20,080
+OK, we have something called time dependent behavior,
+
+214
+00:21:21,240 --> 00:21:28,880
+effect of creep or effect of shrinkage. What is the meaning of creep? The meaning of
+
+215
+00:21:28,940 --> 00:21:35,800
+creep is a very simple description. If you have a beam, concrete beam,
+
+216
+00:21:36,120 --> 00:21:42,660
+supported here and supported here and you put a blight force P. Do you remember
+
+217
+00:21:42,820 --> 00:21:47,280
+from last semester we learned that if you have a beam with a blight force we
+
+218
+00:21:47,280 --> 00:21:53,480
+have deflection. Do you remember something like this? We learned many methods to calculate
+
+219
+00:21:53,590 --> 00:22:03,920
+these deflections. So this deflection y will increase with time. So the force B is constant,
+
+220
+00:22:04,330 --> 00:22:14,080
+no change. For 10 years or 5 years or 20 years, if you draw a relationship between time
+
+221
+00:22:16,960 --> 00:22:20,340
+And this deflection, remember, this load is constant.
+
+222
+00:22:20,680 --> 00:22:21,440
+Everything is constant.
+
+223
+00:22:21,620 --> 00:22:22,120
+No change.
+
+224
+00:22:22,340 --> 00:22:23,120
+Nothing will change.
+
+225
+00:22:24,160 --> 00:22:27,580
+But only the only change on the only parameter is time.
+
+226
+00:22:28,340 --> 00:22:31,440
+If you draw a relationship between time after one year,
+
+227
+00:22:31,780 --> 00:22:34,680
+two years, three years, four years, five years, 10 years,
+
+228
+00:22:34,760 --> 00:22:39,180
+20 years, 50 years, you will find increase in deflection.
+
+229
+00:22:40,940 --> 00:22:42,820
+This deflection will increase.
+
+230
+00:22:43,000 --> 00:22:45,720
+However, the applied force is constant.
+
+231
+00:22:46,720 --> 00:22:50,880
+This phenomenon called creep of concrete.
+
+232
+00:22:51,980 --> 00:22:54,920
+This called time-dependent behavior.
+
+233
+00:22:55,900 --> 00:22:59,740
+Because nothing change, the applied load is the same,
+
+234
+00:22:59,940 --> 00:23:01,940
+the beam is the same, everything is the same,
+
+235
+00:23:02,340 --> 00:23:04,300
+but only time is a change.
+
+236
+00:23:04,820 --> 00:23:08,440
+So we can expect deformation with time.
+
+237
+00:23:08,720 --> 00:23:09,820
+This is called creep.
+
+238
+00:23:10,700 --> 00:23:12,200
+It's outside the scope of this course.
+
+239
+00:23:13,320 --> 00:23:15,800
+but just to learn what is the meaning of creep.
+
+240
+00:23:17,899 --> 00:23:19,260
+Dry shrinkage.
+
+241
+00:23:20,110 --> 00:23:20,740
+Do you remember?
+
+242
+00:23:21,600 --> 00:23:27,060
+Sometimes we have concrete for a beer in bridge,
+
+243
+00:23:27,920 --> 00:23:33,360
+so we can expect wet and dry cycles.
+
+244
+00:23:35,560 --> 00:23:38,460
+During the rainfall, we have wet concrete.
+
+245
+00:23:39,280 --> 00:23:40,820
+During the summer, no rainfall,
+
+246
+00:23:41,160 --> 00:23:42,800
+So we can expect dry.
+
+247
+00:23:43,400 --> 00:23:45,100
+So with and the dry cycles,
+
+248
+00:23:46,210 --> 00:23:48,980
+we can expect shrinkage of concrete
+
+249
+00:23:49,400 --> 00:23:52,240
+and we can expect cracks on the concrete surface.
+
+250
+00:23:53,340 --> 00:23:56,360
+These cracks called shrinkage, cracks.
+
+251
+00:23:57,620 --> 00:24:00,540
+This shrinkage will affect on concrete behavior,
+
+252
+00:24:00,880 --> 00:24:03,420
+especially for deflection and stress.
+
+253
+00:24:04,920 --> 00:24:09,960
+So shrinkage related to water on in concrete.
+
+254
+00:24:12,520 --> 00:24:18,120
+Also, by time, let's think.
+
+255
+00:24:18,420 --> 00:24:22,980
+We have concrete, we have wheat and the dry cycles for 50 years.
+
+256
+00:24:23,420 --> 00:24:27,580
+So dry, wheat, dry, wheat, dry, wheat.
+
+257
+00:24:27,740 --> 00:24:32,820
+So we can expect wheat concrete, we can expect more cracks, we can expect failure.
+
+258
+00:24:42,160 --> 00:24:50,920
+Reinforcing BOR as I told you concrete is very strong in compression. Nothing needed, no help
+
+259
+00:24:51,960 --> 00:24:58,260
+needed for concrete in compression but concrete is very weak in tension so we need help.
+
+260
+00:24:59,120 --> 00:25:12,820
+who is helping reinforcement, rebars, steel rebars. We have different size according to us units.
+
+261
+00:25:14,240 --> 00:25:20,220
+We have number two, number three, bars, number four, number five, number six, number seven,
+
+262
+00:25:20,240 --> 00:25:28,760
+number eight, number ten, nine, number ten, and whatever. Each side of these rebar has
+
+263
+00:25:33,039 --> 00:25:42,700
+diameter and has area, cross-section area. So this one is the cross-section area for each bar.
+
+264
+00:25:43,680 --> 00:25:50,940
+This one is the diameter for each bar. This one is the common name number two, number three,
+
+265
+00:25:51,040 --> 00:25:55,780
+number four or whatever. We are talking about us.
+
+266
+00:25:59,280 --> 00:26:04,440
+If you are in a different country, we have a different name, number six, number two, whatever,
+
+267
+00:26:04,640 --> 00:26:14,540
+whatever. Okay, remember this table is very, very important. Keep it with your hand during the
+
+268
+00:26:14,620 --> 00:26:24,500
+exam, during your life actually. Why? During the course, based on your calculations, we can figure
+
+269
+00:26:24,660 --> 00:26:31,620
+out the required area steel, total required area steel, for example, 3.6 inches square.
+
+270
+00:26:34,080 --> 00:26:41,820
+but I don't care what is the meaning of 3.6 inches square we need to convert this area of steel off
+
+271
+00:26:42,680 --> 00:26:48,740
+how many bars and which bar
+
+272
+00:26:51,280 --> 00:26:57,400
+so you need to select for example I will select this number number six bar so how many you need
+
+273
+00:26:57,400 --> 00:27:07,240
+to divide this required area by the area of one bar of number six. If you divide the total
+
+274
+00:27:07,440 --> 00:27:14,280
+area by the area of one bar, I can figure out the number of bars. So, based on your calculation
+
+275
+00:27:14,500 --> 00:27:20,040
+in this course, you can figure out the total required area. Then from this table, you can
+
+276
+00:27:20,040 --> 00:27:27,800
+pick up it's up to you. It's up to you. You can pick up a bar size of bar for example number six.
+
+277
+00:27:28,540 --> 00:27:34,460
+So the area of number six bar is 0.44 inches square. So the required number will be the
+
+278
+00:27:34,640 --> 00:27:40,760
+total area, the total steel area, divide the area of one bar and figure out the number of bars.
+
+279
+00:27:40,880 --> 00:27:48,600
+We will cover all of these stuff later. Also for sterium forcement, the most common test
+
+280
+00:27:48,600 --> 00:27:59,500
+is tension test. I did one last semester with a senior student. You have a steel river
+
+281
+00:28:01,140 --> 00:28:09,220
+clamped between this head of the machine and this head and you apply tension force
+
+282
+00:28:10,820 --> 00:28:18,580
+this direction and this direction. Also during the test the machine can tell you what is the
+
+283
+00:28:18,580 --> 00:28:27,880
+force. So I can figure out the stress which equal f divide area of the cross-section area of the
+
+284
+00:28:28,280 --> 00:28:36,920
+steroid rebar. Also during the test the machine can tell you the corresponding elongation delta.
+
+285
+00:28:37,650 --> 00:28:46,340
+So the strain will be the elongation divides the original lens. If you construct a relationship
+
+286
+00:28:46,340 --> 00:28:52,120
+between strain and the stress, you can reach this relationship.
+
+287
+00:28:54,500 --> 00:28:59,120
+We have here few points you need to remember. What is the meaning of this curve? This is a
+
+288
+00:28:59,160 --> 00:29:06,120
+stress strain curve for sterile enforcement. At this point, we can expect yielding at this location
+
+289
+00:29:06,300 --> 00:29:13,780
+plateau. At this point, which is the maximum stress is called ultimate strength of steel.
+
+290
+00:29:16,100 --> 00:29:19,320
+at this location, which is a fracture stress.
+
+291
+00:29:22,360 --> 00:29:25,640
+Anybody remember from strengths of material,
+
+292
+00:29:26,360 --> 00:29:30,800
+what is the meaning of this line?
+
+293
+00:29:32,320 --> 00:29:35,740
+And what is the slope of this line?
+
+294
+00:29:36,900 --> 00:29:39,960
+What is the meaning of this slope of the relationship,
+
+295
+00:29:40,040 --> 00:29:41,700
+the linear relationship?
+
+296
+00:29:42,620 --> 00:29:43,020
+Do you remember?
+
+297
+00:29:47,880 --> 00:29:54,760
+You remember for this linear relationship, what is the meaning of this slope?
+
+298
+00:29:58,740 --> 00:30:04,140
+And we have here a low, which called hook low.
+
+299
+00:30:05,300 --> 00:30:09,840
+That means you're waiting for any answer.
+
+300
+00:30:10,580 --> 00:30:11,040
+No answer?
+
+301
+00:30:12,760 --> 00:30:13,440
+Guys, are you speaking?
+
+302
+00:30:15,680 --> 00:30:16,180
+Are you here?
+
+303
+00:30:17,039 --> 00:30:22,500
+You should learn all of these stuff in strengths of material or mechanics of material.
+
+304
+00:30:29,860 --> 00:30:31,500
+Yeah, I know you are here.
+
+305
+00:30:31,680 --> 00:30:32,420
+What is the answer?
+
+306
+00:30:35,300 --> 00:30:40,040
+Guys, the slope of this linear relationship called modulus of elasticity.
+
+307
+00:30:43,540 --> 00:30:45,660
+Modulus of elasticity.
+
+308
+00:30:48,080 --> 00:30:49,160
+Which called E.
+
+309
+00:30:51,000 --> 00:30:54,140
+From hook, the law for this linear relationship.
+
+310
+00:30:55,100 --> 00:30:57,720
+Stress divide strain.
+
+311
+00:30:58,580 --> 00:31:02,300
+We have a linear relationship between in the elastic region.
+
+312
+00:31:02,460 --> 00:31:09,420
+Elastic means if you remove the applied force everything will go back nothing
+
+313
+00:31:09,600 --> 00:31:15,260
+will change. After this linear relationship we have yielding. What is the
+
+314
+00:31:15,280 --> 00:31:21,540
+meaning of yielding? The load is constant but we have elongation. Then we have
+
+315
+00:31:21,600 --> 00:31:27,860
+something called strain hardening. Strain hardening. All of this stuff you have to
+
+316
+00:31:27,860 --> 00:31:31,920
+remember all of this stuff keep this information in your mind.
+
+317
+00:31:32,820 --> 00:31:34,860
+You should remember, learn all of this stuff
+
+318
+00:31:34,960 --> 00:31:36,840
+in strengths of material.
+
+319
+00:31:38,020 --> 00:31:38,220
+Yes.
+
+320
+00:31:40,400 --> 00:31:43,580
+Elastic deformation of material can withstand, okay.
+
+321
+00:31:44,020 --> 00:31:47,500
+But the most important information here is the slope
+
+322
+00:31:48,220 --> 00:31:52,540
+of this linear relationship called modulus of elasticity.
+
+323
+00:31:54,500 --> 00:32:11,860
+E, do you remember last semester we learned in deflection something divide E, I, I is the moment of inertia, whatever. E is the modulus of elasticity of the material of the beam.
+
+324
+00:32:13,240 --> 00:32:19,940
+E modulus of elasticity means the slope of the linear relationship between strain and distress.
+
+325
+00:32:27,480 --> 00:32:37,300
+We have an example here. During the test, during the tension test, we have a steel rebar
+
+326
+00:32:38,900 --> 00:32:52,120
+with diameter, this diameter equal 0.503 inch and the original lens for this rebar is
+
+327
+00:32:53,100 --> 00:33:02,260
+2 inch so L-node equal 2 inch so from this diameter I can figure out the area of the steel
+
+328
+00:33:02,420 --> 00:33:18,680
+rebar what is the area by divide four times this diameter square this area will be 0.198
+
+329
+00:33:19,220 --> 00:33:25,100
+inches square so from the information is a problem the diameter of the rebar is given
+
+330
+00:33:25,820 --> 00:33:32,400
+the original length is given so I can figure out the cross section in during the test during
+
+331
+00:33:32,400 --> 00:33:40,520
+the test I have this data. At loot zero we don't have elongation. If you apply 1.5
+
+332
+00:33:40,680 --> 00:33:45,920
+KEP you have elongation. 4.6 we have a different elongation. 8 we have
+
+333
+00:33:46,040 --> 00:33:53,080
+elongation. 11 until you reach 18.5 we have elongation 0.46. I need to
+
+334
+00:33:53,160 --> 00:34:00,560
+construct I need to draw the stress-string curve. Can you? Yeah you
+
+335
+00:34:00,560 --> 00:34:06,500
+you said stress strain curve, but I have load elongation curve.
+
+336
+00:34:07,460 --> 00:34:12,740
+So I need first to convert this data to stress strain curve.
+
+337
+00:34:13,260 --> 00:34:21,899
+So I will construct another table with strain and stress.
+
+338
+00:34:24,960 --> 00:34:26,020
+What is the value of strain?
+
+339
+00:34:27,200 --> 00:34:31,820
+The elongation value, which is listed here from the test,
+
+340
+00:34:34,720 --> 00:34:40,080
+divide the original length of the rebar, which is 2 inch.
+
+341
+00:34:42,659 --> 00:34:45,940
+So for example, first value here will be 0.
+
+342
+00:34:46,159 --> 00:34:48,780
+Why? Because we don't have elongation 0.
+
+343
+00:34:49,020 --> 00:34:51,159
+The value 2 will be 0.
+
+344
+00:34:51,520 --> 00:35:02,180
+The second one, 0.0005 divided by 2, your value here will be 0.00025.
+
+345
+00:35:03,340 --> 00:35:11,560
+Keep going. 0.015 divided by 2, you can get the value here. 0.0025 divided by 2, you can get the value here.
+
+346
+00:35:11,660 --> 00:35:14,020
+Value here, value here, value here, so we have stream.
+
+347
+00:35:15,440 --> 00:35:16,560
+What is the value of stress?
+
+348
+00:35:18,819 --> 00:35:21,260
+Sigma equals the applied force,
+
+349
+00:35:22,020 --> 00:35:29,440
+LUD divided by area, the cross section area of the rebar.
+
+350
+00:35:31,580 --> 00:35:40,720
+So LUD is given 0, 1.5 kip, 4.6 kip, 8 kip, 11 kip, 11.8 kip, 11.8 kip, 12 kip, and so on.
+
+351
+00:35:41,060 --> 00:35:43,080
+So I can figure out the value of stress.
+
+352
+00:35:43,240 --> 00:35:46,460
+For example, 1.5 divide this area.
+
+353
+00:35:47,720 --> 00:35:50,360
+So this value will be 7.57.
+
+354
+00:35:52,980 --> 00:35:56,960
+The second one, 4.6 divide this area, 0.198.
+
+355
+00:35:57,740 --> 00:36:01,220
+This one will be 23.23.
+
+356
+00:36:01,920 --> 00:36:05,500
+So right now I converted the listed data
+
+357
+00:36:06,100 --> 00:36:10,720
+from load elongation data to a new data
+
+358
+00:36:10,720 --> 00:36:12,920
+which is strain stress data.
+
+359
+00:36:13,880 --> 00:36:17,040
+If you draw a relationship, if you construct
+
+360
+00:36:24,720 --> 00:36:27,080
+horizontal curve, which is a strain
+
+361
+00:36:27,880 --> 00:36:30,000
+and the vertical curve, which is stress,
+
+362
+00:36:30,000 --> 00:36:31,160
+you can do it with Excel.
+
+363
+00:36:31,880 --> 00:36:33,800
+So for first one, zero and zero.
+
+364
+00:36:35,200 --> 00:36:39,500
+The second one, 0.00025 and the same 0.57,
+
+365
+00:36:39,840 --> 00:36:45,200
+So we can find a point here and point here and point here and point here and point here and point here.
+
+366
+00:36:45,700 --> 00:36:49,180
+So you can construct this curve. You will find something like this.
+
+367
+00:36:52,260 --> 00:36:53,860
+Which looks like this one.
+
+368
+00:36:55,280 --> 00:37:00,900
+Once you construct this curve, I can figure out what is the modulus of elasticity?
+
+369
+00:37:02,880 --> 00:37:04,080
+What is the modulus of elasticity?
+
+370
+00:37:05,150 --> 00:37:06,200
+Do you remember? Yeah?
+
+371
+00:37:06,840 --> 00:37:12,320
+Go ahead and measure the slope of this line, linear relationship.
+
+372
+00:37:14,000 --> 00:37:16,120
+What is the value of yield stress?
+
+373
+00:37:17,300 --> 00:37:23,200
+Yield stress means if you reach this plateau, the yield stress will be here.
+
+374
+00:37:26,120 --> 00:37:27,740
+What is the value of ultimate stress?
+
+375
+00:37:27,940 --> 00:37:32,480
+Ultimate stress means the maximum stress, the maximum one.
+
+376
+00:37:36,180 --> 00:37:38,020
+What is the value of rupture stress?
+
+377
+00:37:39,140 --> 00:37:44,020
+Rupture stress is the final or the last value of the curve.
+
+378
+00:37:44,500 --> 00:37:47,740
+So I can figure out all of this stuff from my relationship.
+
+379
+00:37:48,939 --> 00:37:53,380
+Once you draw the relationship between strain and stress.
+
+380
+00:37:53,740 --> 00:37:57,260
+But remember, stress and strain from this data.
+
+381
+00:37:57,760 --> 00:38:02,060
+How can I convert this data to stress and strain by these two equations?
+
+382
+00:38:02,420 --> 00:38:05,540
+Strain equals the elongation divided by original length.
+
+383
+00:38:05,540 --> 00:38:09,280
+stress equals oblige fluid divide the cross section.
+
+384
+00:38:12,380 --> 00:38:12,800
+Any question?
+
+385
+00:38:21,180 --> 00:38:24,320
+I recommend, we have one problem like this one in your homework.
+
+386
+00:38:24,370 --> 00:38:26,040
+So I highly recommend use Excel.
+
+387
+00:38:28,980 --> 00:38:31,900
+Use Excel, don't try, you are a senior student right now.
+
+388
+00:38:32,180 --> 00:38:34,180
+Don't try to draw this relationship with your hand.
+
+389
+00:38:34,260 --> 00:38:36,540
+Please be professional.
+
+390
+00:38:39,260 --> 00:38:47,340
+Finally, I will go quickly through these notes because we will cover all of
+
+391
+00:38:47,340 --> 00:38:53,040
+these stuff during the course. We have two methods of design of concrete and
+
+392
+00:38:53,100 --> 00:38:59,620
+also for any design. We have very old-fashioned method which called allowable
+
+393
+00:38:59,620 --> 00:39:09,060
+stress design and we have common method which called ultimate limit state. We will use this one.
+
+394
+00:39:11,000 --> 00:39:21,780
+But to explain the philosophy behind this method and this method, let me explain this outside.
+
+395
+00:39:21,860 --> 00:39:30,160
+but please pay attention because I'm trying to explain the philosophy behind
+
+396
+00:39:30,960 --> 00:39:41,700
+the design of the two methods. Remember, I told you that the relationship between
+
+397
+00:39:41,880 --> 00:39:45,840
+strain and stress for concrete looks like this.
+
+398
+00:39:50,060 --> 00:39:59,020
+And I told you right now the relationship between strain and the stress for steel looks like this.
+
+399
+00:40:02,560 --> 00:40:03,380
+That's right.
+
+400
+00:40:06,580 --> 00:40:15,740
+Do you think I will design a beam, we have concrete beam, with stereo enforcement?
+
+401
+00:40:17,540 --> 00:40:22,340
+Do you think I will design this beam due to load?
+
+402
+00:40:30,200 --> 00:40:32,400
+And this is the maximum load.
+
+403
+00:40:33,100 --> 00:40:36,780
+So I will design this beam for the maximum load.
+
+404
+00:40:36,840 --> 00:40:42,040
+Do you think if we have something unexpected?
+
+405
+00:40:43,300 --> 00:40:45,340
+So this we reach the maximum load.
+
+406
+00:40:45,540 --> 00:40:49,340
+But besides the maximum load, we have additional load.
+
+407
+00:40:50,420 --> 00:40:51,320
+So failure will happen.
+
+408
+00:40:52,360 --> 00:40:54,100
+Do you think we are designing in this case?
+
+409
+00:40:54,560 --> 00:40:56,440
+No. We need to expect.
+
+410
+00:40:57,900 --> 00:40:59,680
+Something cannot expect.
+
+411
+00:41:03,380 --> 00:41:07,020
+So we need to take something called factor of safety.
+
+412
+00:41:08,960 --> 00:41:14,160
+I know the maximum, maximum, maximum load can reach, for example, is 1000.
+
+413
+00:41:15,300 --> 00:41:16,820
+I will not design for 1000.
+
+414
+00:41:17,240 --> 00:41:22,840
+I need to take another factor of safety because I can't expect something different in the future.
+
+415
+00:41:24,320 --> 00:41:25,440
+So we have two philosophy.
+
+416
+00:41:27,960 --> 00:41:34,900
+The first one, which called allowable stress design, very old method.
+
+417
+00:41:35,740 --> 00:41:41,440
+Most of the standards right now starting to cancel it.
+
+418
+00:41:41,940 --> 00:41:44,560
+But we need to understand what is the philosophy.
+
+419
+00:41:45,720 --> 00:41:49,700
+The philosophy is you said the maximum load
+
+420
+00:41:51,560 --> 00:41:53,840
+on this beam can reach 1000.
+
+421
+00:41:54,160 --> 00:41:56,300
+Okay, I will keep the 1000 as it is.
+
+422
+00:41:57,580 --> 00:41:58,840
+I will design for 1000.
+
+423
+00:42:00,900 --> 00:42:05,100
+But for concrete, the concrete can reach here
+
+424
+00:42:05,480 --> 00:42:06,320
+until this point.
+
+425
+00:42:07,080 --> 00:42:10,280
+If prime C after this point, we can expect failure.
+
+426
+00:42:10,740 --> 00:42:11,100
+That's right?
+
+427
+00:42:11,580 --> 00:42:16,180
+No, I will design concrete until this point only.
+
+428
+00:42:18,340 --> 00:42:19,420
+Which called FC.
+
+429
+00:42:21,320 --> 00:42:23,980
+The maximum one can reach 4,000.
+
+430
+00:42:24,520 --> 00:42:26,900
+Okay, but I will not design for 4,000.
+
+431
+00:42:27,120 --> 00:42:29,100
+I will design only for 2,000 only.
+
+432
+00:42:30,200 --> 00:42:32,300
+The concrete can support more.
+
+433
+00:42:32,720 --> 00:42:39,360
+No, I will not get the full capacity of the concrete.
+
+434
+00:42:39,580 --> 00:42:41,440
+I will design only for 2000.
+
+435
+00:42:42,600 --> 00:42:43,620
+What about the rest?
+
+436
+00:42:43,900 --> 00:42:45,860
+The concrete can support until 4000.
+
+437
+00:42:46,200 --> 00:42:48,280
+The rest can be called factor of 50.
+
+438
+00:42:50,520 --> 00:42:52,800
+So for steel, for example,
+
+439
+00:42:53,260 --> 00:42:58,220
+the steel can reach here for F yield for 50,000
+
+440
+00:43:00,020 --> 00:43:03,580
+or F ultimate can reach for 70,000.
+
+441
+00:43:03,920 --> 00:43:08,260
+No, no, I will design only for
+
+442
+00:43:09,820 --> 00:43:18,920
+20,000. But the steel can support more. The strength of steel can support more. No. The
+
+443
+00:43:19,660 --> 00:43:26,660
+additional support can be considered factor of safety. So for a steel FS, equal 20,000.
+
+444
+00:43:28,420 --> 00:43:37,020
+The philosophy of this method, which called allowable stress design is keep the applied
+
+445
+00:43:37,020 --> 00:43:44,120
+load as it is. Okay, I will not change the load, the calculation of load, the expected load,
+
+446
+00:43:44,260 --> 00:43:54,060
+I will not change. But for material, I will reduce the capacity of concrete more, and I will reduce
+
+447
+00:43:54,280 --> 00:44:02,060
+the capacity of steel more. If something happened in the future, I didn't consider, we still have
+
+448
+00:44:02,860 --> 00:44:08,260
+more strength of concrete can support and I still have more steel strength can support.
+
+449
+00:44:09,840 --> 00:44:10,440
+You got it?
+
+450
+00:44:12,840 --> 00:44:22,120
+So I will design for the expected load but I will let the material to support more.
+
+451
+00:44:25,080 --> 00:44:29,580
+So concrete can support until 4000 but I will design for only 2000.
+
+452
+00:44:30,460 --> 00:44:37,800
+Steel can support for 50,000 but I will design for only 20,000. If something happened in the future
+
+453
+00:44:39,560 --> 00:44:45,860
+the material can support, don't worry, we have a factor of safety of material in material strengths.
+
+454
+00:44:49,360 --> 00:44:59,740
+This is the first one, the first philosophy. The second philosophy which called ultimate limit
+
+455
+00:44:59,740 --> 00:45:06,380
+state most of the standard right now working or using this method ultimate limit state.
+
+456
+00:45:09,440 --> 00:45:17,640
+Hey the concrete can support 4000 okay I will use the full capacity of concrete wow
+
+457
+00:45:19,220 --> 00:45:26,860
+remember if you exceed 4000 failure will happen it's okay don't worry for steel I will
+
+458
+00:45:27,660 --> 00:45:35,400
+use the full yield strength of steel which is 50,000. Hey, if you exceed this value,
+
+459
+00:45:36,530 --> 00:45:43,700
+we can expect more deformation in the building. It's okay. Don't worry. No, I'm worrying because
+
+460
+00:45:43,840 --> 00:45:53,700
+you are using the full capacity of the material. Yes, but if I have did load on the structure,
+
+461
+00:45:55,340 --> 00:45:58,840
+I will increase it by 20%.
+
+462
+00:46:01,160 --> 00:46:09,340
+The expected load on the building is, for example, 20 kip? No, I will not design for 20.
+
+463
+00:46:09,520 --> 00:46:18,180
+I will design for 20 plus 20%. And if you have live load on the building, I will increase this
+
+464
+00:46:18,180 --> 00:46:19,720
+this life load by 60%.
+
+465
+00:46:20,840 --> 00:46:24,180
+So the applied load will be 1.2 dead load
+
+466
+00:46:24,700 --> 00:46:26,080
+plus 1.6 life load.
+
+467
+00:46:27,200 --> 00:46:30,620
+Hey, the expected load on the building in the future
+
+468
+00:46:30,900 --> 00:46:32,680
+only 60 keb.
+
+469
+00:46:33,460 --> 00:46:35,280
+No, I will not design for sickest.
+
+470
+00:46:35,400 --> 00:46:37,180
+I will design for additional load.
+
+471
+00:46:37,600 --> 00:46:41,900
+If this load is dead load, I will add 20% increase.
+
+472
+00:46:42,580 --> 00:46:47,260
+If this one is live load, I will increase it by 60%.
+
+473
+00:46:47,260 --> 00:46:54,660
+So my factor of safety is taken in the applied load and your material as it is.
+
+474
+00:46:56,160 --> 00:47:00,540
+This is the philosophy of ultimate limit state.
+
+475
+00:47:01,630 --> 00:47:07,320
+The philosophy of the allowable stress design is your load will be the same.
+
+476
+00:47:07,460 --> 00:47:10,540
+I will not increase or decrease the applied load.
+
+477
+00:47:10,650 --> 00:47:11,700
+Keep it as it is.
+
+478
+00:47:12,980 --> 00:47:19,940
+I take my factor of safety in material. So what will happen if the applied load,
+
+479
+00:47:21,300 --> 00:47:27,180
+which is 1000, increase a little bit the material can support, don't worry. For this one,
+
+480
+00:47:27,750 --> 00:47:35,300
+you are reaching the full capacity of the material, but you are designing of a larger load. So the
+
+481
+00:47:35,300 --> 00:47:40,380
+I expect the design load is 60, but I designed for 80.
+
+482
+00:47:40,720 --> 00:47:41,900
+I designed for 100.
+
+483
+00:47:42,620 --> 00:47:44,800
+So if the applied load 60, I'm still okay.
+
+484
+00:47:45,080 --> 00:47:46,700
+If it's 61, I'm still okay.
+
+485
+00:47:46,980 --> 00:47:49,820
+62, 65, 70, I'm still okay
+
+486
+00:47:50,060 --> 00:47:53,280
+because I already designed for a larger load.
+
+487
+00:47:55,040 --> 00:47:58,600
+So the main difference between this method
+
+488
+00:47:58,760 --> 00:48:03,520
+and this method, how do you apply the factor of safety?
+
+489
+00:48:04,500 --> 00:48:06,940
+factor of safety in this method applied for material,
+
+490
+00:48:07,700 --> 00:48:11,100
+factor of safety of this method applied for loot.
+
+491
+00:48:12,120 --> 00:48:14,220
+This is the main difference between this method
+
+492
+00:48:14,660 --> 00:48:16,080
+and this method.
+
+493
+00:48:27,720 --> 00:48:28,660
+It's a good question.
+
+494
+00:48:28,840 --> 00:48:31,960
+How much does creep affect maximum strain
+
+495
+00:48:32,100 --> 00:48:33,420
+and the stress over the time?
+
+496
+00:48:33,540 --> 00:48:36,120
+it depends on what is the mix proportional.
+
+497
+00:48:36,370 --> 00:48:40,060
+Do you have how much sand, how much gravel,
+
+498
+00:48:40,700 --> 00:48:45,480
+how much cement, what was the water cement ratio,
+
+499
+00:48:45,720 --> 00:48:48,740
+how much water did you use during the mixing?
+
+500
+00:48:49,560 --> 00:48:54,040
+Also, do you have a compression reinforcement?
+
+501
+00:48:54,440 --> 00:48:55,380
+We have many factors.
+
+502
+00:48:55,960 --> 00:48:57,100
+If you go back to my note,
+
+503
+00:49:00,940 --> 00:49:08,360
+Alex, we have many factors affecting the creep.
+
+504
+00:49:10,180 --> 00:49:13,600
+This factor and this factor and this factor, what is the large course aggregate?
+
+505
+00:49:14,320 --> 00:49:16,120
+What is the maximum aggregate size?
+
+506
+00:49:16,340 --> 00:49:23,920
+We have many factors affecting the creep, but this one is very important if you add compression
+
+507
+00:49:24,020 --> 00:49:24,840
+and stereo enforcement.
+
+508
+00:49:25,220 --> 00:49:27,860
+Just put it in your mind and I will explain it
+
+509
+00:49:28,160 --> 00:49:29,440
+in more details later.
+
+510
+00:49:31,000 --> 00:49:33,000
+From this point at this time,
+
+511
+00:49:33,380 --> 00:49:35,920
+just to understand what is the meaning of creep?
+
+512
+00:49:36,240 --> 00:49:39,080
+Just deformation by time.
+
+513
+00:49:39,820 --> 00:49:41,460
+Your applied load is constant,
+
+514
+00:49:41,720 --> 00:49:44,900
+but deformation is increasing with time.
+
+515
+00:49:45,760 --> 00:49:48,860
+We have factors can control this effect.
+
+516
+00:49:49,640 --> 00:49:50,920
+What is the meaning of shrinkage?
+
+517
+00:49:51,060 --> 00:49:53,620
+in the water, in concrete.
+
+518
+00:49:55,760 --> 00:50:00,100
+Dry concrete means more cracks on the concrete surface.
+
+519
+00:50:00,940 --> 00:50:03,420
+Cracks means make concrete weaker.
+
+520
+00:50:05,200 --> 00:50:08,140
+Because if you have cracks, we can expect a take
+
+521
+00:50:08,760 --> 00:50:12,860
+from any environmental change to the embedded reinforcement.
+
+522
+00:50:13,640 --> 00:50:17,059
+If we have this attack, we can expect
+
+523
+00:50:18,460 --> 00:50:24,300
+failure in concrete due to the corrosion of steel reinforcement.
+

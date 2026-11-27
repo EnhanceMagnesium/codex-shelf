@@ -1,0 +1,2124 @@
+1
+00:00:03,820 --> 00:00:05,920
+How to design slips.
+
+2
+00:00:07,520 --> 00:00:11,200
+Guys, I'm so sorry I didn't upload the whole module.
+
+3
+00:00:11,680 --> 00:00:12,480
+I will do it.
+
+4
+00:00:12,960 --> 00:00:17,020
+I will finish it by today evening or tomorrow.
+
+5
+00:00:17,640 --> 00:00:20,460
+So I just uploaded only small part.
+
+6
+00:00:21,940 --> 00:00:27,780
+By the way, today our topic will be about design of slips.
+
+7
+00:00:29,900 --> 00:00:34,500
+just to remind you our progress until this moment,
+
+8
+00:00:35,280 --> 00:00:36,800
+we have concrete structure
+
+9
+00:00:37,640 --> 00:00:41,160
+because this course is talking about concrete construction.
+
+10
+00:00:42,500 --> 00:00:44,700
+We have different boards in this building.
+
+11
+00:00:46,120 --> 00:00:50,300
+Until this moment, we covered only beams.
+
+12
+00:00:52,680 --> 00:00:56,700
+And we covered beam under the effect of bending moment.
+
+13
+00:00:57,720 --> 00:01:01,820
+If you have bending, we can figure out how much is steering enforcement.
+
+14
+00:01:02,870 --> 00:01:09,620
+We cover beams under the effect of shear or torsion.
+
+15
+00:01:11,060 --> 00:01:19,560
+And we can figure out how many or what is the spacing or how we can design stirrups to support
+
+16
+00:01:20,180 --> 00:01:22,880
+beams against shear or torsion.
+
+17
+00:01:24,320 --> 00:01:29,200
+Today we will cover or we will start to cover slips.
+
+18
+00:01:32,820 --> 00:01:34,360
+Slip, this is slip.
+
+19
+00:01:35,880 --> 00:01:37,760
+We will be covered this week.
+
+20
+00:01:39,720 --> 00:01:42,740
+And then next week we will go through columns
+
+21
+00:01:44,720 --> 00:01:48,880
+and then finally your foundation, which is footing.
+
+22
+00:01:50,920 --> 00:01:58,420
+Before starting, I would like to give you an introduction.
+
+23
+00:01:59,540 --> 00:02:01,140
+We have two types of SLAP.
+
+24
+00:02:02,420 --> 00:02:06,280
+And I believe probably you learned this stuff before
+
+25
+00:02:06,800 --> 00:02:09,520
+in structure analysis and the design course.
+
+26
+00:02:10,500 --> 00:02:16,420
+One way SLAP, that means you have SLAP,
+
+27
+00:02:17,440 --> 00:02:29,920
+If you stand here on this slab, the only way for your load to go to support only one way,
+
+28
+00:02:32,700 --> 00:02:42,600
+this direction, because the only support supporting your slab is this wall and that wall.
+
+29
+00:02:44,240 --> 00:02:53,400
+doesn't make any sense that your load will move or will go through this way or this way.
+
+30
+00:02:54,640 --> 00:03:00,460
+Doesn't make any sense because we don't have any support for the slab at this location.
+
+31
+00:03:04,660 --> 00:03:12,159
+This is the first case if we have something called one-way slab. One-way means this direction
+
+32
+00:03:12,160 --> 00:03:21,460
+only. It's only one way, one direction only. We have another case, sometimes, sometimes we have
+
+33
+00:03:21,460 --> 00:03:28,800
+a support here, probably. We have another support here, but the load still moves only in one way.
+
+34
+00:03:30,080 --> 00:03:41,060
+How F, the ratio between the longer, as the longer span to the shorter span, longer span L,
+
+35
+00:03:41,760 --> 00:03:52,420
+shorter span B is equal or greater than 2. Let me explain it here. If you have plan looks like this.
+
+36
+00:03:55,060 --> 00:04:03,720
+We have beam on this side. We have another beam on this side. We have another beam on this side.
+
+37
+00:04:03,920 --> 00:04:11,820
+We have another beam on the side and we have columns at this location, at this location,
+
+38
+00:04:12,840 --> 00:04:22,220
+at this location and this location. So if you are standing here, probably your load will go
+
+39
+00:04:23,500 --> 00:04:32,159
+to this direction. So we will find a support here beam and beam. Probably your load will be moved
+
+40
+00:04:32,160 --> 00:04:37,400
+this direction and this direction because you will find beam here and beam here. However,
+
+41
+00:04:38,100 --> 00:04:44,620
+your load will not move in this direction and this direction. Why? Because the longer
+
+42
+00:04:47,320 --> 00:05:01,160
+span which is L divides shorter span whatever the symbol B is greater than or equal to.
+
+43
+00:05:02,040 --> 00:05:14,740
+However, you have four beams. So if you have a plan of slab between four columns, I'm sorry,
+
+44
+00:05:15,040 --> 00:05:23,420
+four beams, please check the longer divide shorter if it's greater than two or equal,
+
+45
+00:05:23,480 --> 00:05:32,700
+greater than or equal to it's one way one way slip which way shorter way your
+
+46
+00:05:32,800 --> 00:05:39,040
+load will move in the shorter direction shorter direction and the longer
+
+47
+00:05:39,180 --> 00:05:47,240
+direction no we don't have any load will move in this longer direction or I
+
+48
+00:05:47,900 --> 00:05:59,260
+I don't care about it longer and the shorter ratio if you have only one support in this side and another support on the other side.
+
+49
+00:05:59,260 --> 00:06:05,820
+So no way, no way for your loot. We have only one direction, one way.
+
+50
+00:06:06,850 --> 00:06:08,080
+Any questions so far?
+
+51
+00:06:11,760 --> 00:06:18,320
+Any questions so far? Looks good. I think this information are not new. I believe.
+
+52
+00:06:19,400 --> 00:06:26,280
+Okay. The second type of support which you called two way slip.
+
+53
+00:06:27,660 --> 00:06:34,740
+Two way means we have beam here and another beam and the third beam and the fourth beam.
+
+54
+00:06:35,240 --> 00:06:50,360
+We have four. We must have four beams around the slab. And the longer, the shorter the band is less than two.
+
+55
+00:06:51,130 --> 00:06:58,540
+So longer divide shorter smaller than two.
+
+56
+00:07:00,240 --> 00:07:16,480
+That means if you are standing here, your load will move in this direction to be supported by this beam and this beam, and this direction to be supported by this beam and this beam.
+
+57
+00:07:17,000 --> 00:07:24,360
+Guys, you should know, I believe the sequence for this structure is,
+
+58
+00:07:25,760 --> 00:07:32,380
+If you are standing on this floor, your loot, as a life loot, is supported by slab.
+
+59
+00:07:33,920 --> 00:07:39,860
+Everything on the slab, including the own weight of the slab, is supported by beams.
+
+60
+00:07:41,460 --> 00:07:48,400
+These beams are supported by columns. These columns are supported by foundation.
+
+61
+00:07:49,680 --> 00:07:52,220
+So you need to understand this sequence.
+
+62
+00:07:54,060 --> 00:07:55,640
+I believe you understand them.
+
+63
+00:07:56,160 --> 00:08:00,820
+So slabs supported by beams, beams supported by columns,
+
+64
+00:08:01,400 --> 00:08:03,240
+columns supported by foundation.
+
+65
+00:08:04,560 --> 00:08:05,940
+We have two types of slabs.
+
+66
+00:08:06,840 --> 00:08:08,880
+One-way slab, two-way slab.
+
+67
+00:08:10,020 --> 00:08:12,220
+The main difference between both of them,
+
+68
+00:08:12,580 --> 00:08:15,120
+the ratio between longer and shorter.
+
+69
+00:08:16,420 --> 00:08:18,840
+Longer divides shorter in one way,
+
+70
+00:08:19,000 --> 00:08:20,080
+greater than or equal.
+
+71
+00:08:22,759 --> 00:08:25,100
+In two ways, less than two.
+
+72
+00:08:29,840 --> 00:08:32,400
+I'm going to start with one-way slip.
+
+73
+00:08:34,300 --> 00:08:36,240
+Most of the time, this type of slip
+
+74
+00:08:37,419 --> 00:08:42,680
+exists in bridge, garage.
+
+75
+00:08:43,840 --> 00:08:48,840
+this kind of building, we can expect heavy life loot.
+
+76
+00:08:50,380 --> 00:08:53,440
+Heavy life loot, we can expect one way slip.
+
+77
+00:08:54,080 --> 00:08:57,720
+But in office building, hospital,
+
+78
+00:08:58,140 --> 00:09:00,040
+probably hospitals also one way slip.
+
+79
+00:09:01,040 --> 00:09:02,800
+But office building, residential building,
+
+80
+00:09:03,980 --> 00:09:06,360
+the typical building, two way.
+
+81
+00:09:07,860 --> 00:09:13,820
+Anyway, so one way slip, we need first to understand
+
+82
+00:09:13,820 --> 00:09:17,440
+How can I assume the thickness of the slab?
+
+83
+00:09:17,860 --> 00:09:22,620
+Is it four inch, five inch, six, seven, eight, nine, two?
+
+84
+00:09:24,140 --> 00:09:27,220
+So what is the thickness of the slab?
+
+85
+00:09:27,760 --> 00:09:30,120
+ACI give you recommendation.
+
+86
+00:09:31,280 --> 00:09:34,900
+You cannot go below this recommendation,
+
+87
+00:09:35,360 --> 00:09:36,580
+but you can go higher.
+
+88
+00:09:38,880 --> 00:09:41,620
+If you have a slab, simply supported
+
+89
+00:09:43,060 --> 00:09:46,340
+Like this one, only one slab between only two supports.
+
+90
+00:09:47,260 --> 00:09:50,260
+That means your thickness probably,
+
+91
+00:09:51,360 --> 00:09:53,180
+that's band divided 20.
+
+92
+00:09:56,860 --> 00:10:03,020
+So let's assume your span equal four feet.
+
+93
+00:10:05,200 --> 00:10:07,540
+Band means the distance between the support
+
+94
+00:10:07,640 --> 00:10:09,500
+and the support, center to center.
+
+95
+00:10:12,120 --> 00:10:15,980
+That means your expected thickness of this slab will be,
+
+96
+00:10:16,200 --> 00:10:20,440
+this is band four, please multiply it by 12 to be an inch.
+
+97
+00:10:21,160 --> 00:10:22,120
+Divide it 20.
+
+98
+00:10:23,220 --> 00:10:27,820
+That means your expected thickness four times 12,
+
+99
+00:10:28,640 --> 00:10:31,640
+divide 20 equal 2.4.
+
+100
+00:10:31,940 --> 00:10:35,160
+Please don't go below this thickness.
+
+101
+00:10:35,500 --> 00:10:37,680
+So I'm gonna assume it four inch.
+
+102
+00:10:41,480 --> 00:10:46,280
+I'm gonna assume it four inch or three inch probably.
+
+103
+00:10:47,180 --> 00:10:47,480
+Why not?
+
+104
+00:10:49,400 --> 00:10:53,780
+If your slab is one end continuous,
+
+105
+00:10:57,099 --> 00:11:00,020
+from one end only, span divided by 24.
+
+106
+00:11:00,460 --> 00:11:03,920
+Both ends continuous span divided by 28.
+
+107
+00:11:04,420 --> 00:11:08,980
+Can't deliver slab probably,
+
+108
+00:11:09,740 --> 00:11:13,440
+can deliver like balcony or basio or something like this.
+
+109
+00:11:14,100 --> 00:11:15,520
+So span the vital.
+
+110
+00:11:16,360 --> 00:11:23,020
+So this table from ACI 318 for 2018
+
+111
+00:11:24,280 --> 00:11:27,400
+can give you a guide to figure out the thickness
+
+112
+00:11:28,180 --> 00:11:29,700
+of the slip.
+
+113
+00:11:38,820 --> 00:11:43,780
+Okay, just to remind you, anybody can tell me
+
+114
+00:11:44,080 --> 00:11:46,520
+what are the loads on the slab?
+
+115
+00:11:48,240 --> 00:11:51,680
+Go around, watch around you, your floor,
+
+116
+00:11:52,900 --> 00:11:55,960
+if you assume your floor from concrete slab,
+
+117
+00:11:56,740 --> 00:11:57,680
+made from concrete.
+
+118
+00:11:58,600 --> 00:12:01,620
+So we have on weight of the slab.
+
+119
+00:12:02,100 --> 00:12:05,120
+Do you remember how can we calculate
+
+120
+00:12:05,180 --> 00:12:06,680
+the on weight of the slab?
+
+121
+00:12:06,980 --> 00:12:13,700
+Yeah, itch time gamma concrete.
+
+122
+00:12:14,200 --> 00:12:18,740
+I mean here itch slab thickness.
+
+123
+00:12:21,460 --> 00:12:24,760
+Don't forget to divide it by 12 to be in feet.
+
+124
+00:12:25,700 --> 00:12:31,220
+Because gamma concrete is 150-bound Birkeiubic feet.
+
+125
+00:12:31,970 --> 00:12:35,080
+So your units will be consistent.
+
+126
+00:12:36,540 --> 00:12:41,620
+This is the first weight and this on weight can be considered dead loot.
+
+127
+00:12:44,700 --> 00:12:50,080
+Over the slab, we have something called sober-emboised dead loot.
+
+128
+00:12:53,560 --> 00:13:01,500
+Finishing, covering, anything, ceiling, all of this stuff, air condition,
+
+129
+00:13:02,940 --> 00:13:05,920
+all of this stuff can be called sober-emboised dead loot.
+
+130
+00:13:08,400 --> 00:13:12,060
+And this one can be considered deadload also.
+
+131
+00:13:13,700 --> 00:13:15,840
+Then we have life load.
+
+132
+00:13:16,520 --> 00:13:23,120
+Life load for any slab based on the function of this building.
+
+133
+00:13:25,160 --> 00:13:26,560
+And we have a table.
+
+134
+00:13:27,400 --> 00:13:30,720
+We have a PDF file including table.
+
+135
+00:13:30,820 --> 00:13:38,460
+can give you what is the value of life load based on what is the function of the building.
+
+136
+00:13:40,220 --> 00:13:45,460
+So guys finally I can figure out what is the final value for dead load,
+
+137
+00:13:45,940 --> 00:13:51,180
+what is the final value for life load, and I can figure out what is the ultimate load,
+
+138
+00:13:51,180 --> 00:13:57,960
+which is 1.2, dead load, plus 1.6, life load on sleep.
+
+139
+00:14:02,880 --> 00:14:08,780
+I think, yeah, I think we are good
+
+140
+00:14:09,280 --> 00:14:11,720
+because we covered all of this information before.
+
+141
+00:14:13,160 --> 00:14:17,280
+But we need to talk about sleep, not beam.
+
+142
+00:14:17,840 --> 00:14:19,140
+Do you remember? Sleep.
+
+143
+00:14:19,180 --> 00:14:27,240
+Okay, we have a slip between this support and this support with this lens.
+
+144
+00:14:29,680 --> 00:14:37,920
+So guys, I'm gonna assume one strip because your slip is extended in this direction,
+
+145
+00:14:38,120 --> 00:14:47,100
+this direction. So I'm gonna assume one strip. Can you watch this strip? Strip only. One strip
+
+146
+00:14:47,100 --> 00:14:55,060
+from the slab with widths equal unit one feet or 12 inch
+
+147
+00:14:59,920 --> 00:15:10,880
+and assume this strip looks like beam why not we have a beam with cross section which cross section
+
+148
+00:15:11,020 --> 00:15:11,900
+this cross section.
+
+149
+00:15:14,530 --> 00:15:16,680
+Here you go. We have cross section like this.
+
+150
+00:15:18,460 --> 00:15:26,980
+This width 12 inch, this overall depth, which is thickness.
+
+151
+00:15:30,260 --> 00:15:38,340
+That's right. And this beam is supported from this side and this side.
+
+152
+00:15:38,620 --> 00:15:45,340
+so your beam looks like simply supported beam with lens L.
+
+153
+00:15:45,590 --> 00:15:52,040
+So guys it's a slab, yeah I know and this slab is continuous, yeah I know but I assumed
+
+154
+00:15:53,220 --> 00:16:03,300
+I take only one strip, this strip with width equal unit with one feet.
+
+155
+00:16:04,780 --> 00:16:14,700
+That means the cross-section for this strip looks like this cross-section.
+
+156
+00:16:23,820 --> 00:16:32,180
+We have uniform load here. This uniform load is W alternate. Which W alternate? This one.
+
+157
+00:16:35,280 --> 00:16:42,880
+this one without anything no without anything because you need to multiply this one by this width
+
+158
+00:16:43,200 --> 00:16:49,200
+what is the width here is one field so if you multiply w ultimate from this term from this
+
+159
+00:16:49,470 --> 00:16:57,499
+these calculations time one which is the width of the strip it will be the same value we have a beam
+
+160
+00:16:57,500 --> 00:17:05,280
+with uniformity distributed and this beam is simply supported. Your moment will be
+
+161
+00:17:06,760 --> 00:17:10,260
+parabola w l square divided.
+
+162
+00:17:13,470 --> 00:17:20,280
+If you are able to figure out the value of moment, you are done with your design.
+
+163
+00:17:21,579 --> 00:17:28,800
+m-ultimate divide phi b d square, what is the value?
+
+164
+00:17:29,800 --> 00:17:33,720
+Once you get this value, I can figure out
+
+165
+00:17:34,200 --> 00:17:40,860
+rho, which equal area steel, divide b time d.
+
+166
+00:17:43,200 --> 00:17:45,660
+From this relationship, I can figure out
+
+167
+00:17:45,860 --> 00:17:51,420
+that require the area steel, bare foot.
+
+168
+00:17:52,720 --> 00:17:54,380
+Because all of these calculations
+
+169
+00:17:54,700 --> 00:17:59,860
+based on one strip with the unit width, OK?
+
+170
+00:18:00,660 --> 00:18:07,260
+If this width or if this unit width need this area steel--
+
+171
+00:18:07,280 --> 00:18:10,740
+so the naked width will need the same area steel.
+
+172
+00:18:11,300 --> 00:18:14,380
+The naked width will need the same area steel.
+
+173
+00:18:14,780 --> 00:18:19,200
+The next week we need the same area steel, so I am done.
+
+174
+00:18:19,580 --> 00:18:21,300
+I designed my slab.
+
+175
+00:18:22,300 --> 00:18:25,740
+Because designing of a slab means we need to figure out
+
+176
+00:18:26,040 --> 00:18:30,220
+how much steric enforcement required in the mean direction.
+
+177
+00:18:37,660 --> 00:18:40,080
+One of you will ask me, hey, Dr. Aiman,
+
+178
+00:18:40,700 --> 00:18:43,459
+what will happen if this slab
+
+179
+00:18:43,460 --> 00:18:48,700
+is continuous to this side also and we have many supports we have another wall we have another one
+
+180
+00:18:49,180 --> 00:18:58,780
+okay we covered all of this before if you have slab oh we covered it with beam the same concept
+
+181
+00:19:00,120 --> 00:19:00,820
+if you have
+
+182
+00:19:06,100 --> 00:19:17,540
+slab with two span only your moment here negative negative negative negative positive positive
+
+183
+00:19:18,660 --> 00:19:29,280
+W L square divide 24 I'm sorry 14 W L square divide 14 W L square divide 24 W L square divide
+
+184
+00:19:29,620 --> 00:19:39,860
+nine WL square divided 24. If your slab continues for more than two, three or four or five, okay,
+
+185
+00:19:40,580 --> 00:19:46,480
+we have negative, we have negative, we have negative, we have positive, we have positive,
+
+186
+00:19:46,760 --> 00:19:53,200
+this one WL square divided 24, WL square divided 14, W square divided 10,
+
+187
+00:19:54,340 --> 00:20:02,220
+WL square divided 11, WL square divided 16, 16 and so on.
+
+188
+00:20:08,020 --> 00:20:15,580
+So, it's very easy because I'm talking about one-way slip. One-way slip,
+
+189
+00:20:16,560 --> 00:20:21,859
+we need to figure out what is the thickness, we need to figure out what are the weights on this
+
+190
+00:20:21,860 --> 00:20:30,500
+slip we need to take one strip with unit width this strip looks like beam probably
+
+191
+00:20:31,040 --> 00:20:37,640
+this beam is simply supported if you have only two supports only or to stand if
+
+192
+00:20:37,640 --> 00:20:43,620
+you have only three supports or more based on the condition I can figure out
+
+193
+00:20:43,740 --> 00:20:51,179
+the bending moment diagram once you calculate your moment your design is
+
+194
+00:20:51,180 --> 00:21:01,360
+very easy. Find this term, go to table based on f prime c and f yield. Based on this table,
+
+195
+00:21:01,360 --> 00:21:08,820
+I can figure out rho, your rho equal area steel divide bd. So I can figure out this area steel
+
+196
+00:21:08,860 --> 00:21:16,020
+and remember this area steel bear unit width of the slab.
+
+197
+00:21:22,960 --> 00:21:29,700
+Any question? We will go through this example right now, but until this point, do you have any
+
+198
+00:21:29,740 --> 00:21:36,980
+question? One way is to have a piece of cake because you already have a good
+
+199
+00:21:37,680 --> 00:21:39,580
+background about design.
+
+200
+00:21:46,980 --> 00:21:52,840
+Okay, after you are done with your area steel we need to check we have special
+
+201
+00:21:52,980 --> 00:22:03,240
+area steel minimum. Your area steel minimum equal based on what is the type of steel you are using
+
+202
+00:22:03,760 --> 00:22:13,540
+if F yield equal 60,000 or greater your minimum will be greater of this value or this value.
+
+203
+00:22:15,320 --> 00:22:18,600
+Anybody can tell me what is the meaning of area gross here?
+
+204
+00:22:21,620 --> 00:22:40,060
+area gross means gross area of the slab strip. Do you remember? We have a strip with the unit width
+
+205
+00:22:40,900 --> 00:22:51,600
+which is 12 inch and the hole or the overall depth which is h if you multiply this term
+
+206
+00:22:51,600 --> 00:22:56,960
+this turn, this area can be called area gross.
+
+207
+00:23:00,380 --> 00:23:01,200
+We have another area?
+
+208
+00:23:02,220 --> 00:23:07,900
+Yeah, probably here is a cross section of the strip.
+
+209
+00:23:09,140 --> 00:23:15,180
+After you put your reinforcement in this unit width,
+
+210
+00:23:15,840 --> 00:23:18,100
+so that means we have something here called depth.
+
+211
+00:23:20,120 --> 00:23:23,400
+So if you multiply depth bar unit width,
+
+212
+00:23:24,140 --> 00:23:25,980
+it will not be the area gross.
+
+213
+00:23:26,700 --> 00:23:31,600
+But he is talking about area gross means the whole thickness
+
+214
+00:23:32,660 --> 00:23:37,760
+time the width, the whole area can be called area gross.
+
+215
+00:23:38,500 --> 00:23:42,320
+So when you are figuring out the minimum area
+
+216
+00:23:42,600 --> 00:23:46,120
+steel required according to SGR, please,
+
+217
+00:23:46,420 --> 00:23:48,200
+we are using the area gross.
+
+218
+00:23:48,560 --> 00:23:50,620
+the whole cross section area.
+
+219
+00:23:53,820 --> 00:23:57,720
+If you are using the stereo enforcement with 50,000
+
+220
+00:23:58,160 --> 00:23:59,380
+if you yield, for example,
+
+221
+00:24:00,300 --> 00:24:03,700
+that means your area steel minimum will be this one.
+
+222
+00:24:14,380 --> 00:24:15,400
+Guys, I have question.
+
+223
+00:24:18,960 --> 00:24:22,380
+I have question for this one way slip.
+
+224
+00:24:24,820 --> 00:24:26,440
+This one way slip.
+
+225
+00:24:29,540 --> 00:24:35,680
+Anybody can tell me what is the direction of the main stereo enforcement?
+
+226
+00:24:36,320 --> 00:24:41,500
+Your main stereo enforcement that you calculated from here,
+
+227
+00:24:41,740 --> 00:24:44,620
+You already can from your design you calculated area steel.
+
+228
+00:24:45,520 --> 00:24:57,200
+Anybody can tell me this area steel or this steel reinforcement will be placed in this direction or this direction or both of them.
+
+229
+00:24:59,360 --> 00:25:00,640
+My question one more time.
+
+230
+00:25:01,660 --> 00:25:08,900
+You designed this lab and you finally you figured out how much is the reinforcement required by the way.
+
+231
+00:25:09,300 --> 00:25:14,620
+your area steel for example equal five inches square so I can figure out with this five equal
+
+232
+00:25:14,960 --> 00:25:22,700
+how many bars and what is the size of the bar this number and this side will be every one feet
+
+233
+00:25:23,680 --> 00:25:26,820
+because you are talking about unit strip my question is
+
+234
+00:25:29,200 --> 00:25:36,739
+this is theory enforcement will be placed in this direction or this direction or both of them
+
+235
+00:25:55,340 --> 00:25:59,440
+Your answer is correct but wrong at the same time.
+
+236
+00:26:01,060 --> 00:26:09,540
+you designed will be placed in the main direction you are you considered.
+
+237
+00:26:13,299 --> 00:26:17,800
+What you designed will be replaced in this direction.
+
+238
+00:26:19,820 --> 00:26:28,579
+One more time if you are standing here the direction of your load will be moved in this
+
+239
+00:26:28,580 --> 00:26:36,200
+direction and this direction. Direction of lute is the same direction of the mean
+
+240
+00:26:36,320 --> 00:26:44,500
+sterion forcement. Keep it in your mind. If you can't figure out the direction of
+
+241
+00:26:44,600 --> 00:26:51,000
+the lute, your lute will move in this way. This way will be your mean
+
+242
+00:26:51,120 --> 00:26:56,719
+sterion forcement direction. Okay, that means we have only one direction
+
+243
+00:26:56,720 --> 00:27:03,100
+reinforcement I believe for any slab we have mesh yeah you are right also we have
+
+244
+00:27:03,600 --> 00:27:09,200
+stereo enforcement in the other direction but this one is nothing this one
+
+245
+00:27:09,540 --> 00:27:15,180
+cannot support anything but we cannot neglect it we can we have to both
+
+246
+00:27:15,580 --> 00:27:19,940
+stereo enforcement on the other direction but we will both area steel
+
+247
+00:27:26,059 --> 00:27:26,700
+minimum
+
+248
+00:27:26,700 --> 00:27:36,480
+point of view is nothing. This one just for construction. Just to construct mesh. Steel
+
+249
+00:27:36,820 --> 00:27:48,360
+reinforcement mesh. Like this. In one way slab, one side, one direction only is a mean.
+
+250
+00:27:48,920 --> 00:27:55,700
+Area steel mean reinforcement from design, from your calculation. But the other direction
+
+251
+00:27:55,700 --> 00:28:13,180
+direction is minimum. Minimum based on this table. This one. So guys just keep it in your mind. For one
+
+252
+00:28:13,260 --> 00:28:21,299
+way slab we have only one direction, one way, one direction which is mean. Can you go back to this
+
+253
+00:28:22,180 --> 00:28:26,220
+One, one more time. Can you watch?
+
+254
+00:28:29,440 --> 00:28:33,040
+This direction we have intensive reinforcement.
+
+255
+00:28:35,720 --> 00:28:38,600
+The spacing between reinforcement is very small.
+
+256
+00:28:40,120 --> 00:28:45,740
+It's not very small but smaller than the spacing between these reinforcement.
+
+257
+00:28:46,180 --> 00:28:50,460
+Why? Because this direction is the main direction.
+
+258
+00:28:51,620 --> 00:28:54,200
+you can expect more reinforcement.
+
+259
+00:28:55,940 --> 00:28:58,860
+But the other direction is minimum.
+
+260
+00:29:01,000 --> 00:29:02,700
+We cannot expect any load.
+
+261
+00:29:03,620 --> 00:29:05,420
+So but we have to put reinforcement.
+
+262
+00:29:05,760 --> 00:29:07,640
+So this direction will be area steel minimum.
+
+263
+00:29:08,540 --> 00:29:11,440
+But this direction is the area steel from your design.
+
+264
+00:29:13,080 --> 00:29:13,500
+Got it?
+
+265
+00:29:17,740 --> 00:29:18,300
+That makes sense.
+
+266
+00:29:19,140 --> 00:29:30,220
+In a two-way, it's a different scenario. Two-way, we have different. We have in this way and this way and many things.
+
+267
+00:29:30,780 --> 00:29:35,480
+Column the strip, the field the strip. We have many things, we will cover it next meeting.
+
+268
+00:29:36,840 --> 00:29:43,420
+Okay, let's start to do this example. Guys, you are more professional right now.
+
+269
+00:29:43,940 --> 00:29:49,900
+You have more experience. Anything missing in any problem you can assume.
+
+270
+00:29:51,200 --> 00:29:56,640
+Life load not given, you can assume the function of the building. You can go to the table to figure
+
+271
+00:29:56,780 --> 00:30:04,180
+out how much life load. If Brian C is not given, you can assume it 3000, 4000, 5000.
+
+272
+00:30:06,340 --> 00:30:10,700
+If yield is not given, you can assume 850,000, 60,000.
+
+273
+00:30:11,760 --> 00:30:16,300
+So you have more information right now about all of these stuff.
+
+274
+00:30:17,460 --> 00:30:24,820
+Anyway, we have floor system consists of reinforced concrete slab.
+
+275
+00:30:28,020 --> 00:30:31,360
+Built monolithically with concrete beams.
+
+276
+00:30:32,260 --> 00:30:34,640
+This beam is based 8 feet.
+
+277
+00:30:37,000 --> 00:30:39,220
+The beam is bent 20 feet.
+
+278
+00:30:41,880 --> 00:30:43,020
+F-bram C is given.
+
+279
+00:30:44,840 --> 00:30:45,040
+OK.
+
+280
+00:30:46,920 --> 00:30:47,280
+I'm sorry.
+
+281
+00:30:47,840 --> 00:30:51,600
+We will need to change F-bram C to be 4,000, not 4,500,
+
+282
+00:30:52,700 --> 00:30:55,240
+to be more easy, to be able to use tables.
+
+283
+00:30:56,260 --> 00:30:59,280
+Because 4,500, it's not included in the table.
+
+284
+00:31:00,140 --> 00:31:05,700
+Anyway, the surface lute on the slab are soba-embossed,
+
+285
+00:31:05,700 --> 00:31:06,140
+did lute?
+
+286
+00:31:08,020 --> 00:31:08,200
+Given?
+
+287
+00:31:10,400 --> 00:31:11,240
+Life lute is given.
+
+288
+00:31:11,380 --> 00:31:12,140
+OK, that's fine.
+
+289
+00:31:12,540 --> 00:31:15,540
+I don't need to use any table, because life lute is given.
+
+290
+00:31:16,100 --> 00:31:16,300
+OK.
+
+291
+00:31:17,400 --> 00:31:19,460
+We need to figure out the flexural reinforcement
+
+292
+00:31:19,700 --> 00:31:21,280
+required for this slab.
+
+293
+00:31:23,080 --> 00:31:24,080
+Guys, what do you think?
+
+294
+00:31:24,240 --> 00:31:26,060
+What will be the first step?
+
+295
+00:31:27,200 --> 00:31:27,600
+Any answer?
+
+296
+00:31:29,260 --> 00:31:31,400
+What will be the first step in this problem?
+
+297
+00:31:32,200 --> 00:31:32,960
+What do you think?
+
+298
+00:31:40,420 --> 00:31:43,020
+Probably, you will not answer this question
+
+299
+00:31:43,160 --> 00:31:46,980
+because we didn't cover the other type of a slip.
+
+300
+00:31:47,640 --> 00:31:50,960
+But first thing you need to do, check.
+
+301
+00:31:52,900 --> 00:31:55,700
+Is it one-way slip or two-way slip?
+
+302
+00:31:57,380 --> 00:32:04,780
+In your exam, yeah, in your exam, you have a problem with this lab and we need to design it. Okay.
+
+303
+00:32:05,700 --> 00:32:10,720
+Is it one way or two way because two way is a different scenario, different story.
+
+304
+00:32:11,720 --> 00:32:20,020
+So first step, where is the bail or the span or the rectangle of one slave? This one.
+
+305
+00:32:21,380 --> 00:32:27,980
+this one. Okay, can you tell me this one is one way or two way we need to check longer
+
+306
+00:32:30,620 --> 00:32:31,460
+divide shorter.
+
+307
+00:32:34,220 --> 00:32:37,280
+What is the longer distance span 20?
+
+308
+00:32:40,840 --> 00:32:49,600
+What is the shorter 8? What is the value? I think 2 something 2.5.
+
+309
+00:32:51,140 --> 00:32:57,740
+greater than two? Yeah, one way tip.
+
+310
+00:33:01,840 --> 00:33:03,220
+First step, second step.
+
+311
+00:33:07,780 --> 00:33:14,120
+By the way, anybody can tell me where is the mean direction
+
+312
+00:33:16,100 --> 00:33:19,120
+that I expect to put my main stereo enforcement.
+
+313
+00:33:20,320 --> 00:33:24,780
+Yeah, main direction will be in the shorter direction.
+
+314
+00:33:26,280 --> 00:33:27,900
+That means if you are sitting here,
+
+315
+00:33:28,200 --> 00:33:32,380
+your load will go to this side and this side, shorter direction.
+
+316
+00:33:33,450 --> 00:33:41,700
+So I'm going to expect to take strip with unit width 1 feet
+
+317
+00:33:42,490 --> 00:33:43,180
+in this direction.
+
+318
+00:33:48,159 --> 00:33:51,320
+Anyway, okay, let's start to figure out the looting.
+
+319
+00:33:52,179 --> 00:33:56,700
+Oh, before looting, because looting will include
+
+320
+00:33:56,940 --> 00:33:57,780
+on weight of a slab.
+
+321
+00:33:57,820 --> 00:33:59,880
+Do you have the thickness of this slab?
+
+322
+00:34:01,220 --> 00:34:06,320
+No, we need to figure out thickness of this slab
+
+323
+00:34:06,380 --> 00:34:06,920
+before looting.
+
+324
+00:34:11,020 --> 00:34:22,139
+And we have to figure out what is the type of slab one way because based on one way, I can figure out the thickness using this.
+
+325
+00:34:23,659 --> 00:34:27,200
+We have simply supported. I believe your slab is not simply supported.
+
+326
+00:34:29,100 --> 00:34:32,220
+Yeah, we have many supports here, here, here. So we have many.
+
+327
+00:34:34,100 --> 00:34:38,560
+We don't have a continuous from one side. Actually we have continuous from both sides.
+
+328
+00:34:39,000 --> 00:34:49,040
+So this one will be more realistic. Span divide 28. Your thickness span divide 28. Continuous
+
+329
+00:34:49,139 --> 00:34:53,860
+from both sides means this one is continuous from here and here.
+
+330
+00:34:56,899 --> 00:35:04,640
+Your span is 8 feet 8 times 12 divide 28 so probably
+
+331
+00:35:10,000 --> 00:35:21,120
+3.42 inch your number must be an integer number so 4 4 inch would be good but don't be
+
+332
+00:35:22,100 --> 00:35:33,820
+more critical, be more generous. 3.4 I will assume it 5 inch. 4 is good. I didn't say anything.
+
+333
+00:35:34,140 --> 00:35:41,660
+I'm sorry. 3.5 is good also. I cannot say anything. But I don't like to assume a number.
+
+334
+00:35:42,720 --> 00:35:51,140
+And after I did all of my calculations, I found, oh my goodness, I hope to increase it a little bit
+
+335
+00:35:51,860 --> 00:35:58,220
+to make it more easy to be able to find the number in a table. You know what I mean?
+
+336
+00:35:59,360 --> 00:36:09,920
+So from start be more generous. 3.42, okay, 3.5 is good, 4 is good, 4.5 is good, 5 is good.
+
+337
+00:36:10,640 --> 00:36:11,640
+So I'm gonna assume it 5.
+
+338
+00:36:14,320 --> 00:36:15,660
+I'm gonna assume it 5.
+
+339
+00:36:25,560 --> 00:36:34,060
+Yes, but to be more realistic Alex in the short direction, the direction of the mean
+
+340
+00:36:35,360 --> 00:36:39,180
+reinforcement or your strip in the short direction.
+
+341
+00:36:42,880 --> 00:36:50,100
+Nickest step in the solution of this problem is loading.
+
+342
+00:36:53,480 --> 00:36:56,900
+Guys, we have three loads on this slab.
+
+343
+00:36:57,500 --> 00:37:07,420
+First one on weight equal thickness 5 inch divided by 12 to be in feet time 150.
+
+344
+00:37:09,060 --> 00:37:11,880
+second loot which called "Sober"
+
+345
+00:37:14,060 --> 00:37:14,740
+"Emboiled"
+
+346
+00:37:17,140 --> 00:37:20,040
+"Dead" loot, I think it's given
+
+347
+00:37:21,220 --> 00:37:22,840
+how much? 40
+
+348
+00:37:25,680 --> 00:37:27,600
+bound the square feet
+
+349
+00:37:28,520 --> 00:37:31,540
+life loot is given, you are lucky
+
+350
+00:37:32,570 --> 00:37:36,739
+so we don't need to open the table to figure out the life loot, it's given
+
+351
+00:37:40,840 --> 00:37:51,760
+So we need to figure out the own weight. It will be 5 divided by 12 times 150 equals 62.5.
+
+352
+00:37:52,220 --> 00:38:01,320
+So guys we need to figure out w ultimate which equaled 1.2 dead load plus 1.6 life load.
+
+353
+00:38:02,540 --> 00:38:11,900
+1.2 did loot guys don't forget this one is did loot this one is did loot so I
+
+354
+00:38:11,900 --> 00:38:26,700
+need to put 62.5 plus 40 and 1.6 time live loot 85 your final answer will be
+
+355
+00:38:37,400 --> 00:38:42,720
+259 bound pair square foot.
+
+356
+00:38:46,579 --> 00:38:47,160
+Let's make easy.
+
+357
+00:38:49,900 --> 00:38:58,740
+Then I'm going to assume one strip with unit width.
+
+358
+00:39:02,580 --> 00:39:09,880
+So can you tell me if you take a strip in this slab, your strip will be simply supported?
+
+359
+00:39:12,420 --> 00:39:22,740
+be two span only or I don't know it's continuous so I believe it's continuous
+
+360
+00:39:23,260 --> 00:39:28,860
+because this one is extended in this way and extended on the other way so we have
+
+361
+00:39:28,860 --> 00:39:39,059
+a span supported here here here so I believe we have negative moment negative
+
+362
+00:39:39,060 --> 00:39:49,980
+moment like this and the positive and positive how much w l square divided 16 w l square
+
+363
+00:39:50,120 --> 00:39:57,740
+divided 16 w l square divided 11 w l square divided 11 w l square divided. So I forget
+
+364
+00:39:57,880 --> 00:39:59,560
+anything at the beginning at the end.
+
+365
+00:40:04,080 --> 00:40:06,420
+So can you tell me what is the value of your moment?
+
+366
+00:40:08,040 --> 00:40:11,540
+259 times L, what is the spin?
+
+367
+00:40:15,960 --> 00:40:18,000
+Eight, it could be eight, yeah.
+
+368
+00:40:19,200 --> 00:40:22,160
+Eight, span from here to here is eight.
+
+369
+00:40:24,280 --> 00:40:26,540
+Eight feet, eight feet, eight feet.
+
+370
+00:40:26,660 --> 00:40:28,460
+So I can figure out the value of this moment.
+
+371
+00:40:29,580 --> 00:40:34,160
+WL square phi is 24 divide 16.
+
+372
+00:40:34,980 --> 00:40:39,979
+This value is 1,336 bound foot.
+
+373
+00:40:42,400 --> 00:40:43,380
+This value will be
+
+374
+00:40:52,180 --> 00:40:56,780
+1,506 bound foot.
+
+375
+00:40:59,300 --> 00:41:12,720
+any questions so far guys do you have any questions so far okay looks good just to remind you for
+
+376
+00:41:12,780 --> 00:41:20,240
+something which is fatal for me I don't like to see any of you doing this fatal mistake
+
+377
+00:41:21,640 --> 00:41:26,040
+Here is the slab and here is the beams.
+
+378
+00:41:33,700 --> 00:41:34,460
+That's right.
+
+379
+00:41:36,920 --> 00:41:41,520
+As given here, we have a stereo enforcement at the top.
+
+380
+00:41:42,750 --> 00:41:44,640
+We have a stereo enforcement at the bottom.
+
+381
+00:41:45,460 --> 00:41:48,460
+Do you remember how can we figure out
+
+382
+00:41:48,660 --> 00:41:50,760
+where we can put the steering forcement?
+
+383
+00:41:51,780 --> 00:41:53,080
+Do you remember something like this?
+
+384
+00:41:53,740 --> 00:41:55,500
+Here is the center line of the slab.
+
+385
+00:42:00,420 --> 00:42:04,160
+Okay, between this support
+
+386
+00:42:04,860 --> 00:42:08,100
+and this support, you're bending moment at the top.
+
+387
+00:42:08,980 --> 00:42:12,200
+So compression at the top, tension at the bottom.
+
+388
+00:42:12,680 --> 00:42:14,900
+So we can expect the steering forcement here
+
+389
+00:42:14,900 --> 00:42:18,800
+at the bottom, at the bottom, at the bottom.
+
+390
+00:42:21,840 --> 00:42:26,200
+Add support, your bending moment below the beam,
+
+391
+00:42:26,340 --> 00:42:28,640
+that means compression at bottom,
+
+392
+00:42:29,000 --> 00:42:30,600
+that means tension at the top.
+
+393
+00:42:30,980 --> 00:42:34,140
+So we have tension here, we have tension here,
+
+394
+00:42:35,180 --> 00:42:36,080
+we have tension here.
+
+395
+00:42:40,760 --> 00:42:41,220
+Do you agree?
+
+396
+00:42:46,940 --> 00:42:47,880
+Thank you.
+
+397
+00:42:50,540 --> 00:42:53,120
+Your answer Oliver is very good.
+
+398
+00:42:54,040 --> 00:42:54,200
+Excellent.
+
+399
+00:42:55,160 --> 00:42:56,480
+Wherever the tension.
+
+400
+00:42:58,280 --> 00:43:02,460
+Once you found the tension side, put your steering enforcement.
+
+401
+00:43:03,000 --> 00:43:05,060
+If you didn't, failure will happen.
+
+402
+00:43:06,600 --> 00:43:07,240
+Tension.
+
+403
+00:43:08,420 --> 00:43:09,920
+Look to tension.
+
+404
+00:43:11,100 --> 00:43:17,040
+moment is drawn on the compression side that means the other side will be the tension side.
+
+405
+00:43:18,580 --> 00:43:29,680
+Based on this number, okay let's try first one, this number 1036. M ultimate divide phi bd square
+
+406
+00:43:30,220 --> 00:43:34,780
+Equal 1036 this one in bound.
+
+407
+00:43:36,599 --> 00:43:39,020
+So I'm gonna multiply it by 12 only.
+
+408
+00:43:41,960 --> 00:43:49,000
+Faye 0.9 B what is the width of your strip 12 inch one feet.
+
+409
+00:43:50,200 --> 00:43:50,920
+What is the depth?
+
+410
+00:43:55,660 --> 00:44:04,560
+hey don't say 5 inch guys 5 inch is a overall thickness but i'm talking about depth so i'm
+
+411
+00:44:04,600 --> 00:44:17,500
+gonna assume 1.5 inch cover then the depth will be 5 minus 1.5 it will be 3.5 inch
+
+412
+00:44:18,940 --> 00:44:21,540
+Do you remember in the beam, do you remember beams?
+
+413
+00:44:23,120 --> 00:44:28,280
+I'm going to assume this one 2.5. In the slab it will be smaller.
+
+414
+00:44:29,420 --> 00:44:35,940
+There is a steering enforcement, so this one will be 1.5. So the remaining distance will be depth.
+
+415
+00:44:39,340 --> 00:44:41,760
+So this is the slab, this is the beam.
+
+416
+00:44:47,100 --> 00:44:56,660
+So your depth is 3.5 square, don't forget square. Your answer will be
+
+417
+00:45:07,540 --> 00:45:16,280
+93.97. I'm gonna open my table because I have something here very interesting to you guys.
+
+418
+00:45:18,700 --> 00:45:36,620
+What is the value of f prime c for thousand, 60,000. Okay, 4,000, 40,000, 50,000, 60,000,
+
+419
+00:45:38,320 --> 00:45:46,820
+and the force house. Yeah, here you go. This one and this one. What is the value of rho?
+
+420
+00:45:47,420 --> 00:45:52,000
+I'm sorry, what is the value of this expression? 93. Where is 93?
+
+421
+00:45:57,580 --> 00:46:01,900
+Okay, so it looks like very, very, very small. So I'm going to assume we are here.
+
+422
+00:46:03,820 --> 00:46:14,520
+So your row will be 0.0018. We don't have any values smaller than 106 and your value is 93.
+
+423
+00:46:14,750 --> 00:46:26,120
+So I'm going to use this one 0.0018. So your row equal 0.0018. This value equal area steel
+
+424
+00:46:26,740 --> 00:46:36,660
+divide b time d. So equal area steel your b is 12, one unit you width d 3.5 inch. So I can figure
+
+425
+00:46:36,820 --> 00:46:52,680
+out the value of area steel this value will be 0.0018 times 12 times 3.5 equal 0.0756.
+
+426
+00:46:55,900 --> 00:46:57,480
+inch square
+
+427
+00:46:59,620 --> 00:47:00,980
+bare foot
+
+428
+00:47:06,499 --> 00:47:10,840
+Why bare foot? Because you are talking about one strip
+
+429
+00:47:12,940 --> 00:47:13,100
+with
+
+430
+00:47:14,920 --> 00:47:16,580
+unit width
+
+431
+00:47:21,379 --> 00:47:22,240
+We need to check
+
+432
+00:47:25,060 --> 00:47:39,160
+area steel minimum that's right we need to check area steel minimum go back to this table are
+
+433
+00:47:40,260 --> 00:47:49,320
+you here or here i believe your stereo enforcement with f-heels 60 000 so we are here so i'm gonna use
+
+434
+00:47:50,340 --> 00:47:53,940
+this expression or this expression, which one is greater?
+
+435
+00:47:55,380 --> 00:48:00,620
+Let's start the first one, 0.0018 times 60,000,
+
+436
+00:48:02,220 --> 00:48:04,320
+divide 60,000, oh my goodness.
+
+437
+00:48:07,260 --> 00:48:08,980
+It will be 0.0018.
+
+438
+00:48:09,820 --> 00:48:11,400
+This one is 0.0014.
+
+439
+00:48:12,160 --> 00:48:12,900
+Which one is bigger?
+
+440
+00:48:13,460 --> 00:48:16,660
+This one, so the area still minimum,
+
+441
+00:48:16,900 --> 00:48:17,360
+You are lucky.
+
+442
+00:48:18,340 --> 00:48:21,580
+Equal 0.0018 area gross.
+
+443
+00:48:23,660 --> 00:48:26,540
+One of you will say, "Hey, hey, it's the same value."
+
+444
+00:48:26,540 --> 00:48:28,120
+No, it's not the same value.
+
+445
+00:48:29,440 --> 00:48:33,180
+This one 0.0018 type area gross,
+
+446
+00:48:34,240 --> 00:48:36,220
+which is 12 inch width,
+
+447
+00:48:36,940 --> 00:48:40,200
+times the whole thickness, five inch.
+
+448
+00:48:42,620 --> 00:48:43,600
+But for this one,
+
+449
+00:48:43,780 --> 00:48:53,840
+rho equal area steel divide b time depth this one from a table so I can figure out this area steel
+
+450
+00:48:54,240 --> 00:49:01,380
+for area steel minimum okay I got this value that's fine but multiplied by area gross so your area
+
+451
+00:49:01,380 --> 00:49:10,800
+area steel minimum will be 0.108 inches square barefoot.
+
+452
+00:49:12,390 --> 00:49:16,760
+Do you think I'm going to use the design value or the minimum value?
+
+453
+00:49:17,290 --> 00:49:18,240
+Which one is bigger?
+
+454
+00:49:20,020 --> 00:49:28,200
+So I'm going to use area steel equal 0.108 inches square barefoot.
+
+455
+00:49:34,580 --> 00:49:35,620
+Any question for this point?
+
+456
+00:49:37,530 --> 00:49:47,780
+Guys, just to remind you, this table using area gross, which is the overall depth, time,
+
+457
+00:49:48,030 --> 00:49:49,280
+width of the strip.
+
+458
+00:49:51,180 --> 00:49:59,320
+based on your calculations, M ultimate divided by FABD square will give you a value for rho
+
+459
+00:49:59,420 --> 00:50:09,040
+from a table. This value of rho equal area steel divided by B times depth. And I can get
+
+460
+00:50:09,070 --> 00:50:21,160
+the area steel and I can get the area steel minimum, I will use the maximum value. Any
+
+461
+00:50:21,160 --> 00:50:34,900
+I would like to convert this value of area steel to how many bars and what is the size of this bar and this reinforcement bare foot.
+
+462
+00:50:36,840 --> 00:50:37,220
+That's right.
+
+463
+00:50:47,480 --> 00:50:51,320
+Guys, can you look to this table?
+
+464
+00:50:57,240 --> 00:50:57,660
+Which one?
+
+465
+00:50:59,260 --> 00:51:00,760
+This one? Yeah.
+
+466
+00:51:01,800 --> 00:51:02,780
+Table A6.
+
+467
+00:51:07,640 --> 00:51:10,500
+Area of bars in a slab barefoot.
+
+468
+00:51:14,820 --> 00:51:18,080
+Can you remind me what is the area still? Point one zero eight.
+
+469
+00:51:29,960 --> 00:51:34,520
+I think probably you are here.
+
+470
+00:51:39,160 --> 00:51:39,860
+That's right
+
+471
+00:51:41,620 --> 00:51:41,880
+point
+
+472
+00:51:43,220 --> 00:51:43,740
+108
+
+473
+00:51:45,140 --> 00:51:50,500
+So we don't have this number, but probably point 11 what we will be good. That's that's right
+
+474
+00:51:51,320 --> 00:51:56,700
+Okay, you are done. What you mean by you are done. I am gonna use
+
+475
+00:51:59,500 --> 00:52:01,060
+Bar number three
+
+476
+00:52:05,119 --> 00:52:06,720
+Every 12 inch
+
+477
+00:52:06,720 --> 00:52:23,060
+inch. Every 12 inch, I have to put a bar number three in this slab. So here is the number
+
+478
+00:52:23,280 --> 00:52:33,960
+as a size of the bar. Here is the spacing between these bars. Here is the area steel
+
+479
+00:52:35,080 --> 00:52:44,900
+barefoot. Based on the area steel, barefoot, you got it. I will select my number and this
+
+480
+00:52:45,000 --> 00:52:56,020
+number will tell you what is the size and what is the spacing between bars. Guys, the
+
+481
+00:52:56,100 --> 00:53:02,800
+final answer to design a slab, I need to figure out what is the spacing between this bar and
+
+482
+00:53:02,800 --> 00:53:10,920
+is bar. What is the spacing? What is the spacing and what is the size? This table can help you
+
+483
+00:53:11,260 --> 00:53:19,840
+to do so. Table A6, area of bars in a slab, can tell you what is the size, what is the spacing
+
+484
+00:53:20,560 --> 00:53:27,180
+based on what is the area still you need. So in our case, 0.108, we don't have this number,
+
+485
+00:53:27,280 --> 00:53:29,300
+So I am going to assume it 0.11.
+
+486
+00:53:32,540 --> 00:53:37,820
+What one one student will ask me, hey, okay, if I assumed it
+
+487
+00:53:38,720 --> 00:53:43,520
+point 13, and I'm going to use number three every 10 inch, you
+
+488
+00:53:43,540 --> 00:53:48,100
+are right. You are more safe. You are more safe, you have more
+
+489
+00:53:48,160 --> 00:53:57,260
+money. So it was bent to for this material, you are good. But
+
+490
+00:53:57,260 --> 00:54:01,080
+also but cost will be higher. You know what I mean?
+
+491
+00:54:07,040 --> 00:54:13,920
+Out there, Eamon? Yes. So what we found the number three rebar over 12 inch.
+
+492
+00:54:14,640 --> 00:54:20,880
+I know earlier we said that's the minimum but isn't it actually that's the maximum spacing
+
+493
+00:54:21,060 --> 00:54:27,240
+or is that the minimum spacing? This is the maximum spacing. Okay, maximum spacing. So I
+
+494
+00:54:27,240 --> 00:54:29,200
+I can't do...
+
+495
+00:54:29,860 --> 00:54:34,960
+You cannot go more than this 12 inch and the number 3.
+
+496
+00:54:35,360 --> 00:54:37,980
+This is the minimum bar size, this is the maximum spacing.
+
+497
+00:54:40,060 --> 00:54:40,280
+Okay.
+
+498
+00:54:41,700 --> 00:54:45,180
+Yeah, that's fine. That's happened all the time, most of the time.
+
+499
+00:54:45,320 --> 00:54:52,120
+For one-way slab, your load is not higher enough, so we can expect minimum.
+
+500
+00:54:54,040 --> 00:54:57,460
+But if you have more life load, if you have more sober
+
+501
+00:54:57,560 --> 00:55:01,880
+and both lose, if you have bigger spans,
+
+502
+00:55:02,640 --> 00:55:05,980
+probably this span is 10 or 12 or 15.
+
+503
+00:55:06,800 --> 00:55:08,240
+So you can expect more moment.
+
+504
+00:55:08,620 --> 00:55:10,240
+So you can expect more reinforcement.
+
+505
+00:55:12,060 --> 00:55:16,340
+But this table, keep it in your mind in designing a slab.
+
+506
+00:55:17,220 --> 00:55:20,900
+If you are designing a slab, we are going to use this table.
+
+507
+00:55:21,040 --> 00:55:23,580
+Also, if you are designing footing,
+
+508
+00:55:25,300 --> 00:55:27,880
+actually if you are designing any structure
+
+509
+00:55:29,300 --> 00:55:33,440
+and your reinforcement is putting with spacing.
+
+510
+00:55:36,240 --> 00:55:38,780
+For beam, no, we don't care about spacing,
+
+511
+00:55:38,940 --> 00:55:40,960
+we need number, how many bars?
+
+512
+00:55:42,380 --> 00:55:44,340
+But if you are talking about the spacing,
+
+513
+00:55:44,500 --> 00:55:46,100
+what is the spacing between bars,
+
+514
+00:55:46,720 --> 00:55:52,640
+like footing, slab, raft, all of this stuff,
+
+515
+00:55:52,960 --> 00:55:54,820
+we will use this table all the time.
+
+516
+00:55:58,760 --> 00:55:59,580
+Any question guys?
+
+517
+00:56:01,240 --> 00:56:02,260
+Yeah, go ahead Alex.
+
+518
+00:56:25,859 --> 00:56:28,380
+What I did, this reinforcement,
+
+519
+00:56:30,220 --> 00:56:46,420
+this reinforcement which is number three at 12 inch for moment 1003 36 which is here so your
+
+520
+00:56:46,420 --> 00:57:02,120
+reinforcement is number 3 at 12, number 3 at 12, number 3 at 12 inch, number 3 at 12 inch.
+
+521
+00:57:02,360 --> 00:57:08,720
+One moment here the same like here the same like here the same like here we need to repeat all of
+
+522
+00:57:08,720 --> 00:57:21,820
+this stuff one more time for the moment at supports which is 1506 this value can tell
+
+523
+00:57:21,960 --> 00:57:31,220
+you how much is theory enforcement here and here and here like we did with beams do you
+
+524
+00:57:31,240 --> 00:57:39,680
+remember we need to calculate one more time M ultimate 1,506 divide
+
+525
+00:57:39,960 --> 00:57:47,100
+phi Bd square and define another row and define another area steel and the
+
+526
+00:57:47,140 --> 00:57:51,700
+check it with area steel minimum to figure out which one I'm gonna use and
+
+527
+00:57:51,780 --> 00:57:58,480
+then go to the table to figure out what is the size and what is the space
+
+528
+00:57:58,480 --> 00:58:01,320
+This is the reinforcement will be.
+
+529
+00:58:02,480 --> 00:58:06,520
+At this location at this location and this location.
+
+530
+00:58:07,200 --> 00:58:09,060
+At the same location of the moment.
+
+531
+00:58:10,800 --> 00:58:11,300
+Okay, Alex.
+

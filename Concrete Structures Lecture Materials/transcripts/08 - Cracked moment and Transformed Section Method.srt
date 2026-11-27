@@ -1,0 +1,2032 @@
+1
+00:00:03,640 --> 00:00:10,260
+So guys, last meeting, we started how to figure out the first stage of your
+
+2
+00:00:11,000 --> 00:00:21,380
+concrete beam. If you have a beam, and this beam has dimensions b, h,
+
+3
+00:00:23,080 --> 00:00:25,780
+and I can figure out the value of m, k,
+
+4
+00:00:29,680 --> 00:00:34,500
+If you have a moment, this moment will create tension in one side.
+
+5
+00:00:35,760 --> 00:00:42,880
+Keep this scenario in your mind all the time. How your reinforced concrete beam behave.
+
+6
+00:00:44,980 --> 00:00:49,520
+So if you have a moment on the beam, we have tension in one side,
+
+7
+00:00:49,820 --> 00:00:53,460
+we have compression on the other side, we have neutral axis in between.
+
+8
+00:00:56,320 --> 00:01:03,400
+Since concrete at the bottom under tension, if this tension is still smaller than or equal,
+
+9
+00:01:03,770 --> 00:01:11,640
+a value is called FR, concrete is still good. And this FR, which is a smaller ratio,
+
+10
+00:01:12,580 --> 00:01:19,080
+equals 7.5 square root f prime c according to ACI.
+
+11
+00:01:22,840 --> 00:01:37,480
+So at the time this concrete just before cracking or just before the tension is almost equal if
+
+12
+00:01:37,660 --> 00:01:44,740
+r at this moment the oblide moment can be called in the crack and it can be figured out using
+
+13
+00:01:44,800 --> 00:01:58,120
+this expression. If you remember if r time i*g*/y*b, the value of if r is given according to ACi
+
+14
+00:01:58,480 --> 00:02:14,380
+like this, i*g*=moment of inertia. If your cross section is rectangle, it will be b*h^3/12.
+
+15
+00:02:14,480 --> 00:02:16,620
+if it's a rectangle cross-section.
+
+16
+00:02:17,620 --> 00:02:20,480
+If it's something else, no, we have different technique
+
+17
+00:02:20,620 --> 00:02:21,860
+to figure out the eye gross,
+
+18
+00:02:22,140 --> 00:02:25,180
+and this technique you learned it in engineering mechanics.
+
+19
+00:02:25,420 --> 00:02:27,100
+I will remind you with it.
+
+20
+00:02:28,319 --> 00:02:31,580
+YB is the distance between the neutral axis
+
+21
+00:02:31,780 --> 00:02:36,120
+or the centroid and the bottom of your cross-section.
+
+22
+00:02:36,520 --> 00:02:37,220
+This is YB.
+
+23
+00:02:39,480 --> 00:02:42,900
+And we did one example, last meeting.
+
+24
+00:02:48,780 --> 00:02:51,500
+And we figured out the value of M crack.
+
+25
+00:02:51,800 --> 00:02:53,560
+If you have a steel reinforcement
+
+26
+00:02:54,820 --> 00:03:00,700
+and you are looking for M crack, please ignore it.
+
+27
+00:03:03,660 --> 00:03:06,880
+Everybody in this room should be aware
+
+28
+00:03:07,340 --> 00:03:10,999
+why we ignored steel reinforcement
+
+29
+00:03:11,000 --> 00:03:19,040
+because the tension at the bottom of the cross section concrete still good.
+
+30
+00:03:20,340 --> 00:03:28,580
+Concrete can support this tension. So we don't need stereo enforcement.
+
+31
+00:03:28,880 --> 00:03:32,520
+This is the main reason why we can ignore it.
+
+32
+00:03:35,080 --> 00:03:43,740
+In this example, we are given a cross section looks like t-section, t-section, not rectangle.
+
+33
+00:03:45,360 --> 00:03:52,180
+And we would like to figure out the value of m-crack. What is the value of cracking moment?
+
+34
+00:03:56,360 --> 00:04:18,540
+okay, your m/c = fr/i*/yb, the value of fr is very easy, 7.5 square root f'c,
+
+35
+00:04:19,359 --> 00:04:26,340
+I think f'c is given compressive strengths of concrete and we have a long story behind
+
+36
+00:04:26,340 --> 00:04:36,920
+this number. So equal 7.5 square root 3000 psi I can figure out the value of M if R is
+
+37
+00:04:36,930 --> 00:04:54,120
+the number 7.5 times square root of 3000. I got a number here 410.8 psi. Unfortunately,
+
+38
+00:04:54,540 --> 00:05:01,640
+To figure out the value of I cross and YB, we must figure out where is the centroid of this cross section.
+
+39
+00:05:02,760 --> 00:05:08,080
+If your cross section is rectangular, your centroid at the mid height.
+
+40
+00:05:09,280 --> 00:05:20,840
+So I can say this is YB, this is my neutral axis or X axis, I can figure out the value of I cross equal pH cubed by 12.
+
+41
+00:05:21,240 --> 00:05:30,840
+easy, easy case. And this YB equal H divided by 2. Where H is a total height. This is easy.
+
+42
+00:05:31,980 --> 00:05:40,740
+But if your cross section is rectangle, I'm sorry, t-section, where is the centroid?
+
+43
+00:05:41,700 --> 00:05:49,559
+I cannot figure this out until I can do some calculations. Just a reminder for something
+
+44
+00:05:49,560 --> 00:05:52,560
+you learned during engineering mechanics.
+
+45
+00:05:53,560 --> 00:05:55,900
+I will divide this cross-section to two parts,
+
+46
+00:05:56,340 --> 00:05:58,100
+the first part, part number one,
+
+47
+00:05:58,500 --> 00:06:00,320
+and the second part, part number two.
+
+48
+00:06:01,420 --> 00:06:03,700
+The centroid for the first part is here,
+
+49
+00:06:03,700 --> 00:06:06,000
+the centroid of the second part is here,
+
+50
+00:06:06,100 --> 00:06:08,140
+and I'm gonna assume a riff runs
+
+51
+00:06:08,480 --> 00:06:10,120
+at the bottom of the cross-section.
+
+52
+00:06:12,700 --> 00:06:13,420
+If you would like,
+
+53
+00:06:15,380 --> 00:06:18,180
+if you would like your Y bar,
+
+54
+00:06:20,540 --> 00:06:29,260
+which is the height of the centroid equal area of the first part do you
+
+55
+00:06:29,260 --> 00:06:38,320
+remember what are the dimensions 60 5 60 5
+
+56
+00:06:43,960 --> 00:06:56,740
+27th. Yes. So the area of the first part will be 300. What is the vertical distance between
+
+57
+00:06:57,380 --> 00:07:06,140
+the centroid of this part and your reference? The vertical distance will be 29.5.
+
+58
+00:07:09,920 --> 00:07:17,640
+Guys, this is area, this is y distance. The area equals 60 times 5.
+
+59
+00:07:19,080 --> 00:07:25,380
+The y distance is the distance between the centroid of this part and your reference at the
+
+60
+00:07:25,440 --> 00:07:35,679
+bottom. This is y number 1 and this is area number 1. Plus, what is the area of the second
+
+61
+00:07:35,680 --> 00:07:44,120
+the second part, this distance is given I think equal 12. So the area of the second
+
+62
+00:07:44,260 --> 00:07:53,980
+part will be 12 times 27 equal 324. What is the vertical distance between
+
+63
+00:07:54,260 --> 00:08:01,239
+centroid of this part and your reference? This is area number 2 and this is why number
+
+64
+00:08:01,240 --> 00:08:12,140
+I think it will behave 27, 13.5 divided by the total area 300 plus 324.
+
+65
+00:08:13,700 --> 00:08:24,240
+So you can find what is the value of y prime, y prime equals summation of all area time y divided by summation area.
+
+66
+00:08:25,080 --> 00:08:36,159
+So since this cross section has two parts, so area 1, y1 plus area 2, y2 divided by area 1 plus area 2.
+
+67
+00:08:38,979 --> 00:08:39,620
+That makes sense.
+
+68
+00:08:40,300 --> 00:08:52,480
+So the y distance will be 300 times 29.5 plus 324 times 13.5
+
+69
+00:08:53,200 --> 00:08:57,160
+divided by 300 plus 324.
+
+70
+00:08:57,920 --> 00:08:59,780
+I got 21.2.
+
+71
+00:09:03,480 --> 00:09:05,900
+So at distance from this reference,
+
+72
+00:09:06,160 --> 00:09:09,720
+which is at the bottom, at distance 21.2,
+
+73
+00:09:13,320 --> 00:09:17,620
+I can locate my neutral axis.
+
+74
+00:09:20,360 --> 00:09:22,180
+Or I can locate my centroid.
+
+75
+00:09:25,080 --> 00:09:30,079
+So your centroid at distance 21.2,
+
+76
+00:09:31,360 --> 00:09:39,000
+I can put here the x-axis and here is y-axis and here is my centroid.
+
+77
+00:09:42,400 --> 00:09:42,900
+Does that make sense?
+
+78
+00:09:44,880 --> 00:09:45,480
+That makes sense.
+
+79
+00:09:46,020 --> 00:09:53,220
+If your cross-section is not a rectangle and your centroid is unknown at the mid-height,
+
+80
+00:09:54,260 --> 00:09:57,940
+if you have something else, unfortunately, we need to locate this centroid.
+
+81
+00:09:59,120 --> 00:10:00,680
+It's a very easy step.
+
+82
+00:10:00,940 --> 00:10:02,660
+You learn this in engineering mechanics.
+
+83
+00:10:03,260 --> 00:10:05,100
+I will assume a reference at the bottom.
+
+84
+00:10:05,580 --> 00:10:07,980
+I will divide my cross section to different parts.
+
+85
+00:10:08,600 --> 00:10:10,040
+One, two, three, four, whatever.
+
+86
+00:10:10,780 --> 00:10:14,960
+And I will multiply the numerator will be area time y.
+
+87
+00:10:15,440 --> 00:10:16,500
+Area time y.
+
+88
+00:10:16,720 --> 00:10:17,600
+What do you mean by area?
+
+89
+00:10:17,700 --> 00:10:19,200
+Okay, area is length by width.
+
+90
+00:10:19,860 --> 00:10:20,500
+What is the y?
+
+91
+00:10:20,700 --> 00:10:23,500
+Y is the vertical distance between the centroid
+
+92
+00:10:23,680 --> 00:10:26,600
+of this part and your reference at the bottom.
+
+93
+00:10:29,300 --> 00:10:35,100
+divided by the total area for all of them, I can figure out the height of the centroid.
+
+94
+00:10:37,020 --> 00:10:48,100
+Keep in your mind, if you have a rectangle with B and H and your centroid or your x-axis
+
+95
+00:10:48,300 --> 00:10:50,960
+Bathin through the centroid of this rectangle,
+
+96
+00:10:51,900 --> 00:10:55,800
+your i equal be h cubed divided 12.
+
+97
+00:10:56,240 --> 00:10:56,700
+That's it.
+
+98
+00:10:57,680 --> 00:11:01,900
+But if you have a rectangle with b and h,
+
+99
+00:11:02,840 --> 00:11:04,840
+and your x-axis is here,
+
+100
+00:11:05,480 --> 00:11:09,580
+that means your x-axis does not bath in the through
+
+101
+00:11:10,720 --> 00:11:14,760
+or is not bath in the through the centroid of this rectangle.
+
+102
+00:11:15,940 --> 00:11:21,180
+That means your i will be b h cubed divided by 12 plus something.
+
+103
+00:11:22,240 --> 00:11:24,420
+Area time distance is square.
+
+104
+00:11:25,160 --> 00:11:28,200
+And the distance is the distance between the centroid
+
+105
+00:11:28,200 --> 00:11:31,180
+of this part and your actual x-axis.
+
+106
+00:11:32,400 --> 00:11:34,620
+And the area is the area of this part.
+
+107
+00:11:37,600 --> 00:11:41,060
+Keep in your mind these two situations.
+
+108
+00:11:45,660 --> 00:11:51,620
+In the example that we covered before, the centroid and your x-axis
+
+109
+00:11:52,340 --> 00:11:55,220
+baffling through the centroid of this rectangle.
+
+110
+00:11:56,660 --> 00:12:00,120
+So the value of I_gross_equal be h_e^3 divided by 12, that's it.
+
+111
+00:12:01,740 --> 00:12:10,700
+But right now, we have this part with this centroid.
+
+112
+00:12:11,440 --> 00:12:13,700
+Unfortunately, your x-axis is here.
+
+113
+00:12:16,440 --> 00:12:17,180
+That's right.
+
+114
+00:12:17,800 --> 00:12:19,100
+So we have distance in between.
+
+115
+00:12:20,340 --> 00:12:27,720
+For the second abort, this one, the centroid is here.
+
+116
+00:12:28,180 --> 00:12:30,860
+Unfortunately, your x-axis is located here.
+
+117
+00:12:31,100 --> 00:12:32,380
+So we have distance in between.
+
+118
+00:12:32,880 --> 00:12:35,120
+So we have to use this expression.
+
+119
+00:12:38,440 --> 00:12:38,980
+That makes sense.
+
+120
+00:12:39,640 --> 00:12:42,100
+So if you would like to figure out I cross,
+
+121
+00:12:43,820 --> 00:12:49,280
+I first located where is the x-axis. How using this technique?
+
+122
+00:12:52,560 --> 00:12:59,360
+Okay, second if you would like to figure out the i-gross, okay for the first part this part
+
+123
+00:13:03,600 --> 00:13:10,500
+it will be secacity time 5 cube divided by 12. This is b h cube divided by 12.
+
+124
+00:13:11,340 --> 00:13:16,880
+I need to add the area of this part 300 times the distance square.
+
+125
+00:13:19,100 --> 00:13:25,720
+What is the vertical distance between the centroid of this part and your x-axis?
+
+126
+00:13:26,040 --> 00:13:31,080
+Anybody can tell me what is the y-distance here? Any help?
+
+127
+00:13:37,500 --> 00:13:44,820
+okay i'll leave you now eight if you did if you are not agree with me let me know eight
+
+128
+00:13:45,820 --> 00:13:47,320
+point three square
+
+129
+00:13:57,880 --> 00:14:01,300
+the distance between the centroid of this part and the bottom
+
+130
+00:14:01,980 --> 00:14:13,860
+29.5 and the distance between the x-axis and the bottom 21.2 if you subtracted the two numbers you
+
+131
+00:14:13,860 --> 00:14:24,860
+can get 8.3 square. I need to add plus another part we have another part here can you see it
+
+132
+00:14:25,580 --> 00:14:37,660
+this part, phq divided by 12, it will be 12, b time h which is 27q divided by 12.
+
+133
+00:14:38,980 --> 00:14:42,560
+Unfortunately, I need to add another part which is the area,
+
+134
+00:14:45,680 --> 00:14:54,379
+324 for this part time distance is square. What is the vertical distance between the centroid of
+
+135
+00:14:54,380 --> 00:15:09,760
+this part and your x axis. What is this distance? 21.2 minus 13.5 I got 7.7 square. If you are not
+
+136
+00:15:09,920 --> 00:15:17,020
+agree with this number, let me know. This is how to figure out the value of I cross if you have
+
+137
+00:15:17,020 --> 00:15:37,960
+something else is not rectangle cross section. So, 60 times 5 cubed divided by 12 plus 300
+
+138
+00:15:38,540 --> 00:15:47,760
+time 8.3 square plus 12 times 27 cube
+
+139
+00:15:51,900 --> 00:15:53,440
+divide 12
+
+140
+00:15:56,460 --> 00:16:07,200
+plus 324 times 7.7 square I got 6 T184.96.
+
+141
+00:16:09,860 --> 00:16:14,100
+60184.96 inch to powerful.
+
+142
+00:16:17,160 --> 00:16:25,020
+One more time just give you a hint if you have this T-section
+
+143
+00:16:26,300 --> 00:16:29,260
+First step, I need to figure out where is the centroid.
+
+144
+00:16:31,020 --> 00:16:34,000
+I know I can divide this cross-section to two parts.
+
+145
+00:16:34,500 --> 00:16:38,640
+Here is the centroid of the first part, here is the centroid of the second part.
+
+146
+00:16:39,200 --> 00:16:41,040
+But where is the centroid for both of them?
+
+147
+00:16:41,640 --> 00:16:45,360
+I need to assume a reference at the bottom.
+
+148
+00:16:46,880 --> 00:16:56,280
+And y, the height of this centroid equal area 1 times y1 plus area 2 times y2
+
+149
+00:16:56,280 --> 00:17:03,620
+by all area area one plus area two. So y1 is the distance between the centroid here and your
+
+150
+00:17:03,960 --> 00:17:12,800
+reference. This is y1 and this is area one. This is area two and this is y2. Once you sit up
+
+151
+00:17:13,199 --> 00:17:19,360
+this equation will give you a number. This number will tell you where is the height of your centroid.
+
+152
+00:17:21,079 --> 00:17:27,000
+so I can say my x-axis will be here and here is y-axis.
+
+153
+00:17:30,000 --> 00:17:35,660
+Once you located your centroid and your x-axis, I can figure out the value of I-gross for each
+
+154
+00:17:35,860 --> 00:17:43,700
+barter, barter number one plus barter number two. Keep in your mind, for barter number one it will
+
+155
+00:17:43,700 --> 00:17:51,360
+be bh cubed divided by 12, but I need to add the area of bar to number one, time distance
+
+156
+00:17:51,800 --> 00:17:56,780
+one square, the distance between the centroid of bar to number one and your x axis.
+
+157
+00:17:59,660 --> 00:18:06,200
+Second bar, bh cubed divided by 12 plus area of this part, find distance square,
+
+158
+00:18:07,160 --> 00:18:13,680
+the distance between centroid of this part and your x axis. Then I can figure out the value
+
+159
+00:18:13,680 --> 00:18:25,960
+equals your value equal 60184.96. The last quantity I'm looking for is the value of YB.
+
+160
+00:18:26,380 --> 00:18:29,000
+Anybody remember what was the value of YB?
+
+161
+00:18:31,800 --> 00:18:37,800
+The value of YB is the distance between the neutral axis and the bottom of your cross-section.
+
+162
+00:18:37,840 --> 00:18:43,680
+Here is a neutral axis. Here is the bottom of your cross section. So this distance yb
+
+163
+00:18:44,640 --> 00:18:47,140
+will equal 21.2.
+
+164
+00:18:51,460 --> 00:18:56,340
+Now I can vote my numbers. M critical will equal
+
+165
+00:18:57,200 --> 00:19:12,300
+if r 410.8 I gross 60184.96 divided by yb 21.2 so I can figure out my number
+
+166
+00:19:14,100 --> 00:19:16,140
+I will get it just a second
+
+167
+00:19:23,360 --> 00:19:35,240
+your number will be something very big 1166 22 5.5 do you remember what was the units of this value
+
+168
+00:19:36,620 --> 00:19:44,700
+bound dot inch bound inch i would like to convert your value of moment to k
+
+169
+00:19:46,100 --> 00:19:49,200
+foot anybody remember what should i do
+
+170
+00:19:52,880 --> 00:19:59,780
+by by 12 000 thank you it will be 97.2 kb
+
+171
+00:20:06,139 --> 00:20:10,040
+97.2 kb
+
+172
+00:20:19,680 --> 00:20:27,100
+I have another question which is not included in this problem but it will be included in one of
+
+173
+00:20:27,160 --> 00:20:36,020
+your coming exams. Okay we have this cross-section
+
+174
+00:20:40,320 --> 00:20:48,860
+and I found the value of m/c = 97.2 kF
+
+175
+00:20:51,140 --> 00:20:58,920
+and this beam looks like this under the effect of uniform distributed load
+
+176
+00:21:00,960 --> 00:21:09,279
+w/k/f and the span of this beam equal 20 feet
+
+177
+00:21:10,780 --> 00:21:25,840
+Can you tell me what is the maximum value for W to prevent any crack in the concrete beam?
+
+178
+00:21:32,240 --> 00:21:40,380
+So I started to mix between the structure analysis and the concrete design. This value is coming
+
+179
+00:21:40,520 --> 00:21:46,440
+from concrete design, value of m-creek coming from all of these calculations.
+
+180
+00:21:49,080 --> 00:21:54,220
+What is a part of structure analysis? This beam, which you had this cross-section,
+
+181
+00:21:56,000 --> 00:22:04,160
+is represented by this one, keep in your mind. If your beam looks like this, if you did cut
+
+182
+00:22:04,880 --> 00:22:12,020
+and look to the cross section, your cross section looks like this. But we are not drawing a 3D,
+
+183
+00:22:12,240 --> 00:22:16,360
+because if you would like to draw your 3D, your beam will be like this.
+
+184
+00:22:21,440 --> 00:22:28,600
+that makes sense so we represent this 3d with just a line and this line is drawing like this
+
+185
+00:22:30,080 --> 00:22:38,540
+okay so one more time if you have beam with 20 feet span and the uniformed distributed load
+
+186
+00:22:38,840 --> 00:22:45,200
+anybody in this room remember from structural analysis what was the bending moment diagram
+
+187
+00:22:51,040 --> 00:22:55,840
+problem. Do you remember what was the highest value of this moment?
+
+188
+00:22:59,500 --> 00:23:10,680
+w l square divided 8. If you have more w, if you have more uniform distributed load on this beam,
+
+189
+00:23:12,000 --> 00:23:21,860
+you will have more moment, more W, more moment, more W, more moment. But we are looking for what is
+
+190
+00:23:22,000 --> 00:23:32,860
+the highest value for W before cracking, before the tension exceeds that ensile strength of concrete.
+
+191
+00:23:33,560 --> 00:23:40,240
+So if you put your M as your M crack, I can tell you what is the value of W maximum.
+
+192
+00:23:41,360 --> 00:23:51,700
+that makes sense so m-mcrag equal 97.2 your w is unknown your span of this beam equal 20 feet
+
+193
+00:23:52,040 --> 00:24:00,480
+so 20 square divided the only unknown in this equation is w i can figure it out so
+
+194
+00:24:05,440 --> 00:24:17,580
+your W will be 1.9 kip per foot. So the final conclusion I can put on this beam with this
+
+195
+00:24:17,680 --> 00:24:26,500
+band 20 feet and this cross section of rectangle of t section I can put uniform distributed here
+
+196
+00:24:26,640 --> 00:24:38,400
+until 1.9 k per foot and I don't need any stereo enforcement. No need. Do you know why? Because
+
+197
+00:24:38,400 --> 00:24:45,220
+the applied moment which is coming from this distributed load will equal m-micreg and the m-micreg
+
+198
+00:24:45,480 --> 00:24:51,440
+means we have tension and this tension the concrete can support it without stereo enforcement.
+
+199
+00:24:52,880 --> 00:24:59,500
+That makes sense. So keep in your mind, we have a good connection between structural analysis
+
+200
+00:24:59,820 --> 00:25:06,960
+and the concrete design. Structural analysis will give you under the effect of the oblide loot,
+
+201
+00:25:07,840 --> 00:25:14,560
+can give you the bending moment diagram. And what is the value of this bending moment diagram?
+
+202
+00:25:15,440 --> 00:25:20,640
+Sometimes we can make a comparison between this moment
+
+203
+00:25:20,880 --> 00:25:23,620
+and the moment which is coming from concrete design.
+
+204
+00:25:24,860 --> 00:25:28,600
+In this case, I make equal between the bending moment
+
+205
+00:25:28,800 --> 00:25:31,500
+diagram from structural analysis and the MECRAIC
+
+206
+00:25:32,180 --> 00:25:35,260
+to figure out how much load we can
+
+207
+00:25:35,360 --> 00:25:36,820
+apply without cracking.
+
+208
+00:25:38,040 --> 00:25:41,220
+One of your problem in the coming exam looks like this.
+
+209
+00:25:42,540 --> 00:25:43,420
+Anybody has any question?
+
+210
+00:25:45,600 --> 00:25:45,880
+No sir.
+
+211
+00:25:47,120 --> 00:25:47,520
+Looks good.
+
+212
+00:25:50,260 --> 00:25:50,700
+Yes sir.
+
+213
+00:25:51,160 --> 00:25:51,420
+Okay.
+
+214
+00:25:54,180 --> 00:25:55,200
+Andrew, are you still here?
+
+215
+00:25:56,580 --> 00:25:56,820
+Yes.
+
+216
+00:25:57,360 --> 00:25:57,680
+Okay.
+
+217
+00:26:04,100 --> 00:26:04,880
+What we have here?
+
+218
+00:26:05,940 --> 00:26:07,220
+You should all of you are here.
+
+219
+00:26:07,720 --> 00:26:08,500
+Rending is in.
+
+220
+00:26:08,690 --> 00:26:09,260
+Yes, man.
+
+221
+00:26:09,800 --> 00:26:11,260
+Yeah, I think all of you.
+
+222
+00:26:12,280 --> 00:26:12,800
+Okay.
+
+223
+00:26:12,800 --> 00:26:16,040
+Okay, we are missing one.
+
+224
+00:26:19,300 --> 00:26:20,980
+The basketball player.
+
+225
+00:26:21,900 --> 00:26:22,100
+Okay.
+
+226
+00:26:25,340 --> 00:26:28,020
+By the way, we have a concrete project
+
+227
+00:26:29,020 --> 00:26:31,020
+during this semester, it will be a very big one.
+
+228
+00:26:31,960 --> 00:26:36,760
+And we are preparing the money, the cost, the material,
+
+229
+00:26:36,880 --> 00:26:39,780
+and everything for you to start your project.
+
+230
+00:26:43,280 --> 00:26:51,160
+Okay, the next part in this module, your concrete starts to crack.
+
+231
+00:26:52,960 --> 00:27:02,160
+Okay, the applied moment on this cross section became greater than M crack.
+
+232
+00:27:04,080 --> 00:27:10,620
+That means the tension at the bottom is greater than if or.
+
+233
+00:27:12,840 --> 00:27:18,920
+That means concrete cannot support this tension. That means concrete will start to crack.
+
+234
+00:27:21,260 --> 00:27:29,280
+That means if the concrete cracked, we can throw it in trash. No need for concrete in,
+
+235
+00:27:30,000 --> 00:27:36,440
+which is cracked, concrete in tension, which is cracked, no need for it. So keep in your mind,
+
+236
+00:27:36,480 --> 00:27:44,600
+we have neutral axis here. The concrete at the bottom, through it to trash.
+
+237
+00:27:46,779 --> 00:27:52,940
+Why? Because this part of concrete is under tension and this tension will cause cracks,
+
+238
+00:27:54,680 --> 00:27:59,980
+and if the concrete is cracked, no need for this concrete anymore. So what do you have at the
+
+239
+00:27:59,980 --> 00:28:03,980
+bottom, we have a stereo enforcement. In this case, your
+
+240
+00:28:04,040 --> 00:28:09,500
+stereo enforcement to start to work, besides the concrete
+
+241
+00:28:09,660 --> 00:28:10,580
+under compression.
+
+242
+00:28:13,940 --> 00:28:19,260
+That makes sense. This is how your cross section will behave. So
+
+243
+00:28:20,380 --> 00:28:21,300
+we will have this case.
+
+244
+00:28:23,660 --> 00:28:26,860
+Here is the original cross section. Here is the bending
+
+245
+00:28:26,860 --> 00:28:32,420
+moment. Here is the tension. This moment is greater than in the crack. So this
+
+246
+00:28:32,480 --> 00:28:38,460
+tension will cause crack. The part of concrete under tension which is blue,
+
+247
+00:28:38,560 --> 00:28:47,480
+the neutral axis, all concrete under them, neutral axis will crack. Just a
+
+248
+00:28:47,500 --> 00:28:47,700
+moment.
+
+249
+00:29:10,799 --> 00:29:15,460
+So, all concrete under the neutral axis will crack.
+
+250
+00:29:15,660 --> 00:29:18,280
+We can remove it through a tutrish.
+
+251
+00:29:19,660 --> 00:29:24,820
+So we have only right now at this moment under this condition,
+
+252
+00:29:25,080 --> 00:29:28,280
+we have only the concrete under compression still working
+
+253
+00:29:32,560 --> 00:29:34,880
+and the steering enforcement at the bottom.
+
+254
+00:29:35,760 --> 00:29:41,080
+Both of them only, the two boards that are working with us.
+
+255
+00:29:42,880 --> 00:29:43,360
+That makes sense?
+
+256
+00:29:45,580 --> 00:29:47,520
+We are going to use this expression
+
+257
+00:29:47,880 --> 00:29:51,100
+to figure out the stress in your concrete
+
+258
+00:29:51,280 --> 00:29:53,000
+or the moment of your concrete.
+
+259
+00:29:53,800 --> 00:29:57,500
+Sigma equal mc divided by.
+
+260
+00:29:58,580 --> 00:30:02,440
+Unfortunately, we cannot use this expression for stress,
+
+261
+00:30:05,200 --> 00:30:07,440
+for cross section with two materials.
+
+262
+00:30:08,200 --> 00:30:10,420
+Your cross section must be one material.
+
+263
+00:30:12,900 --> 00:30:14,100
+What you mean by one material?
+
+264
+00:30:15,420 --> 00:30:18,200
+Right now we have steel rebars,
+
+265
+00:30:19,420 --> 00:30:22,320
+and we have concrete at the top
+
+266
+00:30:22,660 --> 00:30:24,580
+and the steel rebars at the bottom.
+
+267
+00:30:24,850 --> 00:30:27,320
+So they are two materials, concrete and steel.
+
+268
+00:30:28,180 --> 00:30:31,460
+We cannot use this expression since we have two material.
+
+269
+00:30:31,680 --> 00:30:32,380
+What should I do?
+
+270
+00:30:32,960 --> 00:30:36,060
+We have a method called the transformate-section method.
+
+271
+00:30:37,140 --> 00:30:38,300
+Transformate-section method,
+
+272
+00:30:38,520 --> 00:30:41,500
+I can convert one material to another material.
+
+273
+00:30:42,140 --> 00:30:45,260
+So I can convert just for calculations.
+
+274
+00:30:45,920 --> 00:30:48,680
+So not a real transformation.
+
+275
+00:30:49,600 --> 00:30:54,360
+No, we are assuming I will convert the steel reinforcement
+
+276
+00:30:54,670 --> 00:30:57,780
+to equivalent amount of concrete.
+
+277
+00:30:58,660 --> 00:31:04,300
+So this is steel converted to equivalent amount of concrete.
+
+278
+00:31:05,400 --> 00:31:08,200
+So buy a value called N.
+
+279
+00:31:09,800 --> 00:31:12,120
+If you multiply the value of area steel
+
+280
+00:31:12,120 --> 00:31:21,240
+n, you can get the value of concrete, which is equivalent to the steel area. So at this moment,
+
+281
+00:31:21,480 --> 00:31:26,380
+we have concrete at the bottom, we have concrete at the top, we can use this expression.
+
+282
+00:31:27,440 --> 00:31:32,540
+That makes sense. This is the reason why it's called transformant section method or
+
+283
+00:31:32,640 --> 00:31:40,520
+transformant area method, because we are going to use a value called n and this value n called
+
+284
+00:31:40,520 --> 00:31:50,240
+the modular ratio equal the modulus of elasticity of steel divided by the modulus of elasticity of
+
+285
+00:31:50,320 --> 00:32:02,680
+concrete. Okay, keep in your mind modulus of elasticity of steel youngest modulus equal 30,000
+
+286
+00:32:03,480 --> 00:32:12,440
+psi or equal 30 million psi
+
+287
+00:32:15,820 --> 00:32:23,380
+30 million psi anybody in this room remember what was the value of e concrete
+
+288
+00:32:24,680 --> 00:32:33,040
+we covered this last week I think 57 000 square root f prime c
+
+289
+00:32:39,740 --> 00:32:46,220
+so guys are you still hearing me yes sir okay so e-concrete if you go back to the
+
+290
+00:32:46,280 --> 00:32:51,720
+brevet the ferris wheel you will find this expression the youngest models of concrete
+
+291
+00:32:51,720 --> 00:32:58,480
+according to ACI. Guys, I'm not saying something from my side. Everything is according to ACI.
+
+292
+00:32:58,960 --> 00:33:06,800
+The youngest modulus of concrete equal 57,000 square root f prime c and in this case your a
+
+293
+00:33:06,940 --> 00:33:16,520
+concrete will be psi bound per square inch. So the dominator can be derived can be developed
+
+294
+00:33:16,520 --> 00:33:21,640
+from the value of f prime c. So f prime c is the key to solve any problem.
+
+295
+00:33:22,540 --> 00:33:27,060
+f prime c, I can figure out the value of f r, like we did in the previous example.
+
+296
+00:33:27,260 --> 00:33:33,220
+f prime c, I can figure out the e concrete and e steel is not given. So you have to remember it,
+
+297
+00:33:33,440 --> 00:33:40,820
+30 million psi. If you divide this number by this number, you can figure out the value of n,
+
+298
+00:33:40,920 --> 00:33:45,400
+which is called modular ratio. Once you get modular ratio, if you multiply this modular ratio
+
+299
+00:33:45,400 --> 00:33:53,100
+by area steel, I can convert this area steel to equivalent area of concrete.
+
+300
+00:33:54,040 --> 00:33:59,340
+Once you get the equivalent area of concrete, right now we have two parts, both of them are
+
+301
+00:33:59,340 --> 00:34:06,420
+concrete so I can use this expression. Let's do an example on that
+
+302
+00:34:06,680 --> 00:34:09,320
+transformed section method.
+
+303
+00:34:16,600 --> 00:34:18,639
+Let's do this example, example 4.
+
+304
+00:34:22,379 --> 00:34:40,060
+So guys, we are given this cross section with b = 12, your depth = 20, and your total thickness = 23.
+
+305
+00:34:42,040 --> 00:34:52,620
+and the concrete cracked and we are going to use transform it section method to figure out
+
+306
+00:34:53,280 --> 00:34:58,680
+the resisting amount. All of this information will be given using
+
+307
+00:35:00,780 --> 00:35:07,700
+trans-format-section method.
+
+308
+00:35:11,680 --> 00:35:15,040
+So we need some calculations at the beginning. First of all,
+
+309
+00:35:15,900 --> 00:35:25,280
+what is the value of e-concrete, youngest models of concrete, equal 57 square root f'c
+
+310
+00:35:27,260 --> 00:35:34,640
+if a prime c should be given. This value is not f prime c, this value is fc. So if a prime c is
+
+311
+00:35:34,700 --> 00:35:44,780
+given, 4000 psi. This value is only allowable stress, it's something completely different.
+
+312
+00:35:45,220 --> 00:35:50,880
+If a prime c is the compressive strength of concrete, this value should be given. By the way,
+
+313
+00:35:51,900 --> 00:35:57,320
+at the beginning of any exam or any quiz, I'm sorry, any homework, I'm saying assume
+
+314
+00:36:00,420 --> 00:36:10,540
+any missing data. So if you feel that there is something I have to provide, you can assume it.
+
+315
+00:36:11,580 --> 00:36:16,240
+But for your information, f prime c will be given all the time.
+
+316
+00:36:18,220 --> 00:36:23,880
+we cannot work on concrete without this value. We have to figure out the compressive strengths of
+
+317
+00:36:23,940 --> 00:36:36,160
+concrete. So 57,000 square root f prime c4,000 and you know every e-steel, youngest models of steel
+
+318
+00:36:36,380 --> 00:36:48,200
+is already known, 30 million psi, both of them should be in the same unit psi. So I have 57,000
+
+319
+00:36:48,200 --> 00:37:02,200
+time square root 4000 it will be this number 36 0 4 9 9 6 point 5 3 million
+
+320
+00:37:02,720 --> 00:37:12,340
+604 thousand 996 point 5 psi then the model ratio is the ratio between
+
+321
+00:37:12,480 --> 00:37:15,080
+in E-steel and E-concrete.
+
+322
+00:37:16,320 --> 00:37:20,380
+I will divide this number by this number, 30 million.
+
+323
+00:37:22,480 --> 00:37:31,720
+Divided by this number will give you 8.3.
+
+324
+00:37:34,180 --> 00:37:35,180
+This is the first step.
+
+325
+00:37:38,060 --> 00:37:38,620
+Second step.
+
+326
+00:37:39,840 --> 00:37:42,200
+Anybody can tell me what is the value of area steel?
+
+327
+00:37:46,460 --> 00:37:48,460
+How can I figure out the value of area steel?
+
+328
+00:37:48,820 --> 00:37:50,300
+We have how many bars we have?
+
+329
+00:37:53,040 --> 00:37:54,280
+- Four. - Four.
+
+330
+00:37:54,920 --> 00:37:56,880
+What is the size of each bar?
+
+331
+00:37:58,820 --> 00:38:00,280
+- Number eight. - Thank you.
+
+332
+00:38:00,820 --> 00:38:03,980
+So I will multiply four, which is the number of bars.
+
+333
+00:38:04,460 --> 00:38:07,860
+Time, what is the area of number eight?
+
+334
+00:38:09,320 --> 00:38:10,640
+I need to open a table.
+
+335
+00:38:11,540 --> 00:38:12,820
+Anybody has this table right now?
+
+336
+00:38:14,040 --> 00:38:15,580
+Why are I need to figure it out?
+
+337
+00:38:16,300 --> 00:38:16,900
+Do you have the table?
+
+338
+00:38:19,500 --> 00:38:20,960
+- Oh, not at the moment, but I keep going.
+
+339
+00:38:26,280 --> 00:38:28,180
+- Okay, just a second.
+
+340
+00:38:42,640 --> 00:38:43,320
+0.79
+
+341
+00:38:51,280 --> 00:39:12,900
+number eight rebar. How much? As I see here, it says 0.79. 0.79. Okay, looks good. So the total
+
+342
+00:39:13,040 --> 00:39:24,860
+area of steel will be 4 times 0.79 it will be 3.60. Any questions so far?
+
+343
+00:39:29,240 --> 00:39:33,480
+Okay, so keep in your mind
+
+344
+00:39:38,680 --> 00:39:44,079
+We have neutral axis here and we have a steer reinforcement I
+
+345
+00:39:49,720 --> 00:39:55,539
+Don't know what is the neutral axis so I can assume it at distance itch
+
+346
+00:39:57,260 --> 00:40:00,000
+or why? Let's do it why?
+
+347
+00:40:02,220 --> 00:40:06,060
+This width is given by the problem 12
+
+348
+00:40:08,340 --> 00:40:12,680
+This area steel I figured this out equal 3.16
+
+349
+00:40:16,400 --> 00:40:23,620
+But can you tell me what is the distance here between the stereo enforcement and your neutral axis?
+
+350
+00:40:26,420 --> 00:40:27,320
+Any help?
+
+351
+00:40:36,020 --> 00:40:37,880
+I assume the my neutral axis here.
+
+352
+00:40:40,140 --> 00:40:41,500
+Add distance y.
+
+353
+00:40:43,720 --> 00:40:48,400
+Anybody can tell me what will be the distance between the stereo enforcement and your neutral
+
+354
+00:40:48,520 --> 00:41:07,500
+axis will be. Any help? The 10 inches? Eight inches? No, it's not a value, because I don't
+
+355
+00:41:07,540 --> 00:41:13,740
+know what is a neutral axis. So how how you will give me a value? Neutral axis is unknown
+
+356
+00:41:13,920 --> 00:41:20,480
+for me. So the distance between your stereo enforcement and your neutral axis must be variable.
+
+357
+00:41:21,780 --> 00:41:25,260
+Anybody can tell me what is the expression for this distance?
+
+358
+00:41:30,740 --> 00:41:31,660
+20 minus 1.
+
+359
+00:41:35,160 --> 00:41:42,040
+20 is the vertical distance between the stereo enforcement and the top. That's right.
+
+360
+00:41:44,360 --> 00:41:52,860
+And y, y is the assumed distance for the neutral axis to the top. If you subtracted the two values,
+
+361
+00:41:53,380 --> 00:41:58,480
+20 minus y, I can give you the distance, the vertical distance between the
+
+362
+00:41:58,620 --> 00:42:07,220
+stereo enforcement and the neutral axis. That makes sense? This cross-section, oh,
+
+363
+00:42:07,220 --> 00:42:13,940
+So where is the concrete at the bottom in the trash because they create.
+
+364
+00:42:15,940 --> 00:42:22,960
+So this cross section will be converted to equivalent or transformed.
+
+365
+00:42:24,300 --> 00:42:27,540
+Here is the concrete at the compression is still the same.
+
+366
+00:42:28,860 --> 00:42:34,240
+And the steel at the bottom will be converted to equivalent concrete.
+
+367
+00:42:36,900 --> 00:42:53,520
+multiplying n by area steel. So this one is called trans-formate section. This one is the original
+
+368
+00:42:56,200 --> 00:43:03,320
+section but we trashed the concrete under tension. Go ahead and put your numbers.
+
+369
+00:43:04,900 --> 00:43:13,680
+this one is 12 inch, this one I assumed it y, this distance I assumed it, it's not assumed,
+
+370
+00:43:13,780 --> 00:43:24,720
+it's a 20 minus y, is it 20? Yes, 20 minus y, and this value will be n time area steel, n equal
+
+371
+00:43:25,460 --> 00:43:36,300
+8.3 and the area still equals 3.16 so this value will be 26.2.
+
+372
+00:43:39,200 --> 00:43:45,800
+We will work how to figure out where is the neutral axis. It's very easy. It's equation
+
+373
+00:43:49,220 --> 00:44:00,980
+from two sides. The first side, what is the value of this area? 12 times y. This is the area.
+
+374
+00:44:02,140 --> 00:44:08,140
+What is the distance between the centroid of this area and your assumed neutral axis?
+
+375
+00:44:09,160 --> 00:44:16,060
+It's y divided by 2. Must equal the area at the bottom,
+
+376
+00:44:17,060 --> 00:44:22,280
+The area at the bottom for this equivalent concrete is 26.2.
+
+377
+00:44:23,740 --> 00:44:29,780
+What is the vertical distance between the centroid of this equivalent area and your neutral axis?
+
+378
+00:44:30,020 --> 00:44:32,940
+It's 20 minus y.
+
+379
+00:44:35,340 --> 00:44:37,560
+Very easy. Very easy equation.
+
+380
+00:44:39,540 --> 00:44:45,780
+To locate this neutral axis, I will say the top part area,
+
+381
+00:44:46,480 --> 00:44:49,880
+time the distance between the centroid of this part
+
+382
+00:44:49,940 --> 00:44:52,620
+and your neutral axis must equal.
+
+383
+00:44:53,680 --> 00:44:58,560
+The area of the bottom part, time the distance
+
+384
+00:44:58,740 --> 00:45:01,320
+between this part, the centroid of this part,
+
+385
+00:45:01,520 --> 00:45:02,600
+and your neutral axis.
+
+386
+00:45:06,680 --> 00:45:09,140
+You will set up an equation with one unknown,
+
+387
+00:45:09,380 --> 00:45:13,620
+which is one. I can figure it out. So this
+
+388
+00:45:13,680 --> 00:45:20,740
+expression will give you 6y square equal 26.2
+
+389
+00:45:21,000 --> 00:45:30,620
+times 20, I guess 524.5 negative 26.2y. Just
+
+390
+00:45:31,240 --> 00:45:33,940
+rearrange, you will have equation of second degree.
+
+391
+00:45:40,200 --> 00:45:41,260
+Equal zero.
+
+392
+00:45:41,700 --> 00:45:42,860
+Solve this equation.
+
+393
+00:45:44,060 --> 00:45:51,560
+A equal six, B equal 26.2, C equal negative five to four point five.
+
+394
+00:45:52,780 --> 00:45:54,140
+How to solve this A1?
+
+395
+00:45:54,500 --> 00:45:58,660
+Y equal, if you remember, negative B plus or minus square root,
+
+396
+00:45:59,660 --> 00:46:03,680
+b square negative 4ac divided by 2a.
+
+397
+00:46:04,010 --> 00:46:04,800
+Do you remember that?
+
+398
+00:46:05,840 --> 00:46:06,300
+It's math.
+
+399
+00:46:08,000 --> 00:46:10,000
+And I know you are smart in math.
+
+400
+00:46:10,940 --> 00:46:15,820
+So the value of i will be negative 26.2 plus or minus
+
+401
+00:46:16,220 --> 00:46:20,960
+square root b square 26.2 square minus four
+
+402
+00:46:21,280 --> 00:46:28,120
+time a time c divided by 2a.
+
+403
+00:46:29,340 --> 00:46:36,700
+That makes sense. So I will have to value for y. This equation or this solution will
+
+404
+00:46:36,760 --> 00:46:50,780
+give you two values. Just a moment. So 26.2 square, 4 times 6 times 524.5, underscore root.
+
+405
+00:46:59,280 --> 00:47:12,340
+So negative 26.2 divided by 12. I got 7.4 inch and I have another value just a second.
+
+406
+00:47:17,540 --> 00:47:29,520
+negative 11.2 inch. Unfortunately, the second value is not accepted. We don't have distance
+
+407
+00:47:29,680 --> 00:47:41,880
+with negative value. We don't have distance which is negative. So this solution is rejected.
+
+408
+00:47:42,490 --> 00:47:53,180
+So the value of y will be 7.4. That makes sense. So the neutral axis will be at a distance from the
+
+409
+00:47:53,200 --> 00:48:07,360
+bottom I'm sorry from the top equals 7.2 inch 7.4 let me redraw this is a part of the cross section
+
+410
+00:48:07,520 --> 00:48:17,640
+this is a neutral axis this is a equivalent concrete this distance equal 12 this distance
+
+411
+00:48:17,760 --> 00:48:24,580
+equal 7.4 and this distance will be 20 minus 7.4.
+
+412
+00:48:28,120 --> 00:48:36,580
+It will be 12.6 and this area equivalent area what was the value of this area 26.2.
+
+413
+00:48:43,120 --> 00:48:44,000
+Okay.
+
+414
+00:48:58,879 --> 00:48:59,620
+Just a moment.
+
+415
+00:49:00,880 --> 00:49:03,580
+[BLANK_AUDIO]
+
+416
+00:49:34,320 --> 00:49:35,720
+[ Silence ]
+
+417
+00:50:03,520 --> 00:50:05,160
+So can you see my screen right now?
+
+418
+00:50:06,940 --> 00:50:07,200
+- Yes sir.
+
+419
+00:50:07,720 --> 00:50:10,420
+- Okay, so this is the area here.
+
+420
+00:50:16,040 --> 00:50:19,520
+Will be, which is in area.
+
+421
+00:50:24,940 --> 00:50:25,800
+You remember how much?
+
+422
+00:50:29,000 --> 00:50:33,860
+3.16 times 8.3d. It's 26.2 here.
+
+423
+00:50:38,399 --> 00:50:45,680
+So, your sigma stress equal mc divide i.
+
+424
+00:50:47,680 --> 00:50:48,720
+What is the value of i?
+
+425
+00:50:52,000 --> 00:50:57,440
+For this part, your i will be BH cubed divide 12.
+
+426
+00:50:58,000 --> 00:51:04,160
+So 12 times 7.4 cube divided 12.
+
+427
+00:51:05,520 --> 00:51:08,900
+Since your neutral axis is far away from the centroid,
+
+428
+00:51:09,120 --> 00:51:14,980
+I have to add another value, which is the area, 12 times 7.4.
+
+429
+00:51:16,500 --> 00:51:22,800
+It's 88.8 times this vertical distance between the centroid
+
+430
+00:51:22,920 --> 00:51:24,400
+and your neutral axis square.
+
+431
+00:51:25,240 --> 00:51:29,880
+this distance will be 3.7 square.
+
+432
+00:51:32,580 --> 00:51:35,240
+So BH cubed divided by 12 plus area
+
+433
+00:51:35,560 --> 00:51:36,560
+time distance square,
+
+434
+00:51:37,240 --> 00:51:43,020
+plus this part, I will not use BH cubed divided by 12,
+
+435
+00:51:43,140 --> 00:51:45,020
+it's very small, so I'm gonna use the area
+
+436
+00:51:46,140 --> 00:51:49,580
+times the vertical distance squared to 12.6 square.
+
+437
+00:51:52,040 --> 00:51:54,080
+So I can figure out the value of the area.
+
+438
+00:51:55,000 --> 00:52:05,880
+So 12 times 7.4 cube divided 12 plus your area 88.8 times 3.7
+
+439
+00:52:06,260 --> 00:52:13,300
+square plus 26.2 times 12.6 square.
+
+440
+00:52:14,570 --> 00:52:21,420
+The moment of inertia equal 5,780.4.
+
+441
+00:52:24,720 --> 00:52:31,160
+your moment of inertia equal b hq divided by 12 plus area
+
+442
+00:52:31,680 --> 00:52:34,360
+time distance square for the first part.
+
+443
+00:52:38,360 --> 00:52:45,000
+b is 12 hq 7.4 q divided by 12 plus the area.
+
+444
+00:52:45,090 --> 00:52:49,720
+The area of this part is 12 by 7.4.
+
+445
+00:52:50,440 --> 00:52:53,119
+Time distance, the distance between the centroid
+
+446
+00:52:55,560 --> 00:53:05,260
+of this part and your neutral axis which is have 7.4. Okay plus what is the area of the
+
+447
+00:53:05,300 --> 00:53:12,080
+second part time distance square that's enough I will neglect BHE cubed over 12 because it's a
+
+448
+00:53:12,080 --> 00:53:19,340
+very small number. Your moment of inertia equal 5,780.4.
+
+449
+00:53:22,340 --> 00:53:24,420
+Let's start with concrete.
+
+450
+00:53:27,840 --> 00:53:35,460
+So sigma concrete will equal m concrete time distance c for concrete
+
+451
+00:53:37,340 --> 00:53:40,960
+divided by i for the cross section.
+
+452
+00:53:43,420 --> 00:53:49,820
+Sigma concrete is given. Sigma concrete which is a allowable stress for concrete is given
+
+453
+00:53:51,420 --> 00:54:01,880
+a 1350. Equal m concrete I don't know what is the value of the moment. The distance for
+
+454
+00:54:01,960 --> 00:54:07,320
+concrete distance for concrete is the distance between your neutral axis and the top because
+
+455
+00:54:07,320 --> 00:54:21,920
+And this is a concrete, C concrete, which equal 7.4 divided by the I 5,780.4.
+
+456
+00:54:22,090 --> 00:54:26,560
+The only unknown in this expression is your moment regarding concrete.
+
+457
+00:54:28,000 --> 00:54:29,880
+moment regarding concrete will be
+
+458
+00:54:38,640 --> 00:54:46,640
+this number n bound inch everything in bound everything in inch if you divide
+
+459
+00:54:46,680 --> 00:54:59,780
+it by 12,000 your value will be 87.8 KF but this is only related to concrete.
+
+460
+00:55:01,930 --> 00:55:15,300
+If you are talking about steel, your value will be sigma for steel equal moment regarding steel,
+
+461
+00:55:15,300 --> 00:55:25,800
+time distance for steel, seed steel, divided by I gross or I and I will
+
+462
+00:55:26,080 --> 00:55:31,960
+multiply this expression by n. Why I multiply it by n? Because this cross
+
+463
+00:55:32,220 --> 00:55:40,340
+section is made from one material, concrete. If you would like to transform
+
+464
+00:55:40,420 --> 00:55:48,120
+it again to steal I need to multiply by n. Anyway, sigma steal is given here if
+
+465
+00:55:48,120 --> 00:55:57,600
+you steal 20,000. Moment regarding a steal I don't know. The distance for
+
+466
+00:55:57,680 --> 00:56:05,080
+steal is the vertical distance between the neutral axis and your steal at the
+
+467
+00:56:05,080 --> 00:56:18,640
+bottom because this one is originally is a steel so it's a 12.6 the value of i is 5,780
+
+468
+00:56:21,320 --> 00:56:28,920
+0.4 what was the value of n model ratio 8.3 from this equation I can figure out the value of moments
+
+469
+00:56:43,960 --> 00:56:55,180
+your value will be 1 1 0 5 4 50 point 4 bound inch if you divide it by 12,000 it will be
+
+470
+00:56:55,180 --> 00:56:58,280
+92.1 kF
+
+471
+00:57:03,320 --> 00:57:05,940
+92.87.8
+
+472
+00:57:08,720 --> 00:57:16,080
+so we have moment related to concrete 87.8 kF
+
+473
+00:57:17,080 --> 00:57:23,420
+and we have moment related to steel 92.1 kF
+
+474
+00:57:24,700 --> 00:57:37,440
+So guys, this cross-section, the allowable stress for concrete 1350 can support this moment according to concrete.
+
+475
+00:57:39,360 --> 00:57:44,360
+And the allowable stress for steel is given 20,000 P.S. all.
+
+476
+00:57:45,880 --> 00:57:52,100
+And this allowable stress can give you a moment related to steel 92.1.
+
+477
+00:57:52,700 --> 00:57:59,720
+The final conclusion, this moment that can be applied to this cross-section will be how much?
+
+478
+00:58:00,900 --> 00:58:09,040
+Is it 87.8 to satisfy concrete or it will be 92.1 to satisfy your steel?
+
+479
+00:58:09,580 --> 00:58:10,880
+What will be the final moment?
+
+480
+00:58:12,760 --> 00:58:13,280
+What do you think?
+
+481
+00:58:16,900 --> 00:58:17,220
+I agree.
+
+482
+00:58:18,740 --> 00:58:19,220
+Thank you.
+
+483
+00:58:19,300 --> 00:58:21,900
+it will be 87.8.
+
+484
+00:58:23,940 --> 00:58:26,620
+And this is your final moment of resistance.
+
+485
+00:58:27,340 --> 00:58:34,200
+I will use the minimum value to satisfy or to clarify this one.
+
+486
+00:58:34,920 --> 00:58:38,440
+Hey, guys, if you build foundation for a building,
+
+487
+00:58:40,420 --> 00:58:41,660
+I build foundation.
+
+488
+00:58:42,120 --> 00:58:45,360
+This foundation can support only seven floors.
+
+489
+00:58:47,100 --> 00:58:53,620
+After you board your concrete and you constructed your foundation, this foundation can support only seven floors.
+
+490
+00:58:55,420 --> 00:58:58,960
+And you built columns from these foundations.
+
+491
+00:59:00,000 --> 00:59:03,460
+These columns can support 10 floors.
+
+492
+00:59:05,160 --> 00:59:10,560
+Anybody in this room can tell you can tell me what will be the final number of floors you can build?
+
+493
+00:59:13,180 --> 00:59:13,500
+Seven.
+
+494
+00:59:14,300 --> 00:59:20,080
+Thank you because if you built it in, your column is still good, but your foundation will fail.
+
+495
+00:59:21,720 --> 00:59:27,680
+If you built it seven, your foundation is good and your column will be more safe.
+
+496
+00:59:28,280 --> 00:59:30,760
+That makes sense. So this is the point here.
+
+497
+00:59:31,500 --> 00:59:34,240
+We have two material, concrete and steel.
+
+498
+00:59:35,060 --> 00:59:41,080
+According to the given information, the allowable stress for concrete and the allowable stress for steel,
+
+499
+00:59:42,060 --> 00:59:46,800
+Concrete can support a maximum 87.8.
+
+500
+00:59:47,060 --> 00:59:49,940
+After this number, concrete will fail.
+
+501
+00:59:51,600 --> 00:59:55,740
+According to the allowable stress for steel 20,000,
+
+502
+00:59:56,180 --> 01:00:02,040
+the steel can support until 92.1 after this number
+
+503
+01:00:02,180 --> 01:00:02,920
+still will fail.
+
+504
+01:00:04,240 --> 01:00:08,200
+So what is the final conclusion for this cross-section
+
+505
+01:00:08,480 --> 01:00:10,880
+as a whole cross-section?
+
+506
+01:00:11,700 --> 01:00:20,140
+including the concrete and the steel both of them will be 87.8 because 87.8 will make concrete
+
+507
+01:00:21,480 --> 01:00:32,140
+almost good and will make steel more good, more safe but if you apply 92.1 steel will be good
+
+508
+01:00:32,420 --> 01:00:34,060
+but concrete will fail.
+

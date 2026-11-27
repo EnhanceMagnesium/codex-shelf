@@ -1,0 +1,1236 @@
+1
+00:00:02,839 --> 00:00:19,480
+I have a building. I have a building looks like this. Just to give you, because this one looks like the small project we will work in the week before the, just a week after the thank is given.
+
+2
+00:00:20,779 --> 00:00:25,000
+This plan for an apartment, for a building.
+
+3
+00:00:26,240 --> 00:00:27,000
+Here is the stairs.
+
+4
+00:00:29,960 --> 00:00:36,500
+You are entering the apartment from this door, main door. We have living room here.
+
+5
+00:00:38,280 --> 00:00:39,520
+Then we have
+
+6
+00:00:42,140 --> 00:00:43,180
+Distribution bed.
+
+7
+00:00:45,540 --> 00:00:48,860
+We have a bedroom. We have a bedroom. We have another bedroom.
+
+8
+00:00:50,580 --> 00:00:53,300
+We have a bathroom. We have a kitchen.
+
+9
+00:00:54,460 --> 00:00:57,920
+We have another two bedrooms by the end of the
+
+10
+00:00:59,160 --> 00:01:04,239
+Apartments we have how many bedrooms one two three four? Wow, it's fantastic. So
+
+11
+00:01:07,540 --> 00:01:10,900
+This is this plane called architectural plane
+
+12
+00:01:12,759 --> 00:01:13,780
+Architectural means
+
+13
+00:01:15,220 --> 00:01:21,240
+Design but it's a different design. What you mean by different design this architectural design
+
+14
+00:01:22,160 --> 00:01:34,880
+is showing where is the bedrooms, the living rooms, the stairs, the bathroom, the kitchen, the walls,
+
+15
+00:01:37,200 --> 00:01:44,440
+bathrooms of the building or the apartment. So this is called architectural design.
+
+16
+00:01:46,800 --> 00:01:53,000
+You are in this course is structural design, the structural designer.
+
+17
+00:01:55,220 --> 00:02:01,680
+You are in this course or your major give you the opportunity to be structural designer.
+
+18
+00:02:02,980 --> 00:02:06,560
+What is the difference between a structural designer and the architectural designer?
+
+19
+00:02:08,280 --> 00:02:15,200
+As I told you, the architectural designer only concerning about the layout of the building,
+
+20
+00:02:16,240 --> 00:02:24,580
+the layout. Where is the stairs? Why are your stairs is here? Why not in this area?
+
+21
+00:02:26,980 --> 00:02:35,080
+This is the layout of the building. Okay, so we have four bedrooms. Why they are not three?
+
+22
+00:02:36,700 --> 00:02:44,239
+Who is deciding this, the architectural designer? Okay, so the design, the architectural designer
+
+23
+00:02:44,880 --> 00:02:47,660
+Give me this layout.
+
+24
+00:02:49,140 --> 00:02:52,100
+What is my rule?
+
+25
+00:02:53,140 --> 00:02:56,200
+My rule is I have many questions
+
+26
+00:02:56,480 --> 00:02:58,960
+and I need to answer as a structural designer.
+
+27
+00:03:00,799 --> 00:03:03,760
+Where is the columns?
+
+28
+00:03:05,760 --> 00:03:08,400
+Where is the footing?
+
+29
+00:03:10,600 --> 00:03:12,700
+What is the type of a slave?
+
+30
+00:03:13,680 --> 00:03:14,420
+Is it one way?
+
+31
+00:03:15,480 --> 00:03:16,260
+Is it two way?
+
+32
+00:03:17,260 --> 00:03:19,600
+Is it two way with beams or without beams?
+
+33
+00:03:21,440 --> 00:03:23,740
+Is this building a save against earthquake?
+
+34
+00:03:24,680 --> 00:03:28,040
+Is this building a save against wind dilute?
+
+35
+00:03:28,940 --> 00:03:31,820
+So I need to answer the question related
+
+36
+00:03:32,000 --> 00:03:35,280
+to structural design because I'm a structural designer.
+
+37
+00:03:36,960 --> 00:03:39,880
+Okay, that makes sense.
+
+38
+00:03:42,120 --> 00:03:43,840
+Guys, that makes sense for you.
+
+39
+00:03:49,760 --> 00:03:50,000
+Okay.
+
+40
+00:03:51,880 --> 00:03:56,240
+So, do you think, so the first step in any building,
+
+41
+00:03:57,840 --> 00:04:01,240
+any building in this world, any construction,
+
+42
+00:04:02,880 --> 00:04:06,380
+in this world, the first step is the architectural design,
+
+43
+00:04:07,080 --> 00:04:07,980
+the architectural design.
+
+44
+00:04:09,400 --> 00:04:21,660
+any project in this world started by this architectural design and this design
+
+45
+00:04:21,900 --> 00:04:34,220
+only showing you where is the walls just walls and the layout of this building
+
+46
+00:04:34,360 --> 00:04:48,120
+That's it. That's it. Nothing else. Then we need structural design. The first step,
+
+47
+00:04:49,320 --> 00:04:59,240
+the first step in structural design is the layout of columns. Column is the first step
+
+48
+00:04:59,280 --> 00:05:10,800
+before slabs, before beams, before foundation, because column will decide all of this stuff.
+
+49
+00:05:11,940 --> 00:05:20,000
+If you put columns first, I will decide I will put beams or not. I will use one
+
+50
+00:05:20,040 --> 00:05:30,760
+waste lab or two waste lab. Columns will decide where are the footing. So the first step is columns.
+
+51
+00:05:33,380 --> 00:05:42,760
+Where can I put my columns? I have question. Guys, do you think I can put a column at this area?
+
+52
+00:05:48,360 --> 00:05:57,080
+what is the problem? No, I have a big problem. So imagine, imagine you are entering your apartment
+
+53
+00:05:58,000 --> 00:06:02,880
+in the living room and you find a column at the mid area.
+
+54
+00:06:05,680 --> 00:06:06,180
+That makes sense.
+
+55
+00:06:09,000 --> 00:06:15,180
+doesn't make any sense. So, so I cannot
+
+56
+00:06:16,520 --> 00:06:25,880
+bought columns without architectural drawing, without architectural design. So I have to get
+
+57
+00:06:26,300 --> 00:06:37,180
+this architectural design to help me to find, to locate the layout of columns. That makes sense.
+
+58
+00:06:41,880 --> 00:06:53,360
+Yes, yes, because this room 211 was not designed to be a class room. It was designed for something
+
+59
+00:06:53,600 --> 00:07:01,800
+different. They bought the columns for the other function. Then they changed their mind.
+
+60
+00:07:02,480 --> 00:07:05,640
+So we have issue with the architectural design.
+
+61
+00:07:07,480 --> 00:07:14,880
+Okay, so I think, I think I'm gonna put a column
+
+62
+00:07:18,959 --> 00:07:24,860
+at this corner, this corner, that makes sense.
+
+63
+00:07:25,600 --> 00:07:31,260
+This corner, this corner, this corner,
+
+64
+00:07:32,760 --> 00:07:41,600
+columns must be located at the corner of the layout.
+
+65
+00:07:42,960 --> 00:07:48,620
+Probably I can't put a column here. That's fine. Probably I can put a column here.
+
+66
+00:07:49,700 --> 00:07:59,660
+Probably I can put a column here. Here. There. At this location it will be good.
+
+67
+00:07:59,660 --> 00:08:10,160
+I didn't say all corners. I didn't say this but the best location for columns is the corner.
+
+68
+00:08:10,620 --> 00:08:20,060
+Probably here or here, whatever. So if you watch this layout of columns, I think I'm good.
+
+69
+00:08:21,460 --> 00:08:35,339
+I think I am good. I have another question. Anybody can tell me the distance between this column and
+
+70
+00:08:36,560 --> 00:08:47,859
+this column will determine what? Because you have to keep this in your mind. The distance between
+
+71
+00:08:47,860 --> 00:08:54,380
+between this column and this column will determine what in the future.
+
+72
+00:08:58,200 --> 00:08:59,340
+That ends for what, Cody?
+
+73
+00:09:01,880 --> 00:09:03,320
+Thank you, Alex. Yes.
+
+74
+00:09:06,520 --> 00:09:13,300
+Yes. Even if you are not using the beam, it will decide the span of the,
+
+75
+00:09:14,460 --> 00:09:22,680
+the slab. Do you remember guys if you have a slab without beams we have something called
+
+76
+00:09:22,960 --> 00:09:36,800
+column strip. Do you remember that column strip? If you decided I'm not using a column, I'm
+
+77
+00:09:36,820 --> 00:09:45,400
+not using beans. Okay, but remember we have a strip here. This is strip called the column
+
+78
+00:09:45,540 --> 00:09:52,640
+strip will be represented like this. And the bending moment will be like this.
+
+79
+00:09:55,860 --> 00:10:00,960
+And this moment if you remember WL squared divided by 11, what is the meaning of L,
+
+80
+00:10:01,860 --> 00:10:06,340
+WL squared divided 14 or divided 16.
+
+81
+00:10:06,940 --> 00:10:11,640
+What is the value of L, the distance between this column
+
+82
+00:10:12,540 --> 00:10:13,380
+and this column?
+
+83
+00:10:16,980 --> 00:10:19,740
+So because one of you will say, hey,
+
+84
+00:10:20,560 --> 00:10:25,640
+what is the problem if I put only two columns, one at this
+
+85
+00:10:25,700 --> 00:10:28,720
+corner and another one at this corner?
+
+86
+00:10:29,140 --> 00:10:29,940
+And that's all.
+
+87
+00:10:30,700 --> 00:10:40,020
+Okay, but the distance between this column and this column will be 10 meters or 10 feet or whatever the unit.
+
+88
+00:10:41,300 --> 00:10:42,080
+It's too long.
+
+89
+00:10:43,420 --> 00:10:52,080
+So please, when you are designing a building and you are trying to locate the out of columns, you have to keep in your mind two things.
+
+90
+00:10:54,360 --> 00:10:57,819
+The first one, please don't
+
+91
+00:10:59,860 --> 00:11:10,420
+disturb this architectural design. Don't destroy this layout by putting a column here
+
+92
+00:11:11,840 --> 00:11:22,180
+or here so you cannot put your bed. Or here in the bathroom so where you are entering the
+
+93
+00:11:22,180 --> 00:11:31,720
+room you will find another column at the middle of the doesn't make any sense. Okay so this is the
+
+94
+00:11:31,780 --> 00:11:38,280
+first one. The second one also keeping your mind the distance between a column and the adjacent
+
+95
+00:11:38,620 --> 00:11:48,200
+column or the consequent column will decide the span of the beam or the slid rested on these columns.
+
+96
+00:11:49,780 --> 00:12:00,260
+That makes sense. Looks good. Looks good. Once you decided where are your columns, I am done.
+
+97
+00:12:01,380 --> 00:12:04,560
+I have a column. I have a footing.
+
+98
+00:12:08,280 --> 00:12:15,180
+Easy. More easy. I have a column. I have a footing.
+
+99
+00:12:17,620 --> 00:12:23,420
+I have a column, I have a footing, probably you have a neighbor, so I'm not sure if you put your
+
+100
+00:12:24,320 --> 00:12:27,060
+footing at the edge of the column like this,
+
+101
+00:12:29,480 --> 00:12:35,540
+or if you don't have a neighbor, everything is good, I will put the footing like this.
+
+102
+00:12:39,540 --> 00:12:50,440
+Sometimes, for any reason, we need these two columns, this one and this one.
+
+103
+00:12:52,160 --> 00:12:58,800
+So the design of the footing of this column looks like this.
+
+104
+00:13:01,000 --> 00:13:08,659
+And the design of the footing for this column looks like this. Wow, we have
+
+105
+00:13:08,660 --> 00:13:16,040
+interaction between the two footing, what is the solution for this issue?
+
+106
+00:13:18,260 --> 00:13:21,240
+We will use something called combined footing.
+
+107
+00:13:24,120 --> 00:13:28,400
+Do you like this story? Do you like this story?
+
+108
+00:13:32,300 --> 00:13:34,800
+It's a good story before sleeping.
+
+109
+00:13:38,340 --> 00:13:38,800
+Okay.
+
+110
+00:13:44,680 --> 00:13:49,580
+So, this is a long story, but it's very interesting.
+
+111
+00:13:50,300 --> 00:13:57,000
+I believe what I said here is more important than how to design a footing.
+
+112
+00:13:58,040 --> 00:14:00,240
+Because you need to understand what's going on.
+
+113
+00:14:01,080 --> 00:14:04,600
+What is the biggest story behind any building?
+
+114
+00:14:04,740 --> 00:14:07,920
+I promise you, but the last week in this semester,
+
+115
+00:14:08,200 --> 00:14:12,020
+we will learn this layout from scratch, from A to Z.
+
+116
+00:14:13,820 --> 00:14:18,340
+Okay, I will use a software and help you to finish up
+
+117
+00:14:18,620 --> 00:14:20,460
+the design of column using Excel,
+
+118
+00:14:21,400 --> 00:14:24,640
+the designing of beams and the slabs using a floor,
+
+119
+00:14:25,340 --> 00:14:30,160
+RISA floor, and the design of footing using RISA foundation.
+
+120
+00:14:30,780 --> 00:14:31,060
+Promise.
+
+121
+00:14:32,900 --> 00:14:35,980
+But please promise me you will be interested
+
+122
+00:14:36,640 --> 00:14:39,980
+because this bar or this week will be very, very, very important.
+
+123
+00:14:42,540 --> 00:14:42,800
+Okay.
+
+124
+00:14:44,120 --> 00:14:48,720
+So guys, for some reason, we have two columns very close.
+
+125
+00:14:49,720 --> 00:14:53,360
+So I decided to design isolated footing for this one
+
+126
+00:14:53,500 --> 00:14:55,680
+and another isolated footing for this one,
+
+127
+00:14:55,800 --> 00:14:56,800
+I found overlapping.
+
+128
+00:14:58,060 --> 00:14:59,180
+I found interaction.
+
+129
+00:15:00,140 --> 00:15:01,780
+I found they are very close.
+
+130
+00:15:02,240 --> 00:15:03,920
+Probably there is no overlapping,
+
+131
+00:15:04,120 --> 00:15:06,920
+but they are very, very close like this,
+
+132
+00:15:08,020 --> 00:15:09,680
+very close to each other.
+
+133
+00:15:10,780 --> 00:15:17,080
+The best solution for this issue is combined footing.
+
+134
+00:15:18,760 --> 00:15:21,500
+So combined footing supporting more than one column,
+
+135
+00:15:22,380 --> 00:15:22,880
+two columns.
+
+136
+00:15:27,379 --> 00:15:29,060
+[BLANK_AUDIO]
+
+137
+00:15:32,340 --> 00:15:38,360
+One situation in which they may be used in when the columns are close together,
+
+138
+00:15:39,320 --> 00:15:46,260
+that isolated individual footing would run into each other, overlapping.
+
+139
+00:15:47,040 --> 00:15:51,779
+Another frequent use of combined footing occurs where one column is very close to
+
+140
+00:15:51,780 --> 00:16:01,240
+a property line probably. So we expect a column at the edge of the footing. So we
+
+141
+00:16:01,360 --> 00:16:08,540
+prefer to use combined footing with another column to make sure no over turning.
+
+142
+00:16:09,940 --> 00:16:10,260
+Okay.
+
+143
+00:16:17,360 --> 00:16:25,540
+So, actually I will not decide to use combined footing at the beginning.
+
+144
+00:16:26,020 --> 00:16:35,340
+No, I have to try first isolated footing. Failure to use isolated footing will
+
+145
+00:16:35,540 --> 00:16:42,400
+push you to use combined footing. This is very important because some of you will ask me, "Hey,
+
+146
+00:16:43,579 --> 00:16:48,040
+when I will decide to use combined footing?" Actually, I have no answer for this question
+
+147
+00:16:48,140 --> 00:16:54,880
+because I have to decide. I have to try first isolated footing, failure to use isolated footing.
+
+148
+00:16:55,390 --> 00:17:01,859
+You have to use another type of footing which is combined. Why you failed to use isolated footing
+
+149
+00:17:01,860 --> 00:17:06,800
+for two reasons. They are very close or there is overlapping between the two.
+
+150
+00:17:10,380 --> 00:17:11,339
+Any question?
+
+151
+00:17:15,000 --> 00:17:15,500
+Any question?
+
+152
+00:17:20,280 --> 00:17:20,480
+Okay.
+
+153
+00:17:27,540 --> 00:17:35,320
+It's very easy. First step, we need to figure out the area of footing. Equal p
+
+154
+00:17:36,320 --> 00:17:45,520
+divide q net. As you know, p that used with q net to figure out the area required of the footing
+
+155
+00:17:46,320 --> 00:17:51,720
+is did load plus life load without factors.
+
+156
+00:17:55,940 --> 00:18:04,360
+and that makes sense q net is q alt i'm sorry q allowable minus
+
+157
+00:18:07,420 --> 00:18:13,140
+gamma concrete itch footing minus gamma soil itch soil
+
+158
+00:18:16,550 --> 00:18:24,259
+i can figure out the area required guys we need to make sure we have
+
+159
+00:18:24,820 --> 00:18:40,760
+uniform pressure or uniform stress under the footing.
+
+160
+00:18:43,799 --> 00:18:54,800
+So the footing dimensions are selected so that the resultant force coincides with
+
+161
+00:18:54,800 --> 00:19:03,880
+the centroid of the footing. Guys, we have two columns, column number one and the column number two.
+
+162
+00:19:05,000 --> 00:19:12,580
+Column number one is supporting for example 100 kib. Column number two supporting 150 kib,
+
+163
+00:19:12,700 --> 00:19:18,000
+that makes sense. The two forces on the two columns are different, that makes sense.
+
+164
+00:19:19,440 --> 00:19:26,100
+This force and this force of the two columns has a resultant of force R.
+
+165
+00:19:28,440 --> 00:19:34,980
+Please make sure that this R is the centroid of this footing.
+
+166
+00:19:36,720 --> 00:19:42,300
+What you mean by centroid of this footing? I mean this distance from this site
+
+167
+00:19:43,700 --> 00:19:46,600
+must be the same distance from the other site.
+
+168
+00:19:49,200 --> 00:19:58,200
+That makes sense. This footing is supporting two columns.
+
+169
+00:20:01,140 --> 00:20:08,960
+This column has a force P1. The other column has a force P2.
+
+170
+00:20:09,880 --> 00:20:14,960
+The two forces are different. That makes sense. Each column supporting different loads.
+
+171
+00:20:17,460 --> 00:20:24,020
+Can you see here? Each column is supporting different to this column supporting this area only.
+
+172
+00:20:25,280 --> 00:20:33,220
+This column is supporting this area. There is a big difference. So what should I do?
+
+173
+00:20:34,120 --> 00:20:40,820
+I need to figure out where is the resultant force R. This R between this column and this column,
+
+174
+00:20:41,000 --> 00:20:47,060
+not sure where must be coincide with the centroid of this footing.
+
+175
+00:20:52,100 --> 00:20:52,300
+OK.
+
+176
+00:21:01,880 --> 00:21:05,620
+Once you figured out this total distance,
+
+177
+00:21:06,520 --> 00:21:10,220
+I can figure out the width of the footing
+
+178
+00:21:10,820 --> 00:21:19,340
+because length time width equal area required
+
+179
+00:21:20,340 --> 00:21:22,040
+that you get it from this equation.
+
+180
+00:21:24,020 --> 00:21:29,500
+Let's do this example and see what's going on.
+
+181
+00:21:56,179 --> 00:21:58,980
+[BLANK_AUDIO]
+
+182
+00:22:00,940 --> 00:22:04,320
+We have two columns.
+
+183
+00:22:09,520 --> 00:22:13,440
+The first one, 18 x 18 inch,
+
+184
+00:22:14,580 --> 00:22:19,720
+dead load = 120, life load = 100 k.
+
+185
+00:22:23,420 --> 00:22:25,820
+Second column, 20 x 20,
+
+186
+00:22:26,820 --> 00:22:35,220
+B did Loud equal to 100 KB, B live Loud equal 150. The distance between this column and
+
+187
+00:22:35,300 --> 00:22:50,480
+this column, center line, the center line is 12 feet. And we have a pervert line. That
+
+188
+00:22:50,500 --> 00:23:01,460
+means I cannot extend my footing to the to the neighbor area. So select the dimensions of the
+
+189
+00:23:01,500 --> 00:23:08,200
+shown rectangular combined footing for the two columns given q allowable equal five thousand.
+
+190
+00:23:10,740 --> 00:23:14,520
+So guys if you don't have any information about
+
+191
+00:23:18,660 --> 00:23:25,500
+No, we have some information here. The bottom of the footing is to be 60 feet below grade.
+
+192
+00:23:29,200 --> 00:23:38,280
+Ground surface. Here is the footing. This depth of excavation, 6 feet.
+
+193
+00:23:41,780 --> 00:23:51,560
+So I will assume this thickness probably 2 feet 24 inch. So assume
+
+194
+00:23:55,140 --> 00:24:13,800
+H footing equal to feet 24 inch. So H soil will be four feet. So Q net equal Q allowable minus
+
+195
+00:24:14,260 --> 00:24:21,300
+gamma concrete HF footing minus gamma soil H soil q allowable is 5000
+
+196
+00:24:23,320 --> 00:24:34,540
+gamma concrete 150 HF footing 2 feet gamma soil is given 115 H soil is 4 feet so I can figure out
+
+197
+00:24:34,660 --> 00:24:50,860
+the q-net 5000 minus 150 times 2 minus 115 times 4 4 240 pound bell square feet
+
+198
+00:24:59,300 --> 00:25:05,880
+P for this column P1 equal 220 kip.
+
+199
+00:25:07,440 --> 00:25:13,420
+P for this column equal 350 kip.
+
+200
+00:25:14,120 --> 00:25:21,700
+So the total P for this footing would be 220 plus 350 equal
+
+201
+00:25:28,800 --> 00:25:51,440
+570 KIP. So the area required, which equal P/Q net, P570 KIP will be multiplied by 1000
+
+202
+00:25:51,600 --> 00:25:58,760
+to be inbound, divide q net, which is 4,240.
+
+203
+00:26:09,940 --> 00:26:11,800
+134.4 feet.
+
+204
+00:26:12,980 --> 00:26:13,300
+I'm sorry.
+
+205
+00:26:14,240 --> 00:26:14,860
+Feet is square.
+
+206
+00:26:15,620 --> 00:26:16,120
+It's the area.
+
+207
+00:26:26,260 --> 00:26:26,660
+Any question?
+
+208
+00:26:28,840 --> 00:26:30,420
+Any question until this moment?
+
+209
+00:26:31,070 --> 00:26:32,600
+We didn't do anything new.
+
+210
+00:26:33,130 --> 00:26:34,540
+I figured out the Q net.
+
+211
+00:26:34,920 --> 00:26:36,480
+I figured out the total load.
+
+212
+00:26:37,920 --> 00:26:42,240
+Then I divided the total load by Q net to figure out the area required.
+
+213
+00:26:43,560 --> 00:26:48,020
+We need to convert this area required to dimensions.
+
+214
+00:26:50,060 --> 00:26:51,720
+So please pay attention.
+
+215
+00:26:52,920 --> 00:26:57,680
+I have a column here with P equals 350.
+
+216
+00:26:59,960 --> 00:27:06,680
+I have another column here with a P equals 220, I think.
+
+217
+00:27:07,920 --> 00:27:11,020
+Yes, the distance between the two columns,
+
+218
+00:27:11,280 --> 00:27:12,940
+Center to center is 12 feet.
+
+219
+00:27:20,000 --> 00:27:22,580
+Where is the resultant force?
+
+220
+00:27:28,080 --> 00:27:33,640
+By the way, resultant force equal 570 kip.
+
+221
+00:27:34,120 --> 00:27:34,580
+But where?
+
+222
+00:27:36,800 --> 00:27:37,020
+Where?
+
+223
+00:27:38,580 --> 00:27:38,740
+Or?
+
+224
+00:27:41,080 --> 00:27:49,460
+Okay, I will assume this R at a distance X from this column.
+
+225
+00:27:54,419 --> 00:28:04,560
+Take moment at column one, first column, second column.
+
+226
+00:28:05,500 --> 00:28:08,260
+If you take moment at column one to 120
+
+227
+00:28:08,880 --> 00:28:10,340
+will be multiplied by zero.
+
+228
+00:28:10,800 --> 00:28:12,400
+We don't have distance for this load
+
+229
+00:28:12,720 --> 00:28:16,420
+because I'm taking a moment at the first column plus
+
+230
+00:28:17,720 --> 00:28:22,580
+second column 350 load time distance 12.
+
+231
+00:28:24,500 --> 00:28:29,079
+This moment must be equivalent to R
+
+232
+00:28:32,240 --> 00:28:33,460
+time distance X.
+
+233
+00:28:36,720 --> 00:28:38,900
+So here is that, applied.
+
+234
+00:28:41,799 --> 00:28:53,140
+loads the other side here is the resultant force and I decided to take moment from this column.
+
+235
+00:28:54,010 --> 00:28:59,340
+So the distance for the resultant force will be measured from this column by distance x.
+
+236
+00:29:00,740 --> 00:29:06,080
+the value of x, I'm sorry, put the value of r, 570.
+
+237
+00:29:06,930 --> 00:29:11,140
+The only unknown in this equation will be distance x.
+
+238
+00:29:11,670 --> 00:29:20,000
+The distance x will be 7.4 feet.
+
+239
+00:29:23,660 --> 00:29:25,920
+7.4 feet.
+
+240
+00:29:29,760 --> 00:29:37,040
+Any question? We need to figure out the resultant force because I don't have one column. I have two columns.
+
+241
+00:29:38,580 --> 00:29:42,120
+So, where is the resultant force for the two columns?
+
+242
+00:29:44,200 --> 00:29:51,540
+I found it to be 7.4 feet from the centerline of the first column.
+
+243
+00:29:59,180 --> 00:30:11,580
+Okay. So this distance, here is the resultant force R and this distance to this column,
+
+244
+00:30:12,420 --> 00:30:30,720
+the centroid of this column 7.4 feet. Can you tell me what is the distance between this
+
+245
+00:30:30,740 --> 00:30:37,100
+this resultant and the edge of the property line.
+
+246
+00:31:03,140 --> 00:31:03,660
+Thank you.
+
+247
+00:31:05,520 --> 00:31:13,660
+Oliver 7.4 but 7.4 is feet 9 divided 12 that's fine.
+
+248
+00:31:13,990 --> 00:31:17,920
+You are right Oliver but Brock how did you get 8.9?
+
+249
+00:31:20,160 --> 00:31:21,560
+I will not add 18.
+
+250
+00:31:22,580 --> 00:31:24,300
+Brock I will not add 18.
+
+251
+00:31:24,540 --> 00:31:29,500
+I will add head distance for this column,
+
+252
+00:31:30,980 --> 00:31:33,060
+which is head 18, which is nine.
+
+253
+00:31:35,160 --> 00:31:41,340
+Okay, so this distance will be 8.15 feet.
+
+254
+00:31:45,600 --> 00:31:50,520
+Go ahead and add another distance to the other side,
+
+255
+00:31:51,860 --> 00:31:52,699
+18.15.
+
+256
+00:31:52,700 --> 00:32:04,260
+point 15. So the total length of this footing will be 16.3 feet and I am good
+
+257
+00:32:05,400 --> 00:32:15,460
+because the resultant are at the midpoint of this footing 8.15 from this side and 8.15 from the other side.
+
+258
+00:32:16,700 --> 00:32:29,400
+So the length of this footing equals 16.3 feet.
+
+259
+00:32:32,420 --> 00:32:32,940
+One more time.
+
+260
+00:32:34,180 --> 00:32:39,740
+Once you figured out where is the centroid, please, the distance between, I'm sorry,
+
+261
+00:32:40,040 --> 00:32:44,200
+where is the resultant force, the distance between this resultant force and the edge.
+
+262
+00:32:45,780 --> 00:32:50,220
+from this side, property line, must be the same value
+
+263
+00:32:50,980 --> 00:32:53,460
+or the same distance from the other side.
+
+264
+00:32:54,920 --> 00:32:58,180
+So 88.15 from this side, we should
+
+265
+00:32:58,260 --> 00:33:03,980
+have 8.15 from the other side so that total length is 16.3.
+
+266
+00:33:04,940 --> 00:33:13,379
+Guys, the area required for this footing was--
+
+267
+00:33:13,380 --> 00:33:14,420
+What is the value of the area?
+
+268
+00:33:18,139 --> 00:33:19,680
+134.4.
+
+269
+00:33:22,460 --> 00:33:27,040
+So the width of this footing will be this area.
+
+270
+00:33:28,380 --> 00:33:37,640
+Divide this lens will be 16.5.
+
+271
+00:33:40,540 --> 00:33:51,560
+So the final conclusion, this lens will be 16.5 and this total lens is 16.3.
+
+272
+00:33:52,320 --> 00:33:59,880
+I am good. I designed the footing or I designed the dimension of the footing.
+
+273
+00:34:00,480 --> 00:34:06,379
+That's enough for this course. We don't need to figure out the bunch or the shear
+
+274
+00:34:06,380 --> 00:34:11,179
+or the bending moment, it's more complicated a little bit, and it's very very very long.
+
+275
+00:34:11,679 --> 00:34:14,560
+We will use a software to finish up this footing.
+
+276
+00:34:17,000 --> 00:34:25,340
+So I need only to understand, to learn how to figure out the dimension of a combined footing.
+
+277
+00:34:26,460 --> 00:34:33,399
+First step, after you figured out the unit value, first step, where is the centroid?
+
+278
+00:34:33,419 --> 00:34:37,000
+I'm sorry, where is the resultant force R between the two columns?
+
+279
+00:34:38,340 --> 00:34:44,540
+Once you figure out the resultant force, make sure this resultant force is the centroid of this
+
+280
+00:34:44,620 --> 00:34:53,600
+footing. That's it. That's all. Okay.
+
+281
+00:35:04,099 --> 00:35:12,420
+Really? Are you sure? Yeah, looks good. 134.4.
+
+282
+00:35:13,320 --> 00:35:19,420
+The device is 16.3. I'm not sure how did I get 16.5, but anyway, thank you.
+
+283
+00:35:21,740 --> 00:35:34,900
+like my calculator is 8.2 or 3 feet. I'm sorry. You are right. So this one will be 8.3 and that makes sense.
+
+284
+00:35:40,080 --> 00:35:48,240
+8.3. So 134 divides 16. Yeah, that makes sense. Thank you.
+
+285
+00:35:56,600 --> 00:36:02,900
+Check of bar and check of shear reinforcement. Everything is the same like isolated footing,
+
+286
+00:36:03,040 --> 00:36:09,120
+but it's very, very long because we have to call them. We need to convert this footing to a beam
+
+287
+00:36:09,800 --> 00:36:16,480
+and the draw shear force diagram, bending moment diagram. And from this diagrams, I can design the
+
+288
+00:36:16,480 --> 00:36:23,120
+footing looks like a beam but it's not a big deal nothing in you so I will stop
+
+289
+00:36:23,240 --> 00:36:24,080
+until this point
+
+290
+00:36:31,580 --> 00:36:38,020
+yes yeah at this moment Alex yes you have two option at this moment look to
+
+291
+00:36:38,040 --> 00:36:45,440
+me okay I have a column and I have another call we don't have pervert
+
+292
+00:36:45,440 --> 00:36:55,620
+I found the resultant R here. What should I do? You have two options. The first option,
+
+293
+00:36:56,520 --> 00:37:08,580
+this R is far away from this column. So I will measure this distance and I will
+
+294
+00:37:08,600 --> 00:37:17,220
+put the same distance on the other side and I will say here is the length of the footing.
+
+295
+00:37:21,050 --> 00:37:29,960
+You got it? So I didn't assume anything. I just say hey the distance between this resultant force
+
+296
+00:37:29,960 --> 00:37:34,900
+And the farthest away column is this one.
+
+297
+00:37:35,380 --> 00:37:41,320
+Please put the same distance on the other side to figure out the edge of the footing here.
+
+298
+00:37:44,400 --> 00:37:52,400
+Or we have a column, we have another column, and I have R here, it's up to you.
+
+299
+00:37:52,960 --> 00:38:06,940
+If you decide this edge of the footing here, please measure this distance and put the same distance on the other side to figure out the edge of the footing here.
+
+300
+00:38:07,780 --> 00:38:13,620
+Once you figured out the lens of the footing, I can figure out the way.
+
+301
+00:38:15,860 --> 00:38:16,920
+This one is up to you.
+
+302
+00:38:21,460 --> 00:38:24,380
+Okay, so you have this option or this option.
+
+303
+00:38:25,740 --> 00:38:31,860
+Even if you don't have a provert line, I decided to make the edge of the footing and the edge of the corner.
+
+304
+00:38:32,440 --> 00:38:34,220
+I decided this. That's fine.
+
+305
+00:38:36,079 --> 00:38:38,760
+Thank you, Alex, for your question. It's a good question.
+
+306
+00:38:42,460 --> 00:38:49,040
+You have the third problem in the homework related to this one, something like this.
+
+307
+00:38:49,040 --> 00:38:55,940
+you have a footing, combined footing, and we need only to figure out the dimension of this footing.
+
+308
+00:39:01,540 --> 00:39:02,160
+Any question?
+
+309
+00:39:02,960 --> 00:39:04,280
+[BLANK_AUDIO]
+

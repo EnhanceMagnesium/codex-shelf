@@ -1,0 +1,1928 @@
+1
+00:00:01,900 --> 00:00:02,700
+[SPLASH]
+
+2
+00:00:03,500 --> 00:00:06,760
+Design of reinforced concrete columns.
+
+3
+00:00:09,780 --> 00:00:15,060
+Just to remind you, for any concrete structure, not any,
+
+4
+00:00:15,740 --> 00:00:18,360
+but 90% of the concrete structures,
+
+5
+00:00:20,400 --> 00:00:24,540
+we need to design foundations, putting like this one.
+
+6
+00:00:25,600 --> 00:00:27,200
+We need to design columns.
+
+7
+00:00:29,600 --> 00:00:31,040
+We need to design beams.
+
+8
+00:00:32,820 --> 00:00:34,700
+We need to design slabs.
+
+9
+00:00:36,900 --> 00:00:39,720
+We already done with the slabs and the beams.
+
+10
+00:00:41,260 --> 00:00:44,860
+Right now, I will talk about design of columns.
+
+11
+00:00:46,500 --> 00:00:48,480
+Columns mean we have reaction.
+
+12
+00:00:49,660 --> 00:00:53,460
+This reaction will make in this column something
+
+13
+00:00:53,600 --> 00:00:57,680
+called axial force or axial compression force.
+
+14
+00:01:00,680 --> 00:01:04,600
+Okay, so our topic today is talking about columns.
+
+15
+00:01:06,720 --> 00:01:10,700
+By the way, we have two main types of column.
+
+16
+00:01:12,840 --> 00:01:17,039
+The first type called short column.
+
+17
+00:01:22,080 --> 00:01:25,980
+the other type called long column.
+
+18
+00:01:30,060 --> 00:01:32,540
+Anybody can tell me what is the difference
+
+19
+00:01:32,740 --> 00:01:36,740
+between short column and long column?
+
+20
+00:01:40,200 --> 00:01:45,460
+What is the difference between short and long columns?
+
+21
+00:01:49,180 --> 00:01:51,100
+So short to columns means short,
+
+22
+00:01:52,220 --> 00:01:54,040
+Long columns mean long.
+
+23
+00:01:54,970 --> 00:01:57,760
+So what is the limit for the short?
+
+24
+00:01:57,940 --> 00:01:58,620
+How many feet?
+
+25
+00:01:58,920 --> 00:01:59,420
+Five feet?
+
+26
+00:02:00,320 --> 00:02:00,760
+10 feet?
+
+27
+00:02:01,520 --> 00:02:02,480
+15 feet?
+
+28
+00:02:04,700 --> 00:02:07,400
+So what is the meaning short and long?
+
+29
+00:02:13,080 --> 00:02:13,520
+Perfect.
+
+30
+00:02:13,740 --> 00:02:15,200
+It's a good answer, Oliver.
+
+31
+00:02:15,360 --> 00:02:15,760
+Thank you.
+
+32
+00:02:17,240 --> 00:02:24,660
+But I need a different between this one and this one in a in a simple words,
+
+33
+00:02:24,880 --> 00:02:26,480
+not in a mathematical expressions.
+
+34
+00:02:26,650 --> 00:02:29,720
+You are talking about mathematics, you are talking about numbers.
+
+35
+00:02:30,520 --> 00:02:34,280
+But I need to answer this question, what is the meaning?
+
+36
+00:02:35,860 --> 00:02:38,740
+What is the meaning of short and long columns?
+
+37
+00:02:39,440 --> 00:02:45,320
+The only difference between long and the short columns is buckling.
+
+38
+00:02:49,440 --> 00:02:58,740
+If you are considering the effect of buckling, if buckling of the column make big issue,
+
+39
+00:03:00,220 --> 00:03:03,100
+that means this column is a long column.
+
+40
+00:03:05,200 --> 00:03:14,459
+If the buckling effect can be ignored, can be neglected, can be cancelled, it's not
+
+41
+00:03:14,460 --> 00:03:22,260
+a big deal to consider buckling you are talking about short column. This is only different.
+
+42
+00:03:23,480 --> 00:03:29,580
+Then what is the limit to consider buckling and not considering buckling what Oliver said?
+
+43
+00:03:33,360 --> 00:03:42,859
+So I cannot say longer column with L equal to 100 feet or short column equal L equal
+
+44
+00:03:42,860 --> 00:03:52,960
+10 feet I cannot say this why because sometimes your column is very very long but also very very thick
+
+45
+00:03:55,260 --> 00:04:00,900
+sometimes your column is very very short 10 feet but it's very very thin
+
+46
+00:04:02,880 --> 00:04:10,379
+so I cannot consider lengths only you have to consider something else which called R
+
+47
+00:04:10,380 --> 00:04:19,500
+R. I believe you learned a little bit about R before in engineering mechanics probably
+
+48
+00:04:19,840 --> 00:04:33,800
+or strengths of material. R called radius of duration. R equal square root of I moment
+
+49
+00:04:33,900 --> 00:04:45,640
+of inertia divide area. So please don't think like this short to columns mean short. Long
+
+50
+00:04:45,640 --> 00:04:53,760
+to column mean long no short to column mean buckling is not big issue is not considered.
+
+51
+00:04:54,940 --> 00:05:00,259
+Long to column mean we have a big issue with buckling buckling can cause failure of this
+
+52
+00:05:00,260 --> 00:05:07,900
+column. How can I figure buckling is an issue or not? By lens only? No. By cross
+
+53
+00:05:08,140 --> 00:05:19,220
+section only? No. Both of them. So we have a column with lens L and the cross
+
+54
+00:05:19,340 --> 00:05:27,339
+section. This one is a lens. The cross section will be a function or will be
+
+55
+00:05:27,340 --> 00:05:37,600
+used as a function of r radius of radiation which equal all section moment of inertia divide area.
+
+56
+00:05:43,060 --> 00:05:52,600
+Buckling keep it in your mind the difference between short column and the longer column is
+
+57
+00:05:52,600 --> 00:06:04,160
+buckling. Buckling is very low effect with a very low effect. Longer column or
+
+58
+00:06:04,280 --> 00:06:12,800
+sometimes we call it slender column, buckle easily. I believe shorter column
+
+59
+00:06:12,960 --> 00:06:17,940
+will be stronger than longer column because buckling will make the column
+
+60
+00:06:18,040 --> 00:06:31,000
+weaker. You know when I was young and I'm trying to break a piece of stick if I have
+
+61
+00:06:31,380 --> 00:06:38,360
+piece of stick like this and I'm trying to push it from the top to make it broken.
+
+62
+00:06:39,610 --> 00:06:48,020
+The easy way to put my hand or to push this piece of stick at the middle by the
+
+63
+00:06:48,020 --> 00:06:56,700
+hand. So push this one and the push from the top I can't break this stick easy. Why? Because if you
+
+64
+00:06:56,740 --> 00:07:05,440
+push from here you can make it curve. Once it's become curved I can't push from the top to break it.
+
+65
+00:07:06,500 --> 00:07:12,040
+That's right. This is the effect of buckling. If you have a column,
+
+66
+00:07:14,340 --> 00:07:19,920
+column can support vertical force compression. If buckling happened,
+
+67
+00:07:23,730 --> 00:07:34,380
+the column becomes weaker because this force can break this column easily if this deformity
+
+68
+00:07:34,820 --> 00:07:35,120
+happened.
+
+69
+00:07:39,340 --> 00:07:39,560
+OK.
+
+70
+00:07:40,900 --> 00:07:42,860
+So this is the difference between short column
+
+71
+00:07:43,060 --> 00:07:44,140
+and long column.
+
+72
+00:07:45,100 --> 00:07:46,940
+In a simple way, like Oliver said,
+
+73
+00:07:47,780 --> 00:07:51,860
+if you divide the effective length of the column
+
+74
+00:07:52,120 --> 00:07:57,100
+by the least dimension of the cross section less than
+
+75
+00:07:57,110 --> 00:08:01,580
+or equal 12, this column can be considered short column.
+
+76
+00:08:03,200 --> 00:08:08,000
+We are talking about lens and dimension of the cross-section.
+
+77
+00:08:08,200 --> 00:08:11,400
+Both of them, two factors, must be considered
+
+78
+00:08:11,540 --> 00:08:13,740
+if you are talking about short and long column.
+
+79
+00:08:14,600 --> 00:08:19,700
+So probably, probably, you have a column with lens equal 50 feet
+
+80
+00:08:20,400 --> 00:08:21,600
+can be considered short.
+
+81
+00:08:23,020 --> 00:08:25,360
+Sometimes you have a column with 20 feet,
+
+82
+00:08:25,920 --> 00:08:30,960
+sometimes considered long, because this is not the only factor.
+
+83
+00:08:31,220 --> 00:08:33,020
+The lens is not the only factor.
+
+84
+00:08:33,120 --> 00:08:35,599
+You have to consider what is the dimension
+
+85
+00:08:36,159 --> 00:08:37,900
+of the cross-section, both of them.
+
+86
+00:08:39,520 --> 00:08:39,740
+Okay.
+
+87
+00:08:43,340 --> 00:08:46,360
+Failure of the short two column is crushing of concrete,
+
+88
+00:08:46,660 --> 00:08:49,980
+failure in the long column D2 buckling.
+
+89
+00:08:51,460 --> 00:08:55,240
+Guys, I talked here about something called effective lens.
+
+90
+00:08:57,340 --> 00:08:59,200
+What is the meaning of effective lens?
+
+91
+00:08:59,380 --> 00:09:00,860
+Is it the lens of the column?
+
+92
+00:09:01,000 --> 00:09:02,260
+Is it the height of the column?
+
+93
+00:09:03,140 --> 00:09:07,040
+No, we have some concept here we need to consider them.
+
+94
+00:09:07,550 --> 00:09:18,540
+The first one, something called and supported lens called L ultimate, I'm sorry, and supported lens.
+
+95
+00:09:21,460 --> 00:09:29,740
+We have this is lab at one floor and we have another slave at the second floor.
+
+96
+00:09:31,600 --> 00:09:35,020
+So what is the unsupported lens of this column?
+
+97
+00:09:36,040 --> 00:09:44,040
+Is it center to center at the center thickness of the slab to the center thickness of the slab?
+
+98
+00:09:44,680 --> 00:09:44,780
+No.
+
+99
+00:09:46,560 --> 00:09:51,020
+From what? The top face to the bottom face.
+
+100
+00:09:53,980 --> 00:09:57,940
+If this slab has drop panel, do you remember the drop panel?
+
+101
+00:09:58,560 --> 00:10:12,000
+So we are talking about the lowest face of the drop panel to the top face of the slab.
+
+102
+00:10:13,690 --> 00:10:25,180
+The unsupported lens is considered to be equal to the clear distance between slabs.
+
+103
+00:10:26,600 --> 00:10:32,880
+Sometimes you have a beam. So I'm talking about clear distance between the bottom of
+
+104
+00:10:32,930 --> 00:10:42,500
+the beam to the top of the slab. Clear distance between beams, between slabs, anything else.
+
+105
+00:10:43,240 --> 00:10:47,600
+Sometimes do you remember what is the meaning of this ship? Anybody remember what is the
+
+106
+00:10:47,600 --> 00:10:53,840
+meaning of this shape, I told you this before. Do you remember column head?
+
+107
+00:10:55,320 --> 00:11:00,420
+Column head, if you have a column head at the top of the column, the clear
+
+108
+00:11:01,319 --> 00:11:07,140
+distance from the bottom to the top of the slip. So first step, you need to
+
+109
+00:11:07,400 --> 00:11:16,319
+figure out what is the unsupported lens of a column. Then we need to consider
+
+110
+00:11:16,320 --> 00:11:26,960
+something called factor effective lens factor key effective lens fact effective
+
+111
+00:11:27,040 --> 00:11:36,000
+lens factor key based on what are the conditions of the end of the column if
+
+112
+00:11:36,000 --> 00:11:45,780
+If your column is hinge or pin and hinge on the other side k=1.
+
+113
+00:11:47,980 --> 00:11:54,260
+If it fixes from one side and the three from the other side k=2.
+
+114
+00:11:56,520 --> 00:12:03,040
+Fix it from one side and fix it from the other side 0.5.
+
+115
+00:12:04,000 --> 00:12:09,240
+fix it from one side and the hinge from the other side 0.7
+
+116
+00:12:10,860 --> 00:12:15,880
+So based on the end conditions of the column I can figure out key
+
+117
+00:12:17,000 --> 00:12:18,720
+based on the column and
+
+118
+00:12:19,720 --> 00:12:26,480
+The slabs and the beads I can figure out the unsupported lens if you would like to get the effective
+
+119
+00:12:28,920 --> 00:12:31,020
+Lens of the column
+
+120
+00:12:31,840 --> 00:12:33,980
+multiply key
+
+121
+00:12:33,980 --> 00:12:43,380
+time lu, the effective lens effector key, time the unsupported lens of the column.
+
+122
+00:12:45,080 --> 00:13:00,080
+This term is very important, effective lens. So if you would like to divide the effective lens to the least dimension, least dimension, you know guys, your column.
+
+123
+00:13:04,600 --> 00:13:05,700
+Looks like this.
+
+124
+00:13:06,620 --> 00:13:08,720
+So sometimes we have long direction,
+
+125
+00:13:09,420 --> 00:13:11,100
+and sometimes we have short direction.
+
+126
+00:13:11,860 --> 00:13:15,500
+So I'm talking about the least dimension of the cross section.
+
+127
+00:13:15,620 --> 00:13:16,720
+So I'm talking about this one.
+
+128
+00:13:17,700 --> 00:13:20,280
+Effective lens divide this one if this number,
+
+129
+00:13:20,440 --> 00:13:23,400
+leader smaller than 12, you are talking about short call.
+
+130
+00:13:24,020 --> 00:13:26,660
+Greater than 12, you are talking about long call.
+
+131
+00:13:29,000 --> 00:13:29,780
+Any questions so far?
+
+132
+00:13:29,860 --> 00:13:34,420
+Any questions so far? Looks good.
+
+133
+00:13:42,740 --> 00:13:48,840
+If you are talking about ACI criteria or ACI conditions,
+
+134
+00:13:49,700 --> 00:13:53,180
+ACI has different opinion.
+
+135
+00:13:54,860 --> 00:13:57,800
+To consider your column short,
+
+136
+00:14:01,080 --> 00:14:05,720
+or long you have to consider this expression.
+
+137
+00:14:08,060 --> 00:14:18,060
+If Klu divided by r smaller than or equal 34 minus 12 m1 divided by m2 this column if
+
+138
+00:14:18,120 --> 00:14:20,160
+this condition happens this column will be short.
+
+139
+00:14:22,060 --> 00:14:24,980
+Column or buckling will be neglected.
+
+140
+00:14:27,120 --> 00:14:38,900
+M1 and M2 moment on the column. Sometimes we have a moment here, sometimes we have a moment here because this column is a member in a frame. For example, M1 and M2.
+
+141
+00:14:40,480 --> 00:14:51,100
+If you don't have moment, please forget this term. Then you are talking about KL/R smaller than or equal 34.
+
+142
+00:14:52,100 --> 00:14:55,060
+If you have moment, please consider this moment.
+
+143
+00:14:56,300 --> 00:15:00,280
+If most of the cases we don't have moment, sometimes we have.
+
+144
+00:15:01,820 --> 00:15:03,000
+What is the meaning of R?
+
+145
+00:15:04,260 --> 00:15:05,940
+R radius of radiation.
+
+146
+00:15:07,560 --> 00:15:16,080
+According to ACI, you have three different way to figure out what is the value of R.
+
+147
+00:15:17,100 --> 00:15:24,860
+Based on strengths of material are radius of radiation equal square root of I gross divide I a gross area.
+
+148
+00:15:27,740 --> 00:15:31,820
+So for example, if you have a column like this.
+
+149
+00:15:34,940 --> 00:15:47,160
+20 inch time 20 inch. So inertia, the inertia of this cross section will be 20 times 20 to power third divide 12.
+
+150
+00:15:48,820 --> 00:15:52,240
+Area of this cross section 20 times 20.
+
+151
+00:15:54,800 --> 00:16:01,780
+Radius of variation of this cross section square root of inertia divide area. I can get it.
+
+152
+00:16:04,840 --> 00:16:14,580
+We have more simplest form. 0.3 times the dimension in the direction of stability is
+
+153
+00:16:14,660 --> 00:16:22,040
+being considered for a rectangular column. Probably I will say according to ACI radius
+
+154
+00:16:22,140 --> 00:16:25,180
+of variation equal 0.3 times 20.
+
+155
+00:16:25,920 --> 00:16:26,320
+That's it.
+
+156
+00:16:27,720 --> 00:16:28,180
+Equal 6.
+
+157
+00:16:29,940 --> 00:16:30,320
+That's it.
+
+158
+00:16:33,640 --> 00:16:34,480
+This one is correct.
+
+159
+00:16:34,880 --> 00:16:35,640
+This one is correct.
+
+160
+00:16:35,840 --> 00:16:38,980
+Probably the two values will be very close.
+
+161
+00:16:39,180 --> 00:16:41,800
+It's not exactly the same, but very close.
+
+162
+00:16:44,240 --> 00:16:49,019
+If you are talking about circular column
+
+163
+00:16:49,020 --> 00:16:54,260
+with a diameter D, radius of variation equal point 25,
+
+164
+00:16:54,700 --> 00:16:55,240
+this diameter.
+
+165
+00:16:58,000 --> 00:17:00,200
+I'm not talking about my equations.
+
+166
+00:17:00,400 --> 00:17:01,660
+I'm not talking about my opinion.
+
+167
+00:17:01,800 --> 00:17:09,900
+I'm talking about what are the provided values for R in ACR.
+
+168
+00:17:10,939 --> 00:17:11,819
+So this one is OK.
+
+169
+00:17:12,079 --> 00:17:12,760
+This one is OK.
+
+170
+00:17:12,920 --> 00:17:13,600
+This one is OK.
+
+171
+00:17:14,060 --> 00:17:17,079
+But remember the third one only for circular column.
+
+172
+00:17:25,040 --> 00:17:25,260
+Okay.
+
+173
+00:17:30,580 --> 00:17:35,840
+So one of you will ask me, but before he is asking, I will ask you first.
+
+174
+00:17:37,100 --> 00:17:43,980
+Okay, I understand this expression Klu divide r smaller than or equal this number.
+
+175
+00:17:44,180 --> 00:17:46,920
+What about this one? What's going on here?
+
+176
+00:17:49,200 --> 00:17:54,140
+You told me or the slide told me this one for non-sway frames.
+
+177
+00:17:56,220 --> 00:17:58,180
+This one for sway frames.
+
+178
+00:17:59,660 --> 00:18:02,160
+What do you mean by non-sway and sway?
+
+179
+00:18:03,700 --> 00:18:07,060
+Yeah, I know, non-sway, sway, right or left.
+
+180
+00:18:08,400 --> 00:18:11,540
+So what is the difference between this one and this one?
+
+181
+00:18:17,180 --> 00:18:18,560
+Do you know?
+
+182
+00:18:22,780 --> 00:18:23,960
+Guys, are you here?
+
+183
+00:18:33,140 --> 00:18:38,140
+I'm not sure if you did, if you watched this video before or not.
+
+184
+00:18:58,900 --> 00:19:03,860
+There is a video in Brazil after the earthquake. Yeah, this one.
+
+185
+00:19:05,140 --> 00:19:06,740
+Do you, did you, did you watch this video?
+
+186
+00:19:14,760 --> 00:19:16,840
+Or Mexico? I'm sorry. It's not great.
+
+187
+00:19:17,070 --> 00:19:17,200
+No.
+
+188
+00:19:19,780 --> 00:19:20,880
+Can you watch this one?
+
+189
+00:19:22,840 --> 00:19:24,580
+During the earthquake in Mexico.
+
+190
+00:19:26,020 --> 00:19:29,500
+Can you watch? The building is swaying.
+
+191
+00:19:30,760 --> 00:19:33,080
+Lift and ride into the effect of earthquake.
+
+192
+00:19:33,820 --> 00:19:40,920
+In this condition, if you would like to consider if your column is long or short,
+
+193
+00:19:41,300 --> 00:19:48,100
+in this situation, you have swaying, then you have to consider this expression.
+
+194
+00:19:50,020 --> 00:19:51,760
+For sway frames.
+
+195
+00:19:52,820 --> 00:19:57,720
+Because you are watching the video, the building is swaying left and right.
+
+196
+00:20:00,060 --> 00:20:01,400
+Due to the effect of earthquake.
+
+197
+00:20:03,620 --> 00:20:05,920
+I'm not kidding, it's a real video.
+
+198
+00:20:11,860 --> 00:20:17,760
+If you are considering the stability of the building under the normal condition, dead and alive load,
+
+199
+00:20:18,120 --> 00:20:21,020
+we are talking about non sway frames.
+
+200
+00:20:22,000 --> 00:20:22,500
+Did you get it?
+
+201
+00:20:33,740 --> 00:20:42,800
+Thank you. This is another reason, Burak. Yes, anything that caused lateral swaying
+
+202
+00:20:43,020 --> 00:20:50,519
+of your building. I'm talking in this video about earthquake or wind loot or whatever
+
+203
+00:20:50,520 --> 00:20:58,140
+the reason but the final situation you're building moving right and left for any reason.
+
+204
+00:20:59,340 --> 00:21:00,760
+That means we have a swing.
+
+205
+00:21:03,200 --> 00:21:07,700
+But if your column is stable, if your building is stable, did we did loot and
+
+206
+00:21:07,780 --> 00:21:13,500
+delight loot only did we do it on the life vertical. That means we don't have sway.
+
+207
+00:21:14,200 --> 00:21:17,680
+so minus wave frame. So sometimes we have the two situations.
+
+208
+00:21:19,940 --> 00:21:26,940
+So right now I can figure out that we have two types of column
+
+209
+00:21:28,500 --> 00:21:30,940
+and I know what is the meaning of unsupported lengths.
+
+210
+00:21:31,900 --> 00:21:37,980
+Unsupported lengths means something the length between the top and the bottom from the two elements
+
+211
+00:21:39,080 --> 00:21:40,300
+supporting your column.
+
+212
+00:21:42,000 --> 00:21:46,600
+Slave and slab, that means the top of the slab and the bottom of the other slab.
+
+213
+00:21:47,360 --> 00:21:51,700
+If you have drop panel, so the bottom of the drop panel and the top of this slab.
+
+214
+00:21:51,940 --> 00:21:56,760
+If you have a beam, so at the bottom of the beam, I can figure out the unsupported lengths.
+
+215
+00:21:57,600 --> 00:22:03,600
+This unsupported lengths must be multiplied by effective length factor based on what is the condition,
+
+216
+00:22:03,720 --> 00:22:05,940
+what is the end condition of the column.
+
+217
+00:22:06,240 --> 00:22:08,060
+Hinged, hinged, fixed, fixed, fixed,
+
+218
+00:22:08,220 --> 00:22:11,320
+free, fixed, hinge, whatever the value of key.
+
+219
+00:22:13,200 --> 00:22:16,720
+Based on key and unsupported lens and radius of variation,
+
+220
+00:22:17,120 --> 00:22:20,740
+I can say buckling is considered.
+
+221
+00:22:22,500 --> 00:22:25,780
+It's longer column or buckling can be neglected.
+
+222
+00:22:26,040 --> 00:22:27,000
+It's a shorter column.
+
+223
+00:22:28,260 --> 00:22:31,559
+And by the way, ACI can help you to figure out
+
+224
+00:22:31,560 --> 00:22:38,760
+what is the radius of variation? If you would like to go to the ideal or the detailed or the accurate
+
+225
+00:22:39,600 --> 00:22:47,240
+calculations are equal square root of i cross divided area cross or just in a second 0.3 times
+
+226
+00:22:47,500 --> 00:22:53,420
+the dimension or 0.25 times the diameter if the column is circular column.
+
+227
+00:23:01,080 --> 00:23:09,820
+Let's start with the short column. Let's start with the short column. So short columns means
+
+228
+00:23:12,600 --> 00:23:19,200
+we don't have issues with buckling. We are good. Buckling is not a big issue. Short columns can
+
+229
+00:23:19,200 --> 00:23:29,959
+be in different three shapes. The first shape called tied column. The second one called spiral
+
+230
+00:23:30,840 --> 00:23:38,380
+column. The third one is composite column. Composite column would be covered in steel
+
+231
+00:23:38,860 --> 00:23:50,260
+design course in the spring next semester. So composite columns means probably we have steel tube
+
+232
+00:23:53,800 --> 00:24:00,600
+with a thickness T and this is steel tube filled with concrete.
+
+233
+00:24:04,350 --> 00:24:07,080
+So the final cross section called composite.
+
+234
+00:24:10,140 --> 00:24:16,820
+We have steel member and we have concrete member both of them
+
+235
+00:24:17,160 --> 00:24:28,140
+interacted together to form a composite column or sometimes we have w shape i section or h
+
+236
+00:24:28,280 --> 00:24:43,080
+section inside concrete this shape or this column can be called composite column or both of them
+
+237
+00:24:43,400 --> 00:24:50,060
+We have a steel tube and eye section probably and we have concrete.
+
+238
+00:24:51,300 --> 00:24:57,120
+All of these stuff will be covered in steel design. So I will focus only on tight column
+
+239
+00:24:57,960 --> 00:25:03,580
+and the spiral column. What is the main difference between tight column and the spiral column?
+
+240
+00:25:03,880 --> 00:25:14,080
+Some of you or some of engineers has a wrong background about what is the difference between
+
+241
+00:25:14,260 --> 00:25:21,560
+tide column and the spiral column. Some of them think spiral column means circular column.
+
+242
+00:25:23,380 --> 00:25:31,799
+Tide column means square or rectangular column. No, no, no. The difference between tide and the
+
+243
+00:25:31,800 --> 00:25:41,320
+spiral not the shape of the cross-section but how did you bought the
+
+244
+00:25:41,780 --> 00:25:50,140
+stirrups can you watch to this photo please your stirrups in this column looks
+
+245
+00:25:50,260 --> 00:26:01,780
+like a square or rectangle and we have another stirrup and we have another one
+
+246
+00:26:01,780 --> 00:26:13,240
+and we have a spacing in between that means we have separate each stirrups there is no connection
+
+247
+00:26:13,400 --> 00:26:22,020
+between this is the next one and the next one separate so we can call it tide column but for
+
+248
+00:26:22,020 --> 00:26:24,720
+For a spiral column, we have only one bar.
+
+249
+00:26:25,560 --> 00:26:29,160
+This one bar is, looks like a spiral.
+
+250
+00:26:30,950 --> 00:26:31,600
+Can you watch?
+
+251
+00:26:34,060 --> 00:26:35,040
+It's one unit.
+
+252
+00:26:36,850 --> 00:26:43,200
+So, the only difference between tight column and the spiral column is the shear reinforcement,
+
+253
+00:26:44,440 --> 00:26:48,240
+transverse reinforcement, which is called stirrups.
+
+254
+00:26:49,740 --> 00:26:55,940
+here looks like normal. Steer up another one another one we have it's spacing in between but this one
+
+255
+00:26:56,020 --> 00:27:19,720
+looks like spiral. Any question? So we decided that we are talking about short column. Inside
+
+256
+00:27:19,720 --> 00:27:23,720
+Are you talking about tight column or spiral column?
+
+257
+00:27:26,160 --> 00:27:26,400
+OK.
+
+258
+00:27:27,900 --> 00:27:31,200
+By the way, spiral column is more expensive, more stronger,
+
+259
+00:27:32,200 --> 00:27:35,060
+more stronger, but more expensive.
+
+260
+00:27:35,680 --> 00:27:40,460
+Anybody know what is the main purpose of these stirrups
+
+261
+00:27:41,330 --> 00:27:42,200
+or this spiral?
+
+262
+00:27:43,760 --> 00:27:44,060
+Why?
+
+263
+00:27:45,800 --> 00:27:48,500
+Why these stirrups or this spiral in a short column?
+
+264
+00:27:51,040 --> 00:27:51,980
+What is the mean purpose?
+
+265
+00:27:57,240 --> 00:27:58,520
+Prevent buckling for what?
+
+266
+00:28:00,440 --> 00:28:01,840
+For a column, for the column?
+
+267
+00:28:04,300 --> 00:28:06,160
+Prevent buckling for the column?
+
+268
+00:28:07,180 --> 00:28:07,460
+No.
+
+269
+00:28:09,100 --> 00:28:11,720
+It's preventing buckling, but not for the column.
+
+270
+00:28:12,480 --> 00:28:14,480
+Because if you are talking about column,
+
+271
+00:28:15,160 --> 00:28:25,200
+is to prevent buckling you have three parameters three factors only this factor k this factor
+
+272
+00:28:25,580 --> 00:28:35,660
+and this factor anybody see these factors depending on reinforcement depending on what
+
+273
+00:28:35,660 --> 00:28:45,140
+is the shape of the stirrups no the first factor k depend on the end conditions of the column
+
+274
+00:28:45,140 --> 00:28:50,560
+The boarded lens depends on what is the clear height of this column.
+
+275
+00:28:52,080 --> 00:29:00,160
+Or depends on what is the cross-section area, moment of inertia, dimension, diameter.
+
+276
+00:29:01,880 --> 00:29:08,860
+We didn't talk about reinforcement to figure out this column under the effect of buckling or not.
+
+277
+00:29:10,780 --> 00:29:15,460
+So the main purpose of these stirrups
+
+278
+00:29:17,640 --> 00:29:23,120
+to prevent buckling for the lingotiodular reinforcement.
+
+279
+00:29:25,020 --> 00:29:26,980
+Guys, we have here vertical reinforcement.
+
+280
+00:29:27,800 --> 00:29:30,080
+These vertical reinforcement are very thin.
+
+281
+00:29:32,380 --> 00:29:38,420
+I know they are inside concrete, but during applying a force,
+
+282
+00:29:38,900 --> 00:29:43,620
+Probably, if you have a huge amount of vertical force,
+
+283
+00:29:44,340 --> 00:29:47,180
+can make buckling for this bar.
+
+284
+00:29:48,500 --> 00:29:52,000
+If this bar is alone, without any connection
+
+285
+00:29:52,280 --> 00:29:53,620
+with the other bars,
+
+286
+00:29:54,540 --> 00:29:57,560
+I can expect buckling for this column.
+
+287
+00:30:00,680 --> 00:30:05,640
+I can show you a good photo.
+
+288
+00:30:07,500 --> 00:30:08,580
+It's very important.
+
+289
+00:30:12,979 --> 00:30:13,420
+Buckling.
+
+290
+00:30:26,820 --> 00:30:27,240
+Buckling.
+
+291
+00:30:29,460 --> 00:30:34,440
+The layer of a bridge column.
+
+292
+00:30:51,860 --> 00:30:52,960
+Okay, let's watch this one.
+
+293
+00:30:55,160 --> 00:30:56,160
+Guys can you watch this one?
+
+294
+00:30:57,900 --> 00:30:58,580
+Can you see?
+
+295
+00:31:00,640 --> 00:31:05,260
+Due to the huge amount of force, what happened to the stereo enforcement?
+
+296
+00:31:06,000 --> 00:31:06,500
+What happened?
+
+297
+00:31:07,370 --> 00:31:09,880
+Is the stereo enforcement buckling happen?
+
+298
+00:31:11,100 --> 00:31:19,460
+If you have stirrups holding these bars together, we can prevent this type of failure.
+
+299
+00:31:22,660 --> 00:31:23,420
+Okay?
+
+300
+00:31:32,360 --> 00:31:35,800
+Yeah, why the earthquake?
+
+301
+00:31:36,620 --> 00:31:39,140
+OK, this is the answer.
+
+302
+00:31:39,460 --> 00:31:41,960
+The earthquake will make lateral force.
+
+303
+00:31:42,900 --> 00:31:46,300
+This lateral force will cause buckling to the column.
+
+304
+00:31:47,160 --> 00:31:50,840
+If your reinforcement is not prevented from buckling,
+
+305
+00:31:50,960 --> 00:31:52,620
+you can expect this type of failure.
+
+306
+00:31:54,840 --> 00:31:55,560
+And also,
+
+307
+00:31:57,379 --> 00:32:01,880
+stirrups to prevent or to support shear.
+
+308
+00:32:02,580 --> 00:32:04,780
+If you have earthquake, we have lateral load.
+
+309
+00:32:05,100 --> 00:32:06,360
+Lateral load means shear.
+
+310
+00:32:08,460 --> 00:32:11,400
+Okay, so if you are not talking about earthquake,
+
+311
+00:32:12,440 --> 00:32:14,480
+the normal life, which is dead under life,
+
+312
+00:32:14,820 --> 00:32:16,600
+your force is a vertical force.
+
+313
+00:32:17,880 --> 00:32:19,800
+So what is the meaning or what is the main purpose?
+
+314
+00:32:20,200 --> 00:32:22,800
+What is the function of these spiral?
+
+315
+00:32:24,260 --> 00:32:28,340
+To hold vertical reinforcement together,
+
+316
+00:32:28,980 --> 00:32:30,540
+to work as a one unit,
+
+317
+00:32:31,300 --> 00:32:35,920
+to prevent any buckling of these longitudinal bars.
+
+318
+00:32:38,840 --> 00:32:42,340
+So guys, I'm putting this information here.
+
+319
+00:32:44,900 --> 00:32:50,180
+Ties prevent longitudinal bars from buckling
+
+320
+00:32:50,180 --> 00:32:53,020
+failure of the cover of the concrete.
+
+321
+00:33:03,220 --> 00:33:08,760
+Tide column, I will start with tide column today. It's very simple according to
+
+322
+00:33:08,840 --> 00:33:17,040
+ACI we have this expression to figure out what is the design load capacity.
+
+323
+00:33:18,700 --> 00:33:24,780
+Guys remember your column has a vertical force here or a vertical reaction from the beam,
+
+324
+00:33:25,020 --> 00:33:28,080
+from the beam or from the slab or from the building.
+
+325
+00:33:30,400 --> 00:33:34,980
+We have here reaction, this reaction is a force on this column.
+
+326
+00:33:36,020 --> 00:33:40,080
+This reaction can be called p ultimate.
+
+327
+00:33:41,740 --> 00:33:48,640
+and this P ultimate equal 1.2 did load plus 1.6 life load.
+
+328
+00:33:49,510 --> 00:34:01,220
+To make sure this column is safe, P ultimate must be smaller than or equal to Pn.
+
+329
+00:34:03,340 --> 00:34:08,780
+Guys remember I told you before if you are talking about this expression alone,
+
+330
+00:34:08,940 --> 00:34:14,120
+this one called nominal capacity.
+
+331
+00:34:15,960 --> 00:34:20,240
+If you multiply it by Fe, which is reduction factor,
+
+332
+00:34:20,629 --> 00:34:26,100
+so the whole term will be called design load capacity.
+
+333
+00:34:27,919 --> 00:34:35,000
+Fe in column, do you remember what is the value of Fe in shear and torsion 0.75?
+
+334
+00:34:35,940 --> 00:34:42,540
+Remember, for columns, whatever the type of columns, it's 0.65 according to ACI.
+
+335
+00:34:44,419 --> 00:34:51,940
+So, Fe is 0.65 for column, for tight column, actually for spiral columns also.
+
+336
+00:34:55,580 --> 00:35:00,100
+Okay, can you talk a little bit about what's going on here?
+
+337
+00:35:00,230 --> 00:35:05,100
+Okay, 0.8 is a number, Fe is 0.65, 0.85, F prime C.
+
+338
+00:35:07,320 --> 00:35:08,440
+Do you remember this value?
+
+339
+00:35:11,000 --> 00:35:19,200
+0.85. Do you remember if you have a beam, we have neutral axis, we have a stress block here,
+
+340
+00:35:19,700 --> 00:35:28,360
+this value of stress block equal 0.85 if Brian C and this is E and we have here tension. Do you
+
+341
+00:35:28,360 --> 00:35:37,060
+remember this stuff so this value 0.85 f prime c is this expression anyway area
+
+342
+00:35:37,160 --> 00:35:46,260
+gross the total cross section area the total area s t the area of
+
+343
+00:35:46,320 --> 00:35:51,880
+sterile enforcement only I'm talking about longitudinal the vertical members
+
+344
+00:35:56,120 --> 00:36:04,000
+If yielding the yielding strength of steel, area ST, the area of longitudinal steel.
+
+345
+00:36:08,360 --> 00:36:09,780
+Any questions so far?
+
+346
+00:36:16,620 --> 00:36:18,080
+Any questions so far?
+
+347
+00:36:22,560 --> 00:36:35,960
+Okay, so how can I design a tight color? It's very simple. You need to figure out what is the value of Fe Pn.
+
+348
+00:36:37,060 --> 00:36:39,660
+What is the value of area gross?
+
+349
+00:36:41,400 --> 00:36:46,380
+What is the value of area steel?
+
+350
+00:36:46,560 --> 00:36:50,140
+So I need finally to figure out what is the value of Fe Pn.
+
+351
+00:36:50,480 --> 00:36:55,120
+This value must be greater than or equal the ultimate fluid.
+
+352
+00:36:59,300 --> 00:37:04,240
+We have some requirement, please you need to follow.
+
+353
+00:37:05,580 --> 00:37:06,800
+According to ACI.
+
+354
+00:37:09,000 --> 00:37:10,820
+According to ACI.
+
+355
+00:37:27,580 --> 00:37:30,240
+Just a second, I have issue.
+
+356
+00:37:45,780 --> 00:37:46,540
+Okay.
+
+357
+00:37:47,080 --> 00:37:47,260
+Okay.
+
+358
+00:37:54,740 --> 00:37:57,640
+Guys, by the way, I have question.
+
+359
+00:37:58,280 --> 00:38:00,080
+It's outside the score of the course.
+
+360
+00:38:02,020 --> 00:38:05,580
+I have a pin for this touch screen surface.
+
+361
+00:38:06,320 --> 00:38:09,840
+So the size of the battery is 4E.
+
+362
+00:38:11,420 --> 00:38:17,860
+very very very thin battery. I'm trying to look for it in Walmart but I didn't
+
+363
+00:38:17,890 --> 00:38:24,800
+find them the all size is 3a, 2a, probably 1a but this little size I
+
+364
+00:38:24,840 --> 00:38:27,420
+cannot find it so any recommendation?
+
+365
+00:38:32,040 --> 00:38:40,560
+Oh Amazon, yeah, I have to wait a little bit. Okay. Yeah, I can order it.
+
+366
+00:38:45,260 --> 00:38:55,940
+CVS, Walgreen probably, in the pharmacy? Oh, okay, thank you. Yeah, probably. Why not?
+
+367
+00:39:02,260 --> 00:39:05,580
+Okay. Thank you, Cody. Thank you, Robert too.
+
+368
+00:39:16,720 --> 00:39:23,040
+Okay. Guys, from the cross section, we have area steel.
+
+369
+00:39:25,860 --> 00:39:27,400
+And we have area concrete.
+
+370
+00:39:29,220 --> 00:39:42,900
+According to ACI, please area steel divide area concrete must be greater than or equal 1% and the smaller than or equal 8%.
+
+371
+00:39:45,780 --> 00:39:51,340
+The maximum reinforcement ratio in the cross section is 8%.
+
+372
+00:39:51,580 --> 00:39:55,100
+Please don't exceed this percentage.
+
+373
+00:39:56,400 --> 00:39:59,600
+According to ACI, because if you exceed it,
+
+374
+00:40:00,760 --> 00:40:06,960
+this equation will not be valid and your column will be considered composite,
+
+375
+00:40:07,460 --> 00:40:10,140
+because you have a huge amount of stereo enforcement.
+
+376
+00:40:13,460 --> 00:40:19,220
+At least you have to have four longitudinal bars.
+
+377
+00:40:21,380 --> 00:40:27,040
+If your column is a circular column or square or rectangle,
+
+378
+00:40:27,840 --> 00:40:35,480
+at least you have four bars as a stereo enforcement, minimum.
+
+379
+00:40:36,400 --> 00:40:39,140
+Minimum four, because one of you will say,
+
+380
+00:40:39,480 --> 00:40:46,700
+Hey, from my calculations, I found the area still equal 0.11
+
+381
+00:40:47,280 --> 00:40:47,760
+inches squared.
+
+382
+00:40:48,300 --> 00:40:52,840
+0.11 is considered one number three bar.
+
+383
+00:40:53,600 --> 00:40:56,540
+So this column will be reinforced with one bar?
+
+384
+00:40:56,840 --> 00:40:57,100
+No.
+
+385
+00:40:57,940 --> 00:40:58,240
+Why?
+
+386
+00:40:58,560 --> 00:41:01,220
+The area still that required area still from calculation
+
+387
+00:41:01,420 --> 00:41:02,380
+is only this number.
+
+388
+00:41:02,560 --> 00:41:04,200
+OK, I agree with you.
+
+389
+00:41:04,760 --> 00:41:06,360
+But we have minimum number.
+
+390
+00:41:07,680 --> 00:41:12,700
+We have minimum number in any column, in any tight column.
+
+391
+00:41:13,440 --> 00:41:20,060
+Must be four, whatever the shape, square or rectangle or circle.
+
+392
+00:41:21,300 --> 00:41:22,460
+Four bars.
+
+393
+00:41:24,440 --> 00:41:30,980
+And also area steel divided area concrete must be greater than or equal.
+
+394
+00:41:31,540 --> 00:41:32,280
+One percent.
+
+395
+00:41:33,020 --> 00:41:34,900
+This is a minimum reinforcement.
+
+396
+00:41:35,640 --> 00:41:41,200
+and is a maximum reinforcement smaller than or equal 8%.
+
+397
+00:41:41,600 --> 00:41:43,060
+This is a minimum and a maximum.
+
+398
+00:41:43,740 --> 00:41:47,260
+So I'm talking about minimum and the maximum as area
+
+399
+00:41:48,560 --> 00:41:52,340
+and I'm talking about minimum as a number of bars.
+
+400
+00:41:54,440 --> 00:41:59,040
+Please, we need to follow these recommendations
+
+401
+00:41:59,260 --> 00:42:00,300
+or these requirements.
+
+402
+00:42:02,180 --> 00:42:04,480
+Actually, the minimum number is 6.
+
+403
+00:42:04,960 --> 00:42:07,260
+if you are talking about a spiral column.
+
+404
+00:42:10,420 --> 00:42:14,240
+The minimum dimension of the column, this dimension,
+
+405
+00:42:14,900 --> 00:42:17,460
+you are talking about 8 to 10 inch.
+
+406
+00:42:18,360 --> 00:42:20,200
+8 inches OK, 10 inches OK.
+
+407
+00:42:21,760 --> 00:42:24,580
+So probably, probably in the problems,
+
+408
+00:42:25,300 --> 00:42:28,000
+we can figure out what is the required area concrete.
+
+409
+00:42:29,100 --> 00:42:33,639
+So how can I convert this area concrete to this shape
+
+410
+00:42:33,640 --> 00:42:39,940
+as a rectangle shape. Okay, I'm going to assume this small dimension 10 or 8.
+
+411
+00:42:41,680 --> 00:42:44,080
+Then I can figure out the second dimension.
+
+412
+00:42:48,420 --> 00:42:55,100
+If you are talking about tight column and you are using number 10 or a smaller longitudinal bar,
+
+413
+00:42:55,880 --> 00:43:01,160
+please the ties or the stirrups must be number three or greater.
+
+414
+00:43:02,360 --> 00:43:07,520
+if you are talking about tight column and you are talking about number 10 or larger,
+
+415
+00:43:08,180 --> 00:43:12,820
+then the minimum size of the stirrups must be number four or bigger.
+
+416
+00:43:18,290 --> 00:43:25,700
+The spacing between ties we have 48 times the diameter of the tie or
+
+417
+00:43:26,840 --> 00:43:32,080
+a 16 longitudinal bar diameter or the least lateral column
+
+418
+00:43:32,240 --> 00:43:32,700
+dimension.
+
+419
+00:43:33,080 --> 00:43:35,160
+So we need to figure out the smallest value.
+
+420
+00:43:35,640 --> 00:43:38,160
+Anyway, it's not a big deal for this point.
+
+421
+00:43:48,140 --> 00:43:49,320
+Let's do this example.
+
+422
+00:43:50,780 --> 00:43:51,720
+It's a very simple example.
+
+423
+00:43:56,640 --> 00:44:03,520
+For the short column shown blue, we have a short column, 16 times 16 inch.
+
+424
+00:44:04,860 --> 00:44:05,780
+We have how many bars?
+
+425
+00:44:07,020 --> 00:44:09,640
+Eight number nine bars.
+
+426
+00:44:11,100 --> 00:44:19,860
+If prime C is 4,000, if yield is 60,000, PSI, what is the ultimate axial
+
+427
+00:44:20,020 --> 00:44:24,280
+strength, phi Pn of this column?
+
+428
+00:44:27,080 --> 00:44:45,560
+Guys, this column is a short column. This column is a tie reinforcement are used. So, this column will be considered tied column under short column.
+
+429
+00:44:45,560 --> 00:44:54,220
+We are looking for what is the value of Pn.
+
+430
+00:44:55,900 --> 00:45:15,540
+This value equal 0.8, 0.85, f prime c area gross minus area steel plus f yield time
+
+431
+00:45:15,540 --> 00:45:24,980
+area steel, the exam is open book. So I don't need to remember. Even after graduation, you have
+
+432
+00:45:25,160 --> 00:45:32,220
+ACI, so you can find this equation inside ACI. So go ahead and try to put these numbers,
+
+433
+00:45:32,500 --> 00:45:35,020
+Faye for column 0.65.
+
+434
+00:45:36,760 --> 00:45:42,020
+Area gross, the total cross section area, 16 times 16.
+
+435
+00:45:43,600 --> 00:45:46,400
+Area steel, how many bars?
+
+436
+00:45:46,760 --> 00:45:46,980
+Eight.
+
+437
+00:45:48,520 --> 00:45:50,220
+What is the area of one bar?
+
+438
+00:45:50,980 --> 00:45:53,940
+I need to open my table.
+
+439
+00:45:55,760 --> 00:45:56,780
+You remember your table?
+
+440
+00:45:59,940 --> 00:46:07,700
+for number nine. What is the area of number nine? Number nine is one. You are lucky. One.
+
+441
+00:46:08,920 --> 00:46:15,640
+So eight bars times one. So the area still will be eight inches square. Area gross,
+
+442
+00:46:16,740 --> 00:46:34,780
+16 times 16, 256 inches square. I am done. So, Fe Pn equal 0.8 times 0.65, 0.85 times 4,000,
+
+443
+00:46:35,700 --> 00:46:44,960
+Time area grows to 156 minus 8 plus f yield 60,000 times 8.
+
+444
+00:46:48,420 --> 00:46:55,120
+Your final answer will be inbound. Please divide it to be a number in kips. Here is the design.
+
+445
+00:46:56,410 --> 00:47:04,060
+So the strength, the design strength of this column equal, I can give you a number,
+
+446
+00:47:04,500 --> 00:47:18,400
+0.85 times 4,000 times 256 minus 8 plus 60,000 times 8. All of them times 0.65 times 0.8.
+
+447
+00:47:18,960 --> 00:47:29,740
+This value will be 68064 divided by 1,000. It will be 688 kip.
+
+448
+00:47:31,380 --> 00:47:39,820
+to the capacity, the design capacity of this column equal 688 kips.
+
+449
+00:47:43,240 --> 00:47:46,020
+Very simple. Very simple.
+
+450
+00:47:54,340 --> 00:47:57,420
+We have another example, piece of cake.
+
+451
+00:47:58,320 --> 00:48:02,720
+Piece of cake. For the shown short square,
+
+452
+00:48:02,900 --> 00:48:06,740
+tired column, we have a column is short, square.
+
+453
+00:48:07,360 --> 00:48:11,880
+Because one of you will say, hey, he gave us the 18 inch, what about the other side?
+
+454
+00:48:12,540 --> 00:48:15,700
+The length of the other side, it's square, so the other one will be 18.
+
+455
+00:48:16,540 --> 00:48:22,440
+The applied axial did loot, the did loot equal 150 kip.
+
+456
+00:48:23,300 --> 00:48:29,300
+and the life load equal to 150. The reactions coming on this column
+
+457
+00:48:31,040 --> 00:48:39,580
+and the dead load 150 and the life load 250. If prime c is given, if yield is given, what is the
+
+458
+00:48:42,180 --> 00:48:47,900
+minimum required the size of each longitudinal reinforcement? So we are looking for area steel.
+
+459
+00:48:49,300 --> 00:48:56,040
+By the way, the problem said make sure you are using 8 bars.
+
+460
+00:48:59,220 --> 00:49:09,840
+So area still is still unknown. Let's start. P ultimate equal 1.2 dL+1.6 L.
+
+461
+00:49:11,060 --> 00:49:16,740
+So 1.2 times 150 plus 1.6 times 250.
+
+462
+00:49:19,380 --> 00:49:27,620
+So 1.2 times 150, 1.6 times 250, 580.
+
+463
+00:49:29,680 --> 00:49:37,760
+Guys, remember for design p ultimate must be smaller than or equal phi pn.
+
+464
+00:49:38,880 --> 00:49:44,200
+If you would like to design, I'm going to assume p ultimate equal phi pn.
+
+465
+00:49:44,200 --> 00:49:58,260
+So P ultimate which equal Phi Pn equal 0.8 Phi 0.85 f prime C time area
+
+466
+00:49:58,280 --> 00:50:08,300
+gross minus area steel plus f yield time area steel. Let's see what do you have
+
+467
+00:50:08,300 --> 00:50:24,340
+and what is unknown this side will be 580 times 1000 to be in bound 3.65 f
+
+468
+00:50:24,380 --> 00:50:36,540
+prime c 4000 area gross 18 times 18 if yield 60,000 what is the only unknown in
+
+469
+00:50:36,540 --> 00:50:48,640
+in this equation, area C, then please convert this area C to 8 bar.
+
+470
+00:50:50,820 --> 00:50:51,800
+And what is the size?
+
+471
+00:50:56,120 --> 00:50:56,780
+8 bar.
+
+472
+00:50:57,160 --> 00:50:58,060
+And what is the size?
+
+473
+00:50:58,260 --> 00:51:01,920
+OK, I can do my calculations just a second.
+
+474
+00:51:07,780 --> 00:51:16,220
+0.85 times 4000 plus 60 thousand
+
+475
+00:51:26,060 --> 00:51:44,680
+0.8 times 0.65 divide 480,000 minus 0.8 times 0.65 times 0.85 times 4,000 times 18 times 18.
+
+476
+00:51:46,200 --> 00:51:50,560
+4.1 area steel equal 4.1 inch square.
+
+477
+00:51:57,200 --> 00:52:05,700
+I need to convert this area steel which is a 4.1 inch square to 8 bars. So I will divide it by 8.
+
+478
+00:52:06,680 --> 00:52:20,120
+So the area of one bar equal 0.51. Open the table. Which bar the area of one bar looks
+
+479
+00:52:20,220 --> 00:52:32,920
+like 0.51? So which one? This one? No. It's 0.44. This one 0.6. So I'm going to use 8
+
+480
+00:52:32,920 --> 00:52:42,800
+bar number seven. Eight bar number seven will give you area steel greater than this one you are good.
+
+481
+00:52:46,270 --> 00:52:53,500
+So the final answer for this one will be eight bar number seven as a steel reinforcement.
+
+482
+00:52:56,180 --> 00:52:58,980
+[BLANK_AUDIO]
+

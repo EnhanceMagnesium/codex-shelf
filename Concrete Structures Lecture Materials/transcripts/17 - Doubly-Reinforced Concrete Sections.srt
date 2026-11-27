@@ -1,0 +1,2256 @@
+1
+00:00:00,860 --> 00:00:09,240
+Okay, thank you for joining me today. We will start another topic related to double
+
+2
+00:00:10,000 --> 00:00:18,060
+reinforced section. Just to give you a reminder previously and this is the
+
+3
+00:00:18,080 --> 00:00:23,540
+typical cross-section for reinforced concrete. Your cross-section will have
+
+4
+00:00:23,540 --> 00:00:32,500
+only reinforcement on the tension side and for the compression side concrete
+
+5
+00:00:32,820 --> 00:00:41,280
+will be enough so in this case your concrete is under compression with a
+
+6
+00:00:41,360 --> 00:00:49,040
+stress block looks like this with depth a and we have another depth for the
+
+7
+00:00:49,060 --> 00:00:59,640
+neutral axis called C and this C equal beta one time A. And we have tension on the stereo
+
+8
+00:00:59,760 --> 00:01:10,180
+enforcement capital T and we can convert the compressive stress to capital C. So capital
+
+9
+00:01:10,340 --> 00:01:20,180
+C equal 0.85, F prime C, A, B, and the capital T equal area steel time F field.
+
+10
+00:01:24,120 --> 00:01:29,920
+This is the case of single reinforced
+
+11
+00:01:33,140 --> 00:01:40,160
+section. We have two parts, part of the concrete is working under compression
+
+12
+00:01:41,640 --> 00:01:48,960
+and the part of the stereo enforcement is working under tension. And any other part
+
+13
+00:01:49,350 --> 00:01:58,740
+in this cross-section is cracked and stretched. Does that make sense? We have another piece.
+
+14
+00:01:59,540 --> 00:02:16,600
+if this concrete is not enough to support compression.
+
+15
+00:02:18,800 --> 00:02:27,219
+For many reasons, one of them I will ask you, hey, go ahead and design a concrete section
+
+16
+00:02:27,220 --> 00:02:31,600
+with maximum thickness equal 50 inch.
+
+17
+00:02:33,140 --> 00:02:37,860
+You cannot increase this cross section more than 50 inch.
+
+18
+00:02:39,020 --> 00:02:40,660
+You tried your M ultimate.
+
+19
+00:02:41,300 --> 00:02:44,660
+You tried M ultimate divided by FABD square.
+
+20
+00:02:45,320 --> 00:02:50,500
+Unfortunately, your value is outside the table.
+
+21
+00:02:51,940 --> 00:02:54,699
+Do you remember the design tables that I give it to you
+
+22
+00:02:54,700 --> 00:02:56,160
+to find out the value of rho.
+
+23
+00:02:57,520 --> 00:03:05,000
+If your value is outside the design values for the rho
+
+24
+00:03:05,200 --> 00:03:06,820
+and then your stereo reinforcement,
+
+25
+00:03:07,060 --> 00:03:13,000
+that means this depth of the cross section is not enough
+
+26
+00:03:15,660 --> 00:03:17,320
+to support this M-ultimate.
+
+27
+00:03:17,440 --> 00:03:18,740
+What you mean by not enough?
+
+28
+00:03:19,020 --> 00:03:21,340
+I mean the concrete is not enough.
+
+29
+00:03:22,300 --> 00:03:26,280
+because this depth 50 represented their concrete.
+
+30
+00:03:26,950 --> 00:03:31,720
+So this concrete will not be enough to support M-outlet.
+
+31
+00:03:33,140 --> 00:03:37,260
+If you cannot increase the 50 for any reason,
+
+32
+00:03:37,480 --> 00:03:40,820
+for any reason, clearance, height, whatever the reason,
+
+33
+00:03:42,360 --> 00:03:47,420
+then we have to give a hand to the concrete.
+
+34
+00:03:48,700 --> 00:03:52,260
+What you mean by give a hand to concrete, I mean,
+
+35
+00:03:53,020 --> 00:04:01,020
+I will provide compression reinforcement.
+
+36
+00:04:02,280 --> 00:04:04,460
+At the same time, I have to provide
+
+37
+00:04:05,040 --> 00:04:07,820
+additional stereo enforcement to the current.
+
+38
+00:04:08,240 --> 00:04:10,320
+So if you have something here, you
+
+39
+00:04:10,380 --> 00:04:14,280
+have to increase this one more and more and more
+
+40
+00:04:14,880 --> 00:04:16,100
+equal to what you did here.
+
+41
+00:04:17,380 --> 00:04:23,900
+In this case, your cross-section is called double reinforced
+
+42
+00:04:26,020 --> 00:04:32,380
+section. The concrete, which is not enough to support your compression,
+
+43
+00:04:34,080 --> 00:04:38,880
+I provided a hand. I provided more material, which is
+
+44
+00:04:39,220 --> 00:04:48,900
+sterion forcement to support or to share the compression with concrete. So just to give you
+
+45
+00:04:49,080 --> 00:04:55,020
+some hints before starting I would like to highlight this area still is called AS.
+
+46
+00:04:56,100 --> 00:04:58,960
+This area still will be called AS subrime.
+
+47
+00:05:02,820 --> 00:05:09,520
+So AS is the area of stereo enforcement intention.
+
+48
+00:05:12,320 --> 00:05:16,560
+AS prime is the area of stereo enforcement under compression.
+
+49
+00:05:20,080 --> 00:05:20,900
+There is one more.
+
+50
+00:05:22,120 --> 00:05:29,139
+We have this distance from the top to the 10-shand stereo
+
+51
+00:05:29,140 --> 00:05:38,520
+reinforcement is called the D, the depth is called the depth of tension reinforcement.
+
+52
+00:05:39,660 --> 00:05:43,060
+We have another symbol here called D.
+
+53
+00:05:46,900 --> 00:05:55,200
+Brian, which is the dip of compression is theory enforcement and this distance is measured
+
+54
+00:05:55,300 --> 00:05:59,620
+from the top to the steel reinforcement in the compression.
+
+55
+00:06:00,740 --> 00:06:01,240
+That makes sense.
+
+56
+00:06:01,550 --> 00:06:04,580
+So we have area steel and area steel prime.
+
+57
+00:06:05,140 --> 00:06:07,240
+We have D and D prime.
+
+58
+00:06:07,760 --> 00:06:11,640
+Anything prime related to compression steel reinforcement.
+
+59
+00:06:14,180 --> 00:06:15,200
+Any questions so far?
+
+60
+00:06:17,520 --> 00:06:17,840
+No, sir.
+
+61
+00:06:19,640 --> 00:06:24,800
+Then the technique to design your double reinforced section,
+
+62
+00:06:25,020 --> 00:06:29,300
+everything will be given, I will figure out the design moment
+
+63
+00:06:29,540 --> 00:06:34,500
+strengths and make comparison with the M ultimate and to make
+
+64
+00:06:34,560 --> 00:06:38,320
+sure your design moment is strengths is greater than the
+
+65
+00:06:38,420 --> 00:06:43,440
+ultimate moment which is coming from structural analysis. So
+
+66
+00:06:43,560 --> 00:06:47,580
+M ultimate is coming from structural analysis from the
+
+67
+00:06:47,660 --> 00:06:51,179
+did Loud, Life Loud, Windy Loud, whatever. This one is coming
+
+68
+00:06:51,180 --> 00:07:05,160
+from your design. How to figure out the FAYMN? We have a technique here. This technique is
+
+69
+00:07:06,440 --> 00:07:14,760
+looks like the design of T-section. Let me explain it a little bit and then we can do
+
+70
+00:07:14,760 --> 00:07:22,780
+example. So please pay more attention. This technique is summarized in this slide but
+
+71
+00:07:22,920 --> 00:07:31,900
+I would like to start it from scratch. I will have my double reinforced section. I have
+
+72
+00:07:32,020 --> 00:07:40,080
+more stereo enforcement at the bottom and this area steel must be greater than, more
+
+73
+00:07:40,080 --> 00:07:49,540
+greater than the area steel at the top. And keep in your mind we have a diphthe here called
+
+74
+00:07:51,780 --> 00:07:59,320
+D' and we have another diphthe here called D and we have this width B.
+
+75
+00:08:02,320 --> 00:08:11,900
+this cross-section can be converted to two boards. The first board is the concrete cross-section
+
+76
+00:08:13,920 --> 00:08:19,300
+with board of the steel reinforcement. I will call it area steel one.
+
+77
+00:08:23,120 --> 00:08:35,599
+plus the compression steel area steel prime will work with some of the area steel which is area steel 2.
+
+78
+00:08:37,740 --> 00:08:48,540
+Keep in your mind your area steel 1 plus area steel 2 must equal area steel what I did I divided
+
+79
+00:08:48,640 --> 00:08:56,900
+this total area steel in intention, I divided it to two parts. Not equal but two parts.
+
+80
+00:08:58,560 --> 00:09:05,320
+Keep in your mind to make balance for this part, for this part to make balance,
+
+81
+00:09:06,540 --> 00:09:13,460
+you have to say area steel prime must equal area steel too.
+
+82
+00:09:15,760 --> 00:09:25,300
+the area steel in the compression must be equal to the part of the area steel intention.
+
+83
+00:09:26,760 --> 00:09:31,700
+So I will start from this. Area steel prime is known.
+
+84
+00:09:34,200 --> 00:09:38,460
+Must equal area steel 2. So I can figure out the value of area steel 2.
+
+85
+00:09:39,200 --> 00:09:45,200
+Once you get the value of area steel 2 and you already know what is the value of total area steel,
+
+86
+00:09:45,200 --> 00:09:53,600
+I can figure out the value of area steel one. That makes sense? For this part I
+
+87
+00:09:54,540 --> 00:10:02,380
+will have compression and I will have tension. The compression must equal the
+
+88
+00:10:02,420 --> 00:10:11,440
+tension. That means 0.85 f prime c time b time a equal area steel one time a
+
+89
+00:10:11,440 --> 00:10:20,780
+field. From this equation, I can figure out the value of area of A and keep in
+
+90
+00:10:20,820 --> 00:10:26,500
+your mind the distance between the two forces is D minus A divided by 2. So your
+
+91
+00:10:27,340 --> 00:10:33,580
+nominal moment, bar to number 1, will equal capital T times D minus A divided by 2.
+
+92
+00:10:35,520 --> 00:10:44,160
+This is for bar to number one, piece of cake. Bar to number two, I will have compression.
+
+93
+00:10:49,320 --> 00:10:55,240
+I will label it C, capital C, S. This one is capital C, you can call it capital C, C.
+
+94
+00:10:56,460 --> 00:10:59,920
+This is compression in concrete. This is compression in steel. It's up to you.
+
+95
+00:11:00,880 --> 00:11:07,440
+Does that make sense? So I will have compression in the stereo enforcement and I will have another
+
+96
+00:11:07,740 --> 00:11:16,000
+tension in the part of the steel under tension. For acrobium, capital C must equal capital T.
+
+97
+00:11:18,300 --> 00:11:22,180
+Capital C equal area steel prime time F yield.
+
+98
+00:11:25,520 --> 00:11:35,400
+capital T equal area steel 2, a field, and this is the reason why I mentioned area steel prime
+
+99
+00:11:35,840 --> 00:11:43,780
+must equal area steel 2. This is just to forgive you a hint. Why I said area steel prime must
+
+100
+00:11:43,980 --> 00:11:49,999
+equal area steel 2, the part of steel reinforcement under compression must equal the part of the
+
+101
+00:11:50,000 --> 00:11:52,440
+and steel reinforcement under tension for this part.
+
+102
+00:11:53,000 --> 00:11:53,200
+Why?
+
+103
+00:11:53,720 --> 00:11:55,240
+To make sure we have a problem.
+
+104
+00:11:56,400 --> 00:11:58,040
+Because a field equal a field.
+
+105
+00:12:01,160 --> 00:12:02,680
+And keeping your mind the distance
+
+106
+00:12:02,920 --> 00:12:07,100
+between the two forces is D minus D prime.
+
+107
+00:12:08,980 --> 00:12:10,880
+The distance between this is steel rebar
+
+108
+00:12:11,200 --> 00:12:16,520
+and this is steel rebars is D minus D prime.
+
+109
+00:12:17,760 --> 00:12:22,340
+So the nominal moment for barter number two equal capital T,
+
+110
+00:12:23,240 --> 00:12:25,840
+this one, time D minus D prime.
+
+111
+00:12:26,860 --> 00:12:30,300
+Capital T in this case equal areas T barter number two
+
+112
+00:12:30,540 --> 00:12:33,700
+time F yield time D minus D prime.
+
+113
+00:12:34,780 --> 00:12:37,320
+Once you get the nominal moment for barter number one
+
+114
+00:12:37,440 --> 00:12:39,420
+and the nominal moment for barter number two,
+
+115
+00:12:39,740 --> 00:12:42,620
+I can say nominal moment for the whole cross section
+
+116
+00:12:42,780 --> 00:12:45,180
+equal Mn one plus Mn two.
+
+117
+00:12:46,760 --> 00:12:50,120
+And the phi for this type of cross-section will be 0.9.
+
+118
+00:12:50,720 --> 00:12:53,940
+I can figure out the value of phi mn,
+
+119
+00:12:54,300 --> 00:12:59,200
+which is the design moment strength.
+
+120
+00:13:02,960 --> 00:13:03,420
+That makes sense?
+
+121
+00:13:04,640 --> 00:13:05,460
+It's very easy.
+
+122
+00:13:06,120 --> 00:13:07,600
+Just you need to understand,
+
+123
+00:13:07,920 --> 00:13:11,480
+I divided my whole cross-section with double reinforcement,
+
+124
+00:13:12,240 --> 00:13:14,600
+two two-barths, one bar concrete
+
+125
+00:13:14,600 --> 00:13:16,860
+with a little of the stereo enforcement intention
+
+126
+00:13:17,180 --> 00:13:19,240
+and the second part, you're still in compression
+
+127
+00:13:19,480 --> 00:13:21,720
+with the remaining part of the steel intention.
+
+128
+00:13:23,260 --> 00:13:26,760
+This part will give you MN, this part will give you MN,
+
+129
+00:13:27,020 --> 00:13:28,540
+then I will add them together
+
+130
+00:13:28,580 --> 00:13:31,080
+to find the final value of the MN.
+
+131
+00:13:31,720 --> 00:13:37,160
+Keep in your mind, I assumed the steel in compression,
+
+132
+00:13:38,140 --> 00:13:40,280
+area steel brim is yielded.
+
+133
+00:13:42,640 --> 00:13:43,780
+This is my assumption.
+
+134
+00:13:44,160 --> 00:13:47,500
+I assumed that the steel in compression is yielded.
+
+135
+00:13:48,200 --> 00:13:49,840
+This assumption will be checked.
+
+136
+00:13:50,140 --> 00:13:51,500
+If it's true, we are done.
+
+137
+00:13:51,680 --> 00:13:53,840
+If it's not true, unfortunately,
+
+138
+00:13:54,020 --> 00:13:56,040
+I need to repeat all of these calculations
+
+139
+00:13:56,800 --> 00:13:58,800
+and the follow up another technique,
+
+140
+00:14:01,100 --> 00:14:01,820
+which is this one.
+
+141
+00:14:03,260 --> 00:14:07,040
+So first of all, I'm assuming that compression,
+
+142
+00:14:07,280 --> 00:14:09,940
+steel reinforcement yielded.
+
+143
+00:14:11,340 --> 00:14:12,480
+Then I did my calculation.
+
+144
+00:14:12,720 --> 00:14:13,400
+Then I will check.
+
+145
+00:14:14,540 --> 00:14:17,020
+Let's do an example and I will show you
+
+146
+00:14:17,140 --> 00:14:18,800
+how to do this check.
+
+147
+00:14:20,640 --> 00:14:23,540
+We have this cross section, everything is given,
+
+148
+00:14:24,360 --> 00:14:26,320
+cross section dimensions, everything.
+
+149
+00:14:28,120 --> 00:14:30,540
+And we need to figure out what is the design
+
+150
+00:14:30,840 --> 00:14:33,880
+for lecture strengths, FAA, MN
+
+151
+00:14:34,340 --> 00:14:36,440
+for this double reinforced section.
+
+152
+00:14:38,180 --> 00:14:40,040
+First of all, I need to make sure
+
+153
+00:14:40,260 --> 00:14:41,680
+I have everything I need.
+
+154
+00:14:43,119 --> 00:14:48,280
+Anybody can tell me what is the value of areas t what is the value of area steel
+
+155
+00:14:48,420 --> 00:14:52,840
+prime what is the value of D what is a value of D prime
+
+156
+00:14:55,720 --> 00:14:57,820
+any help what is the value of areas to
+
+157
+00:15:03,820 --> 00:15:05,120
+Guys, are you still here?
+
+158
+00:15:06,340 --> 00:15:11,540
+Is it going to be 6.25?
+
+159
+00:15:12,200 --> 00:15:12,540
+Thank you.
+
+160
+00:15:12,760 --> 00:15:12,860
+Yeah.
+
+161
+00:15:14,220 --> 00:15:15,220
+Why are you hesitated?
+
+162
+00:15:15,820 --> 00:15:16,960
+Yeah, 6.25.
+
+163
+00:15:18,660 --> 00:15:19,200
+Thank you, Justin.
+
+164
+00:15:20,560 --> 00:15:22,900
+6.25, if this number is not given,
+
+165
+00:15:23,200 --> 00:15:24,380
+you need to figure this out.
+
+166
+00:15:24,480 --> 00:15:26,500
+We have four rebars, number 11.
+
+167
+00:15:27,380 --> 00:15:30,060
+So you can open your table for number 11.
+
+168
+00:15:30,400 --> 00:15:35,380
+What is the area for this size and multiply it by 4,
+
+169
+00:15:35,520 --> 00:15:36,700
+you will get 6.25.
+
+170
+00:15:37,800 --> 00:15:40,960
+What is the value of area steel prime is 2 inches square.
+
+171
+00:15:42,420 --> 00:15:44,360
+If you are not given this information,
+
+172
+00:15:44,520 --> 00:15:46,200
+we have 2 rebar number 9.
+
+173
+00:15:46,900 --> 00:15:48,420
+So you can figure out what is the size.
+
+174
+00:15:48,820 --> 00:15:51,620
+What is the area of size number 9, then multiply it by 2.
+
+175
+00:15:53,200 --> 00:15:55,440
+What is the total depth of the steering enforcement?
+
+176
+00:15:55,840 --> 00:15:58,839
+Keeping your mind deep means the distance between the steering
+
+177
+00:15:58,840 --> 00:16:02,260
+enforcement intention to the top of the cross section.
+
+178
+00:16:03,400 --> 00:16:05,300
+Do you think this depth will be what?
+
+179
+00:16:06,720 --> 00:16:07,120
+- 24.
+
+180
+00:16:07,760 --> 00:16:08,820
+- 24, thank you.
+
+181
+00:16:10,280 --> 00:16:11,020
+24 inch.
+
+182
+00:16:12,080 --> 00:16:15,000
+What is the D prime, which is the depth from the top
+
+183
+00:16:15,000 --> 00:16:17,940
+to the steel steel enforcement in compression?
+
+184
+00:16:18,300 --> 00:16:22,800
+I think it's given 2.5 inch.
+
+185
+00:16:24,360 --> 00:16:28,160
+These are the four parameters you need
+
+186
+00:16:28,160 --> 00:16:35,260
+figure them out before starting. Let's start. I will divide this cross-section to two parts.
+
+187
+00:16:36,540 --> 00:16:40,040
+The first part, your concrete.
+
+188
+00:16:43,060 --> 00:16:48,160
+With some of the steel reinforcement intention, I will label them area steel one.
+
+189
+00:16:50,160 --> 00:16:56,340
+Plus, the remaining part of area steel intention will be area steel too.
+
+190
+00:16:57,240 --> 00:17:00,980
+Will work with the steel and compression area steel prime.
+
+191
+00:17:02,160 --> 00:17:06,140
+Keep in your mind your area steel prime is 2 inches square.
+
+192
+00:17:07,740 --> 00:17:11,120
+That means your area steel too must be 2 inches square.
+
+193
+00:17:12,780 --> 00:17:18,000
+That means your area steel 1 will be 4.25 inches square.
+
+194
+00:17:19,600 --> 00:17:28,800
+that makes sense we have a condition that in this board area steel prime must equal area steel 2
+
+195
+00:17:30,000 --> 00:17:37,980
+and we understand that area steel 1 plus area steel 2 must equal the total area steel so from
+
+196
+00:17:38,080 --> 00:17:46,320
+this relationship this one is 2 so this one will be 2 this one is 2 and this one is 6.25
+
+197
+00:17:46,320 --> 00:17:54,620
+then I can say area steel 1 will be 4.25. That makes sense? This is from the beginning.
+
+198
+00:17:56,540 --> 00:18:04,040
+This is barter number 1. This is barter number 2. For barter number 1, I will have my neutral axis.
+
+199
+00:18:05,540 --> 00:18:10,560
+I will have compression at the top. I will have tension at the bottom.
+
+200
+00:18:12,240 --> 00:18:20,360
+I can say capital C equal capital T. So, can I start here? For bar to number one,
+
+201
+00:18:24,960 --> 00:18:36,780
+I said capital C equal capital T. So, f of 0.85, f prime C time a time b equal area steel one
+
+202
+00:18:37,280 --> 00:18:48,560
+time f yield. Your area still 1 in this part, 4.25. What is the value of f yield? I think
+
+203
+00:18:48,740 --> 00:19:00,020
+f yield is given 60 ksi or 60 thousands up to you. I will say it's 6. Equal 0.85. What is the value
+
+204
+00:19:00,020 --> 00:19:08,400
+of f prime c is given for I'm sorry 3 ksi 3 so I will use it 3 time a I don't
+
+205
+00:19:08,420 --> 00:19:14,900
+know time be what is the width of your cross section is given by 14 the only
+
+206
+00:19:14,980 --> 00:19:22,660
+unknown in this equation is your value a this a will be 4.25 times
+
+207
+00:19:22,780 --> 00:19:36,620
+60 divided by 0.85 times 30 times 14. I got 7.1 inch. Keep in your mind that the distance
+
+208
+00:19:36,840 --> 00:19:45,600
+between the two forces in this part, this distance equal d minus a divided by 2. This is a normal
+
+209
+00:19:45,620 --> 00:19:52,180
+that we learned before. So your nominal moment for this part will equal capital T for example,
+
+210
+00:19:52,300 --> 00:20:00,700
+time d minus a divided by 2. Everything you need is given. T capital T equal 4.25
+
+211
+00:20:01,460 --> 00:20:07,160
+times 60,000. Time depth, the total depth of this
+
+212
+00:20:08,200 --> 00:20:17,340
+stereo enforcement 24 minus a 7.1 divided by 2. I can't find the value of m in 1.
+
+213
+00:20:17,380 --> 00:20:24,240
+it will be very big number because it will be imbalanced just a moment.
+
+214
+00:20:25,680 --> 00:20:39,200
+I am 60,000, I am 4.25. I got 5209285.7, balanced inch. I can divide this
+
+215
+00:20:39,240 --> 00:20:44,980
+number by 12,000 it will give you 434.1
+
+216
+00:20:45,340 --> 00:20:51,600
+Kibb foot. This is the contribution of bar to number one
+
+217
+00:20:52,900 --> 00:20:53,580
+MN1.
+
+218
+00:20:57,040 --> 00:21:01,380
+That makes sense. Bar to number two I will have compression
+
+219
+00:21:02,140 --> 00:21:06,759
+in the stereo enforcement here. I can label it capital C
+
+220
+00:21:06,760 --> 00:21:11,620
+S means steel and I will have another tension here.
+
+221
+00:21:13,720 --> 00:21:17,620
+You don't need to say the capital C equal capital T
+
+222
+00:21:17,720 --> 00:21:18,860
+because they already equal.
+
+223
+00:21:19,620 --> 00:21:20,340
+Does that make sense?
+
+224
+00:21:21,240 --> 00:21:24,260
+I can say the distance between the two forces
+
+225
+00:21:24,480 --> 00:21:27,520
+will be depth minus D prime.
+
+226
+00:21:28,340 --> 00:21:31,380
+So the nominal moment directly for this part
+
+227
+00:21:31,540 --> 00:21:33,580
+will equal capital T at the bottom,
+
+228
+00:21:34,120 --> 00:21:35,440
+time the distance in between.
+
+229
+00:21:36,720 --> 00:21:39,400
+Your capital T at the bottom equal this area steel
+
+230
+00:21:40,040 --> 00:21:44,520
+to time F yield 60,000, time your depth
+
+231
+00:21:44,520 --> 00:21:47,100
+to 24 minus D prime 2.5.
+
+232
+00:21:48,320 --> 00:21:52,020
+From this one, I can figure out the nominal moment,
+
+233
+00:21:52,140 --> 00:21:55,320
+bar to number 2, it will be 2 times 60,000,
+
+234
+00:21:56,240 --> 00:22:05,380
+time 24 minus 2.5, I got 2580000, bound inch.
+
+235
+00:22:06,420 --> 00:22:14,820
+If you divide this number by 12,000, it will be 215 keb foot.
+
+236
+00:22:18,440 --> 00:22:21,800
+But this is the nominal moment for bar to number two of the cross sections.
+
+237
+00:22:22,240 --> 00:22:32,320
+the two parts represented the total cross-section then your final nominal moment will be mn1 plus mn2.
+
+238
+00:22:32,950 --> 00:22:41,680
+So I need to add 434.1 plus 215 will give you the total nominal moment
+
+239
+00:22:47,280 --> 00:22:52,080
+Equal 649.1 keb foot.
+
+240
+00:22:54,780 --> 00:23:07,620
+Phe will be 0.9. So Phe mn, the design moment strengths, will be 584.2 keb foot.
+
+241
+00:23:14,000 --> 00:23:28,240
+This is the design momentous trends for this cross-section F steel reinforcement in compression
+
+242
+00:23:31,060 --> 00:23:38,340
+yielded. I need to check if yes we are done
+
+243
+00:23:40,960 --> 00:23:47,840
+and this is your design moment distance. If not, unfortunately, I need to disregard
+
+244
+00:23:48,340 --> 00:23:51,800
+all of these calculations and the start and new calculation.
+
+245
+00:23:54,880 --> 00:24:01,000
+That makes sense? So how to check? It's very easy. How to check?
+
+246
+00:24:04,160 --> 00:24:12,660
+This check is explained in this slide how to check if the compression stereo enforcement yielded
+
+247
+00:24:12,680 --> 00:24:19,480
+or not. I would like to start it from a sketch because you are already familiar with this one,
+
+248
+00:24:19,780 --> 00:24:26,400
+believe me. Keep in your mind that we have a stereo enforcement here, area steel,
+
+249
+00:24:27,440 --> 00:24:34,940
+and we have area steel here, area steel prime. This distance equal D prime and this distance equal
+
+250
+00:24:35,960 --> 00:24:43,860
+D. This D equal 24, this D prime equal 2 and a half inch. This width equal 14.
+
+251
+00:24:47,240 --> 00:24:49,480
+And we have a neutral axis.
+
+252
+00:24:52,540 --> 00:24:55,060
+This neutral axis at distance C.
+
+253
+00:24:58,779 --> 00:25:03,820
+Anybody in this room, in this meeting can tell me what is the value of this C?
+
+254
+00:25:05,040 --> 00:25:08,920
+Then the depth of the neutral axis equal beta 1.
+
+255
+00:25:12,080 --> 00:25:12,460
+I'm sorry.
+
+256
+00:25:13,220 --> 00:25:16,460
+A equal beta 1 times C.
+
+257
+00:25:17,080 --> 00:25:18,260
+Do you remember this expression?
+
+258
+00:25:21,000 --> 00:25:42,860
+Keep in your mind, you already got the value of A. 7.1. So your A is known. 7.1 inch. Beta
+
+259
+00:25:42,900 --> 00:25:50,560
+one based on the given information about the f prime c you should have a table for f prime c
+
+260
+00:25:51,260 --> 00:25:59,360
+3000 or 3ksi i think i believe your value of beta one equal 0.85 do you agree
+
+261
+00:26:01,920 --> 00:26:08,980
+you say so i can figure out the depth of the neutral axis that will be
+
+262
+00:26:09,940 --> 00:26:18,520
+7.1 divided by 0.85, I got 8.4 inch.
+
+263
+00:26:21,600 --> 00:26:28,100
+Keep in your mind that we have something called strain distribution.
+
+264
+00:26:31,680 --> 00:26:39,020
+Strain distribution means I will have compressive strain in concrete, tensile strain in steel,
+
+265
+00:26:39,060 --> 00:26:45,840
+which is called epsilon t and if you draw in between you have to bet through zero at the neutral axis
+
+266
+00:26:50,420 --> 00:26:57,480
+and we learned it according to ACI this strain in concrete equal point 003
+
+267
+00:27:03,540 --> 00:27:11,200
+I will focus on figuring out what is the strain in the steel reinforcement under compression.
+
+268
+00:27:11,240 --> 00:27:20,180
+What is this value? Which is called epsilon C. Unfortunately not epsilon C. It's epsilon SCC.
+
+269
+00:27:23,180 --> 00:27:29,059
+And this one will be epsilon SCT because we have two steel under compression and the steel under
+
+270
+00:27:29,980 --> 00:27:35,540
+If you would like to figure out what is the value of epsilon scc I need to do
+
+271
+00:27:35,960 --> 00:27:45,200
+triangle similarity between this triangle and the biggest one this triangle
+
+272
+00:27:49,040 --> 00:28:00,080
+keeping your mind this distance equal C minus D prime which equal leave it leave
+
+273
+00:28:00,080 --> 00:28:08,780
+it and this total distance equal C so I can say 0.003 divided by epsilon
+
+274
+00:28:08,940 --> 00:28:14,379
+steel compression equal the total distance is C divided this distance is C
+
+275
+00:28:14,380 --> 00:28:32,520
+minus D' triangle similarity. So this C equals how much? 8.4 and this C 8.4 this D' 2.5.
+
+276
+00:28:32,560 --> 00:28:38,660
+The only unknown in this expression is the strain in the stereo enforcement under compression.
+
+277
+00:28:39,940 --> 00:28:51,280
+So 8.4 minus 2.5 pi and 0.003 divided by 8.4 I got here 0.0021.
+
+278
+00:28:53,220 --> 00:29:05,540
+This is the value of a strain in compression steel reinforcement.
+
+279
+00:29:09,100 --> 00:29:14,100
+We have a value called epsilon yield. If you remember this value, it was equal.
+
+280
+00:29:16,520 --> 00:29:23,700
+I think f yield divided by e steel. Do you remember that? If you go back to the previous
+
+281
+00:29:23,840 --> 00:29:35,899
+modules, we have a value called epsilon yield, yielding strain, yielding strain of steel equal
+
+282
+00:29:36,540 --> 00:29:48,600
+f yield divided by e steel in this problem f yield is given by 60 ksi e steel equal 30 000
+
+283
+00:29:50,320 --> 00:30:01,820
+ksi if you divided this number by this number you will get 0.002 if epsilon steel compression
+
+284
+00:30:01,900 --> 00:30:08,840
+that you got from the triangle similarity is smaller than or at least equal, I'm sorry, I'm sorry,
+
+285
+00:30:09,360 --> 00:30:18,520
+I'm sorry, is greater than or at least equal, greater than or at least equal epsilon yield
+
+286
+00:30:19,660 --> 00:30:31,520
+then steel in compression yielded and we are done.
+
+287
+00:30:35,560 --> 00:30:41,040
+Do you remember what was the question? If the steering enforcement in compression yielded,
+
+288
+00:30:41,100 --> 00:30:42,420
+If yes, we are done.
+
+289
+00:30:43,160 --> 00:30:47,200
+Yes, how to answer yes, if epsilon
+
+290
+00:30:47,360 --> 00:30:50,900
+is still under compression is greater than or equal epsilon
+
+291
+00:30:51,180 --> 00:30:51,280
+yield.
+
+292
+00:30:52,600 --> 00:30:55,820
+The epsilon is still under compression is 0.0021.
+
+293
+00:30:56,580 --> 00:30:58,580
+The epsilon yield is 0.002.
+
+294
+00:30:58,820 --> 00:31:00,820
+So this number is greater than this number.
+
+295
+00:31:00,960 --> 00:31:04,040
+Yes, still reinforcement is yielded.
+
+296
+00:31:04,440 --> 00:31:07,180
+And if a mn, based on my calculation,
+
+297
+00:31:07,460 --> 00:31:11,660
+equal this value 584.2.
+
+298
+00:31:16,080 --> 00:31:16,440
+Capefoot.
+
+299
+00:31:21,340 --> 00:31:22,140
+That makes sense.
+
+300
+00:31:23,960 --> 00:31:33,040
+If no, if epsilon steel compression is smaller than epsilon yield,
+
+301
+00:31:34,580 --> 00:31:38,200
+In this case, stereo enforcement
+
+302
+00:31:42,150 --> 00:31:43,200
+in compression
+
+303
+00:31:47,420 --> 00:31:50,440
+did not yield.
+
+304
+00:31:52,330 --> 00:31:58,280
+And we need to disregard or ignore what we did.
+
+305
+00:31:58,640 --> 00:32:02,280
+All of these calculations must be deleted.
+
+306
+00:32:03,060 --> 00:32:10,680
+and we will start new calculations. This new calculation based on this slide.
+
+307
+00:32:13,520 --> 00:32:22,640
+If the compression stereo enforcement did not yield, we need to follow these few steps
+
+308
+00:32:23,470 --> 00:32:27,700
+to figure out the nominal moment one, the nominal moment two, and the final nominal moment.
+
+309
+00:32:28,150 --> 00:32:32,100
+Then you can multiply the final nominal moment by Feyy equal point nine. Very easy.
+
+310
+00:32:32,580 --> 00:32:37,640
+it's not a big deal, very easy, don't worry. Just we need to both set up this equation
+
+311
+00:32:38,720 --> 00:32:44,760
+and from this equation I can figure out, actually I cannot figure out anything because the
+
+312
+00:32:44,920 --> 00:32:51,680
+stereo enforcement under compression did not yield, so I'm going to use this f'c, f's,
+
+313
+00:32:52,380 --> 00:32:59,219
+this f's will equal to this expression, then I will use this expression back to the first
+
+314
+00:32:59,220 --> 00:33:08,780
+equation, I will find myself with an equation with C, quadratic equation with C as a unknown,
+
+315
+00:33:09,060 --> 00:33:14,840
+I can solve this quadratic equation to find C. Once you get the value of C, I can get the value
+
+316
+00:33:14,960 --> 00:33:22,860
+of A, then I can figure out the nominal moment as it is. Let me do an example and show you how
+
+317
+00:33:23,540 --> 00:33:30,700
+to calculate the phi mn in the case of your stereo enforcement is did not yield.
+
+318
+00:33:31,900 --> 00:33:36,560
+We need only just to follow the equations in this slide.
+
+319
+00:33:42,700 --> 00:33:43,800
+I have this example.
+
+320
+00:33:46,120 --> 00:33:50,560
+We need to figure out what is the phi mn for this cross section.
+
+321
+00:33:54,600 --> 00:34:01,180
+If you would like to follow the actual rules, I will start like this.
+
+322
+00:34:06,100 --> 00:34:13,520
+Your area steel here equal 5.06 because this cross section is double reinforced section.
+
+323
+00:34:14,520 --> 00:34:23,379
+area steel prime equal 1.2. your depth equal I think your depth is the same 24
+
+324
+00:34:23,800 --> 00:34:34,739
+and your D prime equal to and the half. so far until this moment I don't know if
+
+325
+00:34:35,399 --> 00:34:41,379
+the steering enforcement in compression yielded or not so I will start from
+
+326
+00:34:41,379 --> 00:34:49,760
+scratch. I will assume this cross section is divided to two parts. The first part looks like this.
+
+327
+00:34:51,480 --> 00:34:58,560
+With part of the area steel, I will call it area steel one with the concrete cross section and
+
+328
+00:34:58,910 --> 00:35:06,739
+the steel reinforcement in compression area steel brine. With part of the steel reinforcement
+
+329
+00:35:06,740 --> 00:35:13,780
+intention I will call it area steel 2. Keeping your mind for the second part area steel prime
+
+330
+00:35:14,140 --> 00:35:22,860
+must equal area steel 2 must equal 1.2. Keeping your mind that area steel 1 plus area steel 2
+
+331
+00:35:23,050 --> 00:35:31,379
+must equal the total area steel. So I can put here area steel 2 1.2 and I have area steel total
+
+332
+00:35:31,380 --> 00:35:37,140
+equal 5.06 then I can figure out the value of area steel 1 it will be
+
+333
+00:35:43,759 --> 00:35:54,260
+3.86 so far so good I will start with bar to number one I have neutral axis here we have capital C
+
+334
+00:35:54,820 --> 00:35:59,580
+we have capital T so I will solve it for barter number one.
+
+335
+00:36:01,940 --> 00:36:12,180
+Barter number one, I said capital C equal capital T so point 85 f prime C time A time B equal
+
+336
+00:36:12,520 --> 00:36:19,440
+areas T1 because we are talking about barter number one time F yield. Go ahead and put your numbers.
+
+337
+00:36:20,900 --> 00:36:24,580
+We have F prime c equal 3, F yield equal safety.
+
+338
+00:36:25,380 --> 00:36:28,120
+So this one is 3, this one is safety.
+
+339
+00:36:28,860 --> 00:36:31,460
+What is the width of your cross section is 14.
+
+340
+00:36:34,620 --> 00:36:37,040
+The only unknown and your area still one equal,
+
+341
+00:36:37,320 --> 00:36:39,200
+what is the value of area still one 3.86.
+
+342
+00:36:41,800 --> 00:36:43,939
+So the value of A will be
+
+343
+00:36:52,000 --> 00:36:56,160
+6.5 inch.
+
+344
+00:36:57,170 --> 00:37:01,700
+Given your mind, the distance between the two forces will be d minus a divided by 2.
+
+345
+00:37:01,700 --> 00:37:06,680
+So mn1 will equal capital T, d minus a divided by 2.
+
+346
+00:37:07,940 --> 00:37:16,660
+T=3.86 times 60,000 times your depth at 24-A6.5/2.
+
+347
+00:37:18,420 --> 00:37:20,600
+Then I can figure out the nominal moment.
+
+348
+00:37:32,260 --> 00:37:35,920
+divided by 12,000, I got 400,
+
+349
+00:37:44,219 --> 00:37:48,060
+hip, put 400.6.
+
+350
+00:37:50,800 --> 00:37:52,100
+This is for the first part.
+
+351
+00:37:52,740 --> 00:37:55,500
+For the second part, this part,
+
+352
+00:37:56,400 --> 00:38:00,180
+the distance between the two forces, D minus D prime.
+
+353
+00:38:00,980 --> 00:38:04,560
+I will assume the steel reinforcement in compression yielded.
+
+354
+00:38:05,420 --> 00:38:13,560
+So MN2 equal one of them T, because we have here compression
+
+355
+00:38:14,540 --> 00:38:15,420
+and we have here tension.
+
+356
+00:38:16,260 --> 00:38:18,760
+So one of them T times D minus D prime.
+
+357
+00:38:20,020 --> 00:38:24,940
+Capital T equal area steel 2 times F yield times depth minus D prime.
+
+358
+00:38:26,440 --> 00:38:30,299
+I can put my number, area steel 2 equal 1.2 F
+
+359
+00:38:30,300 --> 00:38:35,640
+yield 60,000, your depth is 24, your D prime 2.5.
+
+360
+00:38:36,600 --> 00:38:39,120
+Then I can find out the nominal moment
+
+361
+00:38:39,200 --> 00:38:42,580
+for the second part, 1.2 times 60,000,
+
+362
+00:38:43,580 --> 00:38:48,080
+I am depth 24 minus 2.5 divided by 12,000,
+
+363
+00:38:48,600 --> 00:38:53,400
+I got 129 keb foot.
+
+364
+00:38:54,800 --> 00:38:56,459
+So the total nominal moment
+
+365
+00:38:58,180 --> 00:39:08,700
+equal 400.6 plus 129 equal 529.6.
+
+366
+00:39:11,460 --> 00:39:13,580
+I can multiply fmn.
+
+367
+00:39:15,780 --> 00:39:19,660
+It will give you 476.64 K.
+
+368
+00:39:21,940 --> 00:39:22,860
+We need to check.
+
+369
+00:39:28,020 --> 00:39:35,120
+Yes or no? Because if you answer yes, we are done and this is your nominal moment. I'm sorry,
+
+370
+00:39:35,240 --> 00:39:41,900
+design momentous trends. If you answer yes, if you answer no, unfortunately, all of these
+
+371
+00:39:42,060 --> 00:39:50,460
+calculations are useless. We need to remove them and start from scratch using this slide.
+
+372
+00:39:51,460 --> 00:40:01,180
+that makes sense so let's start to check and hopefully the answer is yes but I think no anyway
+
+373
+00:40:01,720 --> 00:40:09,720
+this is your cross-section this is your steel reinforcement in compression and this is the
+
+374
+00:40:09,800 --> 00:40:20,339
+distance d' this is your steel of reinforcement intention and this is the depth d we have a neutral
+
+375
+00:40:20,340 --> 00:40:33,600
+axis. This neutral axis has depth equal c equal a divided by beta 1. I think a is known
+
+376
+00:40:34,580 --> 00:40:45,080
+from here 6.5 divided by beta 1. I can figure out the value 6.5 divided by 0.85 beta 1. It's a 7.6
+
+377
+00:40:46,180 --> 00:40:54,040
+inch. Keeping your mind we will have a strain distribution compression in concrete tension
+
+378
+00:40:54,300 --> 00:41:00,800
+in this steel epsilon steel tension in between we have to go through the neutral axis here
+
+379
+00:41:01,360 --> 00:41:05,800
+this is string 0.003 keeping your mind this is strain in compression,
+
+380
+00:41:06,380 --> 00:41:11,700
+steel reinforcement compression will have a strain equal epsilon steel in compression.
+
+381
+00:41:12,900 --> 00:41:19,760
+We need to figure out this value. So I will do triangle similarity between this little triangle
+
+382
+00:41:20,160 --> 00:41:28,740
+keeping your mind this little distance will be c minus d prime. That makes sense and the total
+
+383
+00:41:29,000 --> 00:41:37,859
+distance for the bigger triangle is c. So I can say 0.003 divided by epsilon steel in compression
+
+384
+00:41:37,860 --> 00:41:41,480
+equal C divided by C minus D prime.
+
+385
+00:41:41,940 --> 00:41:43,020
+Go ahead and put your numbers.
+
+386
+00:41:43,180 --> 00:41:43,900
+You have everything.
+
+387
+00:41:44,720 --> 00:41:46,980
+C is 7.6.
+
+388
+00:41:48,380 --> 00:41:49,100
+7.6.
+
+389
+00:41:49,800 --> 00:41:51,120
+D prime 2.5.
+
+390
+00:41:51,820 --> 00:41:53,940
+The only unknown is epsilon steel accomplish.
+
+391
+00:41:55,000 --> 00:41:55,740
+What is the value?
+
+392
+00:41:56,020 --> 00:41:57,940
+7.6 minus 2.5.
+
+393
+00:41:58,720 --> 00:42:02,380
+5.003 divided by 7.6.
+
+394
+00:42:03,320 --> 00:42:07,320
+I got 0.002.
+
+395
+00:42:10,600 --> 00:42:14,579
+I got 0.002.
+
+396
+00:42:18,280 --> 00:42:22,820
+What is the value of epsilon yield equal F e yield divided by E steel?
+
+397
+00:42:26,880 --> 00:42:36,780
+So F e yield equals 60,000 or 60 ksi in this problem, I think 60, yes, divided by 30,000.
+
+398
+00:42:41,800 --> 00:42:45,940
+Let me do something here to make it more attractive.
+
+399
+00:42:47,740 --> 00:42:50,760
+Assume and you have to follow what is given.
+
+400
+00:42:51,800 --> 00:42:54,880
+Easteel is given 29,000.
+
+401
+00:42:56,300 --> 00:42:59,320
+KSR. This value is given here.
+
+402
+00:43:00,720 --> 00:43:05,460
+So unfortunately, I will not use 30,000 because I am given a value
+
+403
+00:43:05,460 --> 00:43:14,540
+for Esteel it's 29000 not 30000. If you divide this number by this number
+
+404
+00:43:14,660 --> 00:43:20,900
+60 by 29,000 unfortunately I got
+
+405
+00:43:25,619 --> 00:43:26,320
+wait a moment
+
+406
+00:43:34,450 --> 00:43:38,980
+not the 29 I'm sorry let me assume it not 29
+
+407
+00:43:42,340 --> 00:43:50,300
+let me assume it 32. We are using a type of steel with E steel equal 30 to not 29.
+
+408
+00:43:51,000 --> 00:43:58,140
+So this value is not 29. I'm sorry. If this information is not given you have to use 30,000.
+
+409
+00:43:58,940 --> 00:44:08,400
+But right now we are given a value for E steel, 60 divided by 30,000. I got 0.0018.
+
+410
+00:44:10,500 --> 00:44:17,460
+Unfortunately, your strain in steel under compression is then epsilon yield.
+
+411
+00:44:18,560 --> 00:44:23,940
+So the answer is no. The stereo enforcement did not yield.
+
+412
+00:44:25,430 --> 00:44:32,200
+The stereo enforcement did not yield. So unfortunately, I have to start from a scratch.
+
+413
+00:44:33,240 --> 00:44:36,980
+One more time. Using these
+
+414
+00:44:37,860 --> 00:44:44,540
+exeperations in this slide. If the compression sterion forcement did not yield.
+
+415
+00:44:46,880 --> 00:44:50,300
+Very easy, just I would like to show you how to use these exeperations.
+
+416
+00:44:56,680 --> 00:45:04,580
+First of all, I will have compression in concrete and I will have compression in
+
+417
+00:45:04,580 --> 00:45:06,560
+in a stereo enforcement under compression,
+
+418
+00:45:07,020 --> 00:45:10,220
+and I will have tension in the stereo enforcement
+
+419
+00:45:10,420 --> 00:45:11,000
+under tension.
+
+420
+00:45:11,640 --> 00:45:14,480
+For acrobium, this force in tension
+
+421
+00:45:14,800 --> 00:45:17,320
+must equal the two forces in compression,
+
+422
+00:45:17,600 --> 00:45:19,940
+one in concrete and the second one in steel.
+
+423
+00:45:21,080 --> 00:45:23,820
+But keep in your mind for the one on the steel
+
+424
+00:45:24,060 --> 00:45:26,560
+equal area steel brim, not time F yield,
+
+425
+00:45:26,660 --> 00:45:29,460
+because F yield, the stereo enforcement did not yield yet.
+
+426
+00:45:30,200 --> 00:45:32,760
+So I will label it Fs briming.
+
+427
+00:45:33,820 --> 00:45:34,680
+So it's very easy.
+
+428
+00:45:35,560 --> 00:45:38,040
+We have a steel, a cross section looks like this.
+
+429
+00:45:39,500 --> 00:45:40,740
+I will have tension here,
+
+430
+00:45:41,740 --> 00:45:45,800
+and I will have two compression, one in steel
+
+431
+00:45:46,120 --> 00:45:48,660
+and the second one in concrete.
+
+432
+00:45:49,980 --> 00:45:51,820
+So I will say for equilibrium,
+
+433
+00:45:52,180 --> 00:45:54,500
+the tension in the stereo enforcement at the bottom
+
+434
+00:45:54,640 --> 00:45:56,800
+must equal the compression in concrete
+
+435
+00:45:56,980 --> 00:45:58,500
+plus the compression in the steel.
+
+436
+00:46:00,240 --> 00:46:02,400
+This is the meaning of the first equation,
+
+437
+00:46:02,620 --> 00:46:07,960
+capital T equal capital C in concrete plus capital C in
+
+438
+00:46:08,020 --> 00:46:08,800
+stereo enforcement.
+
+439
+00:46:10,060 --> 00:46:11,080
+This is the main idea.
+
+440
+00:46:12,560 --> 00:46:15,440
+This one equal area steel intention time F yield
+
+441
+00:46:15,560 --> 00:46:21,820
+because the stereo enforcement intention is yielded 100%,
+
+442
+00:46:21,820 --> 00:46:22,260
+I'm sure.
+
+443
+00:46:24,220 --> 00:46:27,180
+But the issue with this stereo enforcement did not yield.
+
+444
+00:46:28,120 --> 00:46:32,600
+So compression in concrete equal point 85 F prime C
+
+445
+00:46:32,600 --> 00:46:40,060
+A times B, this is a norm, plus area steel prime time I cannot say F yield because the
+
+446
+00:46:40,220 --> 00:46:44,600
+stereo enforcement in compression did not yield yield, so I will call it Fs prime.
+
+447
+00:46:49,940 --> 00:46:59,400
+I will modify this equation more, area steel F yield equal 0.85 F prime C. This A I can remove
+
+448
+00:46:59,400 --> 00:47:10,500
+it and the both beta 1c we have neutral axis this neutral axis has distance c if you multiply beta
+
+449
+00:47:10,600 --> 00:47:20,560
+one time c you can get a so i remove the a and both beta 1c plus area steel prime time fs prime
+
+450
+00:47:20,700 --> 00:47:25,640
+i have the expression here for fs prime equal to this expression from triangle similarity
+
+451
+00:47:28,100 --> 00:47:38,060
+equal c minus d prime divided c time 0.003 e steel d i'm sorry c minus d prime
+
+452
+00:47:40,710 --> 00:47:42,740
+is that correct yes
+
+453
+00:47:45,820 --> 00:47:54,040
+c minus d prime divided by c time 0.003 time e steel
+
+454
+00:47:57,400 --> 00:48:07,600
+this is the value of stress in steel under compression because this stress did not yield yet
+
+455
+00:48:07,850 --> 00:48:15,080
+so I cannot use a field. This is the main idea in this case. If you simplify this equation
+
+456
+00:48:15,780 --> 00:48:25,580
+and put every number you can get a quadratic equation as a function of C. Let's see.
+
+457
+00:48:27,320 --> 00:48:35,660
+Area steel equal the total area steel in this problem equal 5.06.
+
+458
+00:48:37,740 --> 00:48:39,560
+Time F yield 60,000.
+
+459
+00:48:44,000 --> 00:48:51,520
+0.85, F prime C equal 3, beta 1 is 0.85 times C.
+
+460
+00:48:53,480 --> 00:48:58,540
+plus area steel prime in this problem area steel prime equal 1.2
+
+461
+00:49:01,720 --> 00:49:14,840
+your c i don't know your d prime 2.5 divided by c time 0.003 time e steel is given 32,000 in this
+
+462
+00:49:14,940 --> 00:49:23,460
+problem then i can simplify this equation i will find myself with one unknown only
+
+463
+00:49:24,140 --> 00:49:39,800
+Let's see. So 506 times 60, I got 303.6. Equal. This one will be simplified by 0.85 times 3 times 0.85.
+
+464
+00:49:41,560 --> 00:49:51,960
+I forget something here. Yeah, there is B here, should be. Time 14. We have B, 0.85 F prime C, beta 1, C.
+
+465
+00:49:51,960 --> 00:50:06,620
+this is a and we have b yes 0.85 times 3 times 0.5 times 14 I got here 30.3 c plus
+
+466
+00:50:09,800 --> 00:50:31,780
+this one 1.2 time 0.003 time 32,000 I got 115.2C minus 1.2 time 2.5 time 0.003 time
+
+467
+00:50:32,520 --> 00:50:42,860
+32,000, I got 288 divided by C, we have C here. So if you multiply the whole
+
+468
+00:50:44,200 --> 00:50:59,900
+equation by C, I can get here 303.6 C equal 30.3 C square plus 115.2 C minus 288.
+
+469
+00:51:03,440 --> 00:51:16,740
+If you rearrange the equation, so 30.3 c square minus 303.6 minus 115.2, I got here
+
+470
+00:51:18,200 --> 00:51:28,580
+188.4C minus 288 equals 0. You will have a quadratic equation as a function of C.
+
+471
+00:51:29,200 --> 00:51:38,440
+I can solve the C for C equal negative B plus or minus square root B square minus
+
+472
+00:51:38,480 --> 00:51:50,800
+4ac divided by 2a. I will have two solutions. Let's see. b square went 88.4
+
+473
+00:51:53,380 --> 00:51:58,820
+minus 4 times a times c
+
+474
+00:52:05,500 --> 00:52:10,900
+under square root minus b
+
+475
+00:52:20,820 --> 00:52:30,940
+divided by 2a I got c equal 1.3 inch
+
+476
+00:52:30,940 --> 00:52:35,120
+looks like it's wrong. Let me check it one more time.
+
+477
+00:52:41,120 --> 00:52:51,160
+b^2, 188.4 square minus 4 times a times c
+
+478
+00:52:53,360 --> 00:52:54,440
+under square root
+
+479
+00:53:06,320 --> 00:53:18,160
+plus negative B. Yes, the second one will give you a negative value. The second one will give you a negative value.
+
+480
+00:53:20,579 --> 00:53:27,980
+Let me check also the first one looks like I have a mistake and point five point or six
+
+481
+00:53:28,200 --> 00:53:37,220
+times 60 I got this number point eight five time three time point eight five time fourteen
+
+482
+00:53:38,260 --> 00:53:40,460
+I got this number--
+
+483
+00:53:40,460 --> 00:53:44,740
+1.2 time 0.003 time 32,000.
+
+484
+00:53:45,920 --> 00:53:48,620
+I got this number--
+
+485
+00:53:48,660 --> 00:53:55,620
+1.2 time 0.003 time 32,000, time 2.5.
+
+486
+00:53:56,660 --> 00:53:57,760
+I got this number.
+
+487
+00:53:58,160 --> 00:53:58,680
+We are good.
+
+488
+00:53:59,840 --> 00:54:00,880
+So far, so good.
+
+489
+00:54:06,680 --> 00:54:08,300
+Yeah, if you move this one to this side,
+
+490
+00:54:08,380 --> 00:54:08,940
+this would be negative.
+
+491
+00:54:09,100 --> 00:54:10,740
+Yes, let me check it one more time.
+
+492
+00:54:11,380 --> 00:54:23,440
+So 188.4, this is B square plus 4 times A times C
+
+493
+00:54:26,120 --> 00:54:27,140
+under square root.
+
+494
+00:54:36,200 --> 00:54:43,100
+yeah plus 188.4 divided by 2 times a
+
+495
+00:54:45,760 --> 00:54:52,240
+yeah 7.4 this one this number is wrong that makes sense 7.5 inch
+
+496
+00:54:55,580 --> 00:55:04,119
+7.5 inch this one will be a negative number it will not be accepted so the value of c equal 7.5
+
+497
+00:55:04,760 --> 00:55:10,520
+Guys, you have to get some logic because this is the depth of your neutral axis. I got a wrong number
+
+498
+00:55:11,440 --> 00:55:17,860
+which is 1.5 doesn't make sense. That means your neutral axis is still at the top doesn't make
+
+499
+00:55:17,980 --> 00:55:25,480
+any sense. So this logic number 7.5 makes sense for me. So once you get the value of c,
+
+500
+00:55:28,280 --> 00:55:35,620
+Once you get the value of c, I can find the value of a which is equal beta one times c.
+
+501
+00:55:36,380 --> 00:55:43,560
+So your value of a equal time 0.85, I got a equals 6.4.
+
+502
+00:55:45,180 --> 00:55:49,920
+Also, I can find the value of f prime c, f prime s, I'm sorry, this value.
+
+503
+00:55:50,840 --> 00:55:54,920
+Go ahead and put the value of c, the value of d prime, the value of c, the value of e still,
+
+504
+00:55:55,000 --> 00:56:06,920
+I can find it. So the value of C equal 7.5 minus D prime 2.5 divided by 7.5
+
+505
+00:56:07,700 --> 00:56:12,260
+time 0.03 times 32,000 I got here 64.
+
+506
+00:56:15,090 --> 00:56:21,719
+A key sorry which it should be less than a field and that makes sense. This is the main reason why
+
+507
+00:56:22,680 --> 00:56:26,760
+there I did all of this calculation I repeated all of this calculation because the stress
+
+508
+00:56:27,700 --> 00:56:31,500
+in the steel reinforcement in compression did not yield yet.
+
+509
+00:56:32,280 --> 00:56:38,820
+This actual stress is 64 not a field oh oh the field is equal 60.
+
+510
+00:56:41,480 --> 00:56:47,140
+Looks like we have another mistake here 7.5 minus 2.5.
+
+511
+00:56:52,880 --> 00:57:05,020
+divided by 7.5, I'm 0.003, I'm 32000.
+
+512
+00:57:11,580 --> 00:57:14,660
+No, it's 64 and 64 is greater than a field.
+
+513
+00:57:14,740 --> 00:57:16,020
+That means we have a mistake.
+
+514
+00:57:17,240 --> 00:57:18,480
+Do you remember what was the mistake?
+
+515
+00:57:24,140 --> 00:57:25,660
+Yeah, here is a mistake.
+
+516
+00:57:28,780 --> 00:57:29,160
+Oh my goodness.
+
+517
+00:57:30,760 --> 00:57:36,860
+I'm sorry, go back and assume your E steel is 29, not 32.
+
+518
+00:57:37,130 --> 00:57:40,120
+I'm not sure why I assume the 32, 29.
+
+519
+00:57:41,600 --> 00:57:54,220
+So if you assume the 29, it will give you F yield 0.0021.
+
+520
+00:57:55,860 --> 00:57:58,759
+And your epsilon steel yield 0.002
+
+521
+00:57:58,760 --> 00:58:00,740
+is smaller than epsilon, that makes sense.
+
+522
+00:58:01,520 --> 00:58:03,440
+This is the reason why we answered no
+
+523
+00:58:03,680 --> 00:58:05,320
+and this is the reason why we repeated
+
+524
+00:58:05,480 --> 00:58:06,640
+all of these calculations.
+
+525
+00:58:08,800 --> 00:58:09,300
+That makes sense.
+
+526
+00:58:09,700 --> 00:58:11,280
+So this one is will be 29.
+
+527
+00:58:13,580 --> 00:58:15,560
+So your numbers will be a little different.
+
+528
+00:58:16,180 --> 00:58:23,140
+This value and this value and this value.
+
+529
+00:58:23,720 --> 00:58:25,420
+Let me recheck, I'm sorry.
+
+530
+00:58:29,100 --> 00:58:48,620
+So it will be 1.2 time 0.003 time 29,000 it will be 104.4 and this one will be 1.2 time
+
+531
+00:58:48,700 --> 00:59:09,480
+2.5, time going to 003, time 29000, it will be 261. So this one will be 261, and this one will be
+
+532
+00:59:09,500 --> 00:59:22,120
+to 161 volts and this one will be 104.4 then this number will be a little
+
+533
+00:59:22,200 --> 00:59:38,779
+different it will be 303.6 minus 104.4 I got 199.2 then I can resolve the
+
+534
+00:59:38,780 --> 00:59:49,660
+equation it will be 199.2 square plus four time a time b
+
+535
+00:59:52,260 --> 00:59:56,680
+plus divided by 2A.
+
+536
+00:59:59,200 --> 01:00:03,780
+I got, oh my goodness, wait, wait.
+
+537
+01:00:04,460 --> 01:00:06,300
+1, 9, 9, 2 square.
+
+538
+01:00:32,900 --> 01:00:33,060
+Yes.
+
+539
+01:00:34,120 --> 01:00:34,520
+Blast.
+
+540
+01:00:38,360 --> 01:00:40,320
+divided by two times a.
+
+541
+01:00:42,780 --> 01:00:53,120
+I got 7.7, a little difference. So 7.7 if you divided it by beta,
+
+542
+01:00:56,940 --> 01:00:58,460
+multiply it by beta, I'm sorry.
+
+543
+01:01:01,440 --> 01:01:07,060
+Your value of A will be 6.5, not 0.4, a little difference.
+
+544
+01:01:08,480 --> 01:01:12,640
+And your stress, if you go back here, you must have something less than
+
+545
+01:01:12,700 --> 01:01:22,860
+if you go back here and what C equals 7.6 minus 2.5 divided by 7.6, applying 0.003,
+
+546
+01:01:31,420 --> 01:01:42,000
+29,000, I got 58. 58, that makes sense. 58, this is the value of stress in
+
+547
+01:01:42,060 --> 01:01:46,320
+steric enforcement and compression, which is less than if yield, this is the reason why we
+
+548
+01:01:46,640 --> 01:01:54,160
+answered here no, because the steric enforcement did not yield, because the strain in the steel
+
+549
+01:01:54,160 --> 01:02:01,520
+compression is lift then I'm sorry for this mistake then I can find out the
+
+550
+01:02:01,540 --> 01:02:07,700
+value of Mn1 equal area steel one area steel one equal the stereo
+
+551
+01:02:07,820 --> 01:02:16,200
+enforcement for bar to number one do you remember what was area steel one I
+
+552
+01:02:16,200 --> 01:02:17,040
+I think it was here.
+
+553
+01:02:21,920 --> 01:02:22,540
+3.86.
+
+554
+01:02:26,900 --> 01:02:29,100
+Time F yield 60,000.
+
+555
+01:02:29,980 --> 01:02:33,900
+Your depth 24, your A equals 6.5.
+
+556
+01:02:34,500 --> 01:02:36,160
+I can find out the value of MN1.
+
+557
+01:02:36,880 --> 01:02:42,580
+Value of MN2, area steel dash or area steel prime equal 1.2.
+
+558
+01:02:45,320 --> 01:02:50,740
+your Fs prime equal 58, not 60,000, 58,000.
+
+559
+01:02:51,820 --> 01:02:54,680
+Your depth 24, your depth prime 2.5,
+
+560
+01:02:54,900 --> 01:02:57,020
+I can find out the value of mn2.
+
+561
+01:02:57,840 --> 01:02:59,280
+Once you get the two value of moment,
+
+562
+01:02:59,460 --> 01:03:02,040
+you can add them together to find out the total mn,
+
+563
+01:03:02,400 --> 01:03:05,120
+then you can figure out the value of pay mn.
+
+564
+01:03:07,920 --> 01:03:09,320
+[ Silence ]
+

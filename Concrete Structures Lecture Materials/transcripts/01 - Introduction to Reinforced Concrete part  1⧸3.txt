@@ -1,0 +1,233 @@
+This slide summarises what we will learn in this course.
+
+In this course, we have a concrete structure.
+
+Concrete structure means it's not common in this country to find concrete structure.
+
+Most of the buildings are made from wood.
+
+So, what's the purpose?
+
+You know, it's durable, can maintain temperature.
+
+We have many advantage for what structure, but I'm talking about another type of building, which is called reinforced concrete structure.
+
+We have foundation.
+
+Most of the time is footing.
+
+We have reinforced concrete column.
+
+We have reinforced concrete beams.
+
+We have a slab.
+
+If you are at home, you are walking on the slab.
+
+We have reinforced concrete slab.
+
+The mimbards of any concrete structure are four parts.
+
+We have SLAP, BEAM, COAL, and Foundation.
+
+We will learn in this course how to design each of them manually with your hand and by the end of the semester do your project how to use a software to construct or to design this building.
+
+Also, we will cover retaining wall.
+
+We will cover something called pre-stressed concrete.
+
+What is the meaning of pre-stressed?
+
+And finally, we will cover two software, RISA flow and RISA foundation.
+
+Last semester, you learned RISA 2D.
+
+So by the end of this semester, you will have three softwares.
+
+Next semester for steel, I will add another one or two.
+
+So you will be familiar with the family of Reza, 2D, floor, foundation, connection, all of these stuff.
+
+So let's start.
+
+I would like also before starting to provide you with the story.
+
+What is the story?
+
+In the course of structure analysis, we learned that we had external forces on a building.
+
+That means we have internal forces in the form of axial force, shear force, bending moment.
+
+That's right.
+
+Last semester we learned in a structural analysis course that we have a beam.
+
+This beam has external forces, probably concentrated force, distributed load, concentrated moment. external forces will create internal forces in the form of axial force, shear force, and bending moment.
+
+In our course, we will use these internal forces to design.
+
+Wow, that means the first step in our problems, the first step in this course, you need to figure out what are the internal forces.
+
+But I will not ask you to go back to structure analysis and review what you learned.
+
+I will ask you, you can use RISA2D to get your internal forces.
+
+Then I will teach you how to design based on the internal forces.
+
+With Dr.
+
+Ouh during the course of mechanics of material, I think, or strengths of material, you learned that sigma stress equals mc over i.
+
+You learned during this course, mechanics of materials, I think, Tau equal Qv over i times b.
+
+You learned sigma equal force divide area.
+
+So in a different course, you learned stresses.
+
+How to convert the internal forces to stresses?
+
+we have an existing building with internal forces, so I can figure out the stresses.
+
+If you don't have building, we don't have existing building.
+
+We need to create the building, so we need to design the building.
+
+We don't have it.
+
+So I will ask you, I will analyze the building, which is not exist.
+
+Analyze the building, design the building it exists.
+
+Okay, so I would like you to understand what's going on.
+
+What is the main purpose of mechanics of material?
+
+What is the main purpose of structural analysis?
+
+What is the main purpose of this course?
+
+This course is only design.
+
+We need to translate these internal forces to design.
+
+Any questions so far?
+
+Any questions so far?
+
+We are talking about concrete structure.
+
+Next semester we will talk the same sentence but for steel structure.
+
+If you have a whole house or something like this, so you can design using the course of steel structure.
+
+What is the concrete?
+
+What is the meaning of concrete?
+
+Just introduction.
+
+I believe all of you know what is the meaning of concrete.
+
+Probably you watch boring of concrete around your area, around your house, probably in your house during your internship or something like this.
+
+Concrete means we have three main ingredients.
+
+We have aggregate.
+
+We have cement.
+
+We have water. aggregate probably we have coarse aggregate which is gravel, stones, we have fine aggregate which is sand.
+
+So we have coarse aggregate, we have fine aggregate, We have cement, we have water.
+
+Three main topics, without these three, you have something different than concrete, you have something else, probably mortar or whatever.
+
+Okay, so we have aggregate, we have cement, we have water mixed them together, you can get plain concrete.
+
+Okay.
+
+Water is very important.
+
+Without water, you don't have concrete.
+
+Because water with cement will do something called hydration. will make the concrete to harden.
+
+Hardening of concrete is the responsibility of water plus cement.
+
+If you don't have enough water in the concrete mix, you don't have enough hydration, you don't have enough hardening.
+
+So water is very important.
+
+So because water is very important, we have something called curing of concrete.
+
+After boring of concrete, you need to maintain water on concrete for probably seven days.
+
+So after boring every day, you need to spread water on the concrete surface.
+
+You have holes and you have source of water and you need to spread the water on the concrete surface probably for seven days.
+
+Why?
+
+To maintain water in concrete.
+
+Why?
+
+To maintain the hydration process.
+
+Why?
+
+Because hydration process is a chemical reaction. reaction between water and cement are responsible for hardening of concrete.
+
+Without this hydration process we don't have hardening, we don't have concrete.
+
+We have something else.
+
+Okay I have question.
+
+Once I bought water to cement, do you think hardening will happen?
+
+No.
+
+So we have something called sitting the time of concrete.
+
+We have initial setting time, we have final setting time.
+
+Initial setting time means your the viscosity of concrete becomes fiscous.
+
+It's not liquid or not hardened but something in between.
+
+This is called initial setting the time, sometimes probably between 30 to 60 minutes.
+
+It's very important to have initial setting the time.
+
+Why?
+
+Because if you once you put your water to cement and you have hardening, no way to translate concrete from a position to another position from the concrete mixer or concrete plant to the site of construction.
+
+So we have something called initial setting time, probably between 30 to 60 minutes.
+
+We have final setting time, probably 10 hour or more, 24 hour.
+
+Final setting time means concrete is very hard.
+
+You can walk on it without any marks or anything on the concrete surface.
+
+After final setting you can walk on the concrete surface without any issue but for initial setting no you're still stuck with the concrete surface.
+
+If you walk on the concrete surface your leg will stuck in the concrete and probably you will do some marks on the concrete surface.
+
+Okay.
+
+So we have three different main ingredient.
+
+We have water for hydration with cement.
+
+We have sitting time, initial sitting time, and the final sitting time.
+
+We have curing of concrete, which is very important.
+
+If I didn't cure concrete after boring, I will loss the water will be lost.
+
+If the water lost during the hot weather, like here in Texas, if you lost water rapidly, hydration process will not complete, will not be completed, and the hardening of concrete will not happen.
+
+So we will have very weak concrete.

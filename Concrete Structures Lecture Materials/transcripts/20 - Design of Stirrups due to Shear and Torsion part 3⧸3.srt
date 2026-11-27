@@ -1,0 +1,1020 @@
+1
+00:00:28,580 --> 00:00:29,980
+*Sizzling
+
+2
+00:00:32,660 --> 00:00:39,220
+T ultimate, which is the ultimate torsion moment, smaller than or equal this expression.
+
+3
+00:00:40,010 --> 00:00:46,740
+By the way, FeA in shear or torsion all the time 0.75 according to ACI.
+
+4
+00:00:49,140 --> 00:00:57,840
+And if prime C concrete strength compressive strength of concrete area Cp, Pcp, the area
+
+5
+00:00:57,840 --> 00:01:06,960
+of the whole cross section, perimeter of the whole cross section. So area Cb, b time h,
+
+6
+00:01:07,460 --> 00:01:15,520
+p Cb equal h plus b the time two, which is a perimeter. Lambda in this expression is one
+
+7
+00:01:15,640 --> 00:01:21,080
+also time because we are talking about normal with concrete. This is the first to check.
+
+8
+00:01:21,760 --> 00:01:27,340
+Second, you need to check also if this cross section is enough as concrete.
+
+9
+00:01:27,680 --> 00:01:30,200
+I'm talking about concrete as a cross section.
+
+10
+00:01:30,440 --> 00:01:31,360
+Is enough or not?
+
+11
+00:01:32,620 --> 00:01:34,460
+So we need to check using this expression.
+
+12
+00:01:34,740 --> 00:01:36,400
+If you have shear, include it.
+
+13
+00:01:37,140 --> 00:01:38,800
+If you have torsion, include it.
+
+14
+00:01:40,120 --> 00:01:44,220
+This expression must be smaller than or equal the right expression.
+
+15
+00:01:45,620 --> 00:01:51,340
+You have to be sure, be careful about pH and area OH.
+
+16
+00:01:52,960 --> 00:02:01,160
+This part is very important. I'm gonna draw a line at the center line of the
+
+17
+00:02:02,160 --> 00:02:07,700
+stirrup. At the center line of the stirrup, at the center line of the stirrup,
+
+18
+00:02:07,820 --> 00:02:14,300
+you know, your stirrup should have diameter. So at the center line exactly,
+
+19
+00:02:14,400 --> 00:02:27,260
+I'm talking about this new section. The area of this inside section will be area OH. The
+
+20
+00:02:27,480 --> 00:02:37,360
+parameter for this section will be pH. To figure out the dimension of the new section,
+
+21
+00:02:40,360 --> 00:02:47,160
+I can get x1 and y1 from this expression and this expression. We need only the width of the cross
+
+22
+00:02:47,340 --> 00:02:59,040
+section minus 2 cover plus stirrup leg 1 leg diameter diameter not area diameter and y1 equal
+
+23
+00:02:59,120 --> 00:03:07,220
+the total, the overall depth which is called H minus 2 cover plus syrup leg diameter.
+
+24
+00:03:08,540 --> 00:03:14,460
+So I can figure out this expression and this expression to check, this one to check,
+
+25
+00:03:14,900 --> 00:03:19,880
+you have to be sure this expression is valid for this relationship is valid.
+
+26
+00:03:20,480 --> 00:03:26,420
+If this one not valid, that means the cross section as a concrete is not enough.
+
+27
+00:03:26,480 --> 00:03:32,999
+you have to increase the dimension. Probably you increase the width or
+
+28
+00:03:33,800 --> 00:03:39,220
+probably you increase the overall depth. Any questions so far?
+
+29
+00:03:44,780 --> 00:03:46,460
+Any questions so far?
+
+30
+00:03:54,680 --> 00:04:06,080
+According to ACI, the concrete cover is measured like this.
+
+31
+00:04:06,780 --> 00:04:07,560
+It's a good question.
+
+32
+00:04:08,350 --> 00:04:16,660
+You know, I will draw these details in more depth.
+
+33
+00:04:17,709 --> 00:04:21,359
+Here is the stirrup.
+
+34
+00:04:21,680 --> 00:04:26,120
+Your stirrup should have thickness, which is called diameter.
+
+35
+00:04:26,920 --> 00:04:27,520
+This is the diameter.
+
+36
+00:04:30,120 --> 00:04:31,820
+And here is the stereo enforcement.
+
+37
+00:04:36,320 --> 00:04:36,740
+That's right.
+
+38
+00:04:38,220 --> 00:04:40,300
+I'm not drawing just lines.
+
+39
+00:04:40,480 --> 00:04:42,240
+No, I'm drawing with thickness.
+
+40
+00:04:43,380 --> 00:04:46,520
+So this one is the stirrup.
+
+41
+00:04:50,840 --> 00:05:00,060
+According to ACI, concrete cover means this clear distance
+
+42
+00:05:00,240 --> 00:05:02,540
+from this edge to this edge.
+
+43
+00:05:06,080 --> 00:05:06,560
+This is the cover.
+
+44
+00:05:08,560 --> 00:05:12,240
+Actually, if you would like to reach this center line,
+
+45
+00:05:13,760 --> 00:05:15,720
+you need to add something to this cover.
+
+46
+00:05:17,320 --> 00:05:27,980
+So cover plus diameter of the syrup plus diameter, I'm sorry,
+
+47
+00:05:28,220 --> 00:05:34,140
+have diameter of rebars.
+
+48
+00:05:36,800 --> 00:05:38,880
+These rebars.
+
+49
+00:05:42,520 --> 00:05:43,180
+You got it?
+
+50
+00:05:44,600 --> 00:05:52,520
+So according to ACI, this clear cover probably for beams about 1.5 inch.
+
+51
+00:05:54,270 --> 00:06:00,360
+So if you add this diameter of a stirrup and this half diameter of reverse, you can reach
+
+52
+00:06:01,000 --> 00:06:05,140
+this value around 2 inch to 2.5 inch.
+
+53
+00:06:06,920 --> 00:06:11,360
+Okay, so cover means this clear distance.
+
+54
+00:06:12,000 --> 00:06:15,720
+So I need to add half diameter from here
+
+55
+00:06:16,160 --> 00:06:17,980
+and another half from this side.
+
+56
+00:06:18,400 --> 00:06:20,760
+So the total will be diameter.
+
+57
+00:06:26,820 --> 00:06:28,060
+Okay, okay.
+
+58
+00:06:28,760 --> 00:06:32,660
+Then we need only to use this expression.
+
+59
+00:06:35,280 --> 00:06:38,500
+Area T, area torsion,
+
+60
+00:06:39,920 --> 00:06:43,300
+divide S equal T ultimate,
+
+61
+00:06:46,420 --> 00:06:48,060
+which is a oblige torsion,
+
+62
+00:06:49,240 --> 00:06:50,880
+ultimate oblige torsion,
+
+63
+00:06:51,420 --> 00:06:52,500
+divide two phase,
+
+64
+00:06:53,140 --> 00:06:56,000
+area node, F yield,
+
+65
+00:06:56,700 --> 00:06:58,080
+Q10 theta.
+
+66
+00:06:59,600 --> 00:07:01,300
+What you mean by Q10 theta?
+
+67
+00:07:02,360 --> 00:07:06,100
+Theta is the angle for the stirrups.
+
+68
+00:07:06,400 --> 00:07:08,960
+If your stirrups are vertical stirrups,
+
+69
+00:07:10,240 --> 00:07:12,360
+Your angle theta equals zero.
+
+70
+00:07:14,080 --> 00:07:19,020
+Sometimes, sometimes, I didn't see it in my life actually.
+
+71
+00:07:19,960 --> 00:07:25,700
+We bought probably your stirrups looks like this,
+
+72
+00:07:26,540 --> 00:07:34,240
+inclined the stirrups with angle theta equal 30 or 45 or probably 60.
+
+73
+00:07:35,000 --> 00:07:37,540
+Sometimes, if you have angle,
+
+74
+00:07:37,880 --> 00:07:44,260
+put it here if your stirrups vertical stirrup your angle will be zero
+
+75
+00:07:46,180 --> 00:07:55,560
+your angle will be zero 99 percent 95 percent most of the time so okay that's fine what is the value
+
+76
+00:07:55,560 --> 00:08:05,879
+of area note if you go back we learned how to get area OH or a node H I'm talking about area
+
+77
+00:08:05,880 --> 00:08:10,200
+but not only area, it will be 0.85 area OH.
+
+78
+00:08:11,440 --> 00:08:16,060
+You remember area OH, the area of the inside section.
+
+79
+00:08:17,700 --> 00:08:22,060
+After you draw at the center line of each stirrup leg.
+
+80
+00:08:23,480 --> 00:08:31,940
+So 0.85 area OH, this area O, 0.75.
+
+81
+00:08:33,080 --> 00:08:34,620
+OK, this side looks good.
+
+82
+00:08:35,120 --> 00:08:36,380
+This right side looks good.
+
+83
+00:08:36,760 --> 00:08:38,039
+What about this left side?
+
+84
+00:08:40,240 --> 00:08:44,119
+S is the spacing between stirrups.
+
+85
+00:08:47,700 --> 00:08:49,600
+Area T, be careful.
+
+86
+00:08:50,140 --> 00:08:50,780
+Be careful.
+
+87
+00:08:51,560 --> 00:09:01,120
+Area T, area of one leg of the stirrup.
+
+88
+00:09:04,420 --> 00:09:05,300
+Please be careful.
+
+89
+00:09:05,940 --> 00:09:09,180
+Anybody remember area V for Sheer?
+
+90
+00:09:09,860 --> 00:09:11,820
+Do you remember area V?
+
+91
+00:09:13,180 --> 00:09:18,660
+Area V was the area of all legs of the stirrup.
+
+92
+00:09:18,660 --> 00:09:23,060
+If you have four legs, so the area of the whole four legs.
+
+93
+00:09:24,060 --> 00:09:27,520
+But right now I'm talking about area T,
+
+94
+00:09:27,740 --> 00:09:30,520
+which is area of one leg only.
+
+95
+00:09:31,680 --> 00:09:39,140
+area of one leg of the steering. S is the spacing. So I give you
+
+96
+00:09:39,280 --> 00:09:47,200
+expression for area T divided S. It's up to you. You can assume S to figure out the area T.
+
+97
+00:09:47,800 --> 00:09:54,640
+You can assume area T to figure out the spacing. Let's do one example
+
+98
+00:09:56,480 --> 00:09:58,160
+and see what's going on.
+
+99
+00:09:58,580 --> 00:10:04,400
+For torsion, it's very easy to solve this problem in torsion.
+
+100
+00:10:04,700 --> 00:10:05,500
+It's a piece of cake.
+
+101
+00:10:06,760 --> 00:10:07,880
+Yeah, thank you, Oliver.
+
+102
+00:10:08,360 --> 00:10:11,860
+Area V, number of legs, time area of one bar.
+
+103
+00:10:12,440 --> 00:10:17,200
+But area T in torsion is only area of one leg.
+
+104
+00:10:17,440 --> 00:10:22,039
+Anyway, we have a beam, this beam with width
+
+105
+00:10:22,040 --> 00:10:33,040
+16 overall depth 26 we have applied torsion the ultimate equal 50 kibb foot
+
+106
+00:10:36,000 --> 00:10:48,839
+if brine c4000 if yield 60 000 the clear cover clear cover means this clear cover
+
+107
+00:10:49,640 --> 00:10:56,300
+1.5 inch. The problem suggested to use number four as a stirrups.
+
+108
+00:10:57,780 --> 00:11:00,860
+Normal with concrete, that means lambda equal one, that makes sense.
+
+109
+00:11:02,920 --> 00:11:08,740
+Please design closed stirrup to support this torsion. Do you remember? I told you before,
+
+110
+00:11:09,560 --> 00:11:16,720
+stirrups for torsion are special stirrups. They must be closed stirrups.
+
+111
+00:11:18,440 --> 00:11:25,680
+for torsion. Okay, actually to solve the problem in torsion we need three steps.
+
+112
+00:11:27,440 --> 00:11:34,780
+Can anybody let me know what will be the first step? Do you know what should be the first step?
+
+113
+00:11:42,580 --> 00:11:43,500
+Do you know?
+
+114
+00:11:51,400 --> 00:11:59,920
+Thank you Oliver, yes. Check. Probably 50 kb/ft is nothing. So we can neglect it and we are done.
+
+115
+00:11:59,980 --> 00:12:17,020
+Probably, so first step we need to check if t ultimate can be neglected and the
+
+116
+00:12:17,860 --> 00:12:26,740
+stirrups are not required probably so we need to check t ultimate smaller than
+
+117
+00:12:26,740 --> 00:12:34,540
+n or equal, phi lambda square root f prime c area Cb square
+
+118
+00:12:35,220 --> 00:12:37,340
+divide P Cb.
+
+119
+00:12:38,940 --> 00:12:43,000
+Guys, if you go back, area Cb, the total area
+
+120
+00:12:43,020 --> 00:12:48,340
+of the whole cross section, which is 16 times 26, that's it.
+
+121
+00:12:50,020 --> 00:12:55,019
+So 16 times 26 equals 416.
+
+122
+00:12:58,280 --> 00:13:01,560
+PCB, the perimeter of the whole cross section
+
+123
+00:13:01,560 --> 00:13:06,760
+will be 16 plus 26 times two will be 84.
+
+124
+00:13:09,760 --> 00:13:12,200
+So the right hand side will be one,
+
+125
+00:13:12,540 --> 00:13:17,579
+I'm sorry, 0.75 times one square root
+
+126
+00:13:17,620 --> 00:13:27,900
+prime, see how much, 4000. Area Cp 416 square divided 84. What is the value of this expression?
+
+127
+00:13:28,640 --> 00:13:46,819
+It will be 416 square divided 84 times 4000 times 0.75. This value equal 97723
+
+128
+00:13:46,820 --> 00:13:50,160
+0.4 bound inch.
+
+129
+00:13:52,440 --> 00:13:57,640
+Yeah, everything in bound, 4,000, BSI bound,
+
+130
+00:13:58,440 --> 00:13:59,820
+and everything in inch.
+
+131
+00:14:00,360 --> 00:14:02,420
+So your final answer will be bound inch.
+
+132
+00:14:03,600 --> 00:14:06,280
+In the other, on the left side, we have the ultimate,
+
+133
+00:14:06,700 --> 00:14:09,240
+50-kip foot.
+
+134
+00:14:11,240 --> 00:14:14,400
+So I need to convert from kip to bound from foot to inch.
+
+135
+00:14:14,700 --> 00:14:17,840
+So I need to multiply 50 by 12,000.
+
+136
+00:14:19,420 --> 00:14:20,700
+This value will be 60,
+
+137
+00:14:23,120 --> 00:14:26,260
+60, no, I'm sorry, 600,000.
+
+138
+00:14:30,160 --> 00:14:33,200
+Yeah, 600,000 pound inch.
+
+139
+00:14:34,440 --> 00:14:38,200
+So this one is 97,000.
+
+140
+00:14:39,100 --> 00:14:40,880
+This one is 600,000.
+
+141
+00:14:41,240 --> 00:14:43,800
+So I think this torsion is greater than,
+
+142
+00:14:44,260 --> 00:14:45,820
+I cannot neglect this torsion.
+
+143
+00:14:46,110 --> 00:14:46,680
+It's too much.
+
+144
+00:14:47,460 --> 00:14:48,300
+I cannot neglect.
+
+145
+00:14:50,040 --> 00:14:52,780
+If your torsion is smaller than or equal, that's fine.
+
+146
+00:14:53,400 --> 00:15:01,760
+But it's greater than, no, we can not neglect torsion.
+
+147
+00:15:04,340 --> 00:15:08,960
+Second step, do you know what is the second step?
+
+148
+00:15:11,900 --> 00:15:14,620
+We need to do another check.
+
+149
+00:15:18,180 --> 00:15:21,780
+Probably, probably this cross section,
+
+150
+00:15:22,120 --> 00:15:25,980
+which is 16 times 26 is not enough.
+
+151
+00:15:28,020 --> 00:15:29,820
+If the cross section is not enough,
+
+152
+00:15:30,320 --> 00:15:32,280
+I cannot figure out how many stirrups,
+
+153
+00:15:32,880 --> 00:15:34,540
+or what is the spacing between the stirrups,
+
+154
+00:15:34,620 --> 00:15:36,280
+or I cannot design stirrups.
+
+155
+00:15:36,660 --> 00:15:38,100
+I need to increase the cross section.
+
+156
+00:15:38,940 --> 00:15:42,580
+So second step, we need to check.
+
+157
+00:15:47,140 --> 00:15:57,200
+Check of the concrete cross-section.
+
+158
+00:16:01,010 --> 00:16:02,420
+We have another exhibition,
+
+159
+00:16:03,050 --> 00:16:07,459
+square root of the ultimate
+
+160
+00:16:07,460 --> 00:16:14,080
+divide B web D square plus T ultimate pH
+
+161
+00:16:15,460 --> 00:16:22,260
+divide 1.7 area OH H square all of them is square
+
+162
+00:16:23,120 --> 00:16:27,820
+must be smaller than or equal to FAAVC
+
+163
+00:16:28,420 --> 00:16:34,459
+divide B web depth plus 8 square root F prime C
+
+164
+00:16:37,860 --> 00:16:45,800
+That's right. However, to use this expression I need to figure out what is the value of pH,
+
+165
+00:16:47,420 --> 00:16:56,040
+what is the value of area OH. To figure these values I need to go back to the cross section,
+
+166
+00:16:57,060 --> 00:17:09,120
+center line and center line and center line and center line so can you tell me
+
+167
+00:17:09,199 --> 00:17:22,240
+what is the value of x1 this value of x1 equal to 16 minus 2 cover which is 1.5
+
+168
+00:17:24,959 --> 00:17:31,540
+plus, hey, plus, because I have a big bracket here.
+
+169
+00:17:32,300 --> 00:17:35,820
+So plus, what is the diameter of number four?
+
+170
+00:17:36,360 --> 00:17:37,880
+Do you know how can I figure out the diameter?
+
+171
+00:17:40,820 --> 00:17:42,360
+Yeah, if you go back to tables,
+
+172
+00:17:45,120 --> 00:17:49,560
+for number four, here is the diameter, 0.5.
+
+173
+00:17:51,040 --> 00:17:55,460
+to the diameter is 0.5.
+
+174
+00:17:58,040 --> 00:18:00,260
+Guys, if you go back here to this expression,
+
+175
+00:18:01,460 --> 00:18:07,100
+x1 equal Pb minus two cover plus stirrup leg diameter.
+
+176
+00:18:07,860 --> 00:18:11,980
+This term and this term inside this bracket, these brackets.
+
+177
+00:18:14,419 --> 00:18:19,579
+Okay, so your final answer for x1 will be
+
+178
+00:18:19,580 --> 00:18:30,660
+16 minus 3 plus 0.5 equal 12.5. What is the value of Y1?
+
+179
+00:18:31,430 --> 00:18:37,980
+This one equal 26 minus 2 cover plus diameter.
+
+180
+00:18:40,600 --> 00:18:48,140
+Your value will be 22.5.
+
+181
+00:18:49,320 --> 00:18:49,800
+Any question?
+
+182
+00:18:53,100 --> 00:18:56,480
+Any question, thank you. So,
+
+183
+00:18:58,580 --> 00:19:02,240
+pH will be 12.5
+
+184
+00:19:04,900 --> 00:19:08,640
+plus 22.5 times 2.
+
+185
+00:19:10,720 --> 00:19:15,700
+Area OH will be 12.5 times 22.5.
+
+186
+00:19:24,320 --> 00:19:44,340
+70 and this value will be 281.25. So this term is good. This term is good. The value of
+
+187
+00:19:44,340 --> 00:19:58,260
+50, so 50 times 12,000, 12 from feet to inch, 1000 from K to pound.
+
+188
+00:19:59,240 --> 00:20:00,440
+This expression is zero.
+
+189
+00:20:01,590 --> 00:20:02,180
+Do you have shear?
+
+190
+00:20:02,730 --> 00:20:03,640
+We don't have shear force.
+
+191
+00:20:04,860 --> 00:20:05,800
+We don't have shear force.
+
+192
+00:20:07,020 --> 00:20:08,340
+What about the other side?
+
+193
+00:20:08,540 --> 00:20:09,400
+This one is 0.75.
+
+194
+00:20:11,170 --> 00:20:13,280
+Do you remember what was the value of VC?
+
+195
+00:20:14,260 --> 00:20:22,260
+back to the shear, 2p-web-depth square root of f prime c, that's right, if you go back
+
+196
+00:20:22,260 --> 00:20:33,140
+you will find this. So 2 times 16 times depth, what is the value of the depth? We can assume
+
+197
+00:20:33,580 --> 00:20:48,860
+your depth here 2.5 from 26 it will be 23.5 square root for 4000 so I can figure out the value of VC
+
+198
+00:20:50,360 --> 00:21:00,140
+a P-Web is 16 this one is 23.5 4000 so I can check the right hand side I can check the left side
+
+199
+00:21:00,140 --> 00:21:06,200
+I believe this acceleration will be smaller than this one, so concrete cross-section will be good.
+
+200
+00:21:10,480 --> 00:21:11,640
+Concrete is good.
+
+201
+00:21:16,140 --> 00:21:21,700
+So second stage, a check. I need to check if the concrete cross-sections, the dimension of concrete
+
+202
+00:21:22,140 --> 00:21:27,260
+are enough. Guys, to be more specific, I'm not talking about concrete as a material. I'm talking
+
+203
+00:21:27,260 --> 00:21:38,300
+about concrete dimensions to be more specific. Concrete dimensions of the cross-section are good.
+
+204
+00:21:42,940 --> 00:21:43,800
+Any question guys?
+
+205
+00:21:48,620 --> 00:22:00,940
+okay looks good third and the last step very easy last step go ahead and use this equation
+
+206
+00:22:03,690 --> 00:22:17,820
+which is area t divided s equal t ultimate divide two phase area node f yield
+
+207
+00:22:20,159 --> 00:22:25,060
+I believe your stirrups will be vertical stirrups.
+
+208
+00:22:25,200 --> 00:22:27,160
+So, 0 is one.
+
+209
+00:22:31,640 --> 00:22:33,540
+Or this one can be neglected.
+
+210
+00:22:34,600 --> 00:22:34,900
+I'm sorry.
+
+211
+00:22:35,160 --> 00:22:35,960
+I'm sorry.
+
+212
+00:22:36,040 --> 00:22:37,580
+Your angle theta equal 90.
+
+213
+00:22:38,160 --> 00:22:38,720
+Not zero.
+
+214
+00:22:39,280 --> 00:22:47,800
+Because if your angle is vertical, so the angle, if your
+
+215
+00:22:47,800 --> 00:22:54,360
+axis and the vertical, the syrup will be 90. So your angle is 90, not 0, I'm sorry.
+
+216
+00:22:55,940 --> 00:22:56,680
+10 0 is 1.
+
+217
+00:22:58,840 --> 00:23:00,040
+10 90, I'm sorry, this one.
+
+218
+00:23:19,680 --> 00:23:25,580
+Anyway, so go ahead and put your numbers.
+
+219
+00:23:33,100 --> 00:23:37,120
+T ultimate is 50, 5 and 12,000.
+
+220
+00:23:39,480 --> 00:23:41,940
+We need to make it in bound inch.
+
+221
+00:23:43,540 --> 00:23:45,860
+2,000, 0.75.
+
+222
+00:23:48,919 --> 00:23:50,700
+What is the value of area note?
+
+223
+00:23:52,000 --> 00:23:56,060
+Guys, from this step, I can figure out the value of area OH.
+
+224
+00:23:56,940 --> 00:24:19,920
+will be 0.85 area OH. So 0.85 from this value 281.25 I can figure out the final value 239.
+
+225
+00:24:23,440 --> 00:24:26,820
+So 239, what is the value of F yield?
+
+226
+00:24:28,220 --> 00:24:29,860
+Go back, 60,000.
+
+227
+00:24:33,840 --> 00:24:36,760
+And this term will be neglected if your
+
+228
+00:24:37,260 --> 00:24:39,180
+stirrups are vertical stirrups.
+
+229
+00:24:40,580 --> 00:24:43,480
+So I can figure out the value of area T
+
+230
+00:24:45,360 --> 00:25:01,540
+This one will be 0.0279.
+
+231
+00:25:04,420 --> 00:25:07,100
+What is the size of the stirrups you are using?
+
+232
+00:25:07,820 --> 00:25:10,340
+Based on the problem, we are using a number 4.
+
+233
+00:25:10,700 --> 00:25:13,420
+So what is the area of one leg?
+
+234
+00:25:14,260 --> 00:25:17,200
+Area of one leg for number four point...
+
+235
+00:25:18,540 --> 00:25:19,620
+How much? Point two?
+
+236
+00:25:20,840 --> 00:25:21,420
+Yeah, I believe.
+
+237
+00:25:22,860 --> 00:25:25,560
+For number four, the area is point two, that's right.
+
+238
+00:25:27,220 --> 00:25:30,280
+So this term will be point two.
+
+239
+00:25:31,160 --> 00:25:35,160
+Area of one leg, remember, area of one leg, one leg.
+
+240
+00:25:36,700 --> 00:25:40,220
+So the only unknown in this expression will be spacing.
+
+241
+00:25:41,700 --> 00:25:43,580
+We can figure out the spacing.
+
+242
+00:25:45,340 --> 00:25:50,480
+It will be 7.17 inch.
+
+243
+00:25:51,250 --> 00:25:53,840
+To make it easy in the construction,
+
+244
+00:25:54,460 --> 00:25:56,920
+it will be 7 inch spacing.
+
+245
+00:26:01,720 --> 00:26:02,140
+Looks good.
+
+246
+00:26:02,740 --> 00:26:04,780
+Your spacing 7, it's a good number.
+
+247
+00:26:09,320 --> 00:26:16,220
+So guys, if you would like to solve problem under the effect of torsion, we have three
+
+248
+00:26:16,280 --> 00:26:16,540
+steps.
+
+249
+00:26:17,430 --> 00:26:22,240
+First step you need to check if this torsion can be neglected or not.
+
+250
+00:26:23,320 --> 00:26:28,000
+Second step you need to check if this cross section is enough or not.
+
+251
+00:26:28,840 --> 00:26:31,620
+I'm talking about dimensions of the cross section.
+
+252
+00:26:31,980 --> 00:26:36,380
+Third step, we need to figure out the spacing between the sterobs.
+
+253
+00:26:37,240 --> 00:26:44,620
+So finally, we will get a value for this expression area T area of one leg divided spacing equal this number.
+
+254
+00:26:45,200 --> 00:26:50,180
+So if you assume or if you have the area of one leg, I can figure out the spacing.
+
+255
+00:26:50,980 --> 00:26:51,420
+Value.
+

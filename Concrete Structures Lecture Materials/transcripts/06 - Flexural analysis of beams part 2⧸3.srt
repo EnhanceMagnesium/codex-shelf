@@ -1,0 +1,1968 @@
+1
+00:00:02,420 --> 00:00:08,420
+Last meeting we started to talk about three stages of concrete cross-section.
+
+2
+00:00:09,940 --> 00:00:16,379
+The first stage, if you remember, the whole cross-section is still working,
+
+3
+00:00:17,020 --> 00:00:22,260
+concrete intention is still good, and concrete compression is already good.
+
+4
+00:00:25,280 --> 00:00:30,100
+So in this stage, we are looking for something called cracking moment.
+
+5
+00:00:31,520 --> 00:00:39,240
+Second stage, the oblide load increased a little bit. So concrete intention cracked, no longer
+
+6
+00:00:39,380 --> 00:00:46,460
+working. The only thing working intention is reinforcement and the concrete in compression
+
+7
+00:00:46,720 --> 00:00:55,160
+is still working or working perfectly. The difference between compression and tension,
+
+8
+00:00:55,320 --> 00:01:01,660
+we have something here called neutral axis. If the applied load increased more and more
+
+9
+00:01:01,860 --> 00:01:06,920
+until you reach the ultimate capacity of concrete in compression and the ultimate
+
+10
+00:01:07,080 --> 00:01:12,360
+capacity of steel in tension, that means you are talking about ultimate stage.
+
+11
+00:01:12,400 --> 00:01:24,640
+stage, ultimate stage. Let me start with the first stage, anchored concrete stage. Anybody
+
+12
+00:01:24,960 --> 00:01:34,940
+remember I told you something about anchored concrete. I told you that concrete intention
+
+13
+00:01:35,240 --> 00:01:43,820
+still working. That means the steel reinforcement is useless.
+
+14
+00:01:47,720 --> 00:02:02,999
+You can ignore steel reinforcement. Once the concrete crack, once the concrete no longer
+
+15
+00:02:03,000 --> 00:02:13,280
+working, steel reinforcement will start to work to carry the tension at the bottom of the cross-section.
+
+16
+00:02:14,680 --> 00:02:24,480
+So, first step you have to understand. If you are talking about an encracked concrete cross-section,
+
+17
+00:02:25,080 --> 00:02:30,680
+That means I can neglect reinforcement.
+
+18
+00:02:32,320 --> 00:02:39,020
+So we have plain cross-section of concrete like this.
+
+19
+00:02:40,620 --> 00:02:43,540
+I can neglect stereo-enforcement because concrete
+
+20
+00:02:43,880 --> 00:02:45,480
+is still working in tension.
+
+21
+00:02:45,780 --> 00:02:50,380
+Concrete is still going in tension and also in compression.
+
+22
+00:02:52,320 --> 00:02:57,660
+So we have something called strain distribution, compression on one side and
+
+23
+00:02:57,740 --> 00:03:02,520
+detention on the other side and in between we have something called neutral axis.
+
+24
+00:03:03,400 --> 00:03:10,160
+The same shape of strain will be the same shape of stress. We have compression stress and we have
+
+25
+00:03:10,260 --> 00:03:18,900
+tensile stress. If you go back to strengths of material, we learned something called stress,
+
+26
+00:03:19,680 --> 00:03:25,880
+bending stress sigma equal M y over i.
+
+27
+00:03:27,780 --> 00:03:29,860
+M moment
+
+28
+00:03:32,840 --> 00:03:35,140
+y distance
+
+29
+00:03:38,140 --> 00:03:41,560
+between two points the neutral axis
+
+30
+00:03:43,740 --> 00:03:53,160
+and the top or bottom of the cross section. So why probably this distance or this distance?
+
+31
+00:03:55,700 --> 00:03:58,780
+I gross moment of inertia.
+
+32
+00:04:04,960 --> 00:04:18,440
+If, if you assume that sigma, the normal stress in concrete equal FR, the silestrance of concrete,
+
+33
+00:04:19,980 --> 00:04:31,260
+and FR according to ACI, quote 318, equals 7.5 square root of F prime c.
+
+34
+00:04:33,440 --> 00:04:38,680
+Guys, do you remember what was the story behind F'C?
+
+35
+00:04:41,720 --> 00:04:47,180
+Do you remember what was the story behind F'C?
+
+36
+00:04:50,490 --> 00:04:52,040
+You should learn this story.
+
+37
+00:04:56,980 --> 00:04:57,220
+F
+
+38
+00:05:00,240 --> 00:05:09,660
+f prime c anybody remember what was the story behind this term we have a good story
+
+39
+00:05:13,140 --> 00:05:23,760
+yeah during boring of concretes a concrete still fresh still liquid i have concrete slenders
+
+40
+00:05:25,680 --> 00:05:38,580
+the diameter probably 4 inch and the height 8 inch or the diameter 6 inch and the height 12 inch.
+
+41
+00:05:39,350 --> 00:05:49,120
+I board these cylinders with three layers. This layer with compaction 25 times with a steel rod
+
+42
+00:05:49,520 --> 00:05:56,800
+and another layer and the third layer. Keep these concrete cylinders for 28 days.
+
+43
+00:05:59,120 --> 00:06:08,000
+Then I have a concrete cylinder. Go ahead and apply compression force on this cylinder.
+
+44
+00:06:09,740 --> 00:06:15,199
+During the compression test, we can record what is the applied force
+
+45
+00:06:15,920 --> 00:06:18,300
+and what is the contraction delta.
+
+46
+00:06:19,540 --> 00:06:23,440
+So I can figure out what is the stress, p divide area,
+
+47
+00:06:23,960 --> 00:06:27,540
+what is the strain delta divide the original lens.
+
+48
+00:06:28,480 --> 00:06:33,560
+If you are able to construct this relationship between strain
+
+49
+00:06:34,260 --> 00:06:37,300
+and the stress, you will reach the stress
+
+50
+00:06:37,400 --> 00:06:39,920
+strain curve of concrete in compression.
+
+51
+00:06:40,720 --> 00:06:46,280
+The maximum, the highest value here called F-prime C.
+
+52
+00:06:49,140 --> 00:06:56,940
+Wow, it's a long story. It's a long story, but you need to remember this story all the time
+
+53
+00:06:57,820 --> 00:07:07,039
+when I mention F-prime C. Characteristic strengths of concrete and compression. Please go back
+
+54
+00:07:07,600 --> 00:07:13,120
+Last week, and you will see, we have something called compressive strength of concrete.
+
+55
+00:07:14,140 --> 00:07:20,660
+F'C, how can I determine this value? We have a long story with long time,
+
+56
+00:07:21,420 --> 00:07:25,660
+last for 28 days. You have to wait until 28 days.
+
+57
+00:07:30,870 --> 00:07:31,660
+Do you remember it?
+
+58
+00:07:37,440 --> 00:07:51,220
+Yes, you know Oliver, sometimes this long story can be converted to a bad dream.
+
+59
+00:07:53,460 --> 00:08:05,599
+Because if you are an engineer, this compression test will give you an indication
+
+60
+00:08:05,600 --> 00:08:16,980
+of what is the quality of concrete if your concrete is good or bad. So do you think I need to wait 28
+
+61
+00:08:17,300 --> 00:08:27,060
+days until to figure out what is the quality of concrete? Probably after 70, probably three days
+
+62
+00:08:27,200 --> 00:08:35,180
+also. After three days or seven days, I can do this test to get early indication.
+
+63
+00:08:37,340 --> 00:08:38,860
+Early indication.
+
+64
+00:08:42,120 --> 00:08:53,740
+About the expected f'c after 28 days, because if you got f'c at seven days as expected,
+
+65
+00:08:54,720 --> 00:09:06,160
+you will see F'C after 28 days will be good. So at early age it's only just indication what will
+
+66
+00:09:06,390 --> 00:09:14,980
+be expected after 28 days but the the official compressive strength of concrete must be after
+
+67
+00:09:15,120 --> 00:09:24,940
+28 days. If you did at any other age, early age, it's only just indication for what will happen
+
+68
+00:09:25,540 --> 00:09:35,020
+after 28 days. You know, after 30 days, 7 days, 14 days, all of these just indication.
+
+69
+00:09:36,620 --> 00:09:41,300
+But the official value will be at 28 days.
+
+70
+00:09:46,279 --> 00:09:58,820
+Okay, okay. Go back. This is the strengths of concrete in compression. If you would like to get
+
+71
+00:09:59,020 --> 00:10:06,860
+that in silestrance of concrete intention, tensile strengths of concrete, we have a relationship
+
+72
+00:10:07,080 --> 00:10:10,840
+between compression and tensile strength of concrete.
+
+73
+00:10:11,760 --> 00:10:16,100
+Tensile strength of concrete, according to ACI American
+
+74
+00:10:16,640 --> 00:10:23,620
+Concrete Institute standard, equals 7.5 square root
+
+75
+00:10:24,160 --> 00:10:25,320
+of f prime c.
+
+76
+00:10:25,820 --> 00:10:28,240
+So if I know the value of f prime c,
+
+77
+00:10:28,600 --> 00:10:31,520
+I can figure out that tensile strength of concrete.
+
+78
+00:10:32,960 --> 00:10:37,560
+So if you assume this sigma equal to this tensile strength,
+
+79
+00:10:38,440 --> 00:10:45,660
+then this moment will be the cracked moment of this cross-section.
+
+80
+00:10:46,910 --> 00:10:53,040
+So I can rearrange this equation to get this one.
+
+81
+00:10:56,410 --> 00:10:59,719
+The rearrange of this equation, I would
+
+82
+00:10:59,720 --> 00:11:03,400
+like to get both m in one side and everything on the other side,
+
+83
+00:11:03,540 --> 00:11:06,900
+I believe I will have something like this sigma i
+
+84
+00:11:07,060 --> 00:11:08,600
+gross divide y.
+
+85
+00:11:10,600 --> 00:11:15,560
+Go ahead and both sigma equal FR,
+
+86
+00:11:16,200 --> 00:11:17,480
+tensile strength of concrete.
+
+87
+00:11:18,880 --> 00:11:24,080
+Go ahead and y is the y distance to the bottom.
+
+88
+00:11:25,180 --> 00:11:27,580
+This one to the bottom, not this one to the top.
+
+89
+00:11:28,360 --> 00:11:32,240
+We are looking for y to the tension side.
+
+90
+00:11:33,520 --> 00:11:34,960
+So we have tension at the bottom.
+
+91
+00:11:36,480 --> 00:11:38,800
+So your y will be to the bottom.
+
+92
+00:11:41,000 --> 00:11:43,720
+That means this moment will be in the click.
+
+93
+00:11:45,480 --> 00:11:47,780
+It's very simple, very simple calculation.
+
+94
+00:11:48,760 --> 00:11:51,720
+Let me do this first example.
+
+95
+00:11:56,039 --> 00:11:56,920
+We have a cross section.
+
+96
+00:11:58,280 --> 00:12:03,200
+Also, one more time, do you remember what is the story behind this cross section?
+
+97
+00:12:04,830 --> 00:12:07,820
+We have many things discussed last time.
+
+98
+00:12:09,120 --> 00:12:19,360
+This cross section in the real life, it's a real beam, like this.
+
+99
+00:12:20,840 --> 00:12:24,580
+And this cross section has three bars.
+
+100
+00:12:26,800 --> 00:12:30,160
+three steel rebar at the bottom.
+
+101
+00:12:33,580 --> 00:12:37,720
+What we did, we only did a cross section.
+
+102
+00:12:38,360 --> 00:12:43,580
+We did cut, cut, and I'm looking for side view.
+
+103
+00:12:44,680 --> 00:12:46,400
+Your side view will be rectangle
+
+104
+00:12:47,200 --> 00:12:49,560
+and the steering force meant looks like circles.
+
+105
+00:12:50,980 --> 00:12:52,940
+You remember something like this last time?
+
+106
+00:12:53,920 --> 00:12:56,640
+So this shape is a real beam.
+
+107
+00:12:57,660 --> 00:13:00,740
+The total thickness of this beam, 18 inch.
+
+108
+00:13:02,440 --> 00:13:05,740
+The total width of this beam, 12 inch.
+
+109
+00:13:08,340 --> 00:13:10,160
+15 called depth.
+
+110
+00:13:11,440 --> 00:13:13,020
+18 called thickness.
+
+111
+00:13:14,200 --> 00:13:17,040
+Depth means the distance between the top
+
+112
+00:13:17,700 --> 00:13:20,120
+and the center line of the reinforcement.
+
+113
+00:13:21,600 --> 00:13:26,240
+And we have here something called concrete cover, three inch.
+
+114
+00:13:27,620 --> 00:13:32,060
+The three bars, three number nine.
+
+115
+00:13:34,020 --> 00:13:35,720
+Three number nine.
+
+116
+00:13:37,560 --> 00:13:40,940
+Actually, in our case,
+
+117
+00:13:41,760 --> 00:13:44,920
+or in this problem, we are looking for cracking moment.
+
+118
+00:13:46,680 --> 00:13:51,300
+That means the cross section is still and crack.
+
+119
+00:13:52,420 --> 00:13:58,720
+and correct cross section.
+
+120
+00:14:00,460 --> 00:14:05,620
+That means I can neglect this steel reinforcement.
+
+121
+00:14:07,920 --> 00:14:12,620
+We have only cross section without a steel reinforcement.
+
+122
+00:14:13,280 --> 00:14:18,440
+This dimension is 12 and this dimension is 18. That's it.
+
+123
+00:14:20,380 --> 00:14:24,200
+The neutral axis will be at the center line.
+
+124
+00:14:26,160 --> 00:14:32,800
+So this little distance equal 9 inch and this little distance equal 9 inch.
+
+125
+00:14:34,080 --> 00:14:42,380
+The I-gross moment of inertia equal barrel 12 time bourbon jucular.
+
+126
+00:14:43,480 --> 00:14:58,400
+cube over 12, your value 12 times 18 cube divided 12 equal 5832 inch to 4.
+
+127
+00:14:59,680 --> 00:15:07,820
+FR tensile strength of concrete equals 7.5 square root F prime C.
+
+128
+00:15:09,520 --> 00:15:16,020
+The problem said we have Norman with concrete with f'c = 4000 BSI.
+
+129
+00:15:19,780 --> 00:15:30,100
+f'c = 4000 BSI, the story behind f'c, this value is for something, the highest value of the curve.
+
+130
+00:15:32,820 --> 00:15:51,100
+So 7.5 square root f prime c 4000 your value will be 7.5 times square root of 4000 your value will be 474.3 BSI.
+
+131
+00:15:53,000 --> 00:15:54,620
+We are looking for mcraque.
+
+132
+00:15:55,600 --> 00:15:58,840
+Okay, mcraque equal if r, i,
+
+133
+00:15:59,000 --> 00:16:00,840
+gross divide y bottom.
+
+134
+00:16:02,200 --> 00:16:03,960
+What is the value of if r,
+
+135
+00:16:06,620 --> 00:16:10,000
+474.3. What is the value of i gross,
+
+136
+00:16:11,000 --> 00:16:15,420
+5,832. What is the value of y bottom?
+
+137
+00:16:15,680 --> 00:16:18,540
+The distance between neutral axis and the bottom of
+
+138
+00:16:18,540 --> 00:16:21,200
+the cross section, this distance equal nine.
+
+139
+00:16:23,200 --> 00:16:39,480
+Your final answer will be 307373.4 bound inch.
+
+140
+00:16:42,300 --> 00:16:53,400
+Bound inch. If you would like to figure out the units, this value is bound bare inch square.
+
+141
+00:16:53,780 --> 00:17:08,279
+BSI means bound bare square inch. Igros is inch to power four. YB, nine inch. Your final
+
+142
+00:17:08,280 --> 00:17:21,280
+answer will be bound inch. If you would like to convert it to bound feet, you have to divide
+
+143
+00:17:21,480 --> 00:17:35,360
+this number by 12. Your value will be 25614. If you would like to convert it to kib,
+
+144
+00:17:37,320 --> 00:17:46,500
+foot you have to divide this number by 1000 so it will be 25.6 keb per foot.
+
+145
+00:17:47,750 --> 00:17:50,980
+So guys you have to keep in your mind.
+
+146
+00:17:53,580 --> 00:17:56,800
+Psi means bound per square inch.
+
+147
+00:18:00,360 --> 00:18:04,680
+Ksi means keb per square inch.
+
+148
+00:18:07,540 --> 00:18:23,880
+hip equal 1000 bound, feet equal 12 inch. Please keep these units in your mind. Any
+
+149
+00:18:23,960 --> 00:18:34,660
+moment in this course we would like to convert it to bound foot or hip foot. We
+
+150
+00:18:34,660 --> 00:18:36,160
+don't like kip-ench.
+
+151
+00:18:37,020 --> 00:18:40,500
+So any moment in this course should be in bound-foot
+
+152
+00:18:40,940 --> 00:18:41,800
+or kip-foot.
+
+153
+00:18:42,320 --> 00:18:46,120
+This is the reason why I convert correct moment
+
+154
+00:18:47,020 --> 00:18:49,760
+to be finally bound-foot or kip-foot.
+
+155
+00:18:51,060 --> 00:18:55,520
+The original value in bound-ench, so I divided by 12
+
+156
+00:18:55,750 --> 00:18:56,660
+to be in foot.
+
+157
+00:18:57,880 --> 00:18:59,700
+The origin is this value in bound,
+
+158
+00:18:59,890 --> 00:19:02,980
+so I convert it to kip by divided it by 1,000.
+
+159
+00:19:04,100 --> 00:19:11,260
+these convention, this change between units is very important.
+
+160
+00:19:14,180 --> 00:19:14,940
+Any questions so far?
+
+161
+00:19:16,280 --> 00:19:17,160
+Actually, it's very easy.
+
+162
+00:19:18,280 --> 00:19:21,260
+YB, YB, B means bottom.
+
+163
+00:19:22,280 --> 00:19:25,720
+YB means the distance between neutral axis
+
+164
+00:19:26,880 --> 00:19:29,040
+and the bottom of the cross section.
+
+165
+00:19:29,380 --> 00:19:30,520
+It is y, b.
+
+166
+00:19:31,120 --> 00:19:34,160
+B means bottom of the cross-section.
+
+167
+00:19:36,060 --> 00:19:36,700
+One more example.
+
+168
+00:19:38,000 --> 00:19:41,220
+We have a beam, but this beam looks like t-section.
+
+169
+00:19:42,600 --> 00:19:43,400
+In the real life,
+
+170
+00:19:45,520 --> 00:19:47,740
+in the real life, looks like this.
+
+171
+00:19:56,899 --> 00:19:57,100
+You know?
+
+172
+00:19:58,240 --> 00:20:06,380
+So if you did cross section, you will find your cross section looks like t section.
+
+173
+00:20:06,890 --> 00:20:08,500
+The name is t section.
+
+174
+00:20:10,230 --> 00:20:16,600
+We have a t section with these dimensions and the way is concrete with f prime c equal
+
+175
+00:20:16,700 --> 00:20:17,100
+3000.
+
+176
+00:20:17,650 --> 00:20:20,160
+Can you tell me what is the value of cracking moment?
+
+177
+00:20:21,580 --> 00:20:22,940
+Okay, that's fine.
+
+178
+00:20:24,360 --> 00:20:50,359
+moment m crack equal if our I gross divide YB what is the value of fR it's very easy 7.5 square root f prime c equals 7.5 square root of 3000 your value will be 7.5 prime square root of
+
+179
+00:20:50,360 --> 00:20:55,940
+3,410.8 PSR.
+
+180
+00:20:58,820 --> 00:21:02,240
+We need to go back to engineering mechanics,
+
+181
+00:21:02,900 --> 00:21:04,960
+because we need to figure out what is the I-gross.
+
+182
+00:21:06,540 --> 00:21:07,840
+To figure out what is the I-gross,
+
+183
+00:21:08,480 --> 00:21:10,340
+we need to figure out where is the neutral axis.
+
+184
+00:21:10,900 --> 00:21:12,400
+To figure out what is the neutral axis,
+
+185
+00:21:13,280 --> 00:21:17,340
+we need to divide this cross section to two areas.
+
+186
+00:21:17,840 --> 00:21:21,440
+The first one, this area with this centroid,
+
+187
+00:21:22,300 --> 00:21:25,800
+and the second one is this area with this centroid.
+
+188
+00:21:26,820 --> 00:21:27,240
+Do you remember?
+
+189
+00:21:28,340 --> 00:21:30,720
+We have in the previous problem,
+
+190
+00:21:31,340 --> 00:21:32,660
+the cross-section was rectangle.
+
+191
+00:21:33,600 --> 00:21:34,540
+Without any calculation,
+
+192
+00:21:34,760 --> 00:21:36,940
+the neutral axis is at the centroid.
+
+193
+00:21:38,160 --> 00:21:39,360
+Where is the centroid at the middle?
+
+194
+00:21:40,820 --> 00:21:43,000
+So I can get it directly.
+
+195
+00:21:43,640 --> 00:21:44,760
+But for this cross-section,
+
+196
+00:21:45,160 --> 00:21:47,180
+I cannot figure out where is the neutral axis.
+
+197
+00:21:47,320 --> 00:21:49,240
+What is the centroid of this T-section?
+
+198
+00:21:51,020 --> 00:21:53,320
+So I will assume reference here.
+
+199
+00:21:53,500 --> 00:21:55,500
+So Y bar equal.
+
+200
+00:21:57,680 --> 00:21:59,740
+Or you can set up a table if you would like.
+
+201
+00:22:00,340 --> 00:22:01,660
+Do you remember something like this?
+
+202
+00:22:03,220 --> 00:22:06,180
+So this cross section, this area for the first one
+
+203
+00:22:06,300 --> 00:22:09,040
+is 60 times five.
+
+204
+00:22:10,030 --> 00:22:13,000
+The distance between this centroid and the reference,
+
+205
+00:22:13,880 --> 00:22:22,700
+how much 27, 29.5 plus second area is 12 times 27.
+
+206
+00:22:25,340 --> 00:22:28,000
+The distance between this and Freud and the reference
+
+207
+00:22:28,800 --> 00:22:33,340
+have 27 if 13.5, yes.
+
+208
+00:22:34,360 --> 00:22:39,360
+Divide the total area of this cross section,
+
+209
+00:22:39,740 --> 00:22:44,280
+which is 60 times 5 and 12 times 27.
+
+210
+00:22:44,980 --> 00:22:49,160
+So I can figure out the location of the neutral axis.
+
+211
+00:22:51,420 --> 00:23:01,240
+60 times 5 times 29.5 plus 12 times 27 times 13.5
+
+212
+00:23:02,000 --> 00:23:08,360
+divide 60 times 5 plus 12 times 27.
+
+213
+00:23:08,360 --> 00:23:11,800
+7, 21.2.
+
+214
+00:23:12,660 --> 00:23:15,679
+So at distance 21.2,
+
+215
+00:23:20,080 --> 00:23:27,700
+I can draw the location of the neutral axis.
+
+216
+00:23:30,340 --> 00:23:32,540
+And here is the centroid of this cross section.
+
+217
+00:23:34,940 --> 00:23:38,340
+Then I can figure out the moment of inertia
+
+218
+00:23:38,340 --> 00:23:43,460
+for this cross-section, barrel time five cube over 12
+
+219
+00:23:45,000 --> 00:23:49,700
+plus this area five times 60 times the distance
+
+220
+00:23:49,920 --> 00:23:52,860
+between this centroid and this neutral axis,
+
+221
+00:23:53,840 --> 00:24:03,340
+it should be 29.5 minus 21.2, 8.3 square.
+
+222
+00:24:04,740 --> 00:24:11,160
+plus this one, the parallel 12 times 27 Q over 12,
+
+223
+00:24:12,170 --> 00:24:15,440
+plus this area 12 times 27,
+
+224
+00:24:16,650 --> 00:24:23,500
+times the distance 21.2 minus 13.5, 7.7 square.
+
+225
+00:24:25,120 --> 00:24:27,080
+So I can figure out the moment of inertia.
+
+226
+00:24:28,620 --> 00:24:32,480
+It can be just a moment.
+
+227
+00:24:50,399 --> 00:24:55,660
+Equal 60184 inch to four.
+
+228
+00:24:57,100 --> 00:25:04,520
+bottom, the distance between the neutral axis and the bottom of the cross-section,
+
+229
+00:25:04,860 --> 00:25:14,640
+what this value is, 21.2 inch. So you have everything. You have everything. You have
+
+230
+00:25:14,680 --> 00:25:27,860
+If r you have moment of inertia I gross you have yb so finally m crack equal if r 410.8
+
+231
+00:25:28,410 --> 00:25:35,340
+time I gross 60184 divide 21.2 this value will be
+
+232
+00:25:38,600 --> 00:25:54,020
+Bound inch divided by 12 it will be 97183.9. Bound foot you can divide it by 1000
+
+233
+00:25:56,760 --> 00:26:09,640
+to get it 97.18 kB. So the cracked moment of this cross section equal 97.18 kB.
+
+234
+00:26:12,720 --> 00:26:17,080
+So the only difference between this example and this example, how to figure out what is the value
+
+235
+00:26:17,080 --> 00:26:22,600
+of i cross. This one is very simple, you have rectangle. This one is a little bit not simple,
+
+236
+00:26:22,840 --> 00:26:27,040
+We have T-sections, so we need to figure out where is the centroid to put the neutral axis,
+
+237
+00:26:27,440 --> 00:26:31,360
+so we need to search for the centroid. Once you get the centroid, we need to set up
+
+238
+00:26:31,820 --> 00:26:36,940
+equation for i-gross. Once you get i-gross, I can figure out the value of M-click.
+
+239
+00:26:39,060 --> 00:26:42,800
+If you have any question related to how to calculate i-gross, please go back
+
+240
+00:26:43,080 --> 00:26:49,260
+to engineering mechanics to remember how can we get the values of the section properties.
+
+241
+00:26:54,500 --> 00:27:01,820
+Okay, so for any problem, if I'm asking you to calculate what is the value of m-click,
+
+242
+00:27:03,900 --> 00:27:09,440
+here is how to calculate m-click, just use this equation, figure out what is the value of Fr,
+
+243
+00:27:09,680 --> 00:27:15,280
+very easy. What is the value of I cross based on the cross section? What is the value of YB,
+
+244
+00:27:15,480 --> 00:27:20,420
+the distance between neutral axis and the bottom fiber also cross section. That's it.
+
+245
+00:27:21,400 --> 00:27:27,660
+And I would like to convert your final answer to be bound foot or cape foot. We don't like
+
+246
+00:27:28,400 --> 00:27:37,960
+inch, bound inch. We don't like it. Second stage. Do you remember second stage? Yeah.
+
+247
+00:27:39,000 --> 00:27:44,820
+The load increased, concrete cracked, no longer work.
+
+248
+00:27:45,920 --> 00:27:49,160
+The only thing working at the bottom is the steering enforcement.
+
+249
+00:27:50,140 --> 00:27:52,860
+So at this moment, we have neutral axis.
+
+250
+00:27:55,600 --> 00:27:57,740
+The bottom side under tension.
+
+251
+00:28:00,040 --> 00:28:04,180
+Concrete no longer working, the only thing working is the steel.
+
+252
+00:28:05,800 --> 00:28:07,700
+At the top we have compression,
+
+253
+00:28:10,080 --> 00:28:17,280
+is a concrete working good perfectly. If you would like to draw strain distribution,
+
+254
+00:28:17,940 --> 00:28:24,500
+here is the strain distribution. We have compression, we have tension, we have contraction,
+
+255
+00:28:24,750 --> 00:28:32,980
+we have elongation. If you would like to draw stress, at the top we have triangle compression.
+
+256
+00:28:34,120 --> 00:28:38,500
+At the bottom, we don't have anything on concrete because concrete is cracked.
+
+257
+00:28:39,450 --> 00:28:46,620
+We have only tension on steel reinforcement. So the final cross-section looks like this.
+
+258
+00:28:47,440 --> 00:28:53,100
+Here is a part of concrete under compression. Here is the neutral axis and here is the steel
+
+259
+00:28:53,520 --> 00:29:00,380
+reinforcement. The remaining concrete is cracked no longer working.
+
+260
+00:29:04,340 --> 00:29:12,880
+So, the concrete cannot resist tension. All concrete in certain style zone is cracked and is neglected.
+
+261
+00:29:17,560 --> 00:29:25,520
+I believe you learned this method in strengths of material or material, mechanics of material.
+
+262
+00:29:25,520 --> 00:29:30,260
+a method called transformid area method.
+
+263
+00:29:31,580 --> 00:29:33,600
+What do you mean by transformid area method?
+
+264
+00:29:34,640 --> 00:29:39,500
+But everybody is agreeing with me
+
+265
+00:29:40,240 --> 00:29:42,300
+that the remaining cross-section looks like this,
+
+266
+00:29:42,660 --> 00:29:45,920
+part of concrete, which is under compression,
+
+267
+00:29:46,620 --> 00:29:49,020
+and we have a stereo enforcement at the bottom.
+
+268
+00:29:49,280 --> 00:29:50,740
+Anything else is removed.
+
+269
+00:29:51,280 --> 00:29:52,840
+Anything else is neglected.
+
+270
+00:29:53,000 --> 00:29:53,260
+Why?
+
+271
+00:29:53,760 --> 00:29:54,540
+Because crack.
+
+272
+00:29:57,820 --> 00:29:58,680
+Any questions so far?
+
+273
+00:30:01,140 --> 00:30:02,820
+Any questions so far?
+
+274
+00:30:07,540 --> 00:30:09,880
+Okay, let me continue.
+
+275
+00:30:11,120 --> 00:30:13,700
+What is the meaning of transformered area method?
+
+276
+00:30:15,620 --> 00:30:17,840
+We have neutral axis.
+
+277
+00:30:21,800 --> 00:30:25,580
+We have part of the cross-section under compression still working.
+
+278
+00:30:26,240 --> 00:30:29,240
+So this part will be the same, still working.
+
+279
+00:30:30,560 --> 00:30:33,060
+We have part of concrete under tension.
+
+280
+00:30:33,440 --> 00:30:36,720
+This part is cracked, this part is neglected.
+
+281
+00:30:37,980 --> 00:30:41,140
+We have steel reinforcement is working at this moment.
+
+282
+00:30:41,980 --> 00:30:48,360
+We need to convert this reinforcement to equivalent concrete.
+
+283
+00:30:49,580 --> 00:30:49,920
+I'm sorry?
+
+284
+00:30:50,440 --> 00:30:50,940
+Yeah.
+
+285
+00:30:51,520 --> 00:30:59,800
+have a little bit of steel, this little bit of steel can be converted to equivalent area of concrete.
+
+286
+00:31:00,940 --> 00:31:11,360
+We can use something called Modular Ratio. Modular ratio in equal youngest modulus of steel
+
+287
+00:31:11,880 --> 00:31:21,500
+divide youngest modulus of concrete. Guys, if I ask you another story, anybody know what is the
+
+288
+00:31:21,500 --> 00:31:35,500
+story behind youngest modulus of steel and youngest modulus of concrete.
+
+289
+00:31:39,080 --> 00:31:46,180
+These stories should be like your name. If I ask you what is your name, you will say "Burak".
+
+290
+00:31:46,780 --> 00:31:50,060
+So if I ask you what is the story behind this stuff,
+
+291
+00:31:50,320 --> 00:31:52,940
+you have to remember these stories like your name.
+
+292
+00:31:53,780 --> 00:31:56,220
+The first story I discussed today,
+
+293
+00:31:57,660 --> 00:32:00,000
+actually I discussed this before last week,
+
+294
+00:32:01,220 --> 00:32:02,940
+what is the meaning of F prime C?
+
+295
+00:32:04,700 --> 00:32:06,840
+So you can remember what is the story behind.
+
+296
+00:32:07,480 --> 00:32:08,540
+We have another story.
+
+297
+00:32:09,260 --> 00:32:10,820
+What is the meaning of youngest models?
+
+298
+00:32:13,100 --> 00:32:20,060
+By the way, do you remember the story for concrete? Plastic cylinder, boring concrete,
+
+299
+00:32:20,600 --> 00:32:26,880
+for three layers, waiting 28 days, applying compression tests. We are recording applied
+
+300
+00:32:27,260 --> 00:32:33,740
+force and contraction. We can figure out the stress and strain. We can set up a relationship
+
+301
+00:32:33,820 --> 00:32:42,340
+between strain and distress, the highest value of this curve called f'c,
+
+302
+00:32:44,350 --> 00:32:52,180
+the slope of this curve can be called youngest modulus of concrete.
+
+303
+00:32:55,420 --> 00:32:58,160
+The slope of the first point of this curve
+
+304
+00:33:02,160 --> 00:33:09,120
+or the first linear relationship of this curve, the slope can be called youngest modulus of concrete.
+
+305
+00:33:14,220 --> 00:33:18,160
+We have another story. We have steel bars,
+
+306
+00:33:20,620 --> 00:33:31,060
+probably 12 inch or 15 inch. This bar under the effect of tension force in a tension test.
+
+307
+00:33:32,000 --> 00:33:37,200
+Do you remember tension test? During the homework you have a problem like this.
+
+308
+00:33:38,060 --> 00:33:46,560
+During the tension test, I can record the force, the applied force and the corresponding elongation.
+
+309
+00:33:48,460 --> 00:33:54,660
+So I can figure out the stress, which is the applied force divide area, cross section area of this bar,
+
+310
+00:33:56,040 --> 00:34:03,320
+and the elongation. So I can figure out the strain, which is the elongation divides the original lens of this bar.
+
+311
+00:34:05,720 --> 00:34:13,019
+If you can set up an equation, I'm sorry, a relationship between strain and stress for this steel
+
+312
+00:34:13,020 --> 00:34:22,419
+rebar I can reach something looks like this sometimes something looks like this
+
+313
+00:34:24,520 --> 00:34:30,960
+whatever the relationship at the beginning we have a linear relationship between strain and
+
+314
+00:34:31,060 --> 00:34:38,060
+distress the slope of this linear relationship can be called youngest modulus of steel
+
+315
+00:34:40,700 --> 00:34:48,440
+can be called youngest modulus of steel. Please remember all of these stories.
+
+316
+00:34:49,860 --> 00:34:56,080
+Okay, if you divide youngest modulus of steel by youngest modulus of concrete, I can get something
+
+317
+00:34:56,240 --> 00:35:04,600
+called model ratio. This model ratio can be converted between steel material and the concrete
+
+318
+00:35:04,620 --> 00:35:15,280
+material. What is the equivalent concrete to this steel? Once you convert your cross section
+
+319
+00:35:15,290 --> 00:35:22,440
+to equivalent cross section, actually I will convert the steel to equivalent concrete by
+
+320
+00:35:22,440 --> 00:35:35,840
+multiply area steel by N. So right now this area is concrete. Equivalent to this little
+
+321
+00:35:36,080 --> 00:35:44,300
+area of steel. How can I do this? Multiply area of steel by modular ratio. How can I get modular
+
+322
+00:35:44,420 --> 00:35:50,040
+ratio divide youngest modulus of steel by youngest modulus of concrete? How can I get
+
+323
+00:35:50,040 --> 00:35:53,600
+the youngest model of steel and the youngest model of concrete, go back to the stories
+
+324
+00:35:54,040 --> 00:36:12,040
+and you will remember. Then your sigma equal M y over i for concrete and the sigma for
+
+325
+00:36:12,080 --> 00:36:24,340
+steel equal nmy over i. This y for concrete, this y for steel. That's it. Nothing else.
+
+326
+00:36:26,020 --> 00:36:32,300
+Nothing else. So we need to convert your cross-section to transform its section.
+
+327
+00:36:34,380 --> 00:36:37,920
+We need to figure out this equation for concrete
+
+328
+00:36:39,760 --> 00:36:46,240
+and this equation for steel. Actually both of them the same but for steel we need to multiply by n
+
+329
+00:36:46,520 --> 00:36:51,280
+because you are talking about transformant section and this material is concrete so we
+
+330
+00:36:51,280 --> 00:36:58,760
+need to convert it to back to steel so I multiply it by n. Any questions so far?
+
+331
+00:37:02,220 --> 00:37:04,160
+Please write these two equations in your notes.
+
+332
+00:37:10,839 --> 00:37:12,880
+Thank you, Oliver. Thank you.
+
+333
+00:37:18,000 --> 00:37:29,720
+We have examples. But before starting this example, can I neglect the stereo enforcement? No, I cannot. Why?
+
+334
+00:37:32,700 --> 00:37:37,200
+Because the applied moment exceeds the cracking moment.
+
+335
+00:37:38,420 --> 00:37:40,540
+We are the concrete cracked.
+
+336
+00:37:42,540 --> 00:37:44,560
+So if concrete is cracked,
+
+337
+00:37:46,020 --> 00:37:47,720
+reinforcement is working.
+
+338
+00:37:47,840 --> 00:37:48,940
+I cannot neglect.
+
+339
+00:37:50,760 --> 00:37:53,140
+If I'm looking for cracking moment,
+
+340
+00:37:53,700 --> 00:37:56,940
+that means concrete intention is still working.
+
+341
+00:37:58,700 --> 00:38:00,380
+So I can neglect reinforcement.
+
+342
+00:38:02,060 --> 00:38:04,700
+But here concrete cracked,
+
+343
+00:38:05,050 --> 00:38:08,540
+so I cannot neglect stereo reinforcement.
+
+344
+00:38:08,800 --> 00:38:09,780
+We have a cross-section.
+
+345
+00:38:18,220 --> 00:38:19,740
+We have cross-section.
+
+346
+00:38:21,600 --> 00:38:25,860
+This cross-section, we have in this side,
+
+347
+00:38:26,000 --> 00:38:35,280
+compression that makes sense for me, we have in this side tension. Someone will ask me
+
+348
+00:38:36,840 --> 00:38:44,800
+bad question. Hey, Aiman, how can I figure out which side is in tension and which side is in compression?
+
+349
+00:38:47,920 --> 00:38:54,720
+The answer is very simple. We are adding stereo enforcement to support tension. So if you found
+
+350
+00:38:54,720 --> 00:38:57,700
+and your reinforcement on this side, we have tension.
+
+351
+00:38:59,800 --> 00:39:03,060
+No reinforcement at the top, that means we have compression.
+
+352
+00:39:04,880 --> 00:39:07,340
+Another student will ask me another question.
+
+353
+00:39:09,620 --> 00:39:13,680
+Hey, you told me sometimes we have reinforcement
+
+354
+00:39:14,060 --> 00:39:16,120
+on this side and sometimes we have reinforcement
+
+355
+00:39:16,210 --> 00:39:16,960
+on the other side.
+
+356
+00:39:18,260 --> 00:39:20,440
+Do you remember one called area steel,
+
+357
+00:39:20,680 --> 00:39:23,780
+one the other one called F area, Brian C,
+
+358
+00:39:24,600 --> 00:39:25,260
+area steel prime.
+
+359
+00:39:26,560 --> 00:39:28,900
+So we have reinforcement here at the top
+
+360
+00:39:28,980 --> 00:39:30,240
+and the reinforcement at the bottom.
+
+361
+00:39:30,380 --> 00:39:33,060
+So which side is intention and which side is a compression?
+
+362
+00:39:34,040 --> 00:39:37,920
+The highest value of steel will be intention.
+
+363
+00:39:38,780 --> 00:39:41,100
+The smallest value of steel reinforcement
+
+364
+00:39:41,440 --> 00:39:42,100
+will be in compression.
+
+365
+00:39:43,680 --> 00:39:46,600
+If both of them equal, that means you have something wrong.
+
+366
+00:39:48,160 --> 00:39:50,240
+This value must be greater than this one.
+
+367
+00:39:51,680 --> 00:39:52,200
+OK?
+
+368
+00:39:54,520 --> 00:39:54,700
+Okay.
+
+369
+00:40:00,360 --> 00:40:03,340
+So we have compression and we have tension.
+
+370
+00:40:03,940 --> 00:40:06,560
+The applied moment exceeds cracking moment,
+
+371
+00:40:06,720 --> 00:40:08,340
+that means concrete cracked.
+
+372
+00:40:11,020 --> 00:40:13,460
+So the remaining cross section
+
+373
+00:40:14,880 --> 00:40:16,160
+will be something like this.
+
+374
+00:40:18,540 --> 00:40:20,800
+By the way, this line called the neutral axis.
+
+375
+00:40:23,040 --> 00:40:25,220
+And we have a stereo enforcement here.
+
+376
+00:40:31,360 --> 00:40:35,180
+Can you translate what is the meaning of three, number?
+
+377
+00:40:36,300 --> 00:40:37,420
+Nine bars?
+
+378
+00:40:38,480 --> 00:40:39,820
+Yeah, no translation.
+
+379
+00:40:40,220 --> 00:40:43,660
+Three means number, one, two, three.
+
+380
+00:40:44,660 --> 00:40:48,220
+Number nine, this is the size of the bar.
+
+381
+00:40:50,240 --> 00:40:52,580
+How can I get area still equal to three inches square?
+
+382
+00:40:54,820 --> 00:40:55,460
+How can I get it?
+
+383
+00:40:56,920 --> 00:41:02,780
+Guys, do you remember I gave you last time these tables?
+
+384
+00:41:03,240 --> 00:41:03,980
+Do you remember it?
+
+385
+00:41:07,660 --> 00:41:11,180
+I uploaded these tables and I asked you to print them
+
+386
+00:41:11,280 --> 00:41:13,640
+and put them with your hand all the time.
+
+387
+00:41:15,040 --> 00:41:16,420
+Okay, one more time.
+
+388
+00:41:17,880 --> 00:41:23,220
+Hey, number nine bar, number nine bar.
+
+389
+00:41:24,220 --> 00:41:25,120
+Where is number nine?
+
+390
+00:41:25,900 --> 00:41:26,360
+Here you go.
+
+391
+00:41:28,000 --> 00:41:28,760
+Here is number nine.
+
+392
+00:41:29,900 --> 00:41:34,520
+What is the area of cross section of bar number nine?
+
+393
+00:41:36,620 --> 00:41:37,520
+The area is what?
+
+394
+00:41:38,580 --> 00:41:39,140
+Inches square.
+
+395
+00:41:41,680 --> 00:41:47,140
+Area of one bar, area of one bar equal of number nine.
+
+396
+00:41:47,140 --> 00:41:52,720
+area of one bar of number nine bars equal one inch square.
+
+397
+00:41:54,760 --> 00:41:56,640
+How many bars do you have three?
+
+398
+00:41:57,400 --> 00:42:02,200
+So we have three bars, time area of one bar of number nine
+
+399
+00:42:02,420 --> 00:42:07,840
+is one, so the total area still equal three inch square.
+
+400
+00:42:09,200 --> 00:42:11,860
+So do you understand how can I get this value?
+
+401
+00:42:12,680 --> 00:42:14,780
+Because during your exam or homework,
+
+402
+00:42:15,460 --> 00:42:17,480
+I will not give you this value.
+
+403
+00:42:18,700 --> 00:42:19,660
+You need to figure it out.
+
+404
+00:42:21,100 --> 00:42:22,200
+How can I figure it out?
+
+405
+00:42:22,820 --> 00:42:25,600
+Please, which number of bars, how many?
+
+406
+00:42:26,700 --> 00:42:28,600
+First, what is the size of bars?
+
+407
+00:42:29,020 --> 00:42:31,020
+Based on the size, go back to this table
+
+408
+00:42:31,680 --> 00:42:33,400
+to figure out the area of one bar.
+
+409
+00:42:34,460 --> 00:42:36,180
+Then, what is, how many bars?
+
+410
+00:42:36,840 --> 00:42:38,180
+Multiply both of them together,
+
+411
+00:42:38,400 --> 00:42:40,160
+you can figure out the value of area steel.
+
+412
+00:42:40,880 --> 00:42:44,420
+So we have area steel here, equal three inches square.
+
+413
+00:42:45,600 --> 00:42:47,340
+We have cross-section of concrete.
+
+414
+00:42:47,840 --> 00:42:50,040
+This part of concrete is under compression,
+
+415
+00:42:50,320 --> 00:42:50,860
+so it still work.
+
+416
+00:42:51,560 --> 00:42:54,940
+Nothing else. Here is your remaining cross-section.
+
+417
+00:43:02,260 --> 00:43:06,040
+Thank you, Brian. Here is the cross-section.
+
+418
+00:43:06,300 --> 00:43:10,240
+We need to convert it to transform it cross-section.
+
+419
+00:43:12,560 --> 00:43:17,440
+We need to convert steel to equivalent concrete, so concrete will be the same.
+
+420
+00:43:19,620 --> 00:43:25,400
+But before keep going, I need to figure out what the width is.
+
+421
+00:43:25,940 --> 00:43:27,940
+This width is given 12.
+
+422
+00:43:30,920 --> 00:43:33,440
+Do you know what is the depth here? No, I don't know.
+
+423
+00:43:34,260 --> 00:43:36,120
+Because I don't know where is the neutral axis.
+
+424
+00:43:36,580 --> 00:43:40,620
+So this one will be unknown, dn, for example.
+
+425
+00:43:42,580 --> 00:43:44,400
+Do you know what is the distance between
+
+426
+00:43:44,840 --> 00:43:47,140
+stereo enforcement and the neutral axis?
+
+427
+00:43:48,580 --> 00:43:53,560
+I can figure it out, 17 minus dn.
+
+428
+00:43:54,360 --> 00:43:56,220
+I'm sorry? Yeah.
+
+429
+00:43:57,340 --> 00:44:03,920
+The distance between, let me clean up this one here.
+
+430
+00:44:04,020 --> 00:44:11,800
+The distance between this reinforcement and the top is 17.
+
+431
+00:44:15,200 --> 00:44:22,160
+And I assumed the distance between the top to the neutral axis for concrete under compression dn.
+
+432
+00:44:23,480 --> 00:44:30,760
+So the remaining distance between the stereo reinforcement and the neutral axis will be 17 minus dn.
+
+433
+00:44:37,740 --> 00:44:38,140
+Keep going.
+
+434
+00:44:40,599 --> 00:44:45,580
+We need to convert steel to concrete.
+
+435
+00:44:46,500 --> 00:44:49,600
+So this steel will be equivalent of concrete.
+
+436
+00:44:51,800 --> 00:44:52,220
+How much?
+
+437
+00:44:54,060 --> 00:44:55,460
+N time area steel.
+
+438
+00:44:55,830 --> 00:44:58,140
+What is the value of modular ratio is given?
+
+439
+00:45:00,240 --> 00:45:04,120
+Time area steel 3. So it will be 27.
+
+440
+00:45:10,820 --> 00:45:16,980
+So this distance one more time 12 minus DN. This distance is DN.
+
+441
+00:45:19,020 --> 00:45:34,440
+This area, time, this distance from the centroid to a neutral axis will be 12 times dn, 12 is this distance, time dn, so this is the area.
+
+442
+00:45:35,510 --> 00:45:41,080
+The distance between centroid of this area to the neutral axis will be dn divided 2.
+
+443
+00:45:43,420 --> 00:45:47,600
+will be equivalent to the area on the other side.
+
+444
+00:45:48,220 --> 00:45:53,720
+The area is 27 and the distance between
+
+445
+00:45:54,040 --> 00:45:59,280
+centroid of this area to the neutral axis is 12 minus dn.
+
+446
+00:45:59,720 --> 00:46:02,840
+The only unknown in this equation is dn.
+
+447
+00:46:03,220 --> 00:46:06,080
+So I can figure out the value of dn,
+
+448
+00:46:06,320 --> 00:46:10,040
+which is the depth of concrete in compression,
+
+449
+00:46:10,760 --> 00:46:11,700
+which is still working.
+
+450
+00:46:13,680 --> 00:46:18,480
+Let me stop here and I will continue next time.
+
+451
+00:46:19,700 --> 00:46:28,340
+How can I get the moment of inertia I and figure out the stress in concrete and steel.
+
+452
+00:46:29,120 --> 00:46:31,300
+But at this moment, any questions so far?
+
+453
+00:46:35,619 --> 00:46:36,460
+Any questions so far?
+
+454
+00:46:59,140 --> 00:46:59,940
+I have question.
+
+455
+00:47:02,700 --> 00:47:06,440
+The next class, do you have another class today?
+
+456
+00:47:09,000 --> 00:47:10,180
+Just a moment to Roberto.
+
+457
+00:47:10,660 --> 00:47:11,720
+Do you have another class today?
+
+458
+00:47:13,540 --> 00:47:14,060
+At what time?
+
+459
+00:47:16,220 --> 00:47:16,860
+No, no, no.
+
+460
+00:47:17,100 --> 00:47:18,140
+So I'm the last one.
+
+461
+00:47:19,500 --> 00:47:23,180
+So probably I can extend my lecture for 10 minutes more.
+
+462
+00:47:26,760 --> 00:47:28,400
+So we can finish up at 12.
+
+463
+00:47:31,340 --> 00:47:32,660
+Okay, yeah, 10 minutes only.
+
+464
+00:47:33,460 --> 00:47:35,560
+Okay, so your question, Robert,
+
+465
+00:47:35,740 --> 00:47:37,060
+can you go back to the page?
+
+466
+00:47:40,680 --> 00:47:41,280
+Slow writer.
+
+467
+00:47:42,700 --> 00:47:43,160
+Which page?
+
+468
+00:47:44,780 --> 00:47:45,100
+This one?
+
+469
+00:47:46,760 --> 00:47:47,320
+Or this one?
+
+470
+00:47:51,460 --> 00:47:52,660
+I think this one probably.
+
+471
+00:47:58,500 --> 00:47:59,580
+So one more time.
+
+472
+00:48:01,440 --> 00:48:04,760
+Concrete intention is cracked, remove it.
+
+473
+00:48:06,160 --> 00:48:08,460
+We have part of concrete in compression.
+
+474
+00:48:09,240 --> 00:48:12,040
+The remaining on the tension side is a steel.
+
+475
+00:48:12,920 --> 00:48:14,760
+I will convert this cross section
+
+476
+00:48:14,900 --> 00:48:17,980
+to something called transformant cross section
+
+477
+00:48:18,500 --> 00:48:24,680
+by converting steel area to equivalent concrete area
+
+478
+00:48:25,200 --> 00:48:27,620
+by multiplying area steel by N.
+
+479
+00:48:28,560 --> 00:48:31,400
+Then the upper part of the cross section
+
+480
+00:48:31,580 --> 00:48:33,280
+is equivalent to the lower part.
+
+481
+00:48:33,440 --> 00:48:34,300
+How can I do this?
+
+482
+00:48:34,660 --> 00:48:37,540
+Okay, the upper part area, time,
+
+483
+00:48:38,120 --> 00:48:40,360
+the distance between the centroid of this area
+
+484
+00:48:40,420 --> 00:48:43,820
+to the neutral axis, must be equal,
+
+485
+00:48:45,080 --> 00:48:48,060
+the lower part area, time the distance
+
+486
+00:48:48,160 --> 00:48:50,260
+between this centroid to the neutral axis.
+
+487
+00:48:51,040 --> 00:48:54,120
+The only unknown is the distance, the N.
+
+488
+00:48:54,940 --> 00:48:56,700
+I don't know what is the neutral axis,
+
+489
+00:48:56,880 --> 00:49:00,460
+So I assumed it at distance dn, so I can figure out the value of dn.
+
+490
+00:49:00,980 --> 00:49:06,260
+Once you figure out the value of dn, you will find all dimension are known, so I can figure
+
+491
+00:49:06,400 --> 00:49:14,340
+out the value of i and then can use this equation and this equation to figure out the stresses.
+
+492
+00:49:15,900 --> 00:49:16,420
+Very simple.
+

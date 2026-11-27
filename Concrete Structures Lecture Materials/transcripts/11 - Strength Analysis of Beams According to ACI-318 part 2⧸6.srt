@@ -1,0 +1,2144 @@
+1
+00:00:03,039 --> 00:00:11,580
+For steel, we have cross section, we transform it concrete, I'm sorry steel to concrete.
+
+2
+00:00:13,020 --> 00:00:19,800
+So area steel will be multiplied by N which is a model ratio to get the equivalent concrete.
+
+3
+00:00:20,800 --> 00:00:30,580
+If you are looking for sigma steel, you have to add a moderate ratio, N, then M, Y, over
+
+4
+00:00:30,740 --> 00:00:37,860
+R. Some of you forget N. For concrete, it's okay without N. Why?
+
+5
+00:00:38,010 --> 00:00:39,680
+Because this cross section is concrete.
+
+6
+00:00:40,760 --> 00:00:46,839
+Okay, M, Y, over R. But you are talking about steel and this cross section is concrete right
+
+7
+00:00:46,840 --> 00:00:57,420
+now so I have to go back to steel by using n. One more point,
+
+8
+00:00:58,100 --> 00:01:06,240
+inertia for rectangular cross-section, bh cube over 12. One student, one of you
+
+9
+00:01:06,880 --> 00:01:15,039
+did it like this, bh square divided 12, that's wrong. The last thing, guys, there is a
+
+10
+00:01:15,040 --> 00:01:23,740
+big difference between I think Nancy did it wrong. We learned that we have a
+
+11
+00:01:23,740 --> 00:01:30,960
+stress-strain curve between for concrete and looks like this. Do you remember what
+
+12
+00:01:31,080 --> 00:01:41,919
+is the highest value here? You have to remember f'c. This f'c will be
+
+13
+00:01:41,920 --> 00:01:53,220
+used to figure out two things. E of concrete 75,000 square root of F prime C. Fr which
+
+14
+00:01:53,360 --> 00:02:03,100
+is 7.5 square root F prime C. Sometimes in stage number two which is working I can give
+
+15
+00:02:03,160 --> 00:02:16,840
+you something called FC which called allowable. Stress of concrete. Sometimes this value for
+
+16
+00:02:17,040 --> 00:02:31,440
+1400, 1350, sometimes it's 2000. This one is not this one. FC is something here like this value.
+
+17
+00:02:31,800 --> 00:02:43,300
+I can call it f capital fc. I cannot use this value to figure out youngest models or figure out
+
+18
+00:02:43,620 --> 00:02:49,660
+that unsyllable strength. The only value is used here something called f prime c.
+
+19
+00:02:50,780 --> 00:02:58,679
+f prime c not allowable stress. Allowable stress means I reduced this one by factor of 50
+
+20
+00:02:59,800 --> 00:03:08,800
+to use this value. Okay, one of you I think, one of you did it wrong as I remember. Any
+
+21
+00:03:08,900 --> 00:03:19,880
+question guys? Thank you Oliver. Any question? From last time, last time we covered only something
+
+22
+00:03:20,360 --> 00:03:26,680
+knew how to figure out the value of fake based on the strain and steel reinforcement.
+
+23
+00:03:29,120 --> 00:03:35,700
+Okay. We have case number two.
+
+24
+00:03:38,480 --> 00:03:45,320
+What you mean by case number two? The cross section is given B and D.
+
+25
+00:03:49,480 --> 00:03:51,880
+And the applied moment is given.
+
+26
+00:03:52,660 --> 00:03:56,420
+I did structure analysis from last semester
+
+27
+00:03:56,940 --> 00:03:59,100
+and I can figure out M ultimate.
+
+28
+00:03:59,280 --> 00:04:04,200
+And I will let you know how to do this just today,
+
+29
+00:04:04,480 --> 00:04:05,520
+just a few minutes later.
+
+30
+00:04:07,100 --> 00:04:08,340
+So cross section is given.
+
+31
+00:04:09,080 --> 00:04:11,520
+Applied moment from structure analysis
+
+32
+00:04:11,700 --> 00:04:15,160
+is given how much stereo enforcement we need.
+
+33
+00:04:18,280 --> 00:04:21,579
+We need to figure out the steel reinforcement.
+
+34
+00:04:25,359 --> 00:04:30,540
+We will find a factor or value called M ultimate
+
+35
+00:04:31,660 --> 00:04:35,600
+divided by theta time B time D square.
+
+36
+00:04:37,720 --> 00:04:40,980
+B is the width of the cross section.
+
+37
+00:04:41,940 --> 00:04:45,320
+D is the depth of the steel reinforcement.
+
+38
+00:04:47,000 --> 00:04:49,840
+If we will assume it 0.9.
+
+39
+00:04:52,940 --> 00:05:00,740
+M ultimate, be sure that your M ultimate in bound inch.
+
+40
+00:05:03,940 --> 00:05:15,360
+In bound inch. Wow. All the time we convert from bound inch to something else. No. Right now, if you have something else, please go ahead and convert it to bound inch.
+
+41
+00:05:16,980 --> 00:05:27,980
+For example, if your moment is bound foot, you need to multiply it by 12 to be bound
+
+42
+00:05:28,200 --> 00:05:28,420
+inch.
+
+43
+00:05:30,290 --> 00:05:37,140
+If your moment in kept foot, we prefer this unit for moment.
+
+44
+00:05:37,900 --> 00:05:44,320
+Okay, go ahead and multiply it by 12,000 to be bound inch.
+
+45
+00:05:45,720 --> 00:05:49,860
+12 for foot, 1000 for cab to be bound.
+
+46
+00:05:51,980 --> 00:05:56,120
+Okay, then go ahead and find this number.
+
+47
+00:05:57,540 --> 00:06:04,040
+Once you find this number, I can find from a table the value of rho.
+
+48
+00:06:05,000 --> 00:06:06,840
+I'm sorry, what is the meaning of rho?
+
+49
+00:06:07,300 --> 00:06:10,100
+It's called reinforcement ratio.
+
+50
+00:06:10,900 --> 00:06:16,900
+This row equal area steel divide B time depth.
+
+51
+00:06:18,260 --> 00:06:21,680
+Right now, I can figure out the value of row from a table.
+
+52
+00:06:22,680 --> 00:06:26,020
+B and D are given from the cross-section.
+
+53
+00:06:26,640 --> 00:06:31,080
+So finally, I can figure out the value of area steel.
+
+54
+00:06:32,940 --> 00:06:33,800
+It's very easy.
+
+55
+00:06:34,800 --> 00:06:37,580
+Very easy. Where is the table?
+
+56
+00:06:38,320 --> 00:06:43,920
+We have a table. We have a tables here.
+
+57
+00:06:49,340 --> 00:06:50,140
+Which table?
+
+58
+00:06:55,840 --> 00:06:58,320
+Table 8.
+
+59
+00:07:00,600 --> 00:07:03,080
+Table A8.
+
+60
+00:07:06,560 --> 00:07:18,660
+and the table A9 and the table A10 and the table A11
+
+61
+00:07:24,480 --> 00:07:25,900
+and A12
+
+62
+00:07:29,960 --> 00:07:31,300
+and the A13
+
+63
+00:07:34,960 --> 00:07:38,040
+That's it and the A for yeah, A13.
+
+64
+00:07:42,620 --> 00:07:48,420
+So let's do one example and see what's going on.
+
+65
+00:07:55,420 --> 00:08:00,160
+We have this example, example number two. We have a given cross-section,
+
+66
+00:08:03,440 --> 00:08:16,540
+b equal 14 inch, d equal 21 inch. Next week, I will let you know how can we figure out the
+
+67
+00:08:16,540 --> 00:08:24,260
+these dimensions. We have some limits we need to follow. If the applied ultimate moment,
+
+68
+00:08:24,720 --> 00:08:31,900
+So M ultimate is given equal 100 kip foot.
+
+69
+00:08:34,200 --> 00:08:40,120
+So first step I believe we need to convert this value to be bound inch.
+
+70
+00:08:41,419 --> 00:08:50,960
+So 100 will be multiplied by 1000 for kip another 12 for foot your final answer will be bound inch.
+
+71
+00:08:51,440 --> 00:08:59,940
+So your final answer will be 100 times 12,000 will be 1,200,000.
+
+72
+00:09:03,260 --> 00:09:04,480
+Bound inch.
+
+73
+00:09:08,660 --> 00:09:19,080
+Second step, we need to figure out this value m ultimate divide phi b d square.
+
+74
+00:09:22,600 --> 00:09:29,460
+If you go back, we need to figure out this value. m square divided by phi dd square phi
+
+75
+00:09:29,580 --> 00:09:37,720
+equal 0.9. So m ultimate in bound the inch is 1,200,000.
+
+76
+00:09:37,800 --> 00:09:48,200
+p_0.9, b for this cross-section is 14 inch, d for this cross-section is 21 inch, so 21
+
+77
+00:09:48,500 --> 00:09:57,420
+square. Your final answer for this term, 1,200,000
+
+78
+00:09:57,480 --> 00:10:13,080
+divide 0.9 times 14 times 21 square, don't forget square, equal to 115.9. So I need to
+
+79
+00:10:13,120 --> 00:10:25,839
+go to a table to figure out the value of row. You mentioned we have many tables. Let's start
+
+80
+00:10:25,840 --> 00:10:28,620
+with the first one, A8.
+
+81
+00:10:30,300 --> 00:10:35,140
+A8 only, if your steric reinforcement has F yield
+
+82
+00:10:35,420 --> 00:10:39,380
+for the 1000 and F prime C 3000.
+
+83
+00:10:40,510 --> 00:10:42,840
+So I need to go back to my problem.
+
+84
+00:10:44,820 --> 00:10:49,760
+Given steel yield stress 60,000.
+
+85
+00:10:49,960 --> 00:10:50,940
+The 60,000.
+
+86
+00:10:52,160 --> 00:10:56,040
+So F yield is given 60,000.
+
+87
+00:10:57,440 --> 00:11:01,940
+F, Brian C, which called concrete strength, 3,000.
+
+88
+00:11:03,420 --> 00:11:07,980
+So we need to look to a table with these parameters,
+
+89
+00:11:08,220 --> 00:11:12,140
+60,000 for steel, 3,000 for concrete.
+
+90
+00:11:13,240 --> 00:11:14,340
+So not this one.
+
+91
+00:11:17,320 --> 00:11:19,980
+This one is a continuum for the previous one, not this one.
+
+92
+00:11:20,800 --> 00:11:22,840
+because here is a field for the thousand.
+
+93
+00:11:23,000 --> 00:11:24,600
+We are looking for 60,000.
+
+94
+00:11:25,980 --> 00:11:26,760
+Not this one.
+
+95
+00:11:27,200 --> 00:11:28,260
+This one is 50,000.
+
+96
+00:11:34,780 --> 00:11:35,540
+There you go.
+
+97
+00:11:36,100 --> 00:11:37,220
+This one is 60,000.
+
+98
+00:11:39,140 --> 00:11:40,600
+What is the value of F prime C?
+
+99
+00:11:41,220 --> 00:11:41,920
+It's 3,000.
+
+100
+00:11:42,180 --> 00:11:42,640
+Is it yours?
+
+101
+00:11:43,340 --> 00:11:44,940
+Yes, 3,000.
+
+102
+00:11:46,260 --> 00:11:48,400
+So we are in this table.
+
+103
+00:11:49,400 --> 00:11:53,600
+So which table I will use based on what is the value
+
+104
+00:11:53,940 --> 00:11:57,080
+of yielding stress, what type of steel you are using
+
+105
+00:11:57,820 --> 00:12:00,280
+and what is the strength of concrete you are using?
+
+106
+00:12:01,560 --> 00:12:02,860
+Very important, two parameter.
+
+107
+00:12:04,540 --> 00:12:09,420
+Okay, remind me what is the value of M ultimate
+
+108
+00:12:09,600 --> 00:12:15,480
+divide FABD square, it's 215.9.
+
+109
+00:12:17,240 --> 00:12:21,060
+Okay, we have here, this term.
+
+110
+00:12:26,380 --> 00:12:28,200
+Can you figure out your value?
+
+111
+00:12:29,400 --> 00:12:30,620
+One more time, what is the value?
+
+112
+00:12:30,920 --> 00:12:35,540
+215.9, 215.9.
+
+113
+00:12:36,120 --> 00:12:36,680
+So which one?
+
+114
+00:12:39,580 --> 00:12:44,160
+215, 215, 215, I think you are here.
+
+115
+00:12:48,160 --> 00:12:53,600
+We will not look for a smaller value, but you can get a higher value.
+
+116
+00:12:53,870 --> 00:13:01,680
+If you didn't find the actual value to 115, okay, go ahead and use the nearest higher value,
+
+117
+00:13:02,030 --> 00:13:12,360
+which is 217.8. What is the value of rho? 0.0038.
+
+118
+00:13:14,000 --> 00:13:27,320
+guys any questions so far any questions so far yes Oliver yes five all the time
+
+119
+00:13:27,500 --> 00:13:29,960
+point nine why I will let you know soon
+
+120
+00:13:37,480 --> 00:13:46,500
+Okay. So it's very simple. Just for the symbol. I will go back to the original story from a story.
+
+121
+00:13:47,860 --> 00:13:54,120
+One part of the story we are looking for our structure analysis calculations so we can figure out the value of M.
+
+122
+00:13:55,680 --> 00:14:02,940
+Then this moment will be divided by Faye BT square. All the time we are using Faye equal point nine.
+
+123
+00:14:05,080 --> 00:14:06,720
+So we can figure out this value.
+
+124
+00:14:07,180 --> 00:14:10,340
+Please pay attention to which table you are using
+
+125
+00:14:10,640 --> 00:14:12,680
+based on what is the value of F yield,
+
+126
+00:14:13,160 --> 00:14:14,560
+what is the value of F prime C.
+
+127
+00:14:15,280 --> 00:14:19,720
+Once you select the correct or the appropriate table,
+
+128
+00:14:20,280 --> 00:14:22,240
+I can figure out with this value
+
+129
+00:14:22,580 --> 00:14:25,500
+and then row from this table.
+
+130
+00:14:27,439 --> 00:14:31,300
+Please go back 0.0038.
+
+131
+00:14:31,960 --> 00:14:34,980
+Let me try it out 0.0038.
+
+132
+00:14:37,140 --> 00:14:46,800
+I need to go back to a previous table in A7.
+
+133
+00:14:50,940 --> 00:14:56,820
+And still grade 60, which is F yield equals 60,000.
+
+134
+00:14:59,080 --> 00:15:10,800
+And if prime c equals 3,000, I need to figure out the minimum value of rho.
+
+135
+00:15:13,320 --> 00:15:16,980
+Rho minimum. We need
+
+136
+00:15:19,580 --> 00:15:27,239
+a sterile enforcement higher than the minimum amount. We have a minimum you have to
+
+137
+00:15:27,240 --> 00:15:29,780
+to put in the concrete beam.
+
+138
+00:15:30,860 --> 00:15:34,780
+So your reinforcement must be minimum or higher.
+
+139
+00:15:35,140 --> 00:15:38,200
+We cannot go below the minimum value.
+
+140
+00:15:39,500 --> 00:15:41,640
+So one more time, how can I use this table?
+
+141
+00:15:42,060 --> 00:15:42,660
+One more time.
+
+142
+00:15:43,260 --> 00:15:45,360
+It's very easy, very easy.
+
+143
+00:15:46,300 --> 00:15:47,120
+It's only one table.
+
+144
+00:15:49,580 --> 00:15:50,520
+It's only one table.
+
+145
+00:15:51,860 --> 00:15:55,140
+From this side, I need to figure out the type of steel.
+
+146
+00:15:59,020 --> 00:16:00,280
+Based on the field.
+
+147
+00:16:01,360 --> 00:16:06,200
+60,000 so you are in great 60 with 60,000 BSI.
+
+148
+00:16:08,280 --> 00:16:11,720
+From this one, I need to figure out the value of F prime C.
+
+149
+00:16:12,540 --> 00:16:14,040
+F prime C is 3000.
+
+150
+00:16:14,690 --> 00:16:16,000
+So we have here 3000.
+
+151
+00:16:18,880 --> 00:16:20,360
+We have here different values.
+
+152
+00:16:23,480 --> 00:16:29,160
+This row, this row, this row, this row, and row minimum.
+
+153
+00:16:32,540 --> 00:16:34,540
+So I'm going to use this one.
+
+154
+00:16:36,400 --> 00:16:45,700
+So row minimum for our case equal 0.0033.
+
+155
+00:16:47,260 --> 00:16:56,220
+You row from the table based on M ultimate divide FABD square equal point OO38.
+
+156
+00:16:57,860 --> 00:17:02,720
+I think you are higher. You are good.
+
+157
+00:17:06,260 --> 00:17:08,339
+I think you are good.
+
+158
+00:17:14,520 --> 00:17:15,420
+Just to check
+
+159
+00:17:17,060 --> 00:17:18,920
+What will happen if your role?
+
+160
+00:17:20,040 --> 00:17:27,000
+Smaller than the minimum row. Okay, forget your value and use the minimum if
+
+161
+00:17:27,760 --> 00:17:28,000
+if
+
+162
+00:17:29,140 --> 00:17:34,220
+The row from a table is smaller than row minimum
+
+163
+00:17:34,580 --> 00:17:38,740
+Please forget your value and use the minimum value
+
+164
+00:17:39,520 --> 00:17:40,620
+So right now we are good
+
+165
+00:17:41,460 --> 00:17:43,559
+Your role is good to be used
+
+166
+00:17:46,560 --> 00:17:50,559
+So I will go back to my example, row equal 0.0038.
+
+167
+00:17:57,980 --> 00:18:07,780
+Yes, row equal area steel divide B time D.
+
+168
+00:18:10,380 --> 00:18:18,600
+b in inch, d in inch, area steel in inch square, so rho is dimensionless.
+
+169
+00:18:22,300 --> 00:18:37,020
+Okay, so 0.0038 equal area steel divide b14 the time d21 the only unknown in this
+
+170
+00:18:37,020 --> 00:18:44,580
+This little equation is area steel, so I can figure out the value of area steel.
+
+171
+00:18:47,860 --> 00:19:00,820
+Your value of area steel equal 14 times 21 times 0.0038, your value will be 1.1172 inches
+
+172
+00:19:01,000 --> 00:19:01,160
+square.
+
+173
+00:19:04,820 --> 00:19:14,940
+need to convert. This one, for example, how many number of bars, number three, or number
+
+174
+00:19:15,060 --> 00:19:27,120
+four, or number five? If I choose, if, if I choose number three, how many bars? You know
+
+175
+00:19:27,140 --> 00:19:38,160
+how many bars for number three? So I need to open my table. Do you remember? First table.
+
+176
+00:19:39,800 --> 00:19:52,160
+First one. Number three has area equal 0.11. One bar of number three, the area of cross section
+
+177
+00:19:52,180 --> 00:19:53,620
+and equal 0.11.
+
+178
+00:19:54,890 --> 00:19:58,180
+So how can I convert this total area steel
+
+179
+00:19:58,430 --> 00:20:01,840
+to bars of number three?
+
+180
+00:20:02,210 --> 00:20:05,920
+So I will divide this value, which is area steel,
+
+181
+00:20:06,480 --> 00:20:15,160
+divide 0.11, you will have 11 bars of number three.
+
+182
+00:20:16,850 --> 00:20:20,460
+So area steel equal number of bar,
+
+183
+00:20:21,300 --> 00:20:25,220
+Time area of one bar.
+
+184
+00:20:27,460 --> 00:20:29,960
+Area of one bar, you can get it from a table
+
+185
+00:20:30,260 --> 00:20:31,960
+based on the size of the bar.
+
+186
+00:20:33,060 --> 00:20:35,980
+Area steel, we figured it out.
+
+187
+00:20:36,960 --> 00:20:38,460
+So I can figure out the N.
+
+188
+00:20:39,020 --> 00:20:42,140
+Be careful, your number equal 10.15.
+
+189
+00:20:42,520 --> 00:20:44,700
+So I will go higher to be 11 bars.
+
+190
+00:20:45,660 --> 00:20:47,960
+Okay, I found 11 bars is too much.
+
+191
+00:20:48,180 --> 00:20:50,080
+Too much, 11 bars, too much.
+
+192
+00:20:51,180 --> 00:20:53,000
+Let's try number four.
+
+193
+00:20:53,680 --> 00:20:54,960
+So I will go to my table.
+
+194
+00:20:55,740 --> 00:21:00,200
+For number four, bar, the area equal 0.2.
+
+195
+00:21:01,780 --> 00:21:06,960
+So I will divide the area steel, which is 1.1172,
+
+196
+00:21:07,680 --> 00:21:08,880
+divide 0.4.
+
+197
+00:21:09,710 --> 00:21:10,960
+Is it 0.4 or 0.2?
+
+198
+00:21:12,060 --> 00:21:12,720
+0.2, I'm sorry.
+
+199
+00:21:14,320 --> 00:21:14,880
+0.2.
+
+200
+00:21:15,840 --> 00:21:19,280
+We need six bars.
+
+201
+00:21:21,780 --> 00:21:29,820
+Good. If you would like to go smaller number of bars, it's okay. We still maintain the
+
+202
+00:21:29,880 --> 00:21:35,400
+required area still, don't worry. But we are talking about construction. Do you prefer
+
+203
+00:21:35,800 --> 00:21:43,980
+11 bars or 6 bars or lower? You know? So based on the construction, speed, easy of construction,
+
+204
+00:21:44,300 --> 00:21:44,860
+all of these stuff.
+
+205
+00:21:47,640 --> 00:21:49,160
+Okay, let's try number five.
+
+206
+00:21:49,500 --> 00:21:51,740
+What is the area of number five, 0.31.
+
+207
+00:21:53,560 --> 00:21:57,480
+So I will divide 1.1172 divide 0.31.
+
+208
+00:21:58,960 --> 00:21:59,980
+I will use four bars.
+
+209
+00:22:01,180 --> 00:22:05,000
+I think in my opinion, this one will be better.
+
+210
+00:22:07,300 --> 00:22:09,420
+If you have a huge number of bars,
+
+211
+00:22:10,100 --> 00:22:12,460
+you can expect some difficulties
+
+212
+00:22:12,460 --> 00:22:14,040
+for compaction of concrete.
+
+213
+00:22:14,660 --> 00:22:16,180
+You can expect segregation,
+
+214
+00:22:16,700 --> 00:22:20,340
+you can expect nest of concrete,
+
+215
+00:22:22,200 --> 00:22:22,540
+nesting.
+
+216
+00:22:24,140 --> 00:22:27,980
+We can expect issues of boring of concrete
+
+217
+00:22:28,280 --> 00:22:29,980
+with this huge number of bars.
+
+218
+00:22:30,400 --> 00:22:32,480
+So we prefer to maintain,
+
+219
+00:22:33,040 --> 00:22:35,200
+to keep the required area steel
+
+220
+00:22:35,640 --> 00:22:37,680
+with smaller number of bars,
+
+221
+00:22:37,820 --> 00:22:39,060
+but not less than two.
+
+222
+00:22:39,700 --> 00:22:40,860
+The minimum number is two.
+
+223
+00:22:41,260 --> 00:22:43,880
+You cannot go a little bit too.
+
+224
+00:22:45,700 --> 00:22:46,920
+Any question for this point?
+
+225
+00:22:47,760 --> 00:22:49,060
+So right now we learned.
+
+226
+00:22:50,840 --> 00:22:56,380
+I'm trying to complete my whole story,
+
+227
+00:22:57,220 --> 00:22:58,680
+but step by step.
+
+228
+00:22:59,440 --> 00:23:01,540
+So right now, M ultimate is given.
+
+229
+00:23:02,680 --> 00:23:04,480
+So I can't figure out this term.
+
+230
+00:23:05,300 --> 00:23:08,440
+I can go to a table to figure out the value of row.
+
+231
+00:23:08,940 --> 00:23:13,080
+So I can figure out area steel based on the selected bar.
+
+232
+00:23:13,700 --> 00:23:15,460
+I can figure out the number of course.
+
+233
+00:23:17,660 --> 00:23:18,720
+Until this moment.
+
+234
+00:23:35,620 --> 00:23:43,660
+And minimum reinforcement is just to, yes, it's related to ductility, I'm sorry, cracking,
+
+235
+00:23:44,300 --> 00:23:46,780
+but in a different term, which called ductility.
+
+236
+00:23:47,700 --> 00:23:53,160
+Ductility means you have to keep cracking within the limit, you have to keep deflection
+
+237
+00:23:53,320 --> 00:23:59,340
+within the limit, you have to keep the behavior, the actual behavior within the limit.
+
+238
+00:24:00,300 --> 00:24:07,180
+not accepted to see a reinforced concrete beam deflected too much or you are watching a beam
+
+239
+00:24:07,290 --> 00:24:15,200
+with cracks which is visible to you. So we maintain minimum reinforcement to delete all of these stuff
+
+240
+00:24:16,220 --> 00:24:27,580
+after construction. Okay so your value of rho must be higher than the minimum value to keep
+
+241
+00:24:27,580 --> 00:24:34,080
+the beam safe. It will be safe, but to keep the beam safe against its surface ability limit state,
+
+242
+00:24:34,220 --> 00:24:42,760
+which is creating. We will talk about this later. Don't worry, Robert. Okay. Sounds good.
+
+243
+00:24:43,800 --> 00:24:50,420
+So last time we learned it, if everything is given, I can figure out the design
+
+244
+00:24:51,260 --> 00:25:00,940
+bending moment. Now, if the stereo enforcement is missed, so bending moment must be given. So I
+
+245
+00:25:00,940 --> 00:25:09,220
+can figure out the value of area steel and I can check it. Someone will ask me a good question.
+
+246
+00:25:10,860 --> 00:25:21,040
+he didn't ask me this okay looks good looks good you are talking about
+
+247
+00:25:24,120 --> 00:25:37,820
+rho minimum we have here also rho maximum this value according to aci rho when epsilon t equal
+
+248
+00:25:37,820 --> 00:25:53,400
+0.004, this one can be called rho maximum. So your rho from a table must fall between
+
+249
+00:25:54,220 --> 00:26:07,080
+row minimum and the smaller than row maximum. Row maximum haven't add epsilon equal 0.004.
+
+250
+00:26:07,740 --> 00:26:18,300
+This one, this one, or this one, or this one. This row represents the maximum row. Why
+
+251
+00:26:19,020 --> 00:26:33,380
+I don't need to exceed row maximum next week. Why? I don't need to be low row minimum also next week. We have to be kind of cross section over reinforcement under reinforcement or balance it section.
+
+252
+00:26:33,780 --> 00:26:40,000
+We will cover the difference between all of them. We don't like. We don't like by any way.
+
+253
+00:26:41,020 --> 00:26:44,620
+Of stereo force meant to exceed row maximum.
+
+254
+00:26:45,900 --> 00:26:48,940
+It's a dangerous situation. We don't like this.
+
+255
+00:26:50,160 --> 00:26:53,620
+How? I'm adding more reinforcement.
+
+256
+00:26:54,020 --> 00:26:56,160
+More reinforcement means more safety.
+
+257
+00:26:56,440 --> 00:26:58,260
+No, it's not more safety.
+
+258
+00:26:58,900 --> 00:27:01,800
+We have a big issue will happen in your building.
+
+259
+00:27:02,340 --> 00:27:04,580
+If your stereo enforcement is too much.
+
+260
+00:27:06,940 --> 00:27:08,820
+It's a very bad situation.
+
+261
+00:27:09,140 --> 00:27:10,540
+I will cover this next week.
+
+262
+00:27:15,460 --> 00:27:22,540
+Okay, one more example, but this example is more general a little bit.
+
+263
+00:27:24,580 --> 00:27:32,720
+We will cover a little bit from structure analysis. Okay, guys, we have
+
+264
+00:27:35,700 --> 00:27:48,240
+reinforced RC means reinforced concrete. Simply supported beam. Anybody remember what is the
+
+265
+00:27:48,280 --> 00:27:53,500
+meaning of this expression from structure analysis? Do you remember? Simply supported?
+
+266
+00:27:54,000 --> 00:28:02,020
+Simple. Very simple. That means we have a beam very simple, just the support from this right
+
+267
+00:28:02,740 --> 00:28:10,080
+and support from this lift. That's it. Simply supported means very simple beam.
+
+268
+00:28:11,740 --> 00:28:21,040
+With an effective span, this lens called the span, how much? 12 feet.
+
+269
+00:28:25,220 --> 00:28:40,180
+The cross section of this beam has over all depth, the total overall, the total depth 24 inch.
+
+270
+00:28:41,980 --> 00:28:48,220
+And effective depth, if you have a stereo enforcement here, the effective depth
+
+271
+00:28:49,460 --> 00:28:58,800
+will be 20 inch and a width equal 12 inch. This width equal 12 inch.
+
+272
+00:29:00,760 --> 00:29:08,180
+So I'm trying to read the problem and translate this information to graphical information.
+
+273
+00:29:11,940 --> 00:29:22,920
+Stereo-enforcement is grade 60 and normal weight concrete with compressive strength 4000
+
+274
+00:29:26,260 --> 00:29:31,280
+determine the area of the enforcement area steel how much
+
+275
+00:29:37,140 --> 00:29:49,680
+required for the beam to carry dead load 0.75 on weight not included and the life load 1.1
+
+276
+00:29:50,580 --> 00:29:59,160
+Keep their foot. Wow. Wow. We have did loot equal 0.75.
+
+277
+00:30:02,079 --> 00:30:14,980
+Keep their foot on weight of the beam, not included in this number. The problem is this,
+
+278
+00:30:16,260 --> 00:30:25,680
+So I need to figure it out. Life load is given 1.1 hip bare foot.
+
+279
+00:30:29,080 --> 00:30:37,080
+This problem is very important. Very important and we need to figure something.
+
+280
+00:30:38,640 --> 00:30:39,760
+What you need to figure out?
+
+281
+00:30:41,860 --> 00:30:46,120
+I need to figure out if you have a beam looks like this.
+
+282
+00:30:52,379 --> 00:30:56,200
+Lsb, Ls total depth over all depth t.
+
+283
+00:30:57,880 --> 00:31:02,120
+Can you tell me how can I figure out the weight of this beam
+
+284
+00:31:03,960 --> 00:31:11,240
+for unit length one feet? One feet means unit length.
+
+285
+00:31:13,160 --> 00:31:31,100
+So I need to figure out the weight of this part of the cross section. Gamma equal weight
+
+286
+00:31:31,100 --> 00:31:47,040
+weight, bare volume. So weight of anything in this real life equal gamma of material,
+
+287
+00:31:50,940 --> 00:31:56,480
+volume of the beam of the body.
+
+288
+00:31:58,680 --> 00:32:07,140
+Keep in your mind, gamma concrete equal 150 bound per cubic feet.
+
+289
+00:32:07,940 --> 00:32:11,200
+Please put this number in your mind.
+
+290
+00:32:12,560 --> 00:32:16,300
+Normal weight concrete, this for the normal concrete.
+
+291
+00:32:16,940 --> 00:32:19,340
+normal concrete.
+
+292
+00:32:19,640 --> 00:32:23,760
+If we have something different, the problem will let you know.
+
+293
+00:32:24,960 --> 00:32:27,540
+For normal concrete, gamma equals 150.
+
+294
+00:32:30,240 --> 00:32:34,140
+How can I get a volume for this part of the cross section,
+
+295
+00:32:34,600 --> 00:32:35,960
+of this part of the beam?
+
+296
+00:32:36,660 --> 00:32:41,740
+OK, volume for anything is the area of the base time this height.
+
+297
+00:32:42,940 --> 00:32:48,480
+So B time T time unit length one, this is the volume.
+
+298
+00:32:49,960 --> 00:32:54,980
+If you multiply B T time one, time gamma, which is 150,
+
+299
+00:32:56,420 --> 00:32:59,240
+I can get weight per unit length.
+
+300
+00:33:02,980 --> 00:33:05,100
+I can get the weight per unit length.
+
+301
+00:33:07,720 --> 00:33:10,300
+For example, your beam,
+
+302
+00:33:12,860 --> 00:33:19,260
+This beam in this problem has 12, 24 total.
+
+303
+00:33:19,620 --> 00:33:27,460
+Total depth, 12 inch, 24 inch.
+
+304
+00:33:28,080 --> 00:33:30,400
+We are looking for unit length, one feet.
+
+305
+00:33:32,020 --> 00:33:36,080
+So what is the own weight of this beam equal?
+
+306
+00:33:37,720 --> 00:33:40,000
+B12, divide 12.
+
+307
+00:33:41,860 --> 00:33:45,020
+T24 divided by 12.
+
+308
+00:33:46,720 --> 00:33:50,440
+Unit length one, here is the volume.
+
+309
+00:33:51,820 --> 00:33:55,480
+This volume time gamma 150.
+
+310
+00:33:58,780 --> 00:34:04,560
+So these terms volume of unit length of the beam,
+
+311
+00:34:05,400 --> 00:34:11,500
+unit length 150 is the gamma.
+
+312
+00:34:11,500 --> 00:34:16,060
+So if you multiply volume by gamma, I can figure out the weight.
+
+313
+00:34:18,320 --> 00:34:19,000
+I have question.
+
+314
+00:34:20,220 --> 00:34:22,480
+Why this 12th and why this 12th?
+
+315
+00:34:22,560 --> 00:34:28,340
+Because I need to convert this beam, this beam from inch to feet.
+
+316
+00:34:29,440 --> 00:34:33,840
+And this T from inch to feet.
+
+317
+00:34:34,320 --> 00:34:38,700
+So I divided both of them by 12th because the unit lens in feet.
+
+318
+00:34:39,220 --> 00:34:43,899
+So all of these numbers must be in feet by 150.
+
+319
+00:34:44,070 --> 00:34:51,300
+So your final value will be 150 equal 300.
+
+320
+00:34:54,379 --> 00:34:59,180
+Bound, but this weight for unit length,
+
+321
+00:34:59,960 --> 00:35:01,700
+so I can do it bound barefoot.
+
+322
+00:35:03,780 --> 00:35:08,000
+Or equal 0.3 Kibb,
+
+323
+00:35:09,380 --> 00:35:11,480
+Therefore, I divided it by 1000.
+
+324
+00:35:13,000 --> 00:35:16,060
+If you have any question for this point, let me know.
+
+325
+00:35:16,280 --> 00:35:17,620
+This point is very important.
+
+326
+00:35:18,520 --> 00:35:19,460
+Very important.
+
+327
+00:35:20,540 --> 00:35:21,260
+Very important.
+
+328
+00:35:22,340 --> 00:35:26,340
+How can I figure out the weight, the own weight of the beam?
+
+329
+00:35:32,880 --> 00:35:33,580
+Go ahead.
+
+330
+00:35:46,740 --> 00:35:50,620
+This one is B divided by 12.
+
+331
+00:35:52,500 --> 00:35:53,980
+B is given an inch.
+
+332
+00:35:55,750 --> 00:35:59,760
+So I need to divide it by 12 to convert it to feet.
+
+333
+00:36:00,800 --> 00:36:03,240
+If this number is 14, so 14 divided by 12.
+
+334
+00:36:03,620 --> 00:36:05,900
+If this number is 16, 16 divided 12.
+
+335
+00:36:06,240 --> 00:36:08,700
+If this number is 10, 10 divided 12.
+
+336
+00:36:09,440 --> 00:36:10,420
+So 12 is constant.
+
+337
+00:36:10,940 --> 00:36:14,960
+The denominator is constant to convert from inch to feet.
+
+338
+00:36:15,580 --> 00:36:18,760
+So the denominator is B, whatever the value of B.
+
+339
+00:36:26,520 --> 00:36:26,800
+OK.
+
+340
+00:36:28,000 --> 00:36:31,580
+So guys, this term can be done like this.
+
+341
+00:36:33,220 --> 00:36:41,060
+b divide 12, p divide 12, time 1, time 150.
+
+342
+00:36:42,940 --> 00:36:49,600
+Whatever this number, whatever this number. These numbers in inch, okay? So right now,
+
+343
+00:36:50,820 --> 00:37:02,660
+on weight equal 0.3 kip per foot. I need an answer. Alex are you here?
+
+344
+00:37:05,050 --> 00:37:06,040
+I think you are here.
+
+345
+00:37:09,120 --> 00:37:18,580
+Yeah. Okay Roberto just a second. My question is on weight of the beam is it
+
+346
+00:37:18,580 --> 00:37:21,040
+Did it load or life load?
+
+347
+00:37:23,820 --> 00:37:25,920
+Do you think you can go to campus
+
+348
+00:37:26,540 --> 00:37:28,220
+and leave your weight at home?
+
+349
+00:37:30,880 --> 00:37:31,720
+Can anybody do this?
+
+350
+00:37:33,280 --> 00:37:35,500
+Hey, I'm coming to campus, but my own weight,
+
+351
+00:37:35,720 --> 00:37:37,420
+my weight is at home.
+
+352
+00:37:37,900 --> 00:37:38,520
+Can you do this?
+
+353
+00:37:43,080 --> 00:37:45,140
+Do you remember from Onflams Line?
+
+354
+00:37:46,400 --> 00:37:47,940
+Did load, we don't have a choice.
+
+355
+00:37:48,140 --> 00:37:50,300
+I'm sorry, all weight is a dead load.
+
+356
+00:37:51,480 --> 00:37:58,400
+So your dead load, total, including the weight of the beam,
+
+357
+00:37:58,920 --> 00:38:04,619
+will be 0.75, which is given, plus 0.3.
+
+358
+00:38:08,180 --> 00:38:09,560
+We just calculate it.
+
+359
+00:38:12,280 --> 00:38:15,180
+Your final will be 1.05.
+
+360
+00:38:18,660 --> 00:38:24,960
+and your life load will remain the same 1.1 kibb per foot.
+
+361
+00:38:26,420 --> 00:38:35,120
+Robert your question is what is 150? 150 is a game of concrete.
+
+362
+00:38:37,820 --> 00:38:46,560
+150 is a game of concrete we need to multiply volume time game volume
+
+363
+00:38:46,560 --> 00:39:01,740
+if this value 150 is gamma of concrete. We are talking about one type of concrete which is normal weight so this value will be constant 150.
+
+364
+00:39:06,040 --> 00:39:06,520
+Okay, Roberto.
+
+365
+00:39:10,240 --> 00:39:15,160
+150 is a common value for normal concrete.
+
+366
+00:39:15,890 --> 00:39:17,120
+All the time it's 150.
+
+367
+00:39:17,570 --> 00:39:22,640
+If you are talking about different type of concrete, the problem will let you know.
+
+368
+00:39:24,620 --> 00:39:25,380
+Okay, guys.
+
+369
+00:39:27,560 --> 00:39:27,640
+Okay.
+
+370
+00:39:30,600 --> 00:39:41,540
+So by this moment we have the load equal 1.05 kip per foot.
+
+371
+00:39:42,510 --> 00:39:45,240
+We have life load equal how much?
+
+372
+00:39:45,930 --> 00:39:46,620
+1.1.
+
+373
+00:39:50,940 --> 00:39:53,400
+Anybody can tell me what is the value of you?
+
+374
+00:39:56,560 --> 00:39:57,200
+Yeah?
+
+375
+00:39:57,200 --> 00:40:06,780
+If you open first million in the first week, we are talking about ultimate. That's right.
+
+376
+00:40:14,400 --> 00:40:19,900
+So we have a case of loading here. This one.
+
+377
+00:40:26,660 --> 00:40:31,620
+Actually we have only dead in this problem and the life only. So I will use
+
+378
+00:40:31,680 --> 00:40:43,780
+this one to get you which you can give you 1.2 dead plus 1.6 life. We don't
+
+379
+00:40:43,790 --> 00:40:47,560
+have anything else. We don't have snow, we don't have earthquake, we don't have
+
+380
+00:40:47,680 --> 00:40:51,320
+wind, we don't have roof life, we don't have anything else.
+
+381
+00:40:56,880 --> 00:41:02,620
+Dead by 1.2, live by 1.6.
+
+382
+00:41:03,050 --> 00:41:06,880
+We don't have LR, we don't have S, so this term is neglected.
+
+383
+00:41:10,240 --> 00:41:14,380
+This equation will give you the maximum value, believe me.
+
+384
+00:41:15,440 --> 00:41:25,140
+So 1.2 times dead, 105, plus 1.6 times 1.1.
+
+385
+00:41:26,920 --> 00:41:41,620
+Your final answer will be 3.02 Kibb, barefoot.
+
+386
+00:41:43,330 --> 00:41:45,860
+Here is I can call it W, alternate.
+
+387
+00:41:47,980 --> 00:42:00,940
+Guys, one more time. This one called LUD combination. Because you are talking about ultimate,
+
+388
+00:42:02,420 --> 00:42:11,860
+I need to go back to the combinations for ultimate. I will found an equation called 1.2-DUD plus
+
+389
+00:42:11,980 --> 00:42:19,660
+1.6 life load plus something different. We don't have these terms so I will only use the first part
+
+390
+00:42:19,940 --> 00:42:28,500
+of our combination. 1.2 did load plus 1.6 life load. Please put this equation in your mind all
+
+391
+00:42:28,500 --> 00:42:35,900
+through because all the time in this course we will cover only dead and alive. This course only
+
+392
+00:42:35,900 --> 00:42:41,680
+for dead and alive. So all the time we will combine dead and alive together. How can I
+
+393
+00:42:41,690 --> 00:42:49,360
+do this in ultimate stage? I need to multiply dead load by 1.2 and the life load by 1.6.
+
+394
+00:42:53,539 --> 00:43:04,740
+Until this moment, do you have any question? So guys, finally, your final load on the beam
+
+395
+00:43:04,740 --> 00:43:12,580
+which called ultimate load 3.02. So this beam has a uniform distributed load
+
+396
+00:43:14,880 --> 00:43:22,060
+w ultimate equal 3.02 kibb per foot.
+
+397
+00:43:26,630 --> 00:43:33,800
+If you go back to structure analysis, if you have a beam with uniform distributed load,
+
+398
+00:43:33,860 --> 00:43:42,000
+w and the length l your bending moment looks like parabola and this maximum
+
+399
+00:43:42,120 --> 00:43:54,100
+moment equal w l square over 8. That means your w in this case 3.02 the length
+
+400
+00:43:54,140 --> 00:44:10,180
+of this beam equal 20 feet so your moment equal WL square over 8 will be 3.02
+
+401
+00:44:10,260 --> 00:44:16,240
+time L square divided 8 your final moment will be
+
+402
+00:44:20,940 --> 00:44:35,080
+151 Kip foot and this moment is M ultimate. Wow! Wow! Why this moment is M
+
+403
+00:44:35,100 --> 00:44:43,400
+ultimate because this w is w ultimate. Why this w is w ultimate? Because this w coming from this
+
+404
+00:44:43,500 --> 00:44:58,820
+equation you multiplied 1.2 times the root plus 1.6 life root. So right now m ultimate equal 151
+
+405
+00:44:59,260 --> 00:45:12,500
+Kep put. M ultimate is given. Cross-section dimensions are given. Can you figure out
+
+406
+00:45:12,640 --> 00:45:21,900
+the stereo enforcement? Yes, I can. So, I need to figure out what is the value of M ultimate
+
+407
+00:45:21,900 --> 00:45:34,580
+divide phi BD square M ultimate based on your calculation 151 time 1000 to be inbound time 12
+
+408
+00:45:34,930 --> 00:45:48,460
+to be an inch phi 0.9 B12 D how much 20 square so I can figure out this value
+
+409
+00:45:56,620 --> 00:46:10,800
+419. Open a table and remember you are in a steel grid secrecy if Brian C is 4000.
+
+410
+00:46:12,260 --> 00:46:13,480
+What is the table?
+
+411
+00:46:21,840 --> 00:46:29,680
+60,000 and 3000, if Bramsey is 4000.
+
+412
+00:46:30,390 --> 00:46:31,840
+So I need to go to another table.
+
+413
+00:46:32,310 --> 00:46:32,720
+Here you go.
+
+414
+00:46:33,030 --> 00:46:33,400
+This one.
+
+415
+00:46:34,220 --> 00:46:36,200
+4000, 60,000.
+
+416
+00:46:37,740 --> 00:46:41,440
+What is the value of this one 419?
+
+417
+00:46:43,080 --> 00:46:47,400
+So go ahead and select 419.
+
+418
+00:46:48,860 --> 00:46:50,140
+419, 419.
+
+419
+00:46:50,500 --> 00:46:53,260
+I think you are talking about this one.
+
+420
+00:46:57,400 --> 00:47:01,600
+We don't have 419, but we have 420.
+
+421
+00:47:03,820 --> 00:47:06,220
+Rho equal 0.0075.
+
+422
+00:47:06,980 --> 00:47:09,780
+Rho equal 0.0075.
+
+423
+00:47:12,440 --> 00:47:14,920
+Go ahead and use this row or we need to make check.
+
+424
+00:47:30,220 --> 00:47:42,020
+Oliver, if you figure out W, L squared, divide it, W
+
+425
+00:47:44,500 --> 00:47:51,580
+in kibbe, barefoot, L in foot, your final moment
+
+426
+00:47:52,020 --> 00:47:53,620
+will be kibbe foot.
+
+427
+00:47:56,300 --> 00:47:59,580
+If you go back, did load, keep foot.
+
+428
+00:48:00,420 --> 00:48:01,580
+Life load, keep foot.
+
+429
+00:48:02,320 --> 00:48:03,880
+So if you are using this equation,
+
+430
+00:48:04,640 --> 00:48:06,220
+your W will keep foot.
+
+431
+00:48:07,120 --> 00:48:09,060
+Your bending moment, everything in keep
+
+432
+00:48:09,180 --> 00:48:10,300
+and everything in foot.
+
+433
+00:48:10,500 --> 00:48:12,420
+So your final moment will be keep foot.
+
+434
+00:48:13,300 --> 00:48:16,640
+Okay, so I need to convert this one to be bound inch.
+
+435
+00:48:18,540 --> 00:48:21,260
+Anyway, so after you are done,
+
+436
+00:48:21,660 --> 00:48:24,080
+rho equal 0.0075.
+
+437
+00:48:24,820 --> 00:48:25,960
+I need to make a check.
+
+438
+00:48:28,400 --> 00:48:29,560
+Go back to this table.
+
+439
+00:48:33,260 --> 00:48:34,940
+You are talking about grade 60,
+
+440
+00:48:35,780 --> 00:48:41,580
+but F prime C4000, so your rho minimum will be this number.
+
+441
+00:48:44,080 --> 00:48:48,400
+I believe 0.0075 is greater than 0.0033.
+
+442
+00:48:49,780 --> 00:48:55,120
+Also, be sure that you are under the maximum value.
+
+443
+00:48:56,300 --> 00:49:01,440
+0.0075 is smaller than 0.02.
+
+444
+00:49:01,600 --> 00:49:04,580
+So you are between minimum and the maximum.
+
+445
+00:49:04,720 --> 00:49:06,640
+You are good, keep going.
+
+446
+00:49:07,660 --> 00:49:11,500
+So rho equal 0.0075,
+
+447
+00:49:12,580 --> 00:49:16,460
+rho equal area steel divide BD,
+
+448
+00:49:17,020 --> 00:49:23,760
+0.0075 equal area steel divide B12 times 20.
+
+449
+00:49:24,200 --> 00:49:26,220
+The only unknown here is area steel.
+
+450
+00:49:26,640 --> 00:49:29,620
+So I can figure out the value of area steel
+
+451
+00:49:32,300 --> 00:49:34,880
+equal 1.8 inches square.
+
+452
+00:49:37,260 --> 00:49:39,820
+Can you convert this area steel?
+
+453
+00:49:40,300 --> 00:49:43,040
+How many number of bars, number three?
+
+454
+00:49:43,820 --> 00:49:45,560
+How many bars for number four?
+
+455
+00:49:46,080 --> 00:49:47,640
+how many bars of number five,
+
+456
+00:49:48,420 --> 00:49:51,600
+then we can take a decision which one I will select.
+
+457
+00:49:52,580 --> 00:49:55,060
+Actually in your exam, only one option you can
+
+458
+00:49:55,680 --> 00:49:57,580
+voted this one or this one or this one,
+
+459
+00:49:57,620 --> 00:50:01,520
+but I'm trying to show you
+
+460
+00:50:01,950 --> 00:50:04,380
+if you are using number three, how many bars?
+
+461
+00:50:04,820 --> 00:50:06,780
+If you are using number four, how many bars?
+
+462
+00:50:06,920 --> 00:50:08,520
+If you are using number five, let's see.
+
+463
+00:50:09,440 --> 00:50:11,440
+Number four, one point, number three,
+
+464
+00:50:11,720 --> 00:50:17,800
+1.425.11, we need here 17 bars, too much, too much.
+
+465
+00:50:18,700 --> 00:50:23,360
+Number four, we will use nine bars.
+
+466
+00:50:25,040 --> 00:50:30,140
+Number five, we will use six bars.
+
+467
+00:50:30,660 --> 00:50:31,380
+I like this one.
+
+468
+00:50:31,900 --> 00:50:37,440
+So six bars, number five is that require the area still
+
+469
+00:50:37,780 --> 00:50:38,400
+for our P.
+
+470
+00:50:39,260 --> 00:50:40,820
+We are looking for this final answer.
+
+471
+00:50:44,100 --> 00:50:48,020
+So please don't stop to show me your area steel.
+
+472
+00:50:48,180 --> 00:50:53,140
+Please go ahead and convert this area steel to how many bars?
+
+473
+00:50:54,280 --> 00:51:01,800
+So it's your option, it's your opinion to select which size of bars, number three or number four or number five.
+
+474
+00:51:01,900 --> 00:51:02,380
+It's up to you.
+
+475
+00:51:02,940 --> 00:51:10,060
+Once you select the desired bar size, go ahead and convert it to a number of bars.
+
+476
+00:51:13,380 --> 00:51:23,500
+The key in this problem is how can I calculate the on weight of the beam?
+
+477
+00:51:25,980 --> 00:51:32,920
+The on weight of the beam will be added to the load. If you have the load before from the problem
+
+478
+00:51:33,480 --> 00:51:38,660
+and we have on weight at them together. So we have the load. Life load is given.
+
+479
+00:51:38,800 --> 00:51:45,660
+We need to convert to make combination between the fluid and the life load in ultimate stage.
+
+480
+00:51:47,080 --> 00:51:51,640
+So I have to multiply dead by 1.2, life by 1.6.
+
+481
+00:51:51,700 --> 00:51:55,760
+So finally I got uniform distributed load ultimate.
+
+482
+00:51:56,660 --> 00:51:57,880
+How much this value?
+
+483
+00:51:59,000 --> 00:52:04,600
+From structural analysis, if you have simply supported beam with uniform distributed,
+
+484
+00:52:04,800 --> 00:52:12,280
+If you go back to structure analysis, especially for conjugate beam, your bending moment looks
+
+485
+00:52:12,400 --> 00:52:13,020
+like parabola.
+
+486
+00:52:13,400 --> 00:52:17,820
+This maximum moment equal w l square divided 8.
+
+487
+00:52:19,020 --> 00:52:29,160
+W 3.02, which is coming from this equation, l the total span of the beam square divided
+
+488
+00:52:29,380 --> 00:52:29,640
+8.
+
+489
+00:52:30,320 --> 00:52:39,360
+moment will be called M ultimate. Once you figure out the value of M ultimate, okay, we have very
+
+490
+00:52:39,440 --> 00:52:47,580
+simple steps. This term, how much? Go to table to figure out the value of rho. Keys, be careful
+
+491
+00:52:48,240 --> 00:52:57,040
+that your rho must be greater than rho minimum, smaller than rho maximum. Be careful. Okay,
+
+492
+00:52:57,040 --> 00:53:00,960
+Okay, my row is good. Your row equal area steel divide BD.
+
+493
+00:53:01,660 --> 00:53:03,680
+I can figure out the value of area steel.
+
+494
+00:53:04,280 --> 00:53:08,620
+Then I can convert this area steel to how many bars
+
+495
+00:53:09,700 --> 00:53:11,360
+based on your bar size.
+
+496
+00:53:15,300 --> 00:53:17,400
+It looks like very simple problem,
+
+497
+00:53:17,800 --> 00:53:19,920
+but we have different things we need to cover.
+
+498
+00:53:25,600 --> 00:53:29,400
+This problem looks like a problem in your PE exam.
+
+499
+00:53:31,560 --> 00:53:35,400
+In your PE exam, probably you can given this information.
+
+500
+00:53:36,020 --> 00:53:37,620
+So you need to figure out the own weight.
+
+501
+00:53:38,380 --> 00:53:40,580
+You need to figure out the alternate load.
+
+502
+00:53:41,020 --> 00:53:44,940
+So we need to multiply 1.2 dead load plus 1.6 light load.
+
+503
+00:53:45,500 --> 00:53:46,680
+You need to get the M alternate.
+
+504
+00:53:48,720 --> 00:53:51,240
+You need to go to the table to figure out the row.
+
+505
+00:53:51,480 --> 00:53:52,120
+You need to check.
+
+506
+00:53:52,500 --> 00:53:53,680
+You need to get area steel.
+
+507
+00:53:53,840 --> 00:53:56,460
+you need to convert how many bars from the bar size.
+
+508
+00:53:58,440 --> 00:54:00,600
+And you need to solve this problem in six minutes.
+
+509
+00:54:04,240 --> 00:54:04,720
+Only.
+
+510
+00:54:19,980 --> 00:54:23,120
+And no, D, okay, it's a good question, Alex.
+
+511
+00:54:26,640 --> 00:54:39,160
+You are talking about, if you are talking about, on weight, we need to include all concrete
+
+512
+00:54:39,560 --> 00:54:40,460
+in the cross section.
+
+513
+00:54:40,840 --> 00:54:44,060
+So you are talking about the total thickness.
+
+514
+00:54:46,060 --> 00:54:46,280
+Okay?
+
+515
+00:54:46,540 --> 00:54:47,700
+So the total thickness.
+
+516
+00:54:48,640 --> 00:54:50,940
+Everything in the cross section, the total height.
+
+517
+00:54:51,520 --> 00:54:59,460
+If you are talking about only, but if you are talking about design, the divide, Faye,
+
+518
+00:54:59,940 --> 00:55:04,840
+B, this square, this D, please, until stereo enforcement only.
+
+519
+00:55:06,380 --> 00:55:07,700
+Until stereo enforcement.
+
+520
+00:55:08,800 --> 00:55:09,000
+Okay.
+
+521
+00:55:14,840 --> 00:55:16,700
+So, we have two situations here.
+
+522
+00:55:17,380 --> 00:55:18,260
+It's a good question, Alex.
+
+523
+00:55:18,500 --> 00:55:18,940
+Thank you.
+
+524
+00:55:19,800 --> 00:55:31,460
+If you are talking about on weight, on weight means I need to include everything in the cross section, everything. So the total height, the total thickness 24.
+
+525
+00:55:32,500 --> 00:55:42,460
+But in design, no, we need to consider only until the steering force. So this D will be until the reinforcement only.
+
+526
+00:55:45,460 --> 00:55:45,720
+Okay.
+
+527
+00:55:51,780 --> 00:55:52,800
+Any other question?
+
+528
+00:55:55,100 --> 00:56:01,040
+We have homework, three problems, like these three examples.
+
+529
+00:56:01,700 --> 00:56:04,020
+Example number one, example number two, example number three.
+
+530
+00:56:04,200 --> 00:56:04,540
+The same.
+
+531
+00:56:05,180 --> 00:56:10,080
+But please pay attention and understand the story.
+
+532
+00:56:10,680 --> 00:56:22,600
+are walking through a long story, long story. Okay, so next week I will continue to understand
+
+533
+00:56:23,160 --> 00:56:34,660
+something why we need area steel to be between row maximum and row minimum. What will happen if row
+
+534
+00:56:35,160 --> 00:56:39,840
+greater than the row maximum, what will happen if row smaller than the row minimum? What will happen?
+
+535
+00:56:40,240 --> 00:56:45,640
+We will see next week. Also, next week, how can I figure out the dimension of the cross-section?
+
+536
+00:56:46,160 --> 00:56:51,880
+In these problems, dimensions are given. Can I figure out these dimensions? Yes, you can.
+

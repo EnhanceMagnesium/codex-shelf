@@ -1,0 +1,1264 @@
+1
+00:00:00,799 --> 00:00:01,480
+(sizzling)
+
+2
+00:00:03,240 --> 00:00:05,260
+- Topic design of footing.
+
+3
+00:00:08,559 --> 00:00:13,060
+You should, this course, I will talk a little bit
+
+4
+00:00:13,140 --> 00:00:17,920
+about foundation because our course is concrete design,
+
+5
+00:00:18,340 --> 00:00:19,900
+not foundation design.
+
+6
+00:00:20,740 --> 00:00:22,240
+So you should have another course
+
+7
+00:00:22,400 --> 00:00:24,080
+which called soil mechanics
+
+8
+00:00:24,500 --> 00:00:27,620
+and foundation was Dr. O'Nick's semester.
+
+9
+00:00:28,400 --> 00:00:31,560
+I believe will cover too much information.
+
+10
+00:00:31,920 --> 00:00:35,700
+And I encourage you to take as much as you can
+
+11
+00:00:35,800 --> 00:00:39,860
+from this course, Soil Mechanics, very important
+
+12
+00:00:40,580 --> 00:00:44,240
+for FEE and PE exam, Soil Mechanics.
+
+13
+00:00:44,780 --> 00:00:47,260
+You will learn too much information.
+
+14
+00:00:48,920 --> 00:00:51,120
+Anyway, for foundation,
+
+15
+00:00:51,540 --> 00:00:54,280
+we have two main kinds of foundation.
+
+16
+00:00:55,480 --> 00:00:56,560
+The first one called,
+
+17
+00:00:58,460 --> 00:01:04,260
+Shalu foundation, like footing, raft.
+
+18
+00:01:05,780 --> 00:01:12,040
+The second type of foundation called deep foundation, like biles.
+
+19
+00:01:14,540 --> 00:01:21,280
+We have two types of foundation, Shalu and deep foundation.
+
+20
+00:01:22,160 --> 00:01:30,860
+Shalu Foundation we have footing, we have four kinds of footing. Isolated footing, combined footing,
+
+21
+00:01:31,460 --> 00:01:41,780
+strep footing, strep footing. We have raft, both of them called Shalu Foundation and we have biles.
+
+22
+00:01:43,220 --> 00:01:49,280
+What do you mean by footing? The first kind of footing which called isolated.
+
+23
+00:01:50,480 --> 00:02:02,200
+Every column has only one footing. So this footing is supporting only one column.
+
+24
+00:02:03,640 --> 00:02:13,560
+This footing can be called isolated. So each column has a separate footing.
+
+25
+00:02:14,720 --> 00:02:20,740
+This footing can be called isolated. We have reinforcement at the bottom
+
+26
+00:02:21,890 --> 00:02:32,480
+in both directions, this direction and this direction at the bottom of the footing.
+
+27
+00:02:33,140 --> 00:02:40,460
+We don't have reinforcement at the top for isolated footing. We don't have.
+
+28
+00:02:41,280 --> 00:02:48,060
+the only reinforcement mesh at the bottom for isolated footing.
+
+29
+00:02:50,380 --> 00:02:57,620
+As you see guys, the center line of the column at the center line of the footing.
+
+30
+00:02:59,440 --> 00:03:08,360
+We recommend to do so, the center line of the column to be at the center line of the footing.
+
+31
+00:03:09,760 --> 00:03:21,860
+Sometimes you have two very close columns for any reason. This column and this column are very close.
+
+32
+00:03:23,480 --> 00:03:31,980
+So if you put this column on isolated footing and the other column on another isolated footing,
+
+33
+00:03:32,320 --> 00:03:43,560
+the two footing probably will be overlaid or they are very very very close to each other.
+
+34
+00:03:44,680 --> 00:03:53,500
+So we recommend to use another kind of footing which is called combined footing. Only one footing
+
+35
+00:03:55,520 --> 00:04:03,640
+supporting two columns. This footing can be called combined footing. Can you watch?
+
+36
+00:04:04,440 --> 00:04:14,460
+We have only one footing supporting this column and this column. For this kind of footing we have two
+
+37
+00:04:14,860 --> 00:04:24,479
+reinforcement mesh, one at the bottom and one at the top. So the reinforcement mesh for combined
+
+38
+00:04:24,480 --> 00:04:30,540
+footing we will have one at the bottom in both directions and another one at the top of the
+
+39
+00:04:30,900 --> 00:04:38,600
+footing. So make sure you can understand this point for isolated footing we have only one mesh
+
+40
+00:04:38,920 --> 00:04:45,020
+at the bottom. For combined footing we will have two mesh one at the top one at the bottom.
+
+41
+00:04:47,340 --> 00:04:50,400
+We have another kind of footing which is called strip.
+
+42
+00:04:52,080 --> 00:04:53,440
+Guys, can you watch back?
+
+43
+00:04:54,700 --> 00:04:59,820
+You have a column, this column can represent one concentrated load.
+
+44
+00:05:00,940 --> 00:05:05,340
+This column can represent one concentrated load, one concentrated load.
+
+45
+00:05:06,420 --> 00:05:08,580
+But if you have a wall,
+
+46
+00:05:11,540 --> 00:05:17,080
+wall can be represented as line load.
+
+47
+00:05:18,660 --> 00:05:20,559
+Your load is continuously
+
+48
+00:05:22,220 --> 00:05:32,500
+distributed like this. So your footing at this moment can be called strip footing. Can you
+
+49
+00:05:32,540 --> 00:05:42,460
+watch this one? So the foundation will be strip footing. Sometimes your footing can be
+
+50
+00:05:42,480 --> 00:05:51,840
+called strap. How can I do this? How can I do strap footing? I told you the center
+
+51
+00:05:52,020 --> 00:05:59,540
+line of the column at the center line of the footing. Sometimes I cannot do this.
+
+52
+00:05:59,640 --> 00:06:13,080
+sometimes I cannot do this there the column at the edge of the footing can you
+
+53
+00:06:13,080 --> 00:06:19,080
+do this right now everybody can you do this stand on the chair you are sitting
+
+54
+00:06:19,240 --> 00:06:26,359
+on try to stand at the edge of the chair what should what will happen
+
+55
+00:06:26,360 --> 00:06:35,620
+overturning, I believe the chair will be overturned. The same also will happen for footing. If the column
+
+56
+00:06:36,460 --> 00:06:44,260
+at the edge of the footing, we can expect overturning for the footing. We have another footing.
+
+57
+00:06:47,010 --> 00:06:55,239
+The column adds a center line, so it's okay. If you connect between this footing, which would like
+
+58
+00:06:55,240 --> 00:07:03,360
+to overturn with this footing which is okay this beam and this system can be
+
+59
+00:07:03,440 --> 00:07:06,080
+called strap footing
+
+60
+00:07:09,040 --> 00:07:18,500
+strap footing so strap footing only only only if you have a be if you have a
+
+61
+00:07:18,500 --> 00:07:30,180
+column at the edge of the footing. So you will connect this footing with another footing which
+
+62
+00:07:30,480 --> 00:07:38,400
+the column at the center by a beam this beam and these two footing all of them can be called
+
+63
+00:07:38,660 --> 00:07:50,820
+strap footing. I have a question. Anybody can tell me what is the situation? You have to
+
+64
+00:07:50,880 --> 00:08:01,020
+put the column at the edge of the footing. Can you tell me? Anybody? Can you imagine
+
+65
+00:08:01,540 --> 00:08:07,860
+which situation I have to put the column at the edge of the footing?
+
+66
+00:08:11,220 --> 00:08:11,920
+Any answer?
+
+67
+00:08:18,300 --> 00:08:20,380
+Guys, any answer?
+
+68
+00:08:29,540 --> 00:08:31,120
+thinking. Take your time.
+
+69
+00:08:45,139 --> 00:08:46,720
+Okay, I can tell you.
+
+70
+00:08:51,759 --> 00:08:56,440
+Guys, I have a piece of land.
+
+71
+00:08:56,500 --> 00:09:15,140
+land. This for me for Ayman. And we have another piece of land for my neighbor or Brock. I
+
+72
+00:09:15,180 --> 00:09:21,000
+decided to build my house. So my house will be at this corner.
+
+73
+00:09:25,460 --> 00:09:28,000
+adjacent to my neighbor.
+
+74
+00:09:33,940 --> 00:09:44,480
+That makes sense. So I have a column at this location for my building.
+
+75
+00:09:45,800 --> 00:09:50,000
+This column, I will support this column by a footing.
+
+76
+00:09:52,080 --> 00:09:55,880
+I need to put a footing underneath this column.
+
+77
+00:09:57,400 --> 00:10:02,960
+I believe I cannot do this to put the as a footing like this.
+
+78
+00:10:05,080 --> 00:10:10,440
+Because at this moment, I went to my neighbor.
+
+79
+00:10:12,000 --> 00:10:22,440
+I cannot do, I cannot but or do or construct any part of my house in the neighbor, the property.
+
+80
+00:10:23,800 --> 00:10:31,440
+Because this line represents property line.
+
+81
+00:10:31,740 --> 00:10:33,240
+You cannot do anything.
+
+82
+00:10:33,880 --> 00:10:39,980
+You can extend any part from your construction to the neighbor, the property.
+
+83
+00:10:40,960 --> 00:10:42,260
+That makes sense?
+
+84
+00:10:42,800 --> 00:10:48,720
+So the only option to put your footing like this.
+
+85
+00:10:50,640 --> 00:11:01,460
+So what happened right now? The column will be at the edge of the footing. So we
+
+86
+00:11:01,540 --> 00:11:08,900
+can expect overturning because this lute will apply a vertical force, very huge
+
+87
+00:11:09,500 --> 00:11:19,740
+number, a very huge amount of force. So I have another column here inside my
+
+88
+00:11:19,740 --> 00:11:27,780
+property so I can put a footing like this so the column at the center of the
+
+89
+00:11:27,820 --> 00:11:36,320
+footing so I'm gonna do a beam to connect between this footing and this
+
+90
+00:11:36,420 --> 00:11:42,920
+footing at this moment this beam and this footing can be called strap footing
+
+91
+00:11:47,880 --> 00:11:48,440
+That makes sense.
+
+92
+00:11:52,560 --> 00:11:55,520
+This point is clear enough.
+
+93
+00:11:56,860 --> 00:11:57,540
+Okay.
+
+94
+00:11:58,720 --> 00:12:02,580
+So it's very important to understand what is the difference
+
+95
+00:12:04,340 --> 00:12:09,440
+between these types of footing isolated. You have one column, we have one footing.
+
+96
+00:12:10,340 --> 00:12:14,500
+We have two columns very close for any reason. I don't care.
+
+97
+00:12:14,980 --> 00:12:17,460
+We can combine them in one footing.
+
+98
+00:12:18,900 --> 00:12:20,560
+We have a strip load
+
+99
+00:12:21,840 --> 00:12:24,000
+due to a wall,
+
+100
+00:12:24,880 --> 00:12:25,840
+break wall,
+
+101
+00:12:27,520 --> 00:12:27,860
+or
+
+102
+00:12:28,620 --> 00:12:30,580
+concrete wall, whatever.
+
+103
+00:12:32,440 --> 00:12:34,580
+So your footing will be strep.
+
+104
+00:12:36,320 --> 00:12:39,120
+Strip only in specific
+
+105
+00:12:40,220 --> 00:12:42,040
+conditions, specific situations.
+
+106
+00:12:42,660 --> 00:12:56,120
+only if you have a column at the edge of the footing. Why at the edge? For many reasons. One of them you have a neighbor and your column adjacent to the property line.
+
+107
+00:12:59,060 --> 00:13:03,220
+The second type of shallow foundation called raft.
+
+108
+00:13:04,740 --> 00:13:15,260
+We have only one huge footing supporting all the columns of the building.
+
+109
+00:13:17,460 --> 00:13:24,720
+At this all columns of the building. At this moment this footing can be called footing. It can be
+
+110
+00:13:24,720 --> 00:13:36,500
+called Raft, Mate Foundation. Can you watch from this photo? We have two big layers of
+
+111
+00:13:36,800 --> 00:13:43,140
+reinforcement, one at the top at the bottom and the second one at the top in both directions,
+
+112
+00:13:43,360 --> 00:13:54,180
+this direction and this direction. So at this moment, this kind of foundation can be called Raft,
+
+113
+00:13:54,320 --> 00:14:02,780
+but you are still talking about shallow foundation. If your foundation is raft, shallow foundation.
+
+114
+00:14:03,480 --> 00:14:09,680
+If your foundation is kind of footing, you are talking about shallow foundation.
+
+115
+00:14:11,700 --> 00:14:20,079
+The second type of foundation which is called deep foundation. The most common type of deep
+
+116
+00:14:20,080 --> 00:14:34,680
+foundation is Biles. Biles. So what is the main reason behind Biles? You have to understand
+
+117
+00:14:35,160 --> 00:14:41,760
+this concept. I know all of this information should be covered in soil mechanics course,
+
+118
+00:14:42,300 --> 00:14:46,680
+but anyway, guys, we have here is the ground surface.
+
+119
+00:14:52,000 --> 00:15:03,520
+ground surface. And we have some soil investigation told us, and I will cover it soon, told us
+
+120
+00:15:03,560 --> 00:15:20,160
+we have clay layer for 20 feet and after the clay layer we have sand layer for
+
+121
+00:15:20,420 --> 00:15:23,080
+another 30 feet
+
+122
+00:15:35,980 --> 00:15:39,740
+And we have rock layer.
+
+123
+00:15:41,960 --> 00:15:46,480
+We cannot imagine how what is the depth of this layer anyway.
+
+124
+00:15:48,120 --> 00:15:50,240
+We are constructing a bridge.
+
+125
+00:15:56,680 --> 00:15:58,540
+And this bridge has here abutment.
+
+126
+00:16:00,420 --> 00:16:03,200
+And the loot coming from this bridge,
+
+127
+00:16:04,560 --> 00:16:07,280
+this layer of clay is very weak.
+
+128
+00:16:07,840 --> 00:16:13,540
+Cannot support the loot from this beer or from this column.
+
+129
+00:16:16,040 --> 00:16:21,580
+Also, the sand layer cannot support the whole load.
+
+130
+00:16:21,860 --> 00:16:23,200
+It will support a little,
+
+131
+00:16:23,580 --> 00:16:25,920
+but cannot support the total load.
+
+132
+00:16:26,920 --> 00:16:31,939
+So how can I reach to the rock layer?
+
+133
+00:16:33,930 --> 00:16:39,220
+Do I need to exeggavate all of these layers
+
+134
+00:16:39,980 --> 00:16:41,820
+to reach to this rock?
+
+135
+00:16:42,420 --> 00:16:46,420
+No, you can do something very, very, very simple.
+
+136
+00:16:47,420 --> 00:16:53,200
+Go ahead and construct vertical columns.
+
+137
+00:16:54,900 --> 00:16:57,960
+Yeah, they are columns, vertical columns,
+
+138
+00:16:58,780 --> 00:17:02,620
+but these columns are embedded in the ground
+
+139
+00:17:04,360 --> 00:17:08,180
+until you reach the rock layer,
+
+140
+00:17:08,980 --> 00:17:11,900
+which is very very very very strong.
+
+141
+00:17:15,100 --> 00:17:18,480
+And at the top, we will construct here a footing.
+
+142
+00:17:20,640 --> 00:17:25,939
+This footing is supporting the column of the bridge.
+
+143
+00:17:27,699 --> 00:17:30,500
+But we need to change some concept.
+
+144
+00:17:31,480 --> 00:17:34,499
+This footing will not be called footing
+
+145
+00:17:34,500 --> 00:17:41,980
+because footing, the normal footing should be supported by ground directly.
+
+146
+00:17:44,220 --> 00:17:49,140
+But this footing is not supporting by ground, it's supported by another column.
+
+147
+00:17:50,260 --> 00:17:54,780
+So this footing will be called "bile cab".
+
+148
+00:17:56,160 --> 00:18:00,899
+And these columns will not be called columns, they will be called "biles".
+
+149
+00:18:04,680 --> 00:18:12,800
+And this kind of foundation called deep foundation because you are reaching a very deep layer
+
+150
+00:18:12,860 --> 00:18:13,340
+of soil.
+
+151
+00:18:14,440 --> 00:18:20,240
+So the loot coming from the bridge to the column, then to the bile cap, the bile cap
+
+152
+00:18:20,340 --> 00:18:27,739
+will distribute this loot to this bile and this bile and these biles will transfer the
+
+153
+00:18:27,740 --> 00:18:39,700
+allude to the very strong layer of soil. Can you watch these photos? We have here four
+
+154
+00:18:40,600 --> 00:18:49,860
+piles embedded in the ground. How can I construct these piles? It's a different story. Not covered
+
+155
+00:18:50,100 --> 00:18:57,720
+in this course. We have many techniques based on what is the type of your bio. Then I'm
+
+156
+00:18:57,720 --> 00:19:07,720
+to cover these column, I'm sorry, these piles by a footing and construct here one column
+
+157
+00:19:08,720 --> 00:19:20,040
+because some of you will say, hey, how can this column with one reaction, how can this
+
+158
+00:19:20,080 --> 00:19:29,200
+reaction will be distributed among these biles. Actually guys, we should have a
+
+159
+00:19:29,400 --> 00:19:34,780
+transfer system which called bile cap. So if you look here to this elevation,
+
+160
+00:19:35,580 --> 00:19:41,140
+here is a column with one reaction and we have here something called bile cap.
+
+161
+00:19:42,260 --> 00:19:48,320
+This bile cap will transfer this load and distribute it over this bile and
+
+162
+00:19:48,340 --> 00:19:55,840
+and this biode. If you have this kind of foundation, this kind can be called deep foundation.
+
+163
+00:19:58,679 --> 00:20:08,040
+When I will need to use deep foundation, if you have very weak layer of soil, I cannot
+
+164
+00:20:08,160 --> 00:20:22,520
+I will not excavate all of these depths, so I will drive, I'm sorry, or I will construct these piles until to reach the strong layer of soil.
+
+165
+00:20:23,940 --> 00:20:24,480
+Any question?
+
+166
+00:20:26,730 --> 00:20:31,020
+Do you have any question related to the types of foundation?
+
+167
+00:20:38,960 --> 00:20:42,520
+We have something called bearing capacity.
+
+168
+00:20:47,360 --> 00:20:50,260
+Sometimes the layer of soil is clay,
+
+169
+00:20:52,620 --> 00:20:54,560
+near the ground surface.
+
+170
+00:20:55,560 --> 00:20:57,140
+Sometimes it's sand.
+
+171
+00:21:00,400 --> 00:21:18,180
+Sometimes it's probably silty sand. Sometimes it's sandy gravel. We have different type of soils.
+
+172
+00:21:19,420 --> 00:21:33,900
+and we need to construct putting on this soil. My question is do you think this layer is strong
+
+173
+00:21:34,780 --> 00:21:45,039
+like this one, like this one, like this one? No, we have different type of soil that means we have
+
+174
+00:21:45,040 --> 00:21:56,120
+different degree of strengths. One of them will be weak, one of them will be very strong,
+
+175
+00:21:56,660 --> 00:22:04,160
+one of them will be in between. So we need to determine something to figure this strength
+
+176
+00:22:04,760 --> 00:22:14,900
+up which called bearing capacity of soil.
+
+177
+00:22:18,430 --> 00:22:28,500
+We have some guys, few guys with this technique to get some samples from the soil at different
+
+178
+00:22:28,720 --> 00:22:40,340
+depth based on the experimental work in the lab on these samples, I can tell you what is the
+
+179
+00:22:40,720 --> 00:22:46,740
+capacity of this soil. This capacity called beering capacity.
+
+180
+00:22:49,440 --> 00:22:56,960
+Also, it's not our topic. It's outside the scope of this course, but just to learn that from the
+
+181
+00:22:56,960 --> 00:23:00,760
+the geotechnical engineer can tell you,
+
+182
+00:23:00,960 --> 00:23:02,860
+based on some experimental work,
+
+183
+00:23:03,300 --> 00:23:07,500
+can tell you what is the type of the soil
+
+184
+00:23:08,340 --> 00:23:11,340
+and what is the capacity of this soil
+
+185
+00:23:11,680 --> 00:23:14,060
+because this number or this capacity
+
+186
+00:23:14,400 --> 00:23:17,720
+will be used in the design of foundation.
+
+187
+00:23:19,360 --> 00:23:24,159
+So this table can give you roughly some numbers
+
+188
+00:23:24,160 --> 00:23:26,460
+based on what is the type of material.
+
+189
+00:23:27,200 --> 00:23:28,280
+If you have rock,
+
+190
+00:23:30,280 --> 00:23:34,460
+6,000 bound bare square feet.
+
+191
+00:23:35,740 --> 00:23:38,480
+Sending gravel or gravel, 5,000.
+
+192
+00:23:39,340 --> 00:23:43,780
+Sand, silty sand or anything like this related to sand
+
+193
+00:23:43,900 --> 00:23:45,420
+or gravel, 3,000.
+
+194
+00:23:46,280 --> 00:23:49,700
+Clay, clay is the weakest soil.
+
+195
+00:23:49,820 --> 00:23:51,000
+We don't like clay.
+
+196
+00:23:52,640 --> 00:23:58,480
+If you have a clay, believe me, I believe that most of the foundation will be piles.
+
+197
+00:23:59,620 --> 00:24:04,300
+Because we don't like clay, clay only for agriculture.
+
+198
+00:24:05,440 --> 00:24:11,200
+But clay for foundation or construction, we don't recommend this.
+
+199
+00:24:12,380 --> 00:24:16,280
+So the bearing capacity is 2000 only, bare square feet.
+
+200
+00:24:18,480 --> 00:24:20,820
+So guys, until this moment, you learned it.
+
+201
+00:24:22,200 --> 00:24:23,860
+What are the types of foundation?
+
+202
+00:24:26,940 --> 00:24:30,220
+And we have a very important parameter
+
+203
+00:24:30,560 --> 00:24:31,900
+which called bearing capacity.
+
+204
+00:24:33,000 --> 00:24:35,020
+Based on bearing capacity,
+
+205
+00:24:35,400 --> 00:24:38,720
+I can figure out what is the size of foundation.
+
+206
+00:24:46,320 --> 00:24:51,000
+The first type of foundation or the first element
+
+207
+00:24:51,000 --> 00:24:53,960
+I'm gonna design strip footing.
+
+208
+00:24:59,460 --> 00:25:00,660
+Strip footing.
+
+209
+00:25:03,040 --> 00:25:04,200
+Can you watch to this building?
+
+210
+00:25:06,720 --> 00:25:07,660
+This one is a column.
+
+211
+00:25:09,440 --> 00:25:12,100
+Very simple column, we will support it
+
+212
+00:25:12,160 --> 00:25:13,860
+by isolated footing.
+
+213
+00:25:14,700 --> 00:25:15,120
+That's fine.
+
+214
+00:25:16,540 --> 00:25:18,960
+This is a column, I'm gonna support it
+
+215
+00:25:18,960 --> 00:25:20,660
+by isolated footing.
+
+216
+00:25:21,920 --> 00:25:26,360
+But this element is a wall.
+
+217
+00:25:28,300 --> 00:25:30,320
+It's called shear wall.
+
+218
+00:25:35,300 --> 00:25:39,340
+By the way, can you tell me what is the main purpose
+
+219
+00:25:40,660 --> 00:25:45,520
+or what is the main function of a shear wall in a building?
+
+220
+00:25:46,760 --> 00:25:49,640
+Why we bought this huge wall?
+
+221
+00:25:49,900 --> 00:25:52,400
+Why we didn't do it like two columns,
+
+222
+00:25:52,600 --> 00:25:54,100
+one here and another one there?
+
+223
+00:25:54,280 --> 00:25:54,720
+That's it.
+
+224
+00:25:55,360 --> 00:25:58,760
+Why you are doing this huge wall concrete,
+
+225
+00:25:58,940 --> 00:26:00,060
+reinforced concrete wall?
+
+226
+00:26:00,560 --> 00:26:02,500
+Any answer, do you know what is the main reason
+
+227
+00:26:03,380 --> 00:26:04,220
+behind this wall?
+
+228
+00:26:17,100 --> 00:26:20,460
+Thank you, Barack Oliver, to support more area, no.
+
+229
+00:26:21,320 --> 00:26:27,780
+Because you can't vote a column at this edge and another column at this edge and you can
+
+230
+00:26:27,840 --> 00:26:30,120
+vote beam in between or something like this.
+
+231
+00:26:30,480 --> 00:26:30,580
+No.
+
+232
+00:26:31,360 --> 00:26:32,740
+It's not supporting more area.
+
+233
+00:26:32,900 --> 00:26:47,840
+supporting lateral loot. If you have wind loot, if you have earthic wick, we should construct
+
+234
+00:26:48,440 --> 00:26:57,740
+sheer wall to resist these lateral loot. I said should for low rise building, five storeys,
+
+235
+00:26:59,140 --> 00:27:11,100
+But if you have 10 or 20 or 30 or 50 floors, no, we have to build a statistical system
+
+236
+00:27:11,350 --> 00:27:14,280
+to support this lateral load.
+
+237
+00:27:14,690 --> 00:27:20,280
+The most typical and common system is shear wall.
+
+238
+00:27:20,280 --> 00:27:21,020
+We have different.
+
+239
+00:27:21,260 --> 00:27:23,060
+We have many other systems.
+
+240
+00:27:23,940 --> 00:27:29,880
+But the most common and cheap system is sheer walls.
+
+241
+00:27:30,900 --> 00:27:32,180
+Very easy to construct.
+
+242
+00:27:33,440 --> 00:27:38,180
+The cost is very low and more effective.
+
+243
+00:27:40,420 --> 00:27:46,360
+But if you have a high rise building, 50 floors or 100 floors, no, we need to change this system
+
+244
+00:27:46,460 --> 00:27:47,740
+to another system.
+
+245
+00:27:49,200 --> 00:27:49,840
+Anyway.
+
+246
+00:27:50,880 --> 00:27:56,100
+So this wall will be supported by strip footing.
+
+247
+00:27:57,810 --> 00:28:00,540
+I cannot say this footing will be isolated.
+
+248
+00:28:01,200 --> 00:28:04,280
+Isolated for a very simple column,
+
+249
+00:28:04,660 --> 00:28:08,800
+but this one is continuously extended for a lens.
+
+250
+00:28:11,679 --> 00:28:15,720
+So this footing will be called strip footing.
+
+251
+00:28:16,160 --> 00:28:31,220
+Sometimes you have a fence around a big area around your building, around any other building.
+
+252
+00:28:32,000 --> 00:28:38,500
+So this extended wall will be supported by strip footing.
+
+253
+00:28:40,560 --> 00:28:44,740
+Anyway, we are talking right now about strip footing.
+
+254
+00:28:47,740 --> 00:28:49,920
+So we learned it before.
+
+255
+00:28:50,460 --> 00:28:54,240
+Any element will give you reactions.
+
+256
+00:28:55,640 --> 00:28:58,720
+One of them can be called dead loot.
+
+257
+00:29:01,260 --> 00:29:04,660
+And the other one can be called life loot.
+
+258
+00:29:07,280 --> 00:29:12,020
+Do you remember designing of a slab, designing of beam, designing of anything?
+
+259
+00:29:12,840 --> 00:29:17,900
+We have looting coming from dead loot and we have looting coming from life loot.
+
+260
+00:29:18,660 --> 00:29:23,700
+So we can expect reactions, one from dead loot and one from life loot.
+
+261
+00:29:24,640 --> 00:29:30,260
+Actually, if you are designing foundation, we need two cases.
+
+262
+00:29:32,280 --> 00:29:38,680
+The first one, you have to add "didlude + lifelude" without factors.
+
+263
+00:29:44,120 --> 00:29:56,340
+And one more time, you add "didlude + lifelude with factor 1.2 did + 1.6 life" to get the ultimate loot.
+
+264
+00:29:58,040 --> 00:30:08,020
+we will use this value in a few cases and we will use this value in a different situation.
+
+265
+00:30:10,539 --> 00:30:17,840
+So during the problem or the design of a footing, I will tell you, hey, the reaction
+
+266
+00:30:18,660 --> 00:30:26,359
+on the footing did load equal a value, life load equal another value. So what should I do? You need
+
+267
+00:30:26,360 --> 00:30:33,580
+to do both of them add did loot and the life loot without factors add did loot
+
+268
+00:30:33,820 --> 00:30:42,060
+and the life loot after you apply the factors guys I told you this hint or
+
+269
+00:30:42,100 --> 00:30:49,880
+this comment last time and I would like to repeat it do you think the loot on the
+
+270
+00:30:49,880 --> 00:31:00,520
+foundation coming from one floor to floor three floor it should be coming
+
+271
+00:31:00,700 --> 00:31:12,200
+from one floor time the number of floors so when you are solving a beam and you
+
+272
+00:31:12,200 --> 00:31:21,340
+can figure out you have a beam in one floor and this beam is supported here by a column.
+
+273
+00:31:23,780 --> 00:31:31,000
+And from structure analysis you can figure out the reaction from this beam which is in one floor.
+
+274
+00:31:32,520 --> 00:31:36,480
+Do you think this reaction will be used to design foundation?
+
+275
+00:31:39,000 --> 00:31:44,500
+No, this reaction must be multiplied by number of floors.
+
+276
+00:31:47,880 --> 00:31:54,840
+Because if you are talking about with this beam, so this beam is only in this floor.
+
+277
+00:31:56,360 --> 00:32:03,760
+And this reaction is coming from this floor only. But we have one, two, three, four,
+
+278
+00:32:04,120 --> 00:32:10,640
+and the five floors, so we have to multiply this reaction by this number of floors.
+
+279
+00:32:12,520 --> 00:32:13,500
+Any questions so far?
+
+280
+00:32:27,320 --> 00:32:39,700
+Okay. First step, did plus life without factor. Second step, did plus life with factors. Third step.
+
+281
+00:32:43,580 --> 00:32:51,080
+Guys, I told you we have something called bearing capacity. You allowable.
+
+282
+00:32:55,240 --> 00:33:05,340
+will be given by geotechnical engineer. After doing some experimental work on the soil samples,
+
+283
+00:33:06,460 --> 00:33:16,240
+so finally he will give me a report. This report will include the value of allowable bearing capacity.
+
+284
+00:33:20,120 --> 00:33:30,940
+Just to remind you, when you are trying to construct footing, I'm going to do excavation.
+
+285
+00:33:33,610 --> 00:33:35,680
+To bore the footing,
+
+286
+00:33:40,940 --> 00:33:47,900
+then the column, then I'm going to apply fill.
+
+287
+00:33:47,900 --> 00:34:05,080
+fill, put or return the soil, filling, that makes sense, that makes sense.
+
+288
+00:34:07,380 --> 00:34:19,080
+So if you are looking for what is the pressure on the soil, I can expect something coming
+
+289
+00:34:19,240 --> 00:34:26,740
+from the column, something coming from the weight on weight of the footing, and something
+
+290
+00:34:26,940 --> 00:34:33,060
+coming from the own weight of the soil on the footing.
+
+291
+00:34:33,800 --> 00:34:34,260
+Do you agree?
+
+292
+00:34:37,480 --> 00:34:37,940
+Do you agree?
+
+293
+00:34:40,300 --> 00:34:48,540
+All of these lodes will cause stress on soil.
+
+294
+00:34:51,800 --> 00:34:54,560
+So I'm going to use Q-A-L-O-B-L-N-O.
+
+295
+00:34:54,820 --> 00:35:09,000
+we will use something called q net equal q allowable minus gamma concrete it's footing minus gamma it's I'm sorry gamma soil.
+
+296
+00:35:14,400 --> 00:35:14,940
+It's your soil.
+
+297
+00:35:17,620 --> 00:35:18,580
+Which it's your soil.
+
+298
+00:35:19,820 --> 00:35:20,340
+This edge.
+
+299
+00:35:25,160 --> 00:35:27,580
+Itch footing this itch.
+
+300
+00:35:30,300 --> 00:35:34,620
+This footing made from concrete to this gamma will be 150.
+
+301
+00:35:36,880 --> 00:35:40,340
+This material from soil, this is a gamma of soil.
+
+302
+00:35:43,740 --> 00:35:48,460
+So the weight of the soil was subtracted.
+
+303
+00:35:50,520 --> 00:35:57,280
+The weight of the footing was subtracted from the allowable soil.
+
+304
+00:35:58,210 --> 00:36:07,100
+So the remaining unit only to support the load from the column.
+
+305
+00:36:08,300 --> 00:36:22,680
+So the bearing capacity, allowable bearing capacity must be subtracted by gamma soil H soil minus gamma concrete H footing.
+
+306
+00:36:23,320 --> 00:36:29,640
+H footing is the thickness of footing.
+
+307
+00:36:34,460 --> 00:36:36,680
+These terms for soil.
+
+308
+00:36:43,120 --> 00:36:52,720
+Once you did these calculations and figured out the Q net, this Q net, I will divide the
+
+309
+00:36:52,800 --> 00:37:02,980
+applied load from the footing, I'm sorry, from the wall by Q net, so I can figure out the
+
+310
+00:37:02,980 --> 00:37:05,220
+area of footing.
+
+311
+00:37:15,020 --> 00:37:22,660
+Guys remember which value of loot we have two values one is surface and one is
+
+312
+00:37:22,720 --> 00:37:28,320
+ultimate one without factor and one with factor which one I'm gonna use I'm gonna
+
+313
+00:37:28,340 --> 00:37:36,160
+I use that one without factor B which equal did load plus life load without any factor.
+
+314
+00:37:37,420 --> 00:37:50,120
+Okay. Once you can figure out the area required for the footing, I can convert this area by width
+
+315
+00:37:51,240 --> 00:37:54,580
+and lens for the footing.
+
+316
+00:38:04,359 --> 00:38:07,200
+Let me stop here. That's enough for today.
+

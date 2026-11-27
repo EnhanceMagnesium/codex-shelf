@@ -1,0 +1,1636 @@
+1
+00:00:02,740 --> 00:00:10,580
+We started, we start to talk about concrete, just introduction.
+
+2
+00:00:11,100 --> 00:00:12,880
+This week is just introduction.
+
+3
+00:00:13,960 --> 00:00:18,500
+And we learned what we will expect to learn in this course,
+
+4
+00:00:19,260 --> 00:00:25,200
+design of beams, layers, column footing, wall, pre-stress concrete, and also software.
+
+5
+00:00:26,000 --> 00:00:29,280
+We have three main components in concrete.
+
+6
+00:00:30,420 --> 00:00:33,380
+Main components, three ingredient.
+
+7
+00:00:37,000 --> 00:00:42,720
+Cores or fine aggregate, sand or gravel, cement, and water.
+
+8
+00:00:43,900 --> 00:00:46,060
+The first step, water and cement,
+
+9
+00:00:46,250 --> 00:00:50,400
+we have chemical interaction which called the hydration.
+
+10
+00:00:51,290 --> 00:00:53,240
+If you have less water,
+
+11
+00:00:53,760 --> 00:00:56,360
+we don't have a complete reaction.
+
+12
+00:00:57,440 --> 00:01:01,460
+If you have more water, it will cause also another problem,
+
+13
+00:01:02,060 --> 00:01:07,600
+probably segregation or increase the permeability of the concrete, whatever.
+
+14
+00:01:08,540 --> 00:01:10,760
+So, water is very important.
+
+15
+00:01:11,260 --> 00:01:14,200
+You have to adjust the how much water do you need.
+
+16
+00:01:15,200 --> 00:01:20,759
+And also after pouring concrete, we need to maintain water content
+
+17
+00:01:20,760 --> 00:01:26,900
+probably for seven days after boring concrete to complete the hydration
+
+18
+00:01:27,100 --> 00:01:31,480
+process. We have something called setting time we have initial setting we
+
+19
+00:01:31,520 --> 00:01:37,240
+have final setting remember initial time is very important initial time is very
+
+20
+00:01:37,300 --> 00:01:45,180
+important for example if you are constructing a building in commerce and
+
+21
+00:01:45,880 --> 00:01:49,040
+and the concrete will be prepared in
+
+22
+00:01:49,560 --> 00:01:55,600
+Salvatore Spring. So probably we have at least 20 to 30 minutes
+
+23
+00:01:58,480 --> 00:02:01,860
+traveling from this city to another city. So we need
+
+24
+00:02:02,300 --> 00:02:06,240
+to be sure that the concrete will not set.
+
+25
+00:02:07,860 --> 00:02:12,700
+Because initial setting means concrete not
+
+26
+00:02:12,700 --> 00:02:19,280
+become not it's not a liquid after initial setting concrete becomes
+
+27
+00:02:21,340 --> 00:02:29,640
+fiscous or more fiscosity or so you cannot reshape the concrete smoothly or
+
+28
+00:02:31,150 --> 00:02:37,560
+in a very easy way no you cannot so we need to avoid we need to work concrete before
+
+29
+00:02:38,140 --> 00:02:46,420
+initial setting, the initial setting type. Curing of concrete for seven days probably.
+
+30
+00:02:48,800 --> 00:02:54,620
+So the main conclusion for all of these slides, we have three main components. We have cement,
+
+31
+00:02:55,350 --> 00:03:05,899
+we have water, we have coarse aggregate which is sand and gravel, fine aggregate and the coarse
+
+32
+00:03:05,900 --> 00:03:16,280
+aggregate. Okay, just to remind you for something I covered in another course which called
+
+33
+00:03:17,900 --> 00:03:24,960
+hydraulics. Do you remember the hydraulic course? Do you remember something called GAMER?
+
+34
+00:03:28,460 --> 00:03:39,220
+gamma which called unit weight equal weight divide volume.
+
+35
+00:03:42,680 --> 00:03:49,020
+So if you have two of them, if you have the unit weight gamma is given or you can figure it out
+
+36
+00:03:49,760 --> 00:03:57,659
+and you know what is the weight of this material, I can tell you what is the volume. Or if you know
+
+37
+00:03:57,660 --> 00:03:58,480
+What is the volume?
+
+38
+00:03:59,400 --> 00:04:00,580
+And you know what is the gamma?
+
+39
+00:04:00,820 --> 00:04:03,700
+I can't tell you how much weight for this material.
+
+40
+00:04:05,480 --> 00:04:07,380
+So unit weight equal weight divided volume.
+
+41
+00:04:08,560 --> 00:04:12,040
+We have something also called specific weight.
+
+42
+00:04:16,040 --> 00:04:17,380
+You remember something like this?
+
+43
+00:04:17,959 --> 00:04:22,900
+Specific weight, which called g, for a material, for cement,
+
+44
+00:04:23,120 --> 00:04:26,320
+for gravel, for water, for anything.
+
+45
+00:04:26,980 --> 00:04:29,960
+Specific gravity, sometimes called GS.
+
+46
+00:04:33,620 --> 00:04:43,480
+Specific weight or specific gravity. Equal gamma, divide gamma water.
+
+47
+00:04:46,160 --> 00:04:49,060
+So if I tell you for cement,
+
+48
+00:04:51,760 --> 00:04:56,280
+GS specific gravity equal 2.6. What is the meaning?
+
+49
+00:04:56,340 --> 00:04:59,180
+It's dimensionless. We don't have the units.
+
+50
+00:05:00,180 --> 00:05:03,120
+Dimensionless. What does that mean of 2.6?
+
+51
+00:05:03,680 --> 00:05:13,320
+Means gamma for cement, divide gamma for water equal 2.6.
+
+52
+00:05:16,420 --> 00:05:16,920
+Got it?
+
+53
+00:05:18,340 --> 00:05:25,120
+for specific weight, gs equal gamma for any material divide gamma water.
+
+54
+00:05:25,960 --> 00:05:32,240
+So for example, if I tell you the specific weight for cement
+
+55
+00:05:34,270 --> 00:05:42,660
+or specific gravity for cement equal 2.6 that means gamma for cement divide gamma of water
+
+56
+00:05:42,660 --> 00:05:48,960
+equal to 2.6. Okay, we still have two unknowns. Gamma for cement and the gamma for water. No,
+
+57
+00:05:49,350 --> 00:05:55,840
+you have to remember gamma of water. Do you remember how much? 62.4. You have to remember
+
+58
+00:05:56,040 --> 00:06:08,580
+this number all the time. 62.4 bound bilkyobik feet. So if this value specific gravity is given,
+
+59
+00:06:08,820 --> 00:06:10,540
+I think it should be specific graph.
+
+60
+00:06:12,559 --> 00:06:14,320
+A specific graph is given.
+
+61
+00:06:14,440 --> 00:06:16,180
+I can figure out the value of gamma.
+
+62
+00:06:16,900 --> 00:06:18,840
+If you can figure out the value of gamma,
+
+63
+00:06:19,820 --> 00:06:22,080
+value of gamma equal weight divided volume.
+
+64
+00:06:22,180 --> 00:06:24,280
+So if you have weight, I can figure out the volume.
+
+65
+00:06:24,340 --> 00:06:26,980
+If you have volume, I can figure out the weight.
+
+66
+00:06:30,820 --> 00:06:33,520
+We have first example in our course.
+
+67
+00:06:34,540 --> 00:06:35,760
+We have a concrete mix.
+
+68
+00:06:38,100 --> 00:06:41,260
+So we can expect three main components.
+
+69
+00:06:42,700 --> 00:06:45,880
+Aggregate, cement and water.
+
+70
+00:06:47,540 --> 00:06:54,060
+So we have a ratio between cement, sand,
+
+71
+00:06:55,120 --> 00:06:56,160
+and the coarse aggregate.
+
+72
+00:06:59,660 --> 00:07:05,520
+By weight, this ratio, one to 1.62, 2.6 by weight.
+
+73
+00:07:07,300 --> 00:07:09,720
+cement to sand to coarse aggregate.
+
+74
+00:07:11,880 --> 00:07:15,560
+And also the specific gravity for cement is given.
+
+75
+00:07:16,780 --> 00:07:18,780
+Specific gravity for sand is given.
+
+76
+00:07:19,080 --> 00:07:21,140
+Specific gravity for coarse aggregate,
+
+77
+00:07:21,300 --> 00:07:23,800
+which is gravel or stone is given.
+
+78
+00:07:24,340 --> 00:07:25,040
+I have question.
+
+79
+00:07:27,060 --> 00:07:29,440
+If the specific gravity of cement is given,
+
+80
+00:07:29,480 --> 00:07:33,060
+do you think I can figure out the value of game cement?
+
+81
+00:07:35,780 --> 00:07:38,280
+I can figure out the value of gamma send.
+
+82
+00:07:40,680 --> 00:07:43,400
+I can figure out the gamma of course aggregate.
+
+83
+00:07:44,240 --> 00:07:48,320
+Yes, hell, go back to my notes.
+
+84
+00:07:51,080 --> 00:07:55,780
+Pacific gravity equal gamma divide gamma water.
+
+85
+00:07:56,440 --> 00:07:59,400
+So if you know specific gravity and do gamma water,
+
+86
+00:07:59,580 --> 00:08:01,820
+I know it multiply both of them together.
+
+87
+00:08:01,960 --> 00:08:04,320
+I can figure out the gamma of this material.
+
+88
+00:08:05,180 --> 00:08:18,420
+So if I bring my calculator and the multiply 3.15 times 62.4 equal 196.56 bound per cubic feet.
+
+89
+00:08:20,410 --> 00:08:32,379
+For sand 2.62, which is a specific gravity, time gamma of water, I can figure out this gamma 163.5
+
+90
+00:08:32,380 --> 00:08:34,039
+bound bare cubic feet.
+
+91
+00:08:34,760 --> 00:08:41,099
+Okay, gamma for coarse aggregate will be 2.65 times 62.4,
+
+92
+00:08:41,740 --> 00:08:47,260
+so 1.65.4 bound bare cubic feet.
+
+93
+00:08:48,880 --> 00:08:51,820
+I didn't realize what's going on in this problem,
+
+94
+00:08:51,960 --> 00:08:55,400
+but a specific graph is given for each material,
+
+95
+00:08:55,680 --> 00:08:59,280
+so I can figure out the value of gamma for each material.
+
+96
+00:09:00,140 --> 00:09:05,139
+and remember gamma equal weight divided by what volume.
+
+97
+00:09:07,200 --> 00:09:11,900
+Okay, for this concrete mix, we will add water.
+
+98
+00:09:13,100 --> 00:09:20,240
+And how much is given like 5.8 gallon or gallon
+
+99
+00:09:20,960 --> 00:09:22,680
+beer, sake, cement.
+
+100
+00:09:26,200 --> 00:09:28,579
+And one sake of cement
+
+101
+00:09:29,940 --> 00:09:40,080
+weight 94 bound. If you have a sake of cement, the weight of this egg will be 94 bound. It's
+
+102
+00:09:40,260 --> 00:09:50,800
+standard. And we have air 3% by volume. Probably we have air inside the concrete mix. It will
+
+103
+00:09:50,820 --> 00:09:58,820
+increase the volume by 3%. What is that required? We will produce one cubic
+
+104
+00:09:59,120 --> 00:10:12,060
+yard of concrete. Can you tell me how much cement, sand, coarse aggregate, and water
+
+105
+00:10:12,060 --> 00:10:26,640
+in this cubic yard. So we have a concrete mix in a concrete planet or whatever. We
+
+106
+00:10:26,820 --> 00:10:34,280
+will add cement, sand, coarse aggregate and water together. Can you tell me how
+
+107
+00:10:34,320 --> 00:10:40,180
+much cement, how much sand, how much aggregate, coarse aggregate in the cubic
+
+108
+00:10:40,180 --> 00:10:56,260
+yard of concrete, step by step, one by one. Okay, the ratio between cement and sand and
+
+109
+00:10:57,780 --> 00:11:04,120
+coarse aggregate is given, 1 to 1.6 to 2.6.
+
+110
+00:11:06,450 --> 00:11:11,260
+So if I assumed I have a cement equal 1
+
+111
+00:11:13,440 --> 00:11:23,440
+sake which is 94 bound. If I add to the concrete mix only one sake of cement which is 94 bound.
+
+112
+00:11:24,580 --> 00:11:33,840
+So how much sand will be for this sake of cement? How much coarse aggregate?
+
+113
+00:11:38,740 --> 00:11:51,140
+Okay, your sand will be 1.6, which is the ratio, time 94. 150.4 bound. How much
+
+114
+00:11:51,140 --> 00:11:59,640
+coarse aggregate 2.6 times 94 cement will be 244.4 bound.
+
+115
+00:12:02,710 --> 00:12:12,360
+So if you have only one sec of cement which weighs 94 bound, that means this sec of cement will need
+
+116
+00:12:13,140 --> 00:12:22,860
+150.4 bound of sand, 244.4 bound of course aggregate based on the given ratio.
+
+117
+00:12:24,560 --> 00:12:27,400
+One more thing, can you tell me how much water?
+
+118
+00:12:31,040 --> 00:12:35,980
+Yeah, it's a given for one sec of cement we need 5.8.
+
+119
+00:12:38,060 --> 00:12:38,180
+Again.
+
+120
+00:12:44,420 --> 00:12:46,700
+This information is given.
+
+121
+00:12:49,300 --> 00:12:54,380
+So anybody can tell me what is the relationship between Galon and the cubic feet?
+
+122
+00:12:56,980 --> 00:13:05,320
+Yes, one gallon equal 0.134 cubic feet.
+
+123
+00:13:11,380 --> 00:13:17,800
+So if you have five gallon, how much cubic feet?
+
+124
+00:13:18,640 --> 00:13:19,700
+You can figure it out.
+
+125
+00:13:25,020 --> 00:13:30,020
+it will be 5 times 1.134, so 0.67.
+
+126
+00:13:31,840 --> 00:13:35,440
+So 0.67 cubic feet.
+
+127
+00:13:38,680 --> 00:13:41,920
+The relationship between Galon and the cubic feet,
+
+128
+00:13:43,200 --> 00:13:45,880
+as I told you, this one,
+
+129
+00:13:46,880 --> 00:13:50,240
+one Galon equal 0.134 cubic feet.
+
+130
+00:13:51,540 --> 00:13:53,840
+How to convert from Galon to cubic feet,
+
+131
+00:13:54,000 --> 00:13:55,060
+because it's going for volume.
+
+132
+00:13:58,340 --> 00:13:59,320
+Okay, one more thing.
+
+133
+00:13:59,860 --> 00:14:03,200
+So this value will be 0.67 cubic feet.
+
+134
+00:14:03,380 --> 00:14:03,840
+One more thing.
+
+135
+00:14:04,920 --> 00:14:12,000
+Gamma water or gamma, whatever, not water,
+
+136
+00:14:12,280 --> 00:14:17,700
+gamma equal weight divide volume.
+
+137
+00:14:20,540 --> 00:14:21,720
+If I'm looking for volume,
+
+138
+00:14:23,640 --> 00:14:36,020
+volume will equal weight divided gamma. That's right. If you are looking for volume for anything,
+
+139
+00:14:37,200 --> 00:14:47,200
+this volume will equal weight divided gamma. You got it? So I have weight for cement, weight
+
+140
+00:14:47,960 --> 00:14:51,340
+for sand, weight, for coarse aggregate.
+
+141
+00:14:52,420 --> 00:14:55,100
+And I know what is the gamma for cement.
+
+142
+00:14:55,560 --> 00:14:57,440
+What is the gamma for sand?
+
+143
+00:14:57,700 --> 00:14:59,820
+What is the gamma of coarse aggregate?
+
+144
+00:15:00,100 --> 00:15:03,080
+So I can figure out the volume for each component.
+
+145
+00:15:03,900 --> 00:15:06,340
+For cement, 94 divide.
+
+146
+00:15:07,220 --> 00:15:10,420
+Gama of cement, 196.56.
+
+147
+00:15:11,480 --> 00:15:17,220
+This volume will be 0.478 cubic feet.
+
+148
+00:15:20,020 --> 00:15:35,700
+Weight of sand 150.4 divide gamma of sand 163.5 will be 0.9192 cubic feet.
+
+149
+00:15:39,320 --> 00:15:52,700
+So for a course aggregate 244.4 divided again of course aggregate 165.4 this volume will be 1.5 cubic feet.
+
+150
+00:15:58,680 --> 00:16:12,380
+So we have this volume of cement, this volume of sand,
+
+151
+00:16:13,100 --> 00:16:20,820
+this volume of coarse aggregate, this volume of water. All of these calculations only
+
+152
+00:16:21,960 --> 00:16:31,780
+if you add only for one sec of cement. Can you tell me what is the final volume?
+
+153
+00:16:35,180 --> 00:16:35,860
+So one sec
+
+154
+00:16:38,680 --> 00:16:50,199
+of cement will reduce total volume of concrete. What is the final volume? Okay, add these volumes
+
+155
+00:16:50,200 --> 00:16:57,520
+together 0.478 of cement plus
+
+156
+00:17:01,959 --> 00:17:13,620
+92.92 of sand plus 1.5 of course aggregate plus what about water 0.67
+
+157
+00:17:17,240 --> 00:17:24,020
+So this one for cement, volume of cement, volume of sand, volume of coarse aggregate,
+
+158
+00:17:25,120 --> 00:17:33,500
+volume of water. All of this volume, please add them together and multiply them by 1.03
+
+159
+00:17:34,820 --> 00:17:35,860
+to get the final volume.
+
+160
+00:17:40,440 --> 00:17:53,940
+plus 0.92 plus 1.5 plus 0.67 times 1.03 the final volume 3.675 cubic feet.
+
+161
+00:18:01,020 --> 00:18:04,240
+I have question and I need answer.
+
+162
+00:18:07,160 --> 00:18:14,560
+I have question and I need answer. Why? Thank you, Burak. Thank you so much. Why?
+
+163
+00:18:17,360 --> 00:18:27,840
+Wait, wait a moment. First question. Why I multiplied by 1.03? Why this number?
+
+164
+00:18:29,520 --> 00:18:31,780
+And this number is constant for all problems.
+
+165
+00:18:34,460 --> 00:18:34,920
+Any answer?
+
+166
+00:18:41,600 --> 00:18:50,580
+expansion. It's not expansion, but if you go back your original information, the problem
+
+167
+00:18:50,720 --> 00:18:59,680
+said we have air. If you are mixing the concrete, if you are mixing these components together,
+
+168
+00:19:00,480 --> 00:19:12,120
+expect air inside this mixing. So the air will add additional volume, how much? 3% by volume.
+
+169
+00:19:12,660 --> 00:19:23,940
+So after you add these volumes together you can expect more 3% of volume due to the air component.
+
+170
+00:19:25,440 --> 00:19:36,520
+So 1.03 I added or I multiplied the total volume of these ingredients by 1.03.
+
+171
+00:19:36,520 --> 00:19:41,740
+That means I added extra 3% of air.
+
+172
+00:19:47,260 --> 00:19:52,560
+For your information, I can convert from cubic feet to cubic yard.
+
+173
+00:19:55,080 --> 00:20:02,460
+One, I think, one cubic yard equal 27 cubic feet.
+
+174
+00:20:05,120 --> 00:20:10,080
+So if I have 3.675 cubic feet,
+
+175
+00:20:11,400 --> 00:20:15,880
+how much cubic yard you can multiply this one by this one,
+
+176
+00:20:15,980 --> 00:20:19,260
+divide this one, I can figure out the value.
+
+177
+00:20:19,400 --> 00:20:28,560
+So 3.675 divided 27, this value will be 0.136 cubic yard.
+
+178
+00:20:41,120 --> 00:20:46,140
+No, Brock, Brock, Brock 1.03 based on the given.
+
+179
+00:20:47,480 --> 00:20:50,340
+Sometimes the air percent is 4%.
+
+180
+00:20:51,100 --> 00:20:53,120
+So I have to multiply 1.04.
+
+181
+00:20:53,860 --> 00:20:57,520
+Sometimes the air component will be 2%.
+
+182
+00:20:57,920 --> 00:20:59,900
+So I will multiply by 1.02.
+
+183
+00:21:00,080 --> 00:21:01,240
+So based on the given.
+
+184
+00:21:01,840 --> 00:21:03,500
+So this term related to air.
+
+185
+00:21:03,640 --> 00:21:04,700
+So go back to the problem,
+
+186
+00:21:05,200 --> 00:21:07,640
+how much or what is the percentage of air?
+
+187
+00:21:12,020 --> 00:21:13,860
+Okay, so, okay.
+
+188
+00:21:14,200 --> 00:21:30,180
+Your current situation is one sec of cement which is 94 pounds can produce
+
+189
+00:21:34,120 --> 00:21:37,940
+0.136 cubic yard.
+
+190
+00:21:41,720 --> 00:21:47,860
+Can you tell me if I'm looking for one cubic yard?
+
+191
+00:21:50,460 --> 00:21:51,840
+How much cement?
+
+192
+00:21:56,940 --> 00:21:57,800
+I think I can.
+
+193
+00:21:59,380 --> 00:21:59,980
+Right now,
+
+194
+00:22:06,780 --> 00:22:12,800
+We have 150.4 bound of sand.
+
+195
+00:22:14,860 --> 00:22:19,560
+So 150.4 bound of sand.
+
+196
+00:22:20,880 --> 00:22:25,160
+Produce 0.136 cubic yard.
+
+197
+00:22:26,700 --> 00:22:36,800
+Can you tell me if I'm looking for one cubic yard of concrete mix, how much sand I think I came?
+
+198
+00:22:38,620 --> 00:22:49,820
+At this moment we have 244.4 bound of course aggregate.
+
+199
+00:23:00,000 --> 00:23:10,560
+have 244.4 bound this amount of course aggregate produced 0.136 cubic yard of
+
+200
+00:23:10,680 --> 00:23:20,460
+concrete if I'm looking for one cubic yard of concrete how much in bound course
+
+201
+00:23:20,580 --> 00:23:27,159
+aggregate I can't figure out how much aggregate
+
+202
+00:23:30,840 --> 00:23:36,319
+So the problem is asking for how much cement inbound,
+
+203
+00:23:37,980 --> 00:23:39,900
+how much sand inbound,
+
+204
+00:23:40,340 --> 00:23:42,620
+how much coarse aggregate inbound
+
+205
+00:23:43,020 --> 00:23:46,100
+to produce cubic yard of concrete.
+
+206
+00:23:48,690 --> 00:23:52,000
+So the idea is this ratio.
+
+207
+00:23:53,120 --> 00:23:56,580
+And I assumed we have only one sack of cement,
+
+208
+00:23:57,400 --> 00:23:58,680
+which is 94 pounds.
+
+209
+00:24:01,720 --> 00:24:09,640
+So 94 pounds will need 150.4 of sand based on this ratio.
+
+210
+00:24:10,100 --> 00:24:15,420
+We need 244.4 pounds of course aggregate
+
+211
+00:24:15,660 --> 00:24:16,900
+based on this ratio.
+
+212
+00:24:17,220 --> 00:24:19,679
+And the problem said one sack of cement
+
+213
+00:24:19,680 --> 00:24:22,820
+need 5.8 gallons of water.
+
+214
+00:24:25,900 --> 00:24:30,060
+I then convert this weight to volume,
+
+215
+00:24:31,600 --> 00:24:33,620
+and water is already in volume,
+
+216
+00:24:33,820 --> 00:24:36,360
+but I convert it from gallon to cubic feet.
+
+217
+00:24:37,220 --> 00:24:40,080
+I add these volumes together,
+
+218
+00:24:40,560 --> 00:24:45,120
+and don't forget to increase this volume by 3% for air.
+
+219
+00:24:46,840 --> 00:24:58,600
+That means these weights will create this volume of concrete,
+
+220
+00:25:00,800 --> 00:25:03,980
+or this volume, but I converted it to cubic yard.
+
+221
+00:25:06,820 --> 00:25:11,240
+So this weight of cement, 94 bound,
+
+222
+00:25:13,680 --> 00:25:16,720
+will create this volume of cubic yard.
+
+223
+00:25:17,120 --> 00:25:20,060
+Can you tell me how much weight of cement
+
+224
+00:25:20,360 --> 00:25:21,820
+to produce one cubic yard?
+
+225
+00:25:23,100 --> 00:25:23,900
+I can figure out.
+
+226
+00:25:26,280 --> 00:25:29,920
+This weight of sand created this volume of concrete.
+
+227
+00:25:30,600 --> 00:25:33,420
+So can you tell me how much weight of sand
+
+228
+00:25:33,640 --> 00:25:36,200
+to produce one cubic yard of concrete?
+
+229
+00:25:37,540 --> 00:25:38,060
+And so on.
+
+230
+00:25:39,680 --> 00:25:44,180
+So finally, I can figure out how much weight
+
+231
+00:25:44,460 --> 00:25:48,740
+for each component to produce cubic yard, one cubic yard.
+
+232
+00:25:52,110 --> 00:25:55,400
+So the main idea in these calculations
+
+233
+00:25:55,690 --> 00:26:00,300
+to remember that gamma, which is unit weight,
+
+234
+00:26:01,020 --> 00:26:02,640
+equal weight divide volume.
+
+235
+00:26:03,380 --> 00:26:05,180
+How can I figure out the value of gamma?
+
+236
+00:26:05,660 --> 00:26:07,759
+Specific gravity will be given
+
+237
+00:26:07,760 --> 00:26:10,800
+because the specific gravity for any material equal gamma.
+
+238
+00:26:11,080 --> 00:26:14,360
+For this material, divide gamma of water.
+
+239
+00:26:14,640 --> 00:26:20,840
+And remember, gamma of water equals 62.4 bound bare cubic feet.
+
+240
+00:26:23,200 --> 00:26:26,360
+By the way, in this course, all of our problems,
+
+241
+00:26:26,820 --> 00:26:29,040
+all of our study will be in US unit.
+
+242
+00:26:30,960 --> 00:26:32,940
+So everything will be in bound or kept.
+
+243
+00:26:34,000 --> 00:26:36,220
+everything will be in feet inch.
+
+244
+00:26:38,560 --> 00:26:41,480
+We don't have Newton or K Newton or meter or centimeter.
+
+245
+00:26:41,960 --> 00:26:44,160
+No, everything will be in US unit.
+
+246
+00:26:56,720 --> 00:27:04,080
+So the first part we covered is plane concrete.
+
+247
+00:27:04,160 --> 00:27:09,480
+We have only cement, sand, coarse aggregate, water.
+
+248
+00:27:10,060 --> 00:27:10,940
+Add them together.
+
+249
+00:27:11,100 --> 00:27:14,000
+You can produce concrete, which is called plane concrete.
+
+250
+00:27:15,620 --> 00:27:17,000
+Sometimes, not sometimes.
+
+251
+00:27:17,220 --> 00:27:24,559
+All the time we add another factor or another material
+
+252
+00:27:24,560 --> 00:27:27,160
+or another component in this mix,
+
+253
+00:27:28,080 --> 00:27:30,680
+which called reinforced concrete.
+
+254
+00:27:34,440 --> 00:27:37,400
+So we have steel bars, as you see here in this picture.
+
+255
+00:27:39,220 --> 00:27:43,940
+These steel bars will create something called mesh
+
+256
+00:27:46,140 --> 00:27:48,460
+and then you add concrete.
+
+257
+00:27:50,520 --> 00:27:53,920
+After sitting or after hardening off concrete,
+
+258
+00:27:54,400 --> 00:28:01,580
+you will get a new material which called reinforced concrete cement water sand
+
+259
+00:28:02,040 --> 00:28:09,620
+coursing aggregate and reinforced reinforcement or steel rebars.
+
+260
+00:28:14,360 --> 00:28:21,760
+Why? Why steel rebars? To answer this question, we need to study this course.
+
+261
+00:28:22,560 --> 00:28:23,440
+Why is theory bars?
+
+262
+00:28:23,660 --> 00:28:25,840
+Why reinforcement inside concrete?
+
+263
+00:28:27,220 --> 00:28:30,120
+How much-- how can I get this reinforcement?
+
+264
+00:28:30,680 --> 00:28:33,000
+This question will be answered during this course,
+
+265
+00:28:33,260 --> 00:28:36,080
+because this course will answer only one question.
+
+266
+00:28:36,920 --> 00:28:39,940
+How much is the reinforcement you need in your design?
+
+267
+00:28:40,900 --> 00:28:42,600
+Why we need the stereo enforcement?
+
+268
+00:28:43,720 --> 00:28:45,680
+Do you think this stereo enforcement is enough?
+
+269
+00:28:46,260 --> 00:28:46,780
+It's too much?
+
+270
+00:28:46,960 --> 00:28:47,480
+It's too low?
+
+271
+00:28:48,000 --> 00:28:50,360
+We need to answer all of these questions during this course.
+
+272
+00:28:52,480 --> 00:29:00,640
+Okay, so we have reinforced concrete if you add steel reinforcement.
+
+273
+00:29:03,120 --> 00:29:09,920
+We have another shape or another product of concrete which is called pre-stressed concrete.
+
+274
+00:29:14,200 --> 00:29:19,560
+I can explain this figure here.
+
+275
+00:29:23,740 --> 00:29:26,000
+guys what do you think if you have
+
+276
+00:29:38,360 --> 00:29:48,740
+This cable is bolted from this side and this side by a force F.
+
+277
+00:29:52,360 --> 00:29:55,480
+If you have a rubber band, if you have a rubber band
+
+278
+00:29:55,720 --> 00:29:59,580
+and you stretch or you apply a tension force
+
+279
+00:29:59,740 --> 00:30:02,300
+on this rubber band, what do you expect?
+
+280
+00:30:05,080 --> 00:30:08,220
+But rubber band is a very, very simple example.
+
+281
+00:30:09,140 --> 00:30:11,080
+But if you are talking about steel cable,
+
+282
+00:30:12,660 --> 00:30:16,140
+I'm talking about not you, not a person here
+
+283
+00:30:16,170 --> 00:30:17,860
+will ball this one.
+
+284
+00:30:17,890 --> 00:30:19,460
+No, I'm talking about equipment.
+
+285
+00:30:19,840 --> 00:30:23,380
+I'm talking about hydraulic shake that is different,
+
+286
+00:30:23,840 --> 00:30:27,560
+but in a very simple example, if you have a rubber band
+
+287
+00:30:28,000 --> 00:30:29,800
+and you stretch this rubber band,
+
+288
+00:30:30,260 --> 00:30:33,420
+I expect elongation in this one.
+
+289
+00:30:34,560 --> 00:30:35,000
+That's right.
+
+290
+00:30:35,720 --> 00:30:39,440
+So we have very, very, very strong steel cable
+
+291
+00:30:40,640 --> 00:30:43,980
+pulled from this side and this side.
+
+292
+00:30:44,610 --> 00:30:48,660
+So we expect expansion, stretch,
+
+293
+00:30:51,340 --> 00:30:54,140
+of this cable right now at this moment.
+
+294
+00:30:54,770 --> 00:30:58,800
+You are talking about huge amount of force.
+
+295
+00:31:01,200 --> 00:31:05,220
+Then at this moment, and during this stretch,
+
+296
+00:31:07,780 --> 00:31:18,280
+I build for more and I board concrete.
+
+297
+00:31:22,740 --> 00:31:32,700
+concrete is liquid at this moment at boring concrete is liquid and the steel cable is
+
+298
+00:31:32,780 --> 00:31:41,200
+stretched remember the steel cable is stretched and I bought the concrete concrete is still
+
+299
+00:31:41,200 --> 00:31:55,800
+liquid. I wait for probably 28 days. The cable is still stretched. Probably not 28 days,
+
+300
+00:31:56,000 --> 00:32:05,480
+at least seven days. So the cable is still stretched and the concrete became hard after
+
+301
+00:32:05,600 --> 00:32:18,320
+seven days. Not like that. At this moment, I will cut this cable from this end and cut
+
+302
+00:32:18,440 --> 00:32:27,020
+the cable from this end. What I mean, I released my force. I will not apply any more force.
+
+303
+00:32:27,920 --> 00:32:36,260
+do you expect? Remember this cable was stretched like rubber band. Once you
+
+304
+00:32:36,300 --> 00:32:41,340
+released the force what do you expect for this steel cable?
+
+305
+00:32:44,360 --> 00:32:52,800
+This steel cable would like to go back. About the problem do we take the volume
+
+306
+00:32:52,880 --> 00:33:00,140
+of air out before making the final calculation since air is 3% due to take the
+
+307
+00:33:00,320 --> 00:33:08,100
+center out of the one cubic then use the value to get sand. I think it should be
+
+308
+00:33:08,160 --> 00:33:13,200
+the same answer. The final answer would be the same but in different way
+
+309
+00:33:13,320 --> 00:33:21,080
+could your question it will be the same but I recommend to add 3% from the
+
+310
+00:33:21,080 --> 00:33:28,760
+beginning because air is a component like sand, like cement, like water, like coarse
+
+311
+00:33:28,860 --> 00:33:35,540
+aggregate. So I recommend to add air from the beginning. Don't wait until the end.
+
+312
+00:33:36,380 --> 00:33:43,200
+Add air, like cement, like you add cement plus water plus sand plus coarse aggregate.
+
+313
+00:33:43,340 --> 00:33:50,940
+go ahead and add here. Then you can get the final answer. Okay, I recommend this.
+
+314
+00:33:53,300 --> 00:33:59,720
+Probably your suggestion will get the same answer, probably not the same exactly, but very close.
+
+315
+00:34:03,420 --> 00:34:11,780
+My question is right now. What do you expect from this steel cable to do on concrete?
+
+316
+00:34:12,220 --> 00:34:19,760
+this steel cable would like to go back to the original position. So I expect the final situation
+
+317
+00:34:23,820 --> 00:34:26,240
+is this cable
+
+318
+00:34:29,159 --> 00:34:33,040
+will apply compression on concrete.
+
+319
+00:34:36,500 --> 00:34:44,480
+because this cable would like to go back, but we have a bond between concrete and the cable.
+
+320
+00:34:45,320 --> 00:34:54,919
+So concrete will not allow for the cable to go back. So the cable will apply compression on concrete.
+
+321
+00:34:55,169 --> 00:34:55,720
+Do you agree?
+
+322
+00:35:04,220 --> 00:35:17,360
+Okay, so let me talk about concrete without cable.
+
+323
+00:35:19,180 --> 00:35:23,960
+If you have a beam between this subboard and this subboard and you stand here,
+
+324
+00:35:26,880 --> 00:35:30,300
+what do you think about this concrete? This concrete would like to break,
+
+325
+00:35:31,820 --> 00:35:40,420
+will be broken. I think concrete will start to crack at this location.
+
+326
+00:35:44,180 --> 00:35:45,200
+So we have tension here.
+
+327
+00:35:50,600 --> 00:35:57,280
+So if you have concrete without pre-stressed and you are here, I'm talking about you as example.
+
+328
+00:35:59,260 --> 00:36:07,200
+So I expect this beam will be broken at starting from this location by tension.
+
+329
+00:36:09,000 --> 00:36:14,160
+What do you think if we add brief stress? I think the cable here
+
+330
+00:36:16,260 --> 00:36:26,380
+will add compression. So I think this compression will reduce, will close
+
+331
+00:36:27,260 --> 00:36:39,480
+this tension crack. That's right. So your beam will be good. This beam will support another person,
+
+332
+00:36:40,000 --> 00:36:46,820
+probably many person, because only one person breaks this beam without any stress. If you
+
+333
+00:36:46,920 --> 00:36:53,820
+add stress, and that means you add compression. That means this crack will not happen. So you
+
+334
+00:36:53,820 --> 00:36:56,500
+you can add more people on the beam.
+
+335
+00:36:56,840 --> 00:36:58,480
+This is the main idea of breast-dress.
+
+336
+00:36:58,660 --> 00:36:59,880
+We will cover this later.
+
+337
+00:37:00,480 --> 00:37:02,220
+What is the meaning of breast-dress?
+
+338
+00:37:02,880 --> 00:37:04,040
+And how can we calculate?
+
+339
+00:37:04,420 --> 00:37:08,120
+How much force you need to pull out the cable?
+
+340
+00:37:11,220 --> 00:37:15,160
+Okay, so this is the main idea of breast-dress.
+
+341
+00:37:15,440 --> 00:37:19,860
+Remember, remember, the original force
+
+342
+00:37:20,160 --> 00:37:21,580
+in the cable extension.
+
+343
+00:37:23,160 --> 00:37:35,380
+I am stretching this cable. Then I board concrete. Then we have very strong bond between concrete
+
+344
+00:37:35,800 --> 00:37:46,720
+and this cable. Once I released this cable, the cable will apply compression on concrete.
+
+345
+00:37:48,840 --> 00:37:54,560
+start first with the tension force on the cable without any concrete but
+
+346
+00:37:54,640 --> 00:38:00,780
+finally this cable will react to concrete by compression force.
+
+347
+00:38:07,000 --> 00:38:13,760
+This is the main idea of pre-stressed and these videos you can watch how can we
+
+348
+00:38:13,760 --> 00:38:21,360
+apply this force you will find hydraulic jack these jacks are very very strong and very very
+
+349
+00:38:21,420 --> 00:38:29,800
+dangerous be careful because you are applying very very huge amount of force for any reason
+
+350
+00:38:30,560 --> 00:38:38,140
+if something wrong happened you can expect for releasing of this force you can expect
+
+351
+00:38:39,280 --> 00:38:48,680
+dangerous situation. Probably the hydraulic jack will move away. Probably the cut in this cable
+
+352
+00:38:48,820 --> 00:38:55,620
+will happen if this cable was broken during breath-stressing. I believe anybody around
+
+353
+00:38:55,860 --> 00:39:03,760
+this cable will die. Okay. So the main idea, if you have concrete without breath-stressed,
+
+354
+00:39:03,920 --> 00:39:13,040
+we can expect cracks. If you add breastrest, these cracks will be closed due to the compression force
+
+355
+00:39:13,420 --> 00:39:22,680
+applied by the keg. For fresh concrete, if the concrete is fresh, still liquid, we have some
+
+356
+00:39:26,000 --> 00:39:35,060
+As you remember we have water added to cement, added to sand which is fine aggregate,
+
+357
+00:39:35,280 --> 00:39:45,480
+added to coarse aggregate. That's fine. So you have to add these components by very specific ratio.
+
+358
+00:39:47,160 --> 00:39:54,160
+What will happen if you add more water? What will happen if you add more sand? What will
+
+359
+00:39:54,160 --> 00:40:02,580
+happen if you add more coarse aggregate. You are engineer during the construction. So how can I judge
+
+360
+00:40:03,660 --> 00:40:14,260
+the concrete mix is perfect to bore my project or reject this concrete mix? Yeah, I'm engineer. I can
+
+361
+00:40:14,340 --> 00:40:19,119
+reject. Hey, stop. This concrete is not good. So how can I judge? We have some
+
+362
+00:40:21,760 --> 00:40:28,200
+experiment. The first one which is very important, very important concrete slump test.
+
+363
+00:40:30,540 --> 00:40:39,020
+Based on the result of this test, I can tell you this concrete mix is good. No, this concrete mix
+
+364
+00:40:39,100 --> 00:40:46,560
+need more water. No, this concrete mix has more water, so I will reject it. I cannot accept this
+
+365
+00:40:46,560 --> 00:40:55,840
+mix so you can reject it until the truck to go back to the concrete company. So this one is very
+
+366
+00:40:55,920 --> 00:41:14,560
+simple you have a cone like this one and you add concrete inside this cone but you need to add
+
+367
+00:41:14,560 --> 00:41:26,340
+concrete by three layers. The first layer one third and using a steel rod to compact this layer.
+
+368
+00:41:29,700 --> 00:41:38,700
+Then the second layer of concrete, the second third of height and then with the steel rod
+
+369
+00:41:39,120 --> 00:41:49,560
+go ahead and compact the second layer then add the third layer to fill the cone and using the
+
+370
+00:41:49,560 --> 00:42:00,020
+steel rod I think with 25 times you can compact the third layer go ahead and
+
+371
+00:42:04,400 --> 00:42:13,220
+go ahead and remove once you are done with the and you fill the cone with concrete go ahead and
+
+372
+00:42:14,420 --> 00:42:25,800
+level the surface remove any extra concrete and remove the cone the steel cone if you remove the
+
+373
+00:42:25,800 --> 00:42:32,660
+the seal corn, what is the height or the difference between the height of the original
+
+374
+00:42:32,840 --> 00:42:42,720
+corn and the final shape of concrete. Based on this height or this difference in height,
+
+375
+00:42:43,060 --> 00:42:50,640
+you can judge if this concrete is good or not good. The common range is 1 to 2 inch.
+
+376
+00:42:51,440 --> 00:43:00,720
+concrete is will be very dry concrete and you need to add some water. The normal range,
+
+377
+00:43:01,300 --> 00:43:09,120
+this difference in height will be between 6 and 7 inch. But remember, if you removed the steel
+
+378
+00:43:09,580 --> 00:43:19,860
+coon and you find this shape or this shape, you have something wrong in the concrete mix.
+
+379
+00:43:20,800 --> 00:43:29,820
+something wrong. One component is very, very, very, is too much. But the optimum or the ideal
+
+380
+00:43:30,200 --> 00:43:41,760
+sheep after you removed this school, this one. If you have sheer collapse of you or you have
+
+381
+00:43:41,920 --> 00:43:49,040
+completely collapsed, this one due to more water, you have too much water. I think this one you have
+
+382
+00:43:49,840 --> 00:43:58,380
+very bad component, very bad ratio between sand or coarse aggregate. But the optimum or the ideal
+
+383
+00:43:58,480 --> 00:44:05,540
+shape is this one. So you are engineer, you are waiting for the concrete truck once the truck
+
+384
+00:44:05,660 --> 00:44:16,720
+is arrived to the site. So you can check the concrete by slump test. Okay, so the actual video
+
+385
+00:44:16,720 --> 00:44:19,400
+For slump test, you can watch this one.
+
+386
+00:44:19,640 --> 00:44:23,680
+And from shortly last semester or last year,
+
+387
+00:44:23,780 --> 00:44:28,840
+I did all of these experiments with the student on our concrete lab.
+
+388
+00:44:30,860 --> 00:44:36,060
+We put concrete, we did slump test, and we get the results.
+
+389
+00:44:37,140 --> 00:44:42,460
+So I'm so sorry for this semester, so you can watch the video using this link.
+
+390
+00:44:45,760 --> 00:44:53,720
+After concrete is hard, the concrete is very hard probably after 28 days.
+
+391
+00:44:56,880 --> 00:45:06,940
+I can judge the concrete strengths by something called compressive strength test or compression test.
+
+392
+00:45:09,120 --> 00:45:11,960
+you can bore concrete slenders
+
+393
+00:45:14,400 --> 00:45:25,400
+and these slenders will have standard dimension probably four inch diameter and eight inch height
+
+394
+00:45:26,940 --> 00:45:37,120
+or six inch diameter and 12 inch height this one or this one bore these concrete
+
+395
+00:45:37,760 --> 00:45:45,600
+wait for 28 days, but these cylinders under the compression machine apply force until you
+
+396
+00:45:45,930 --> 00:45:56,160
+break this cylinder. How much this force, if you divide this force by the area, the cross-section
+
+397
+00:45:56,360 --> 00:46:03,960
+area of the cylinder, you can get stress. This is stress called compressive strength of concrete.
+
+398
+00:46:06,080 --> 00:46:15,840
+I will talk about this one one more time next time. Let me stop here for today and I will continue next time. But before leaving.
+
+399
+00:46:19,540 --> 00:46:26,320
+Yes, 25 convection bed layer. That's right. Anybody has any question?
+
+400
+00:46:29,280 --> 00:46:40,960
+Please at home watch these videos to understand correctly what's going on with the slump test
+
+401
+00:46:41,640 --> 00:46:49,940
+and also pay attention to the problem I solved it today. This problem is a real problem. You have
+
+402
+00:46:50,010 --> 00:46:59,260
+a concrete mix with these ratios and you need to figure out how much cement, sand, course
+
+403
+00:46:59,260 --> 00:47:04,220
+aggregate or water can be added to get finally one cubic yard of concrete.
+
+404
+00:47:04,990 --> 00:47:08,200
+This problem is a very real problem, I believe.
+
+405
+00:47:08,890 --> 00:47:15,960
+In another course, probably with cost estimating or something like this, you need to figure
+
+406
+00:47:16,080 --> 00:47:23,840
+out how much the quantities of any material to construct any building or something like
+
+407
+00:47:23,920 --> 00:47:24,060
+this.
+
+408
+00:47:24,980 --> 00:47:31,900
+of problem is very important. You need to figure out how much component do you need in your concrete mix.
+
+409
+00:47:33,140 --> 00:47:35,100
+Okay, so this problem is very important.
+

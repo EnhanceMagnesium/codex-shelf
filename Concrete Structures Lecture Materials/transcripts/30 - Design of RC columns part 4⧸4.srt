@@ -1,0 +1,2056 @@
+1
+00:00:05,419 --> 00:00:07,100
+Short column.
+
+2
+00:00:11,599 --> 00:00:15,180
+And we have another one called long column.
+
+3
+00:00:17,240 --> 00:00:21,460
+Sometimes we can call it slender column.
+
+4
+00:00:27,440 --> 00:00:46,040
+column, first case we have only p ultimate only without moment or with or without a centricity
+
+5
+00:00:48,960 --> 00:01:02,400
+E or with very small eccentricity can be neglected.
+
+6
+00:01:04,920 --> 00:01:10,080
+This case we need to figure out your column is a tied column
+
+7
+00:01:13,240 --> 00:01:22,140
+or spiral column. But please make sure the moment is neglected or we don't have moment.
+
+8
+00:01:25,500 --> 00:01:36,220
+How can I know that its intensity is small or big? This is intensity smaller than 0.1h
+
+9
+00:01:37,200 --> 00:01:46,600
+or smaller than 0.05 h. What is the h? You have a column. We have p and we have h.
+
+10
+00:01:48,140 --> 00:01:54,860
+If this is interested, which is given smaller than 0.1, 10% of this h,
+
+11
+00:01:55,820 --> 00:02:02,580
+neglect it. Forget that you have a moment. In the case of tide column,
+
+12
+00:02:04,320 --> 00:02:08,600
+In the case of a spiral column, if this is interest smaller than 0.05
+
+13
+00:02:09,020 --> 00:02:17,560
+edge, forget it. Just to focus on p ultimate. And we have two equations to design this column.
+
+14
+00:02:18,460 --> 00:02:21,100
+Tied column and one for spiral column.
+
+15
+00:02:23,840 --> 00:02:33,359
+Second case. I'm still talking about short column. Second case. We have p ultimate and
+
+16
+00:02:34,000 --> 00:02:43,900
+M-ultimate or we have B-ultimate and its intensity and this is intensity cannot
+
+17
+00:02:46,300 --> 00:02:56,660
+be neglected. You have to consider it. If this is intensity smaller than 0.1 edge, forget it,
+
+18
+00:02:57,280 --> 00:03:04,500
+neglected. If this in case of tide, in case of spiral column, if this is interested smaller
+
+19
+00:03:04,660 --> 00:03:11,740
+than 0.05 edge, forget it. And we are in this case. I believe this is the first time to mention this.
+
+20
+00:03:14,460 --> 00:03:20,640
+Or second case, if you have a p ultimate and moment, or we have p ultimate and its
+
+21
+00:03:20,640 --> 00:03:25,000
+This is interesting, this is interesting, cannot be neglected.
+
+22
+00:03:26,400 --> 00:03:36,940
+Then we are going to use something called interaction diagram to figure out the value
+
+23
+00:03:37,080 --> 00:03:42,560
+of rho which equal area steel divide b time h or time t, whatever.
+
+24
+00:03:45,720 --> 00:03:51,960
+And we learned last meeting, last week, how to use interaction diagram.
+
+25
+00:03:52,630 --> 00:03:58,500
+Guys, the meaning of its interest just to make sure you are figuring this out.
+
+26
+00:03:58,620 --> 00:03:59,240
+Here is the column.
+
+27
+00:04:01,620 --> 00:04:02,880
+What is the meaning of its interest?
+
+28
+00:04:04,860 --> 00:04:21,799
+column has a centroid if the oblige force for any reason is not concentric. So this b ultimate
+
+29
+00:04:22,140 --> 00:04:32,140
+has a centricity from the centroid. This is the meaning of a centricity. This centricity will cause
+
+30
+00:04:32,140 --> 00:04:41,160
+moment and the relationship between this moment and this P ultimate M ultimate equal P ultimate
+
+31
+00:04:41,400 --> 00:04:51,300
+time is interested. Force time distance equal moment. Any question so far? Guys, do you have any
+
+32
+00:04:51,300 --> 00:05:01,460
+question so far? I covered this case, p ultimate and any moment or any interest
+
+33
+00:05:02,300 --> 00:05:07,340
+neglected. We have two equations based on the type of column, tight column or
+
+34
+00:05:07,420 --> 00:05:18,300
+spiral column. The second case, whatever. I here I don't care, don't care if you
+
+35
+00:05:18,300 --> 00:05:20,200
+You have a spiral of your heart type.
+
+36
+00:05:20,800 --> 00:05:21,340
+I don't care.
+
+37
+00:05:22,840 --> 00:05:26,400
+Doesn't make any difference if you are in the case
+
+38
+00:05:26,520 --> 00:05:28,500
+of interaction diagram, we don't care.
+
+39
+00:05:30,560 --> 00:05:33,300
+So we can use interaction diagram for few steps.
+
+40
+00:05:33,920 --> 00:05:36,560
+We learned these steps last meeting or last week
+
+41
+00:05:37,200 --> 00:05:40,240
+and we can figure out finally the value of raw
+
+42
+00:05:41,420 --> 00:05:44,820
+intensity ratio, I'm sorry, reinforcement ratio.
+
+43
+00:05:45,380 --> 00:05:47,940
+And then we can figure out the value of a RSD.
+
+44
+00:05:52,500 --> 00:05:52,740
+Okay.
+
+45
+00:05:55,400 --> 00:05:58,260
+Today, I'm gonna talk about longer column.
+
+46
+00:06:00,840 --> 00:06:04,180
+For any reason, for some reason,
+
+47
+00:06:05,640 --> 00:06:09,780
+we need to make our column long a little bit.
+
+48
+00:06:10,860 --> 00:06:12,700
+I'm sorry, what you mean by longer column?
+
+49
+00:06:12,860 --> 00:06:16,300
+How can I figure out between long and the short?
+
+50
+00:06:17,880 --> 00:06:19,800
+Do you remember I covered this before?
+
+51
+00:06:21,260 --> 00:06:23,500
+If your frame is non-sway, we don't
+
+52
+00:06:23,620 --> 00:06:26,240
+have effect of Earth a quick or something like this,
+
+53
+00:06:26,380 --> 00:06:28,160
+so the frame will not swaying.
+
+54
+00:06:30,720 --> 00:06:41,500
+So if you get k times L divided R, smaller than or equal 34
+
+55
+00:06:41,500 --> 00:06:49,860
+minus 12 m1 divided by m2. If this condition is satisfied, your column is short.
+
+56
+00:06:53,099 --> 00:07:00,980
+So, I am in this side. You need to figure out, do you have a moment or not? Do you have
+
+57
+00:07:00,980 --> 00:07:12,500
+is interested or can be neglected to figure out this one or case two. But if this condition
+
+58
+00:07:12,620 --> 00:07:24,100
+not satisfied k times l divided r not smaller than or equal it's greater than that means your column is
+
+59
+00:07:24,420 --> 00:07:41,380
+long. So right now we are in the other side, long column or cylinder column. Just to remind you guys,
+
+60
+00:07:43,080 --> 00:07:52,499
+k is a factor, do you remember? Your column is hinged hinged or fixed fixed or fixed free
+
+61
+00:07:53,060 --> 00:08:02,480
+or fixed hinged or whatever. L, U and supported lens and supported lens.
+
+62
+00:08:03,680 --> 00:08:10,560
+K, time L, U called effective lens of the column. Go back to the previous week,
+
+63
+00:08:11,180 --> 00:08:19,139
+you can find all of this stuff. R radius of duration, we can figure out the radius of
+
+64
+00:08:19,140 --> 00:08:21,840
+variation accurately using this one.
+
+65
+00:08:23,140 --> 00:08:26,540
+Corroute, square root of area growth divide area--
+
+66
+00:08:26,540 --> 00:08:28,740
+I'm sorry, moment of inertia divide area.
+
+67
+00:08:29,640 --> 00:08:34,840
+Or 0.3 times the side, one side, which
+
+68
+00:08:34,960 --> 00:08:39,500
+is h of the rectangular core, or 0.25 times diameter
+
+69
+00:08:40,020 --> 00:08:42,440
+of this column if the column is circular core.
+
+70
+00:08:44,300 --> 00:08:52,740
+So, first step before starting to design your column, you have to decide.
+
+71
+00:08:56,420 --> 00:09:03,980
+If your column is short or your column is long, if the problem did not say,
+
+72
+00:09:05,410 --> 00:09:11,880
+if the problem didn't say for the show in short column or for the show in longer column, please,
+
+73
+00:09:12,300 --> 00:09:22,680
+you have to check. You have to check. This column is long or short based on this expression.
+
+74
+00:09:24,880 --> 00:09:36,360
+Any question so far? Looks good. Looks good. Okay. If the column under the effect of buckling,
+
+75
+00:09:36,780 --> 00:09:42,940
+we have a big issue. Do you know why? I will let you know. If this column
+
+76
+00:09:46,220 --> 00:09:52,260
+does not subject it to buckling and you have a light force here,
+
+77
+00:09:54,720 --> 00:10:00,320
+can you tell me what is the moment here? What is the moment due to this force? P.
+
+78
+00:10:01,260 --> 00:10:11,100
+Do you remember any moment equal force? Fine distance, that's fine. And your force and this
+
+79
+00:10:11,200 --> 00:10:19,240
+distance must be bourbon-ducler. What you mean, I mean, you are taking the moment at M at this point.
+
+80
+00:10:20,140 --> 00:10:25,380
+This is the effect of force P. So we have a force, this force is a vertical force.
+
+81
+00:10:26,140 --> 00:10:34,520
+Do you have horizontal distance? If the column does not buckle, no, we don't have distance.
+
+82
+00:10:34,870 --> 00:10:41,560
+So this moment equals zero. We don't have distance. Because this force bathing through
+
+83
+00:10:42,200 --> 00:10:50,360
+this point, we don't have distance. So we don't have moment. After buckling, if buckling started,
+
+84
+00:10:53,660 --> 00:10:58,880
+If buckling started, this point became here.
+
+85
+00:11:00,540 --> 00:11:04,620
+And the applied force at the same location here.
+
+86
+00:11:07,000 --> 00:11:14,320
+Do you have moment? Yes, I think. If you multiply this force by this lateral distance,
+
+87
+00:11:14,540 --> 00:11:25,640
+due to the effect of buckling, we can expect a moment. This moment will make this column weaker
+
+88
+00:11:26,640 --> 00:11:37,240
+because failure will happen early. So, did you get the meaning behind buckling?
+
+89
+00:11:39,260 --> 00:11:47,440
+Buckling will create moment. In the real life, in the normal philosophy of a column,
+
+90
+00:11:48,420 --> 00:11:55,900
+if the load is passing through the column, we don't have moment. But after buckling occur,
+
+91
+00:11:57,680 --> 00:12:04,939
+we have a value of moment due to this lateral distance. So if you apply this force
+
+92
+00:12:04,940 --> 00:12:07,300
+by this lateral distance, you have a moment.
+
+93
+00:12:11,040 --> 00:12:11,440
+Any comment?
+
+94
+00:12:13,680 --> 00:12:20,740
+That makes sense. So buckling longer column is weaker than short column. Longer column is
+
+95
+00:12:21,700 --> 00:12:26,700
+weaker than short column. Can you watch this experiment? We have a column here under the
+
+96
+00:12:26,880 --> 00:12:33,499
+effect of buckling. This applied force will have this distance, lateral distance. So if you
+
+97
+00:12:33,500 --> 00:12:35,900
+to apply this force by this distance,
+
+98
+00:12:36,020 --> 00:12:37,300
+you can expect a moment.
+
+99
+00:12:37,740 --> 00:12:41,680
+So at this location, we have M ultimate and B ultimate.
+
+100
+00:12:44,200 --> 00:12:48,660
+However, if this column still without buckling,
+
+101
+00:12:49,500 --> 00:12:52,420
+we have only B ultimate only at this location.
+
+102
+00:12:56,259 --> 00:12:56,780
+That makes sense?
+
+103
+00:12:58,780 --> 00:12:59,020
+Okay.
+
+104
+00:13:02,340 --> 00:13:02,500
+Okay.
+
+105
+00:13:06,280 --> 00:13:07,400
+empty slide.
+
+106
+00:13:08,380 --> 00:13:10,820
+I'm gonna do many things here.
+
+107
+00:13:11,700 --> 00:13:14,180
+We have different cases for a column.
+
+108
+00:13:16,050 --> 00:13:16,920
+The first case,
+
+109
+00:13:22,720 --> 00:13:25,399
+I'm talking about long column.
+
+110
+00:13:29,820 --> 00:13:31,580
+How can I decide this column is long?
+
+111
+00:13:32,420 --> 00:13:34,020
+You should decided this before,
+
+112
+00:13:34,880 --> 00:13:37,420
+after you check this relationship.
+
+113
+00:13:38,900 --> 00:13:43,840
+So you told me, hey, this column is long column.
+
+114
+00:13:45,320 --> 00:13:46,260
+We have different keys.
+
+115
+00:13:48,480 --> 00:13:50,880
+The first key is this column,
+
+116
+00:13:51,460 --> 00:13:53,400
+this column is a part of a frame.
+
+117
+00:13:54,360 --> 00:13:55,740
+So we have a moment here.
+
+118
+00:14:00,220 --> 00:14:02,180
+And we have another moment here.
+
+119
+00:14:06,100 --> 00:14:06,740
+Looks like this.
+
+120
+00:14:09,800 --> 00:14:11,280
+Just to remind you for something,
+
+121
+00:14:11,940 --> 00:14:14,720
+you learn it before in structure analysis.
+
+122
+00:14:15,420 --> 00:14:17,300
+Do you remember in structure analysis,
+
+123
+00:14:17,580 --> 00:14:21,580
+we talked before about something called frames?
+
+124
+00:14:24,840 --> 00:14:28,240
+Probably this column is about of a frame, we have fixed.
+
+125
+00:14:31,580 --> 00:14:32,640
+We have a roller.
+
+126
+00:14:33,220 --> 00:14:35,300
+Probably you have Hengie here, not here.
+
+127
+00:14:36,200 --> 00:14:37,120
+This one will be unstable.
+
+128
+00:14:39,520 --> 00:14:39,700
+Here.
+
+129
+00:14:40,680 --> 00:14:43,260
+So we have Vlute for any reason.
+
+130
+00:14:44,380 --> 00:14:48,260
+So after you are drawing bending moment diagram,
+
+131
+00:14:49,660 --> 00:14:54,640
+we can expect a moment on this column looks like this.
+
+132
+00:14:58,140 --> 00:15:09,180
+So this column will have moment M1 and M2 not equal but on the same side and also we have axial force
+
+133
+00:15:12,900 --> 00:15:17,020
+T ultimate right now we have moment
+
+134
+00:15:19,680 --> 00:15:20,820
+and we have P ultimate
+
+135
+00:15:28,720 --> 00:15:43,060
+If you have this case, M1 will be the smallest value and M2 will be the bigger one.
+
+136
+00:15:46,780 --> 00:15:51,740
+M1 and M2 will be both of them positive value.
+
+137
+00:15:53,200 --> 00:16:07,120
+Second case, probably your column for any reason, we have a moment here and the moment
+
+138
+00:16:07,620 --> 00:16:09,740
+at the other end will be on the other side.
+
+139
+00:16:11,220 --> 00:16:24,400
+your moment looks like this. Sometimes. By the way, the first one will be single curvature.
+
+140
+00:16:26,900 --> 00:16:40,299
+Your column will buckle like this. This column will buckle like this. This is the shape of the
+
+141
+00:16:40,300 --> 00:16:52,000
+buckling. Single curvature. The second one we have M1 and we have M2. Guys, M1 is the
+
+142
+00:16:52,020 --> 00:16:58,980
+smallest value because one of you will say hey which one is M1, the lower one or the
+
+143
+00:16:59,080 --> 00:17:06,179
+upper one. I don't care this one or this one my concern is M1 is the smallest value and
+
+144
+00:17:06,180 --> 00:17:09,740
+The M2 is the bigger one or the biggest one.
+
+145
+00:17:14,360 --> 00:17:18,339
+M1 is the second.
+
+146
+00:17:34,940 --> 00:17:39,440
+M1 will be negative, M2 will be positive.
+
+147
+00:17:42,220 --> 00:17:46,520
+This case called double curvature.
+
+148
+00:17:49,580 --> 00:17:50,840
+What you mean by double curvature,
+
+149
+00:17:51,000 --> 00:17:54,880
+I mean this column will buckle like this.
+
+150
+00:18:02,139 --> 00:18:03,939
+Due to the effect, we have a moment here
+
+151
+00:18:03,940 --> 00:18:05,600
+And we have another moment on the other side.
+
+152
+00:18:06,030 --> 00:18:10,340
+So the curvature will not be single curvature
+
+153
+00:18:11,520 --> 00:18:14,180
+because we have moment on different sides.
+
+154
+00:18:15,600 --> 00:18:18,240
+Your buckling will be double curvature.
+
+155
+00:18:19,180 --> 00:18:24,140
+In this location, M1 and M2 has different signs.
+
+156
+00:18:25,780 --> 00:18:27,620
+M1 would be negative, M2 would be positive.
+
+157
+00:18:29,300 --> 00:18:32,520
+M1 is the smallest value, M2 is the biggest value.
+
+158
+00:18:34,020 --> 00:18:39,840
+In the first case, M1 and M2, both of them are positive.
+
+159
+00:18:41,360 --> 00:18:45,100
+M1 stills the smallest value, M2 stills the biggest value.
+
+160
+00:18:49,360 --> 00:18:50,880
+We have a third case.
+
+161
+00:18:54,220 --> 00:18:57,320
+You have a column without moment.
+
+162
+00:18:59,880 --> 00:19:01,260
+But we have the ultimate.
+
+163
+00:19:01,420 --> 00:19:03,980
+Hey guys, remember, we still have the ultimate here,
+
+164
+00:19:03,980 --> 00:19:04,940
+we still have the ultimate.
+
+165
+00:19:05,120 --> 00:19:08,660
+I'm talking about the ultimate behind or beside moment.
+
+166
+00:19:09,940 --> 00:19:11,720
+Be ultimate beside moment.
+
+167
+00:19:12,980 --> 00:19:13,880
+In the third case,
+
+168
+00:19:14,150 --> 00:19:17,080
+your column is long and we have the ultimate,
+
+169
+00:19:17,320 --> 00:19:18,160
+but we don't have moment.
+
+170
+00:19:19,170 --> 00:19:21,580
+For any reason, we don't have moment on this column.
+
+171
+00:19:22,540 --> 00:19:24,600
+At this moment, we will talk about
+
+172
+00:19:24,860 --> 00:19:28,000
+M2 will be M2 minimum value.
+
+173
+00:19:28,140 --> 00:19:29,140
+We have a minimum value.
+
+174
+00:19:29,190 --> 00:19:30,640
+You have to consider it.
+
+175
+00:19:32,420 --> 00:19:34,880
+This value will be covered later today.
+
+176
+00:19:36,640 --> 00:19:38,960
+So these three cases are very important.
+
+177
+00:19:39,380 --> 00:19:44,080
+Please, please, don't forget these cases.
+
+178
+00:19:44,840 --> 00:19:52,980
+The first one, this moment, and this moment looks like this.
+
+179
+00:19:54,220 --> 00:20:01,320
+So the buckle of this column will be like this single curvature.
+
+180
+00:20:02,940 --> 00:20:07,000
+In this case, M1 and M2, both of them are positive.
+
+181
+00:20:07,980 --> 00:20:11,000
+M1 is the smallest value, M2 is the biggest value.
+
+182
+00:20:12,680 --> 00:20:16,420
+Second column, we have moment looks like this.
+
+183
+00:20:19,340 --> 00:20:22,980
+So the buckle of this column looks like this.
+
+184
+00:20:28,180 --> 00:20:30,620
+In this case, M1 is still positive.
+
+185
+00:20:32,000 --> 00:20:34,880
+I'm sorry, M1 will be negative, M2 is still positive.
+
+186
+00:20:35,820 --> 00:20:39,500
+And the M1 also is the smallest value, M2 is the biggest value.
+
+187
+00:20:40,400 --> 00:20:46,420
+If you have a column without a moment, M1 equals 0, M2 equals 0,
+
+188
+00:20:48,220 --> 00:20:51,220
+We have the ultimate and this column is longer column.
+
+189
+00:20:51,350 --> 00:20:53,500
+We still have m2 minimum.
+
+190
+00:20:53,780 --> 00:20:55,380
+We can't figure this out.
+
+191
+00:20:56,280 --> 00:20:58,980
+But we still have, we have to design for minimum value.
+
+192
+00:21:03,100 --> 00:21:08,280
+All of this stuff will be more clear just wait a little bit.
+
+193
+00:21:08,680 --> 00:21:10,440
+But until this moment, do you have any question?
+
+194
+00:21:17,660 --> 00:21:21,820
+Okay, design of longer column, we have few steps.
+
+195
+00:21:23,280 --> 00:21:34,680
+First step, the factor design moment, m_2, will be multiplied by delta.
+
+196
+00:21:37,780 --> 00:21:43,760
+M2 will be multiplied by delta to magnify the value of moment.
+
+197
+00:21:48,040 --> 00:21:54,700
+Because if you have a load B ultimate and you have buckling, this moment will be magnified.
+
+198
+00:21:56,070 --> 00:22:02,480
+Will be bigger. So, ACI said, ACI said, okay.
+
+199
+00:22:04,460 --> 00:22:09,020
+I will use M2 by multiplied by delta.
+
+200
+00:22:09,800 --> 00:22:12,460
+Which M2, what is the value of M2?
+
+201
+00:22:12,820 --> 00:22:14,440
+Okay, go back here.
+
+202
+00:22:15,860 --> 00:22:18,560
+Do you have bending moment on the column like this?
+
+203
+00:22:19,440 --> 00:22:21,560
+Yes, M2 will be the biggest value.
+
+204
+00:22:22,940 --> 00:22:25,860
+Do you have bending moment diagram on the column like this?
+
+205
+00:22:26,240 --> 00:22:28,840
+Yes, M2 will be the biggest value.
+
+206
+00:22:31,300 --> 00:22:34,240
+I don't have moment, we still have ME2 minimum.
+
+207
+00:22:34,820 --> 00:22:41,060
+So ME2 based on this case or this case or this case.
+
+208
+00:22:42,920 --> 00:22:46,160
+I will multiply this value of ME2 by delta.
+
+209
+00:22:47,940 --> 00:22:50,640
+One of you will say, "Hey, I don't have moment."
+
+210
+00:22:50,660 --> 00:22:52,600
+Which is the third case, I don't have moment.
+
+211
+00:22:53,140 --> 00:22:55,380
+In this case, which value of ME2?
+
+212
+00:22:56,080 --> 00:22:56,360
+Okay.
+
+213
+00:22:58,580 --> 00:23:03,300
+the code provides an absolutely minimum value for M2
+
+214
+00:23:03,680 --> 00:23:04,400
+if you don't have it.
+
+215
+00:23:05,760 --> 00:23:12,920
+How much P ultimate time 0.6 plus 0.03 H.
+
+216
+00:23:13,880 --> 00:23:18,660
+Here is the column, here is B and here is H.
+
+217
+00:23:19,600 --> 00:23:22,080
+So this length of the column is H.
+
+218
+00:23:22,860 --> 00:23:28,440
+Multiply it by 0.03 plus 0.6, all of them time P ultimate.
+
+219
+00:23:28,440 --> 00:23:35,480
+I can get minimum value for ME2 if you are in this case.
+
+220
+00:23:38,540 --> 00:23:45,800
+I'm talking right now about what ACI mentioned to take the effect of buckling.
+
+221
+00:23:46,700 --> 00:23:57,020
+But just to keep in your mind, the effect of buckling is increasing, magnifying the value of moment.
+
+222
+00:23:58,000 --> 00:24:05,260
+bubbling related to additional moment. So if you have a moment, please take the
+
+223
+00:24:05,300 --> 00:24:11,800
+biggest value which is ME2 and multiply it by delta. I have question and I need
+
+224
+00:24:11,880 --> 00:24:18,220
+answer. Anybody expect this delta, the value of delta will be smaller than one
+
+225
+00:24:18,670 --> 00:24:26,480
+or bigger than one? What is your expectation? Remember ME2 is the
+
+226
+00:24:26,480 --> 00:24:28,360
+applied moment is the current moment.
+
+227
+00:24:28,920 --> 00:24:32,240
+You need to increase this moment or decrease it
+
+228
+00:24:32,440 --> 00:24:33,700
+due to the effect of buckling.
+
+229
+00:24:34,540 --> 00:24:35,120
+What is the answer?
+
+230
+00:24:36,080 --> 00:24:38,100
+Do you like to increase or decrease ME2?
+
+231
+00:24:40,260 --> 00:24:42,700
+If you understand this point, you can answer my question.
+
+232
+00:24:42,940 --> 00:24:46,060
+Delta will be greater than one or smaller than one?
+
+233
+00:24:48,240 --> 00:24:48,580
+Any answer?
+
+234
+00:24:54,520 --> 00:25:00,480
+Delta times M2 will be a value greater than 1 or smaller than 1.
+
+235
+00:25:01,880 --> 00:25:02,340
+What do you think?
+
+236
+00:25:07,140 --> 00:25:09,380
+Wow, smaller.
+
+237
+00:25:11,240 --> 00:25:12,100
+Okay, one more time.
+
+238
+00:25:14,080 --> 00:25:22,520
+If you have buckling, this buckling will do additional moment
+
+239
+00:25:22,520 --> 00:25:33,500
+moment or not. The buckling effect will cause additional moment that makes sense.
+
+240
+00:25:34,860 --> 00:25:39,460
+Okay so right now without buckling, I'm not talking about buckling,
+
+241
+00:25:40,720 --> 00:25:49,620
+we have a column. This column has effect of moment in me too. If you add buckling,
+
+242
+00:25:49,640 --> 00:25:54,600
+the moment will increase or decrease?
+
+243
+00:26:00,640 --> 00:26:01,280
+What do you think?
+
+244
+00:26:05,340 --> 00:26:06,560
+Yeah, increase.
+
+245
+00:26:07,400 --> 00:26:14,780
+So this is the moment on the column.
+
+246
+00:26:18,640 --> 00:26:21,080
+because it's a part of a frame or any reason,
+
+247
+00:26:21,560 --> 00:26:28,140
+this is the moment on the column without effect of buckling.
+
+248
+00:26:33,400 --> 00:26:36,340
+We need to add the effect of buckling.
+
+249
+00:26:36,900 --> 00:26:40,800
+So I'm gonna multiply this moment by delta.
+
+250
+00:26:42,060 --> 00:26:46,640
+So this delta will increase the value of moment
+
+251
+00:26:46,640 --> 00:26:48,780
+to consider the effect of buckling.
+
+252
+00:26:48,950 --> 00:26:52,980
+So I believe this delta must be greater than one.
+
+253
+00:26:55,160 --> 00:26:55,740
+That makes sense.
+
+254
+00:26:56,560 --> 00:26:59,820
+Because this MSE is a moment
+
+255
+00:27:05,340 --> 00:27:07,760
+taking the original moment
+
+256
+00:27:09,220 --> 00:27:10,600
+and the effect of buckling.
+
+257
+00:27:14,000 --> 00:27:18,820
+So I expect this value to be bigger than this value,
+
+258
+00:27:19,000 --> 00:27:20,540
+so delta will be greater than 1.
+
+259
+00:27:25,660 --> 00:27:29,800
+If you don't have moment, if you have a column without any moment,
+
+260
+00:27:30,360 --> 00:27:31,980
+OK, ACI said no.
+
+261
+00:27:32,140 --> 00:27:33,480
+We have to consider a moment.
+
+262
+00:27:33,880 --> 00:27:37,780
+So we have M minima, this M minimum equal this value
+
+263
+00:27:38,990 --> 00:27:41,400
+as a function of the applied load, P-alt.
+
+264
+00:27:42,520 --> 00:27:44,120
+Okay, what is the value of delta?
+
+265
+00:27:45,000 --> 00:27:50,180
+Delta equal CM divide one minus P ultimate
+
+266
+00:27:50,820 --> 00:27:53,200
+divide 0.75 B critical.
+
+267
+00:27:53,800 --> 00:28:00,060
+And this value for delta must be greater than or equal one.
+
+268
+00:28:02,960 --> 00:28:07,960
+So I believe I am good with this term, P ultimate.
+
+269
+00:28:09,840 --> 00:28:14,900
+So I still need to figure out the value of cm and the value of PC.
+
+270
+00:28:16,400 --> 00:28:18,560
+Guys, do you remember--
+
+271
+00:28:19,360 --> 00:28:23,080
+I'm not sure if you learned this before or not--
+
+272
+00:28:23,180 --> 00:28:25,200
+buckling, P critical.
+
+273
+00:28:26,820 --> 00:28:27,740
+Do you remember this term?
+
+274
+00:28:27,940 --> 00:28:29,540
+I think in strengths of material, you
+
+275
+00:28:29,540 --> 00:28:36,840
+should cover by square EI over L buckling square.
+
+276
+00:28:37,000 --> 00:28:38,260
+Do you remember something like this?
+
+277
+00:28:38,720 --> 00:28:39,400
+Critical load.
+
+278
+00:28:41,580 --> 00:28:42,800
+Critical buckling load.
+
+279
+00:28:43,940 --> 00:28:46,020
+Probably, yeah, critical load, yes.
+
+280
+00:28:47,260 --> 00:28:50,280
+Yeah, this be critical, which equal by square,
+
+281
+00:28:50,820 --> 00:28:55,400
+EI divided L buckling square is this there.
+
+282
+00:29:01,539 --> 00:29:01,860
+There you go.
+
+283
+00:29:02,960 --> 00:29:20,060
+BC equal by square EI divided KLU equal L buckling.
+
+284
+00:29:21,160 --> 00:29:21,920
+Buckling lens.
+
+285
+00:29:23,440 --> 00:29:28,480
+How can I figure out the value of EI, EI from this
+
+286
+00:29:28,580 --> 00:29:35,260
+expression according to ECI equal 0.4 e concrete youngest modulus of concrete
+
+287
+00:29:37,460 --> 00:29:43,600
+I gross gross moment of inertia for the column
+
+288
+00:29:46,880 --> 00:29:58,560
+divide one plus beta beta this value is a ratio between the fact third
+
+289
+00:29:59,380 --> 00:30:11,060
+Did load and the total factor load this relationship beta equal 1.2.
+
+290
+00:30:11,280 --> 00:30:14,100
+Did load divide p-output.
+
+291
+00:30:34,260 --> 00:30:34,440
+Okay.
+
+292
+00:30:37,240 --> 00:30:39,840
+Once you figure out the value of PC,
+
+293
+00:30:41,710 --> 00:30:43,940
+so I am done with this dominator.
+
+294
+00:30:45,020 --> 00:30:54,700
+I'm still looking for cm, your value of cm will be 0.6 plus 0.4 m1 divided by m2.
+
+295
+00:30:56,860 --> 00:31:04,860
+Guys, don't forget m1 is the smallest value.
+
+296
+00:31:08,420 --> 00:31:13,140
+M2 is the biggest value.
+
+297
+00:31:16,160 --> 00:31:27,420
+What is the sign positive or negative for M1 and M2 based on if you are in this condition or if you are in this condition?
+
+298
+00:31:29,920 --> 00:31:32,740
+If you are in this condition, both of them are positive.
+
+299
+00:31:34,020 --> 00:31:38,420
+If you are in this condition, M1 will be negative, M2 will be positive.
+
+300
+00:31:39,340 --> 00:31:42,880
+One of you will ask me if we don't have moment in this condition,
+
+301
+00:31:43,100 --> 00:31:48,200
+M1 and M2 is 0, in this case, Cm equal 1.
+
+302
+00:31:49,860 --> 00:31:55,260
+In case of M1 and M2 are 0, which is the third case, take Cm equal 1.
+
+303
+00:31:55,780 --> 00:31:57,200
+We don't need to use this equation.
+
+304
+00:32:01,140 --> 00:32:05,220
+So finally, I can figure out the value of delta.
+
+305
+00:32:06,620 --> 00:32:10,080
+Finally, I can multiply this delta by m2.
+
+306
+00:32:10,740 --> 00:32:16,360
+Finally, we have a column under the effect of B ultimate
+
+307
+00:32:17,460 --> 00:32:19,340
+and m ultimate.
+
+308
+00:32:19,540 --> 00:32:20,960
+This m ultimate is mc.
+
+309
+00:32:23,260 --> 00:32:25,320
+How can I consider the buckling effect?
+
+310
+00:32:25,540 --> 00:32:26,280
+I already did.
+
+311
+00:32:26,940 --> 00:32:27,240
+How?
+
+312
+00:32:27,660 --> 00:32:28,480
+During this moment.
+
+313
+00:32:29,420 --> 00:32:31,940
+Because this moment is not the applied moment.
+
+314
+00:32:32,100 --> 00:32:34,920
+This moment multiplied by delta to give you
+
+315
+00:32:35,020 --> 00:32:36,860
+mc, which is m ultimate.
+
+316
+00:32:37,260 --> 00:32:39,700
+Delta, consider the effect of buckling.
+
+317
+00:32:40,840 --> 00:32:43,780
+Once you have a column under the effect of p ultimate
+
+318
+00:32:44,000 --> 00:32:46,660
+and the m ultimate, last step, I'm
+
+319
+00:32:46,700 --> 00:32:48,540
+going to use interaction diagram.
+
+320
+00:32:53,040 --> 00:32:55,660
+And we learned last time how to use interaction diagram.
+
+321
+00:32:57,240 --> 00:32:57,520
+Wow.
+
+322
+00:32:59,100 --> 00:33:04,800
+So if you are talking about longer column, first step,
+
+323
+00:33:04,890 --> 00:33:12,560
+I have to consider effect of buckling.
+
+324
+00:33:13,720 --> 00:33:14,680
+How can I do this?
+
+325
+00:33:15,460 --> 00:33:18,820
+We need to multiply the biggest value of moment, which
+
+326
+00:33:18,880 --> 00:33:21,660
+is m2, time something called delta,
+
+327
+00:33:22,500 --> 00:33:24,200
+to figure out the value of mc.
+
+328
+00:33:27,140 --> 00:33:32,000
+Once you are done with this expression and you figured out the value of delta,
+
+329
+00:33:33,340 --> 00:33:42,880
+this moment mc, I can call it m ultimate, beside p ultimate, I can use interaction diagram
+
+330
+00:33:47,940 --> 00:33:52,540
+to figure out the value of rho and then the value of area state.
+
+331
+00:34:00,460 --> 00:34:07,420
+So the difference, the only difference between short to column and the global column in case
+
+332
+00:34:07,560 --> 00:34:14,980
+of using interaction diagram, short to column, please, the given moment and the applied force
+
+333
+00:34:15,620 --> 00:34:18,379
+as it is, or as they are.
+
+334
+00:34:19,040 --> 00:34:21,080
+We don't need to meet any change.
+
+335
+00:34:22,120 --> 00:34:28,899
+But if your column is long, please, the moment will be multiplied first by delta to consider
+
+336
+00:34:29,080 --> 00:34:30,080
+the effect of buckling.
+
+337
+00:34:30,919 --> 00:34:37,740
+Once you did this moment beside B-ultimate, we can use interaction diagram to design the
+
+338
+00:34:37,740 --> 00:34:37,940
+column.
+
+339
+00:34:42,060 --> 00:34:43,280
+Any questions so far?
+
+340
+00:34:46,760 --> 00:34:47,639
+question so far.
+
+341
+00:35:02,800 --> 00:35:04,220
+Okay, just a second.
+
+342
+00:35:04,880 --> 00:35:05,920
+I'm so sorry, one minute.
+
+343
+00:36:00,060 --> 00:36:02,860
+[BLANK_AUDIO]
+
+344
+00:36:16,320 --> 00:36:17,040
+So guys, I'm big.
+
+345
+00:36:20,100 --> 00:36:21,940
+Let's do an example.
+
+346
+00:36:26,119 --> 00:36:26,880
+We have two examples.
+
+347
+00:36:31,040 --> 00:36:35,840
+We have a tight column of the shown figure.
+
+348
+00:36:37,220 --> 00:36:40,960
+Has been approximately size to the dimension 12 inch
+
+349
+00:36:41,210 --> 00:36:42,260
+time 15 inch.
+
+350
+00:36:42,620 --> 00:36:45,120
+So the dimension of this column is given,
+
+351
+00:36:45,460 --> 00:36:46,580
+12 inch and 15.
+
+352
+00:36:48,600 --> 00:36:53,320
+It is to be used in a frame brazed against sizes ways.
+
+353
+00:36:53,320 --> 00:36:55,920
+The column is bent in a single curvature.
+
+354
+00:36:57,240 --> 00:36:57,460
+Wow.
+
+355
+00:36:58,680 --> 00:36:59,800
+this information is given.
+
+356
+00:37:02,219 --> 00:37:06,960
+So this column has a moment here, how much?
+
+357
+00:37:07,700 --> 00:37:11,480
+86, and it has a moment here, how much?
+
+358
+00:37:12,300 --> 00:37:13,200
+86 given.
+
+359
+00:37:14,260 --> 00:37:16,800
+So can you tell me which one is M1
+
+360
+00:37:17,220 --> 00:37:18,620
+and which one is M2?
+
+361
+00:37:20,560 --> 00:37:26,460
+Okay, the biggest one is M2 and is the smallest one
+
+362
+00:37:26,880 --> 00:37:27,400
+is M1.
+
+363
+00:37:28,180 --> 00:37:33,120
+You are lucky, both of them are equal, so M1 will be 86, M2 will be 86.
+
+364
+00:37:33,720 --> 00:37:39,520
+But if they are not equal, the smallest one for M1, the biggest one for M2.
+
+365
+00:37:40,160 --> 00:37:45,520
+One more thing, do you think M1 and M2, which one is positive and which one is negative?
+
+366
+00:37:46,060 --> 00:37:51,900
+The problem said this, this column will buckle in single curvature.
+
+367
+00:37:53,100 --> 00:37:55,180
+If you are talking about single curvature,
+
+368
+00:37:55,520 --> 00:37:56,780
+both of them will be positive.
+
+369
+00:37:58,500 --> 00:37:59,480
+This is the first thing.
+
+370
+00:38:01,900 --> 00:38:03,700
+So we have M1, we have M2,
+
+371
+00:38:04,020 --> 00:38:07,500
+we have P ultimate equal 110 kips.
+
+372
+00:38:15,820 --> 00:38:16,720
+My question is,
+
+373
+00:38:19,220 --> 00:38:24,560
+Do you think this column is longer column or shorter column?
+
+374
+00:38:30,240 --> 00:38:31,200
+I'm not sure.
+
+375
+00:38:31,480 --> 00:38:33,080
+The problem didn't say this.
+
+376
+00:38:33,980 --> 00:38:36,580
+If you go back to the problem and read it carefully,
+
+377
+00:38:37,500 --> 00:38:39,380
+the problem said tight column.
+
+378
+00:38:39,760 --> 00:38:42,640
+But tight column, tight longer column or shorter column,
+
+379
+00:38:43,280 --> 00:38:43,860
+it's not given.
+
+380
+00:38:44,520 --> 00:38:44,760
+Why?
+
+381
+00:38:44,920 --> 00:38:46,040
+Because it's very important.
+
+382
+00:38:47,260 --> 00:38:52,580
+If this column is short, do we have pultmet?
+
+383
+00:38:53,680 --> 00:38:56,880
+And this moment, go ahead and use interaction diagram.
+
+384
+00:38:56,930 --> 00:38:57,400
+You are done.
+
+385
+00:38:59,840 --> 00:39:00,240
+That's it.
+
+386
+00:39:01,500 --> 00:39:04,260
+Your pultmet will be 110.
+
+387
+00:39:04,880 --> 00:39:06,400
+Multmet will be 86.
+
+388
+00:39:06,940 --> 00:39:08,580
+Go ahead and use interaction diagram,
+
+389
+00:39:08,740 --> 00:39:09,300
+and you are done.
+
+390
+00:39:09,480 --> 00:39:15,100
+If this column is short, you are in this case.
+
+391
+00:39:19,440 --> 00:39:27,020
+That's right. But if this column is long, no, please wait a moment. We need to adjust this
+
+392
+00:39:27,320 --> 00:39:35,620
+M2 to figure out the effect of buckling and then we will use interaction diagram. That
+
+393
+00:39:35,700 --> 00:39:36,080
+That makes sense?
+
+394
+00:39:37,840 --> 00:39:38,720
+That makes sense, guys.
+
+395
+00:39:39,540 --> 00:39:40,520
+It's very important.
+
+396
+00:39:41,720 --> 00:39:46,600
+You have a column, and we don't know if this column is short
+
+397
+00:39:46,900 --> 00:39:50,340
+or long, because if this column is short,
+
+398
+00:39:51,120 --> 00:39:52,220
+and we have pultimate.
+
+399
+00:39:52,320 --> 00:39:54,900
+And in the ultimate, go ahead and use interaction diagram
+
+400
+00:39:55,120 --> 00:39:55,680
+directly.
+
+401
+00:39:57,100 --> 00:39:59,419
+But if this column is long, we need
+
+402
+00:39:59,420 --> 00:40:04,640
+to adjust this moment to consider the effect of buckling.
+
+403
+00:40:08,000 --> 00:40:09,100
+Thank you, Oliver.
+
+404
+00:40:09,360 --> 00:40:11,280
+Yes, this is what should I do.
+
+405
+00:40:13,800 --> 00:40:15,440
+OK, let's do it.
+
+406
+00:40:16,180 --> 00:40:24,440
+We need to figure out the value of kL and supported divide R.
+
+407
+00:40:26,980 --> 00:40:28,800
+Please read the problem carefully.
+
+408
+00:40:29,580 --> 00:40:34,840
+The unsupported lens for this column, LU is 16 feet.
+
+409
+00:40:38,400 --> 00:40:42,860
+And the key to consider there, this end condition
+
+410
+00:40:43,060 --> 00:40:45,200
+and this end condition is given, OK?
+
+411
+00:40:45,780 --> 00:40:47,780
+0.83.
+
+412
+00:40:51,140 --> 00:40:55,720
+R, we have three options.
+
+413
+00:40:58,440 --> 00:41:05,880
+to figure out the value of R. Probably this one. Probably this one. I will not use this
+
+414
+00:41:05,980 --> 00:41:12,500
+one because this one for circular column. More easy, I'm going to use this one, 0.3
+
+415
+00:41:12,900 --> 00:41:22,780
+time h, 0.3 times 15.
+
+416
+00:41:24,940 --> 00:41:25,960
+But we have issue here.
+
+417
+00:41:27,900 --> 00:41:31,800
+L ultimate in feed, so I have to multiply it by 12
+
+418
+00:41:31,920 --> 00:41:36,900
+to be an inch, because the dominator is an inch, 15 inch.
+
+419
+00:41:38,140 --> 00:41:41,240
+This value will be how much?
+
+420
+00:41:49,900 --> 00:41:51,420
+35.4.
+
+421
+00:41:55,540 --> 00:42:03,560
+What is the second, what is the other value? 34 minus 12. M1 divided by M2.
+
+422
+00:42:05,740 --> 00:42:22,560
+Okay, let's do it 34 minus 12th m1 divided by m2 equal 34 minus 12th. What is the value of m1?
+
+423
+00:42:22,860 --> 00:42:31,100
+What is the value of m2? What is the sign of these values? Positive 86 divided by positive 86.
+
+424
+00:42:31,740 --> 00:42:35,180
+and you learn it, how can I figure out the value of M1 and M2?
+
+425
+00:42:35,920 --> 00:42:39,180
+And how can I figure out the sign of these values?
+
+426
+00:42:40,000 --> 00:42:42,020
+Single curvature or double curvature?
+
+427
+00:42:43,340 --> 00:42:46,560
+I believe this value will be 22?
+
+428
+00:42:48,120 --> 00:42:51,060
+Yeah, 22. So what is the case right now?
+
+429
+00:42:51,740 --> 00:43:03,940
+klu/r greater than 34-12 m1/m2. This one is greater than.
+
+430
+00:43:06,740 --> 00:43:16,620
+If this one smaller, buckling is not considered. But this one is greater. So this column is longer
+
+431
+00:43:16,700 --> 00:43:30,740
+column. So we need to adjust this ME2 first to consider the effect of buckling and then
+
+432
+00:43:30,920 --> 00:43:41,220
+we can use interaction diagram. Any question so far? Looks good. Looks good. Step by step.
+
+433
+00:43:42,300 --> 00:43:54,000
+step by step. Okay, let's consider the effect of buckling. Effect of buckling is very simple.
+
+434
+00:43:56,080 --> 00:44:01,420
+Just M2 will be multiplied by delta to get Mc.
+
+435
+00:44:04,780 --> 00:44:16,140
+What is the value of Me2? 86. Kip foot. What is the value of delta equal cm?
+
+436
+00:44:18,720 --> 00:44:26,600
+Divide 1 minus p ultimate, I think, divide 0.75pc, I believe.
+
+437
+00:44:29,260 --> 00:44:29,800
+That's right.
+
+438
+00:44:32,980 --> 00:44:35,920
+Pm minus divide one minus that's correct.
+
+439
+00:44:38,960 --> 00:44:41,820
+Don't forget p ultimate is given how much?
+
+440
+00:44:43,300 --> 00:44:50,240
+I think 110 kip so we're still looking for pc and the cm.
+
+441
+00:44:51,100 --> 00:45:02,260
+Okay, let's do cm, very easy. cm equal 0.6 plus 0.4 m1 divided by m2.
+
+442
+00:45:04,860 --> 00:45:12,500
+So 0.6 plus 0.4, please be careful about what is the value and the sign of m1,
+
+443
+00:45:12,780 --> 00:45:22,120
+86. What is the value on the sign of M2? 86. So what is the value here? It will be 1.
+
+444
+00:45:32,120 --> 00:45:33,040
+Any questions so far?
+
+445
+00:45:36,880 --> 00:45:38,220
+Any questions so far?
+
+446
+00:45:47,860 --> 00:45:59,560
+okay so cm equal one that's fine we're still looking for BC critical loot BC equal by square
+
+447
+00:46:03,300 --> 00:46:10,500
+EI divide TLU, all of them square.
+
+448
+00:46:16,540 --> 00:46:18,540
+T is given, LU is given.
+
+449
+00:46:19,200 --> 00:46:21,360
+So the dominator is not a big issue.
+
+450
+00:46:21,700 --> 00:46:34,080
+by square is a number. EI, if you go back to the steps, EI equals 0.4E concrete I
+
+451
+00:46:34,140 --> 00:46:46,280
+gross divide 1 plus beta. 0.4E concrete I gross divide 1 plus beta. What is the value of E concrete?
+
+452
+00:46:46,740 --> 00:46:51,720
+Do you remember 75,000 square root f prime c?
+
+453
+00:46:53,950 --> 00:46:58,620
+If you open the problem, what is the value of f prime c?
+
+454
+00:47:01,480 --> 00:47:06,660
+4,000. The value is 4,000.
+
+455
+00:47:10,500 --> 00:47:25,680
+So square root for 4000 times 75000. This value will be 30604996 psi.
+
+456
+00:47:28,020 --> 00:47:41,360
+The I-gross for this column will be 12 times 15 cubed over 12.
+
+457
+00:47:43,760 --> 00:47:52,060
+This column barrel times the binjicular cube, which is p h cubed divided by 12.
+
+458
+00:47:55,140 --> 00:48:05,320
+This value 12 times 15 cube divide 12 will be 3 3 7 5 inch to 4.
+
+459
+00:48:07,760 --> 00:48:13,300
+Beta equal 1.2 dead load divide p ultimate.
+
+460
+00:48:16,080 --> 00:48:22,700
+Value of b ultimate is 110 k. Please go back and read the problem carefully.
+
+461
+00:48:23,300 --> 00:48:30,860
+The problem gives you note also that the n-factored did load equal 30 kip.
+
+462
+00:48:32,420 --> 00:48:41,340
+So this did load is 30. Multiply it by 1.2, 1.2 did load, and divide it by p ultimate 110.
+
+463
+00:48:42,100 --> 00:48:43,780
+I can figure out the value of beta.
+
+464
+00:48:48,160 --> 00:48:50,000
+This one will be 0.33.
+
+465
+00:48:55,980 --> 00:49:08,480
+So, EI will be 0.4 time this value of E concrete time this value of a moment of inertia, divide
+
+466
+00:49:08,580 --> 00:49:17,220
+1 plus 0.33 so I can figure out the value of EI will be 3.67 times 10 to power 6.
+
+467
+00:49:21,200 --> 00:49:29,280
+So B critical will be bi-square time EI which is this number
+
+468
+00:49:32,260 --> 00:49:46,340
+divide pL 0.83 I think L unsupported lens 16 I will multiply it by 12 to be an inch this one in
+
+469
+00:49:46,340 --> 00:50:02,520
+feed 12 for inch. The value of B critical will be 1426. So this value for B critical
+
+470
+00:50:04,740 --> 00:50:12,300
+1426. This one is okay. This one is good. This one is good. I can figure out the value
+
+471
+00:50:12,300 --> 00:50:16,080
+of delta, your value of delta will be 1.1.
+
+472
+00:50:20,620 --> 00:50:29,200
+So mc which equal delta, m2 will be 1.1, m286.
+
+473
+00:50:30,360 --> 00:50:37,840
+So your value will be 94.6 kip.
+
+474
+00:50:39,260 --> 00:50:44,260
+So finally we have P ultimate equal 110 kip
+
+475
+00:50:46,040 --> 00:50:50,440
+and we have M ultimate equal 94.6 kip
+
+476
+00:50:51,320 --> 00:50:54,940
+foot and we have a column with dimension 15 inch
+
+477
+00:50:55,300 --> 00:50:59,320
+time 12 inch and use interaction diagram
+
+478
+00:50:59,540 --> 00:51:01,060
+to figure out the value of row.
+
+479
+00:51:01,680 --> 00:51:04,460
+From here we are starting a new problem.
+
+480
+00:51:05,440 --> 00:51:07,120
+How to use interaction diagram,
+
+481
+00:51:07,900 --> 00:51:10,080
+B ultimate is given, M ultimate is given,
+
+482
+00:51:10,200 --> 00:51:11,280
+and the column is given.
+
+483
+00:51:12,000 --> 00:51:13,560
+One of you will ask me a question.
+
+484
+00:51:14,000 --> 00:51:16,000
+Where is the effect of buckling?
+
+485
+00:51:16,440 --> 00:51:20,820
+Okay, the applied moment on this column was 86.
+
+486
+00:51:22,220 --> 00:51:24,600
+After we consider the effect of column,
+
+487
+00:51:24,840 --> 00:51:29,080
+we will design this column under the effect of 94.6.
+
+488
+00:51:29,560 --> 00:51:31,780
+Why you increase the value of moment?
+
+489
+00:51:32,020 --> 00:51:34,820
+Because I consider the effect of buckling.
+
+490
+00:51:40,820 --> 00:51:41,360
+That makes sense.
+
+491
+00:51:44,040 --> 00:51:45,340
+That makes sense.
+
+492
+00:51:48,900 --> 00:51:50,220
+Okay, looks good.
+
+493
+00:51:52,460 --> 00:51:54,360
+I'm going to do the second example.
+
+494
+00:51:54,540 --> 00:51:56,840
+Next time, second example exactly.
+
+495
+00:51:57,430 --> 00:52:00,400
+The same like the first one.
+
+496
+00:52:01,260 --> 00:52:02,300
+Nothing changed.
+
+497
+00:52:04,940 --> 00:52:16,040
+thing the same. Okay, let's do it next to time and do some review on witness day.
+
+498
+00:52:17,520 --> 00:52:25,740
+So Dr. Amin, do we still, do we stop to where we get to the user?
+
+499
+00:52:25,760 --> 00:52:31,500
+No, no, no, no, no, don't stop, please go ahead and solve using interactions a gram,
+
+500
+00:52:31,580 --> 00:52:38,160
+What is the value of Rn? What is the value of Kn?
+
+501
+00:52:41,360 --> 00:52:44,280
+And to figure out which interaction diagram I'm going to use,
+
+502
+00:52:44,670 --> 00:52:48,960
+put this value and this value to figure out the value of rho.
+
+503
+00:52:50,720 --> 00:52:52,440
+And it tells me what is the area steel.
+
+504
+00:52:54,060 --> 00:52:58,640
+And it tells me this area steel, how many bars and what is the size.
+
+505
+00:52:59,820 --> 00:53:09,000
+and don't forget this number must be even number. No, you have to continue. It's a longer problem.
+
+506
+00:53:12,420 --> 00:53:21,000
+But it's very easy. Thank you. Very easy. And please make sure you can figure out these values
+
+507
+00:53:21,460 --> 00:53:28,120
+correctly. What is the value of M1, the smallest value? What is the value of M2, the biggest one?
+
+508
+00:53:28,620 --> 00:53:33,580
+which sign positive or negative based on a single curvature or double curvature
+
+509
+00:53:36,180 --> 00:53:41,620
+or you can watch this moment this moment and this moment will make this column to buckle like this
+
+510
+00:53:43,220 --> 00:53:50,280
+that makes sense so it's single curvature both of them will be positive sometimes we have different
+
+511
+00:53:50,420 --> 00:53:56,620
+cases this is the first case single curvature second one probably we have double curvature
+
+512
+00:53:57,260 --> 00:54:00,520
+So we have one of them will be negative, one of them will be positive.
+
+513
+00:54:01,160 --> 00:54:04,760
+But we still, M1 is the smallest even and M2 is the biggest one.
+
+514
+00:54:05,340 --> 00:54:05,560
+Okay.
+

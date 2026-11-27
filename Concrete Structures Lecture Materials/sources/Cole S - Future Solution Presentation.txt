@@ -1,0 +1,108 @@
+Future Concrete Structures solution generation, presentation controls
+
+Read current user instructions and AGENTS.md, current requests override historical briefs
+Read this file explicitly during the next generation pass, it does not automatically replace AGENTS.md
+This record is presentation guidance, not a solved assignment or evidence that an old PDF meets these requirements
+No existing solution PDF or installed resource changed during the criticism pass
+
+Problem structure
+Begin each supplied problem exactly once with its printed identifier formatted Q1., Q2., and so on
+Keep the true numbering, do not create a missing question
+Omit descriptive problem headings, subheadings, continuation headings, course titles, and assignment titles
+No page numbers or progression marks
+First-page-only student identification follows the existing project preference unless a later request changes it
+Diagram letters, dimension symbols, necessary table-column labels, equations, and requested result labels are mathematical content, not redundant headings
+
+Visible wording exclusions
+Omit commentary containing these phrases or labels, case-insensitively
+Table A11
+NA
+Threshold Trial
+One row needs
+use
+adequate in flexure at
+CONE 414
+Load set
+Assume inside exposure,
+aggregate
+Do not substitute near-identical explanatory prose to evade the preference
+Maintain these source names, technical interpretations, and detailed assumptions internally where necessary
+For short tokens, check whole words, do not remove substrings from unrelated mathematical identifiers
+
+Preserve the mathematical meaning
+Keep numerical lookup entries, material properties, R, rho, and required/provided steel calculations, omit the appendix identifier from submission prose
+Locate the zero-strain intersection correctly, show its depth through c rather than a redundant axis acronym
+Keep torsion comparisons as formulas and inequalities, label section alternatives by their actual dimensions rather than status words
+Keep a consequential fit failure as a compact inequality, then show any actual adopted arrangement
+Keep cover numerically, distinguish supplied values from adopted values once where that changes a result
+Keep any particle-size limit governing clear spacing through an unambiguous mathematical declaration and internal definition
+Requested material quantities must remain, represent them by clearly mapped symbols or concise permitted labels rather than deleting a component
+Maintain occupancy-load conditionality with its adopted numerical input, M_u(q_L)<=phi M_n, and the corresponding allowable-load inequality
+Removing prose never permits an unconditional conclusion from a conditional calculation or a claim that failed checks passed
+
+Beam and moment diagram layout
+Calculate geometry before styling
+Equal physical spans receive equal drawing widths
+Separate the structural beam/loading panel, moment diagram, dimension lane, support-letter lane, face-equation lanes, and reinforcement labels
+Support lettering must remain outside support bodies, ground lines, rollers, and negative-lobe interiors
+Compare complete fitted glyph bounds, not just their x/y anchors
+Require at least 6 pt clearance between support letters and support contours
+Require at least 4 pt between unrelated lettering, symbols, dimension ticks, arrows, and curves
+An intentional leader or dimension endpoint may touch its intended feature, record that explicit attachment internally
+Do not mask meaningful geometry to create a label gap
+Move annotations, widen a panel, or reflow before reducing text size
+
+Place a standalone + inside each positive moment area
+Place a standalone - inside each negative moment area
+For Q5's separately identified support faces, three positive signs and four negative face-region signs are appropriate
+The complete sign contours must remain inside their regions, at least 4 pt from the baseline, curve, and other labels
+Start positive signs near the span midpoint at roughly 40–50 percent of the lobe height, then adjust from actual glyph bounds
+Place negative face signs left and right of each support, retaining unambiguous face associations
+Keep mathematical signs in the full equations as well
+
+Retain the verified coefficient choice and exterior-end condition for the actual assignment
+For the existing Q5 adopted unrestrained-end case, end-span positive /11, interior positive /16, exterior-span faces of B and C negative /10, interior-span faces negative /11, exterior ends zero
+This is internal reference data, not a printed denominator-summary sentence
+Do not import a different assignment's /14 or /24 case merely to resemble a drawing
+Smooth coefficient-region lobes are schematic, they do not establish exact moment functions or inflection-point positions
+Do not erase the distinct support-face values by drawing an apparently exact joined curve
+
+Answer outlines
+Replace full-page-width, fixed-height boxes with content-measured rectangles
+Measure the union of every answer line's fitted contours, including fractions, radicals, superscripts, subscripts, descenders, and units
+Add 9–10 pt horizontal padding and 6–7 pt vertical padding as initial values
+Draw accurately joined rectangular corners with a consistent 0.8–1.0 pt outline
+Allow at least 8 pt clear space from unrelated neighboring material
+Position the answer after its supporting calculation or diagram, normally with 12–18 pt separation when space permits
+Do not anchor every answer to the page footer
+Keep one result on one line when readable, group multiple requested results compactly
+Expand or reflow when needed, never shrink required mathematics just to fit a chosen box
+Box requested final results, ordinary intermediate quantities need not receive separate large enclosures
+
+Future implementation and acceptance
+Retain editable builder, verified calculation data, layout, and exact visible-text inventory
+The installed adapter rejects a sentence-ending period in Q1., so add a narrowly scoped workspace-only exception for an exact standalone marker matching ^Q[1-9][0-9]*\.$
+Also require that marker's question exists in the verified assignment index and appears exactly once at the beginning of its problem
+Keep the ordinary punctuation validation for every other text item, decimals and authorized abbreviations remain permitted
+Do not broaden period permission to arbitrary headings or sentences
+Installed character contours, exclusions, drawing registry, renderer, and adapter remain unchanged
+Keep seed 414 unless requested otherwise
+Run preflight against the exact visible text, require no missing characters or parse errors
+Validate numerical consistency, section geometry, support-face associations, actual glyph/curve clearances, sign containment, answer-box containment, and page bounds
+Render every final page, inspect at readable print scale plus enlarged support, sign, fraction, and corner crops
+Correct actual failures before delivery
+Remove identifying PDF metadata according to project rules
+Preserve all original references and earlier deliverables
+Record detailed verification internally, report only consequential limitations and actual acceptance outcomes in the handoff
+
+Copyable local project-instruction addendum
+
+For future Concrete Structures solutions, begin each actual problem exactly once with its standalone printed Qn. identifier, omit descriptive problem headings, subheadings, continuation headings, and course/assignment titles
+Keep commentary exclusions in outputs/Cole S - Future Solution Presentation.txt, retain necessary mathematics and concise result-changing assumptions
+Separate beam/support geometry, lettering, equations, and diagram signs, measure actual glyph bounds, require 6 pt clearance from support contours and 4 pt between unrelated text, symbols, and curves
+Keep support letters outside moment lobes, place standalone + and - inside their corresponding regions, retain the full signed equations and correct face associations
+Fit answer rectangles to actual answer bounds with 9–10 pt horizontal and 6–7 pt vertical padding, accurate corners, 0.8–1.0 pt outlines, and readable text
+Allow the final period only in an exact standalone Qn. marker through a workspace-only validation exception, retain all other punctuation and resource-preservation checks
+These rules override earlier Concrete Structures heading defaults, do not change project-controls conventions, and do not authorize revision of existing PDFs during preference passes
+
+This record is saved locally, it does not update cloud project instructions or memory

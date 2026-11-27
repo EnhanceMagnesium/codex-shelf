@@ -1,0 +1,2116 @@
+1
+00:00:02,480 --> 00:00:09,500
+We have a new topic today regarding design of stirrups,
+
+2
+00:00:11,420 --> 00:00:13,420
+D2 shear and torsion.
+
+3
+00:00:15,640 --> 00:00:21,040
+Design of stirrups. Just to remind you what was the story,
+
+4
+00:00:21,460 --> 00:00:24,160
+because we are in a very long story in this course.
+
+5
+00:00:26,100 --> 00:00:29,440
+Guys, in structure analysis, we learn it.
+
+6
+00:00:30,310 --> 00:00:41,240
+For any external forces, we have something called internal forces.
+
+7
+00:00:43,160 --> 00:00:47,360
+These internal forces looks like axial force diagram.
+
+8
+00:00:48,310 --> 00:00:50,500
+We will cover this next week.
+
+9
+00:00:51,700 --> 00:00:53,260
+We have bending moment.
+
+10
+00:00:54,000 --> 00:00:56,760
+We covered this before exam one.
+
+11
+00:00:57,280 --> 00:00:59,220
+If you have a moment, if you have a beam
+
+12
+00:00:59,800 --> 00:01:02,420
+with external load distributed load, for example,
+
+13
+00:01:02,600 --> 00:01:04,260
+I can draw bending moment.
+
+14
+00:01:04,860 --> 00:01:06,500
+I can design my beam.
+
+15
+00:01:07,860 --> 00:01:11,580
+I can get the area steel if you have bending moment.
+
+16
+00:01:12,740 --> 00:01:15,780
+And we learned how to calculate the own weight of the beam
+
+17
+00:01:17,220 --> 00:01:18,920
+and how to draw bending moment,
+
+18
+00:01:19,500 --> 00:01:21,260
+how to design each cross-section.
+
+19
+00:01:22,040 --> 00:01:24,140
+So we are done with the bending moment.
+
+20
+00:01:25,400 --> 00:01:28,560
+Also we learned in structure analysis last semester,
+
+21
+00:01:29,200 --> 00:01:31,200
+we have something called shear force diagram.
+
+22
+00:01:33,720 --> 00:01:38,760
+And probably in strengths of material
+
+23
+00:01:39,460 --> 00:01:40,700
+or mechanics of material,
+
+24
+00:01:40,900 --> 00:01:42,640
+you learned something about torsion.
+
+25
+00:01:45,360 --> 00:01:48,840
+Torsion, which is torque coming from torque.
+
+26
+00:01:49,520 --> 00:01:52,780
+Anyway, I will cover this next time, next meeting.
+
+27
+00:01:53,540 --> 00:01:55,800
+I won't focus today on shear force diagram.
+
+28
+00:01:56,780 --> 00:02:00,040
+So just to remind you, if you have a beam
+
+29
+00:02:02,000 --> 00:02:03,000
+from structural analysis,
+
+30
+00:02:03,720 --> 00:02:05,920
+this beam was uniform and distributed loot,
+
+31
+00:02:07,440 --> 00:02:09,960
+we have something called bending moment.
+
+32
+00:02:11,280 --> 00:02:15,940
+And this value, W L square divided 8.
+
+33
+00:02:18,960 --> 00:02:21,360
+This is called bending moment diagram.
+
+34
+00:02:21,940 --> 00:02:25,760
+We learned everything about this diagram.
+
+35
+00:02:26,300 --> 00:02:27,980
+How can we use this value of moment?
+
+36
+00:02:29,700 --> 00:02:31,500
+How can we figure out the area steel?
+
+37
+00:02:32,580 --> 00:02:35,280
+How can we figure out the design of your member
+
+38
+00:02:35,580 --> 00:02:37,460
+related to bending moment?
+
+39
+00:02:39,340 --> 00:02:42,300
+Today, we are talking about another diagram.
+
+40
+00:02:42,540 --> 00:02:44,820
+We learned it from structure analysis,
+
+41
+00:02:45,000 --> 00:02:48,740
+which called shear force diagram.
+
+42
+00:02:51,140 --> 00:02:56,780
+Guys, your bending moment is supported in the beam
+
+43
+00:02:57,040 --> 00:02:59,900
+by this longitudinal reinforcement.
+
+44
+00:03:01,660 --> 00:03:04,760
+And we learned how to figure out these reinforcement.
+
+45
+00:03:06,960 --> 00:03:09,600
+Your moment is coming like this.
+
+46
+00:03:10,820 --> 00:03:13,279
+So we have tension in one side
+
+47
+00:03:14,240 --> 00:03:16,620
+And we have compression on the other side.
+
+48
+00:03:18,780 --> 00:03:23,180
+Eurostere reinforcement coming to support this tension
+
+49
+00:03:23,760 --> 00:03:25,700
+because concrete cannot do this.
+
+50
+00:03:30,100 --> 00:03:34,380
+If you are talking about shear, we have something different.
+
+51
+00:03:34,980 --> 00:03:36,140
+Which called the stirrups.
+
+52
+00:03:37,560 --> 00:03:41,220
+Can you watch this rectangle reinforcement?
+
+53
+00:03:43,200 --> 00:03:52,480
+this rectangle reinforcement, which is repeated uniformly
+
+54
+00:03:52,930 --> 00:03:59,580
+along the beam with distance or spacing equal s.
+
+55
+00:04:01,800 --> 00:04:06,240
+Or sometimes your lingitudinal reinforcement
+
+56
+00:04:08,240 --> 00:04:11,060
+pinned like this.
+
+57
+00:04:14,500 --> 00:04:18,620
+Can you watch this one with 45 degrees bent with 45 degree?
+
+58
+00:04:20,180 --> 00:04:25,400
+The main reason for this bent to support shear force.
+
+59
+00:04:27,000 --> 00:04:34,040
+But we recommend, we highly recommend to use the stirrups to support this shear.
+
+60
+00:04:34,880 --> 00:04:37,700
+Let me explain it to you a little bit.
+
+61
+00:04:38,980 --> 00:04:41,920
+You have a beam, looks like this.
+
+62
+00:04:45,360 --> 00:04:49,120
+This column supporting your beam with a reaction.
+
+63
+00:04:50,660 --> 00:04:54,140
+This beam has uniform distributed load.
+
+64
+00:04:56,120 --> 00:05:00,240
+What do you think the uniform distributed load would
+
+65
+00:05:00,360 --> 00:05:05,820
+like to push this beam down.
+
+66
+00:05:06,440 --> 00:05:06,840
+That's right.
+
+67
+00:05:09,920 --> 00:05:10,320
+That's right.
+
+68
+00:05:12,440 --> 00:05:17,380
+And this reaction would like to push this part of the beam up.
+
+69
+00:05:19,280 --> 00:05:22,080
+So I'm going to expect something here.
+
+70
+00:05:23,000 --> 00:05:26,440
+I'm going to expect crack like this.
+
+71
+00:05:28,240 --> 00:05:31,620
+because the uniform distributed load will move
+
+72
+00:05:31,980 --> 00:05:34,460
+this part of the beam down.
+
+73
+00:05:36,240 --> 00:05:38,460
+And this reaction from the column
+
+74
+00:05:39,060 --> 00:05:43,020
+would like to move this part of the beam up.
+
+75
+00:05:43,940 --> 00:05:47,620
+So we can expect crack at this location.
+
+76
+00:05:50,040 --> 00:05:52,420
+So we have two options.
+
+77
+00:05:53,380 --> 00:05:57,679
+The first option, your longitudinal reinforcement
+
+78
+00:05:59,100 --> 00:06:05,960
+Your longitudinal reinforcement at this location will be pinned like this.
+
+79
+00:06:10,800 --> 00:06:14,300
+In the real life like this, can you watch it?
+
+80
+00:06:15,180 --> 00:06:17,880
+Here you go. This is called bent bars.
+
+81
+00:06:21,220 --> 00:06:24,340
+The main reason for that, if you have a crack,
+
+82
+00:06:24,340 --> 00:06:32,560
+Your reinforcement must be perpendicular to this crack to prevent it.
+
+83
+00:06:34,320 --> 00:06:35,260
+Put it in your mind.
+
+84
+00:06:36,760 --> 00:06:38,180
+Put it in your mind.
+
+85
+00:06:39,970 --> 00:06:49,600
+If you have a crack in concrete, your steric reinforcement must be perpendicular to this crack to prevent it.
+
+86
+00:06:52,180 --> 00:06:56,040
+just also to make it clear for you.
+
+87
+00:06:57,280 --> 00:07:01,020
+If you have a beam and this beam is supported by two column,
+
+88
+00:07:03,180 --> 00:07:05,160
+if you have uniform distributed loot,
+
+89
+00:07:06,320 --> 00:07:08,800
+I believe this beam would like to be
+
+90
+00:07:08,860 --> 00:07:15,280
+broken with cracks at the mid-span vertical cracks.
+
+91
+00:07:18,440 --> 00:07:24,620
+So your stereo enforcement must be perpendicular to these cracks.
+
+92
+00:07:25,460 --> 00:07:33,240
+So this is the reason why we are botting stereo enforcement like this, at the bottom of the beam.
+
+93
+00:07:33,760 --> 00:07:37,540
+So your reinforcement must be perpendicular to your crack.
+
+94
+00:07:38,460 --> 00:07:42,700
+But for shear, this for moment. I'm talking about here about moment.
+
+95
+00:07:43,500 --> 00:07:46,820
+Your cracks will be vertical cracks at mid-sband.
+
+96
+00:07:48,460 --> 00:07:52,720
+Because your maximum moment at mid-sband, here is the W, L square divided 8.
+
+97
+00:07:52,720 --> 00:07:54,760
+So at maximum moment, we can expect a crack.
+
+98
+00:07:55,640 --> 00:08:01,580
+But for sheer different situation, your cracks will be inclined crack.
+
+99
+00:08:02,340 --> 00:08:03,500
+So we have one option.
+
+100
+00:08:03,700 --> 00:08:08,680
+The first option to make your reinforcement bent like this.
+
+101
+00:08:09,980 --> 00:08:13,620
+or we have another option.
+
+102
+00:08:15,690 --> 00:08:29,180
+The other option, two bot stirrups, vertical stirrups.
+
+103
+00:08:32,510 --> 00:08:37,460
+These stirrups will help to prevent these cracks.
+
+104
+00:08:39,099 --> 00:08:41,760
+One of you will ask me a good question.
+
+105
+00:08:43,099 --> 00:08:46,520
+You told us the cracks of shear looks like this.
+
+106
+00:08:49,120 --> 00:08:52,780
+And based on this photo,
+
+107
+00:08:53,400 --> 00:08:58,820
+your stirrups are vertical stirrups, like this.
+
+108
+00:09:00,360 --> 00:09:04,020
+And you just told us it's recommended
+
+109
+00:09:04,900 --> 00:09:10,140
+to make reinforcement perpendicular to the craic.
+
+110
+00:09:10,580 --> 00:09:11,060
+That's right.
+
+111
+00:09:11,800 --> 00:09:15,260
+So do you think these stirrups will be efficient?
+
+112
+00:09:16,280 --> 00:09:17,120
+Probably not.
+
+113
+00:09:18,500 --> 00:09:22,560
+The most efficient craic, the most efficient stirrups,
+
+114
+00:09:23,480 --> 00:09:24,760
+if you have craics like this,
+
+115
+00:09:25,020 --> 00:09:28,920
+the most efficient stirrups must be looks like this.
+
+116
+00:09:31,320 --> 00:09:36,660
+But it's very hard in the real life, in the site.
+
+117
+00:09:37,880 --> 00:09:42,720
+It's hard to apply the stirrups with angle,
+
+118
+00:09:44,700 --> 00:09:45,440
+with the horizontal.
+
+119
+00:09:46,580 --> 00:09:49,300
+The most common type or the most common method
+
+120
+00:09:49,300 --> 00:09:53,300
+of construction to make your stirrups vertical stirrups.
+
+121
+00:09:56,200 --> 00:10:01,300
+But the most efficient application of stirrups
+
+122
+00:10:01,300 --> 00:10:02,340
+must be inclined.
+
+123
+00:10:03,680 --> 00:10:04,540
+Why inclined?
+
+124
+00:10:05,130 --> 00:10:08,920
+To be perpendicular to the inclined crack.
+
+125
+00:10:10,820 --> 00:10:12,140
+Any question for this point?
+
+126
+00:10:12,840 --> 00:10:15,400
+From this point, I need you to learn something.
+
+127
+00:10:16,320 --> 00:10:18,580
+We have something called shear force diagram.
+
+128
+00:10:19,860 --> 00:10:22,780
+This shear force diagram is resisted
+
+129
+00:10:22,920 --> 00:10:24,640
+by something called the steers,
+
+130
+00:10:25,560 --> 00:10:28,560
+or in some cases bent bars.
+
+131
+00:10:37,839 --> 00:10:47,240
+Yes, most of the time we cannot apply these stirrups with angle 90 percent probably 95
+
+132
+00:10:47,420 --> 00:10:50,180
+percent of all the stirrups are vertical stirrups.
+
+133
+00:10:52,960 --> 00:10:58,180
+But the stirrups are still efficient, can resist this incline.
+
+134
+00:10:58,800 --> 00:11:04,140
+But if you make it incline, the stirrups incline the stirrups, it will be more efficient.
+
+135
+00:11:07,480 --> 00:11:12,740
+From this point, it's very important to understand this point.
+
+136
+00:11:14,440 --> 00:11:19,680
+Your reinforcement must be berbenduclar to your craic.
+
+137
+00:11:22,720 --> 00:11:31,620
+probably one time after your graduation you have interview or a job and someone will ask you
+
+138
+00:11:32,040 --> 00:11:34,840
+hey if we have a beam like this
+
+139
+00:11:37,600 --> 00:11:44,800
+and we have a crack in this beam we have crack in this beam like this
+
+140
+00:11:48,980 --> 00:11:50,639
+how can we resist this crack
+
+141
+00:11:53,000 --> 00:12:01,340
+Or we have crack like this. How can we support this crack? Remember your answer will be for
+
+142
+00:12:01,440 --> 00:12:09,080
+the vertical crack we must apply horizontal reinforcement which is the longitudinal bars like
+
+143
+00:12:09,160 --> 00:12:17,000
+this one. For inclined crack we have two options. The first one you need to apply reinforcement
+
+144
+00:12:17,000 --> 00:12:25,660
+verbenduchlar to this crack so you can use bent bars or I can apply vertical
+
+145
+00:12:27,380 --> 00:12:38,500
+tear ups to resist this cracks or these cracks so both but in your mind we have a very good
+
+146
+00:12:38,900 --> 00:12:45,240
+relationship between cracks and reinforcement the main function of reinforcement
+
+147
+00:12:46,680 --> 00:13:05,380
+to prevent Craig. Okay. Any questions so far? How to understand this concept is very easy
+
+148
+00:13:05,460 --> 00:13:12,220
+because how to calculate the stirrups and this basing piece of cake, piece of cake, nothing,
+
+149
+00:13:12,360 --> 00:13:17,480
+but you need to understand if you have a shear we have a
+
+150
+00:13:17,660 --> 00:13:26,940
+Steerox. By the way this reinforcement this one can be called longitudinal
+
+151
+00:13:30,780 --> 00:13:39,439
+reinforcement. Sometimes we can call it mean reinforcement but if you are
+
+152
+00:13:39,440 --> 00:13:45,000
+talking about the stirrups or pent bars you are talking about something called
+
+153
+00:13:48,360 --> 00:14:01,340
+transverse reinforcement or stirrups or shield reinforcement all of these
+
+154
+00:14:01,460 --> 00:14:07,039
+expressions you have to you have to be familiar with language you don't have
+
+155
+00:14:07,040 --> 00:14:11,560
+reinforcement, main reinforcement to support your moment.
+
+156
+00:14:14,080 --> 00:14:18,520
+Transverse reinforcement, shear reinforcement,
+
+157
+00:14:19,340 --> 00:14:24,100
+stirrups, bent bars to support your shear force.
+
+158
+00:14:28,440 --> 00:14:33,479
+OK, we learned how to figure out the reinforcement
+
+159
+00:14:33,480 --> 00:14:36,020
+for moment, for different cases.
+
+160
+00:14:37,560 --> 00:14:41,300
+C-section, rectangular section, if you have moment,
+
+161
+00:14:42,540 --> 00:14:44,280
+I can figure out the stereo enforcement.
+
+162
+00:14:44,580 --> 00:14:45,820
+If you have a stereo enforcement,
+
+163
+00:14:45,980 --> 00:14:47,560
+I can figure out the design moment.
+
+164
+00:14:48,840 --> 00:14:50,300
+We are done with this part.
+
+165
+00:14:50,900 --> 00:14:53,300
+So we need to focus on shear force.
+
+166
+00:14:55,520 --> 00:14:58,400
+Do you think, my question is,
+
+167
+00:14:59,040 --> 00:15:08,000
+Do you think shear is resisted only with these stirrups?
+
+168
+00:15:09,580 --> 00:15:10,940
+No, we have concrete.
+
+169
+00:15:12,120 --> 00:15:14,600
+Concrete is still good in shear.
+
+170
+00:15:15,740 --> 00:15:24,980
+So shear force is supported by concrete part of this shear.
+
+171
+00:15:25,520 --> 00:15:30,240
+is supported by concrete and the other bar by stirrups.
+
+172
+00:15:34,120 --> 00:15:36,120
+Concrete is very weak in tension.
+
+173
+00:15:36,440 --> 00:15:37,640
+If you are talking about tension,
+
+174
+00:15:37,980 --> 00:15:39,120
+concrete will be canceled.
+
+175
+00:15:39,820 --> 00:15:41,180
+But we are talking about shear.
+
+176
+00:15:41,640 --> 00:15:43,360
+Concrete is good with shear.
+
+177
+00:15:43,940 --> 00:15:45,640
+It's not very good, but it's still good.
+
+178
+00:15:47,240 --> 00:15:51,999
+So, so your nominal resistance,
+
+179
+00:15:53,920 --> 00:16:02,540
+the nominal or theoretical shear resistance or strength of beam can be divided by Vc,
+
+180
+00:16:03,550 --> 00:16:11,980
+which is a bar resisted by concrete, and Vs, which is a bar resisted by shear reinforcement,
+
+181
+00:16:12,390 --> 00:16:13,880
+we can call it stirrups.
+
+182
+00:16:16,160 --> 00:16:23,280
+Remember, we don't use nominal strengths or nominal shear strengths.
+
+183
+00:16:23,450 --> 00:16:25,040
+We are not using this term.
+
+184
+00:16:25,510 --> 00:16:35,580
+So we need to multiply this nominal by phase reduction factor to get something called design
+
+185
+00:16:36,340 --> 00:16:37,140
+shear strengths.
+
+186
+00:16:38,840 --> 00:16:47,500
+So design, this term can be called design shear trends.
+
+187
+00:16:48,960 --> 00:16:51,400
+I believe we covered this before, do you remember?
+
+188
+00:16:52,480 --> 00:17:01,400
+You learned how to calculate nominal moment, which equal areas T, F yield time D minus A divided by 2.
+
+189
+00:17:01,400 --> 00:17:02,140
+Do you remember that?
+
+190
+00:17:02,600 --> 00:17:05,540
+I told you this moment called nominal moment.
+
+191
+00:17:05,540 --> 00:17:11,240
+We are not using this value in design. We need to multiply this nominal moment by
+
+192
+00:17:11,740 --> 00:17:19,280
+Faye. Do you remember how can we figure out the value of Faye based on the value
+
+193
+00:17:19,459 --> 00:17:25,920
+of this strain in stereo enforcement? In our case, in this case of shear, it's
+
+194
+00:17:25,959 --> 00:17:34,500
+very more simple. Faye equal constant value 0.75. We don't need to figure out
+
+195
+00:17:34,500 --> 00:17:40,240
+what is the value of Fe for shear? It's only 0.75. If you are talking about
+
+196
+00:17:40,560 --> 00:17:46,640
+shear and torsion, we will cover this later. But for shear, your Fe is 0.75.
+
+197
+00:17:46,950 --> 00:17:51,840
+So once you figure out the value of VC, the value of VS, I can figure out the
+
+198
+00:17:51,880 --> 00:17:58,020
+value of VN, then multiply it by Fe, then I can figure out the shear, the
+
+199
+00:17:58,020 --> 00:18:05,580
+design shear stress. We have something called v ultimate, which is coming from structure
+
+200
+00:18:05,760 --> 00:18:16,840
+analysis. Structure analysis, I told you from structure analysis, we have something called
+
+201
+00:18:16,960 --> 00:18:26,500
+shear force diagram. So this shear force diagram will give you v ultimate. These equations
+
+202
+00:18:26,500 --> 00:18:28,800
+will give you FeVN.
+
+203
+00:18:29,340 --> 00:18:34,060
+All the time your shear or ultimate shear
+
+204
+00:18:34,160 --> 00:18:36,880
+from structure analysis must be smaller than or equal
+
+205
+00:18:37,280 --> 00:18:38,600
+this design to be safe.
+
+206
+00:18:40,800 --> 00:18:43,600
+So the key right now, how can I figure out
+
+207
+00:18:43,780 --> 00:18:48,240
+the part resisted by concrete and the part resisted by stirrups?
+
+208
+00:18:48,640 --> 00:18:51,620
+We have here two equations.
+
+209
+00:18:52,220 --> 00:18:52,700
+That's it.
+
+210
+00:18:53,540 --> 00:18:54,120
+We are done.
+
+211
+00:18:55,300 --> 00:19:05,020
+According to ACI, the shear resisted by concrete equal to B-wip D square root F prime C.
+
+212
+00:19:05,260 --> 00:19:10,760
+That's it. Just to remind you, here is the cross section of the beam.
+
+213
+00:19:11,940 --> 00:19:17,100
+Here is the stereo enforcement. We don't care about it right now. We are in the case of shear.
+
+214
+00:19:17,920 --> 00:19:22,980
+But from this cross section, I need to figure out what is the value of this depth,
+
+215
+00:19:24,340 --> 00:19:33,660
+the stir. What is the value of this width, which called b-whip, the stir, sometimes we call it b
+
+216
+00:19:33,800 --> 00:19:45,920
+without w, and square root f prime c, this value in psi, 4,000, 3,000, 2,500, 5,000, whatever
+
+217
+00:19:46,620 --> 00:19:52,560
+given in the problem. This is the bar or the shear strength provided by concrete.
+
+218
+00:19:59,780 --> 00:20:08,680
+Shear strands provided by stirrups equal A V F yield depth divided S.
+
+219
+00:20:10,760 --> 00:20:12,180
+What is the meaning of S?
+
+220
+00:20:13,320 --> 00:20:13,920
+Do you remember?
+
+221
+00:20:15,900 --> 00:20:23,380
+spacing we have a stirrups spaced uniformly so the spacing between this one
+
+222
+00:20:23,450 --> 00:20:33,480
+and this one is s so s is the spacing a v is the total area of the stirrups the
+
+223
+00:20:33,520 --> 00:20:40,140
+stirrup legs I'm sorry stirrup legs yeah you're a stirrup in the real life looks
+
+224
+00:20:40,140 --> 00:20:50,580
+like this one that's right that's right so how many legs did you have here one
+
+225
+00:20:53,660 --> 00:21:05,180
+this leg has area this leg has another area so area V is the total area of the
+
+226
+00:21:05,220 --> 00:21:11,540
+stirrups leg this cross section below this cross section sometimes your
+
+227
+00:21:11,780 --> 00:21:20,000
+stirrups looks like this so how many legs did you have one two three four so area
+
+228
+00:21:20,260 --> 00:21:27,580
+V will be four time area of one leg
+
+229
+00:21:30,820 --> 00:21:36,880
+So please remember area V is the area of the stirrup legs.
+
+230
+00:21:39,760 --> 00:21:42,420
+Okay, I can't figure out how many legs I have.
+
+231
+00:21:43,280 --> 00:21:48,380
+So what is the area of one leg? Okay, based on the size, most of the time we are using
+
+232
+00:21:48,800 --> 00:21:58,360
+number three or number four in stirrups. Number three has area 0.11, number four has area 0.2.
+
+233
+00:21:58,980 --> 00:22:06,140
+If you cannot remember this value, go back to your table.
+
+234
+00:22:08,280 --> 00:22:09,320
+Do you remember that table?
+
+235
+00:22:12,580 --> 00:22:16,200
+For number three, the area of the bar, 0.11.
+
+236
+00:22:18,740 --> 00:22:21,580
+And number four, area of the bar, 0.2.
+
+237
+00:22:22,540 --> 00:22:25,080
+So most of the time, your, your, um,
+
+238
+00:22:25,700 --> 00:22:29,540
+Sterobs made from number three bars or number four bars.
+
+239
+00:22:31,100 --> 00:22:36,920
+So, Area V, I can get it. S,
+
+240
+00:22:37,780 --> 00:22:43,740
+Sterobs, what is the spacing between the Sterobs? So I can figure out Vs. Once you get Vs,
+
+241
+00:22:43,960 --> 00:22:50,580
+once you get Vc, add them together to get Vn. Once you calculate Vn, which is called
+
+242
+00:22:50,580 --> 00:22:58,700
+nominal or theoretical shear strength, we need to get the design. So we need to multiply this Vn by
+
+243
+00:22:58,960 --> 00:23:04,800
+phi, which equals 0.75. So what do you think?
+
+244
+00:23:07,620 --> 00:23:15,920
+Yeah, so I think it's very easy, very easy, but these two equations are very important.
+
+245
+00:23:18,820 --> 00:23:26,400
+be careful about how many legs, how many legs of the stirrup. Most of the time, two legs is a regular
+
+246
+00:23:26,520 --> 00:23:34,460
+one, rectangle, but sometimes we have more complicated stirrups with many legs if you have very heavy
+
+247
+00:23:34,880 --> 00:23:44,740
+shear. Most of the time the design bars for shear or for stirrups number three or number four,
+
+248
+00:23:45,220 --> 00:23:47,200
+Most of the time, 99%
+
+249
+00:23:49,680 --> 00:23:58,440
+Tips of design, we need to understand what is the steps, but before saying the steps, okay
+
+250
+00:24:01,400 --> 00:24:07,620
+If everything is given, what do you mean by everything? Yeah, everything, the stirrups is given
+
+251
+00:24:10,270 --> 00:24:12,260
+The spacing is given
+
+252
+00:24:14,260 --> 00:24:19,940
+the cross-section is given. So everything is given. I can figure out the design
+
+253
+00:24:20,080 --> 00:24:26,920
+strength, the design shear strength. I will use this value plus this value to figure out
+
+254
+00:24:27,060 --> 00:24:33,940
+this value, multiply this value by phi, so I can figure out the design and make a comparison
+
+255
+00:24:34,420 --> 00:24:42,200
+to make sure this beam is safe or unsafe. That's easy. That's fine. But sometimes we need to design.
+
+256
+00:24:42,740 --> 00:24:47,340
+What do you mean to design? We need to understand, we need to figure out what is the value of s.
+
+257
+00:24:48,960 --> 00:24:49,660
+s is unknown.
+
+258
+00:24:52,360 --> 00:24:59,080
+What is the design value or what is the size of this stylus, number three or number four
+
+259
+00:24:59,860 --> 00:25:07,860
+or what, what you mean. So this is a design. So let's start. If you would like to design
+
+260
+00:25:10,980 --> 00:25:18,000
+first step you need to draw shear force diagram from structure analysis and this shear force
+
+261
+00:25:18,120 --> 00:25:28,280
+diagram will help you to figure out the value of the ultimate which is the applied shear force
+
+262
+00:25:29,990 --> 00:25:32,360
+to be more specific applied ultimate
+
+263
+00:25:35,140 --> 00:25:43,900
+shear force. Then I'm going to calculate the value supported by concrete.
+
+264
+00:25:46,960 --> 00:25:53,420
+Shear the strength of concrete but not nominal, the design. If you would like to get a design,
+
+265
+00:25:53,600 --> 00:26:00,560
+so you need to multiply VC by Fey and your Fey is going 75. VC, there you go, this one.
+
+266
+00:26:04,420 --> 00:26:10,060
+I'm going to assume the diameter of the used stirrups. We have two options,
+
+267
+00:26:11,300 --> 00:26:19,320
+number three bar or number four bar. Number three bar, so the area of one leg will be 0.11.
+
+268
+00:26:20,180 --> 00:26:25,700
+Number four bar, the area of one leg 0.2. So if you figure out how many legs,
+
+269
+00:26:25,960 --> 00:26:32,480
+I can figure out the value of area V. So size of the stirrups will be assumed.
+
+270
+00:26:33,300 --> 00:26:39,900
+So the only unknown, what is the spacing between the stirrups to support this year?
+
+271
+00:26:41,950 --> 00:26:48,580
+We have three cases, very important. We have three cases according to ACI.
+
+272
+00:26:51,260 --> 00:27:01,500
+First case, F. First case, F. V-ultimate from the structure analysis, smaller than or equal.
+
+273
+00:27:03,240 --> 00:27:10,040
+Say VC from concrete divide to no stirrups required.
+
+274
+00:27:13,559 --> 00:27:22,860
+Concrete is enough to support that shear.
+
+275
+00:27:24,480 --> 00:27:27,440
+We don't need to bought stirrups.
+
+276
+00:27:29,340 --> 00:27:33,240
+F, the ultimate smaller than or equal,
+
+277
+00:27:33,900 --> 00:27:35,860
+phi VC divided two.
+
+278
+00:27:35,960 --> 00:27:39,860
+Your decision, no stirrups are required.
+
+279
+00:27:41,380 --> 00:27:42,220
+Concrete will be enough.
+
+280
+00:27:43,480 --> 00:27:50,020
+Second case, F, the ultimate from structure analysis,
+
+281
+00:27:51,460 --> 00:27:54,600
+greater than phi VC divided two,
+
+282
+00:27:54,820 --> 00:27:58,480
+but a smaller than or equal phi VC.
+
+283
+00:28:00,060 --> 00:28:02,660
+That means we need minimum
+
+284
+00:28:04,220 --> 00:28:06,800
+T-ROPs because concrete is still good,
+
+285
+00:28:06,980 --> 00:28:07,900
+but we need the T-ROPs,
+
+286
+00:28:08,360 --> 00:28:12,120
+minimum just in case because you are critical a little bit.
+
+287
+00:28:13,060 --> 00:28:14,640
+We are going to use minimum.
+
+288
+00:28:16,299 --> 00:28:18,160
+So, ACI tell you,
+
+289
+00:28:18,780 --> 00:28:21,420
+"Hey, we have two values for the spacing,
+
+290
+00:28:21,940 --> 00:28:23,700
+this one or this one.
+
+291
+00:28:25,240 --> 00:28:36,940
+Area V times F yield divide 50 B whip or area V F yield divide 0.75 B whip square root F prime C.
+
+292
+00:28:37,580 --> 00:28:42,920
+Which one I'm going to use the smallest one, the smallest value for this spacing or this spacing.
+
+293
+00:28:45,500 --> 00:28:58,480
+Third is if the ultimate from structure analysis is greater than concrete strengths, that means concrete cannot support alone.
+
+294
+00:28:59,620 --> 00:29:02,360
+We need to add a stirrups with design.
+
+295
+00:29:03,780 --> 00:29:07,800
+So I'm going to figure out the value of Vs supported by
+
+296
+00:29:08,520 --> 00:29:12,880
+stirrups equal V ultimate divide phi minus Vc.
+
+297
+00:29:13,740 --> 00:29:17,040
+And then I can figure out the spacing from this equation.
+
+298
+00:29:21,520 --> 00:29:26,280
+So guys, if you would like to figure out the spacing that
+
+299
+00:29:26,380 --> 00:29:28,620
+required the spacing between the stirrups,
+
+300
+00:29:29,340 --> 00:29:31,140
+we need to go through these steps.
+
+301
+00:29:32,140 --> 00:29:34,500
+First step, what is the value of B?
+
+302
+00:29:35,140 --> 00:29:37,820
+Sometimes it's given in the problem, sometimes no.
+
+303
+00:29:38,300 --> 00:29:39,860
+We need to go back to structure analysis
+
+304
+00:29:40,360 --> 00:29:43,200
+and the draw shear force diagram to figure out the ultimate.
+
+305
+00:29:44,620 --> 00:29:47,860
+Second step, what is the design shear strength for concrete?
+
+306
+00:29:49,100 --> 00:29:49,960
+Pay VC.
+
+307
+00:29:50,680 --> 00:29:53,820
+Third step, you need to assume what is the bar size
+
+308
+00:29:54,200 --> 00:29:58,120
+used for these steers to figure out the value of area B.
+
+309
+00:29:59,160 --> 00:30:00,320
+We have three situations.
+
+310
+00:30:02,080 --> 00:30:10,760
+Start one by one. If you are not here, it takes this one. If you are not here, then you are in the third one.
+
+311
+00:30:11,450 --> 00:30:17,420
+The first condition, if the ultimate is smaller than or equal, this value, no stirrups required.
+
+312
+00:30:17,880 --> 00:30:21,020
+Don't put any stirrups in this beam. Concrete is enough.
+
+313
+00:30:22,380 --> 00:30:29,740
+But if your V ultimate greater than this value and the smaller than this value are critical, concrete is still good.
+
+314
+00:30:29,800 --> 00:30:35,140
+concrete is still good but you are critical so I'm gonna put minimum
+
+315
+00:30:35,300 --> 00:30:40,320
+reinforcement or minimum stirrups your spacing between the stirrups will be
+
+316
+00:30:40,360 --> 00:30:46,780
+this value or this value the smallest one the third one no concrete cannot
+
+317
+00:30:46,920 --> 00:30:55,919
+support shear we need to add serious stirrups so we need to figure out with
+
+318
+00:30:55,920 --> 00:31:02,200
+the shear supported by the stirrups, then I can figure out the spacing between stirrups.
+
+319
+00:31:05,679 --> 00:31:06,660
+So what do you think?
+
+320
+00:31:09,200 --> 00:31:13,660
+Yes, Fey always 0.75.
+
+321
+00:31:21,760 --> 00:31:22,220
+Any question?
+
+322
+00:31:28,279 --> 00:31:29,080
+Okay.
+
+323
+00:31:30,000 --> 00:31:35,780
+So, I just to remind you, it's very important to understand this longest story.
+
+324
+00:31:37,280 --> 00:31:43,840
+In the inside, any reinforced concrete beam, we have different type of reinforcement.
+
+325
+00:31:45,060 --> 00:31:48,520
+The first one longitudinal related to bending moment.
+
+326
+00:31:49,400 --> 00:31:50,740
+we are done with this part.
+
+327
+00:31:51,840 --> 00:31:55,300
+Right now, we are talking about something called stirrups,
+
+328
+00:31:55,660 --> 00:31:57,960
+vertical stirrups.
+
+329
+00:31:59,560 --> 00:32:04,559
+This is stirrups to support shear force diagram
+
+330
+00:32:05,680 --> 00:32:06,600
+on this beam.
+
+331
+00:32:09,320 --> 00:32:11,120
+Finally, the final conclusion,
+
+332
+00:32:11,680 --> 00:32:14,480
+we are going to assume what is the bar size,
+
+333
+00:32:15,720 --> 00:32:17,180
+number three or number four,
+
+334
+00:32:17,600 --> 00:32:20,260
+And then we can figure out the spacing.
+
+335
+00:32:21,500 --> 00:32:23,420
+This is the final conclusion in your design.
+
+336
+00:32:24,640 --> 00:32:29,040
+Assume one parameter and figure out the second parameter.
+
+337
+00:32:31,040 --> 00:32:31,280
+OK?
+
+338
+00:32:32,580 --> 00:32:35,740
+So assume the diameter of the stirrups.
+
+339
+00:32:37,020 --> 00:32:40,880
+Then I can figure out the spacing of these stirrups.
+
+340
+00:32:41,460 --> 00:32:43,100
+Once you figure out the diameter,
+
+341
+00:32:43,470 --> 00:32:46,860
+or you assume the diameter, and you figure out the spacing,
+
+342
+00:32:47,080 --> 00:32:56,740
+are done with your design. This one is for a check because we have maximum spacing. You
+
+343
+00:32:56,800 --> 00:33:04,320
+have no choice to exceed this spacing because someone will say, "Hey, my design gave me
+
+344
+00:33:04,600 --> 00:33:11,879
+this stirrup and another stirrup and this is spacing equal to feet." No, no, we have
+
+345
+00:33:11,880 --> 00:33:20,380
+or three feet or four feet. No, we have maximum spacing. You have to respect. You cannot exceed
+
+346
+00:33:20,820 --> 00:33:27,720
+this limit. For example, your maximum spacing is the smaller between depth divided by two or 24
+
+347
+00:33:28,020 --> 00:33:36,519
+inch. If you are in this case, if you are in this case, so we have this maximum spacing or that
+
+348
+00:33:36,520 --> 00:33:41,140
+maximum is beaten. We will check these during our first example.
+
+349
+00:33:45,460 --> 00:33:54,340
+Let's do this example first. This one. Example number one. Step by step. We have a beam
+
+350
+00:33:56,060 --> 00:34:02,519
+and this beam has a dead load equal to 2.5 but this dead load
+
+351
+00:34:03,640 --> 00:34:11,440
+does not include the weight of the beam. So you are you have more experience right now you are you
+
+352
+00:34:11,440 --> 00:34:26,200
+are genius. You are professional. So all weight of the beam equal to 16 divided by 12 times
+
+353
+00:34:27,720 --> 00:34:45,120
+30 divided by 12 times 150. That's right. So 16 divided by 12 times 30 divided by 12 times 150.
+
+354
+00:34:46,139 --> 00:34:50,940
+Your value is 500 bound bare foot.
+
+355
+00:34:53,879 --> 00:35:04,100
+That means your dead load total will be 2.5 plus 0.5. Remember 500 is bound. It will be 0.5
+
+356
+00:35:04,300 --> 00:35:15,480
+Kibb foot, barefoot. So your total dead load will be 3 Kibb barefoot.
+
+357
+00:35:18,280 --> 00:35:23,560
+your life load will stay the same 3 kip bare foot.
+
+358
+00:35:28,090 --> 00:35:31,220
+So can you tell me what will be the ultimate
+
+359
+00:35:34,060 --> 00:35:40,140
+load value? Yeah, it will be 1.2 dead load plus 1.6 life load.
+
+360
+00:35:41,400 --> 00:35:52,180
+Your final value will be 3 times 1.2 plus 3 times 1.6 8.4 kip per foot.
+
+361
+00:35:58,380 --> 00:36:06,640
+That took a lens at 24, 8.4 so I will go back to structure analysis just to remind you.
+
+362
+00:36:07,800 --> 00:36:18,300
+We have a beam with two tel-lens 24 feet and we have uniform distributed loot
+
+363
+00:36:20,760 --> 00:36:30,860
+how much 8.4 kib per foot. If you would like to draw sheer force diagram we have here
+
+364
+00:36:31,480 --> 00:36:42,120
+reaction and we have uniform distributed loads we have equivalent this one will be 201.6
+
+365
+00:36:43,200 --> 00:36:52,100
+this reaction will be 100.8 100.8 I just divide this one by two because it's symmetric
+
+366
+00:36:53,480 --> 00:37:00,920
+Go up from your left, you are here. From my left, I will go up 100.8. Move dotted
+
+367
+00:37:02,040 --> 00:37:09,680
+until you found this equivalent, I will go down, then make sure keep walking until here you will
+
+368
+00:37:09,760 --> 00:37:17,120
+close to zero so your shear force diagram looks like this. This one will be 100.8. This is called
+
+369
+00:37:17,320 --> 00:37:19,200
+shear force diagram.
+
+370
+00:37:21,760 --> 00:37:26,000
+That means your V ultimate equal.
+
+371
+00:37:26,580 --> 00:37:28,520
+What is the maximum value of shear?
+
+372
+00:37:29,840 --> 00:37:31,000
+Here is the values of shear.
+
+373
+00:37:31,200 --> 00:37:32,140
+What is the maximum value?
+
+374
+00:37:32,240 --> 00:37:34,140
+I don't care about positive or negative.
+
+375
+00:37:34,760 --> 00:37:38,460
+We don't care about signs in shear.
+
+376
+00:37:38,720 --> 00:37:39,280
+We don't care.
+
+377
+00:37:39,980 --> 00:37:42,260
+Our concern, what is the value?
+
+378
+00:37:42,300 --> 00:37:43,860
+What is the absolute value?
+
+379
+00:37:44,480 --> 00:37:47,260
+or what is the absolute maximum value?
+
+380
+00:37:48,060 --> 00:37:51,760
+It's 100.8 kilobytes.
+
+381
+00:37:55,810 --> 00:37:59,480
+From structure analysis.
+
+382
+00:38:01,290 --> 00:38:05,260
+This is the reason why structure analysis course
+
+383
+00:38:05,700 --> 00:38:08,580
+is required before this course.
+
+384
+00:38:09,980 --> 00:38:11,360
+Without structure analysis,
+
+385
+00:38:12,980 --> 00:38:16,380
+Many parts will not be figured out.
+
+386
+00:38:17,960 --> 00:38:19,180
+Any question for this point?
+
+387
+00:38:23,920 --> 00:38:26,500
+Guys, also I don't have any problem.
+
+388
+00:38:27,380 --> 00:38:29,140
+If you have issue, you can use RISA.
+
+389
+00:38:30,640 --> 00:38:32,120
+But this beam is very simple.
+
+390
+00:38:32,980 --> 00:38:39,940
+So we don't need to use RISA, it's very easy, okay?
+
+391
+00:38:42,420 --> 00:38:47,080
+So your V ultimate equal how much?
+
+392
+00:38:47,880 --> 00:38:50,540
+100.8 kips.
+
+393
+00:38:53,090 --> 00:38:54,980
+Do you remember what was the first step?
+
+394
+00:38:56,780 --> 00:38:59,260
+Wow, draw shear force diagram
+
+395
+00:38:59,700 --> 00:39:02,020
+to figure out the value of V ultimate.
+
+396
+00:39:05,140 --> 00:39:11,420
+Second step, calculate the design shear strength of concrete.
+
+397
+00:39:16,299 --> 00:39:26,000
+Vc equal or fae Vc will be fae. I think what was the equation for this one? Do you remember?
+
+398
+00:39:27,380 --> 00:39:30,860
+Here we go, this one.
+
+399
+00:39:33,800 --> 00:39:34,720
+2bwebd
+
+400
+00:39:39,280 --> 00:39:41,380
+will root f prime c.
+
+401
+00:39:43,280 --> 00:39:48,260
+Guys, remember VC alone equal this term alone.
+
+402
+00:39:50,220 --> 00:39:55,020
+But I'm looking for design shear strength of concrete.
+
+403
+00:39:55,340 --> 00:39:57,700
+So I added Faye on the other side also.
+
+404
+00:39:59,120 --> 00:40:00,420
+What was the value of Faye?
+
+405
+00:40:01,480 --> 00:40:03,840
+0.75, you don't need to figure it out.
+
+406
+00:40:04,360 --> 00:40:05,760
+0.75, it's the Conustan number.
+
+407
+00:40:06,160 --> 00:40:11,620
+Two, B-Web, this with the Christine depth.
+
+408
+00:40:12,060 --> 00:40:12,940
+What is the depth here?
+
+409
+00:40:13,340 --> 00:40:15,560
+I'm gonna assume 2.5 covers,
+
+410
+00:40:15,740 --> 00:40:18,140
+so it will be 27.5 or two,
+
+411
+00:40:18,820 --> 00:40:20,080
+and she covered as you like.
+
+412
+00:40:20,880 --> 00:40:22,260
+So I assume that 2.5.
+
+413
+00:40:23,700 --> 00:40:30,820
+So 27.5 time square root f prime c.
+
+414
+00:40:31,280 --> 00:40:33,580
+f prime c is given 3000.
+
+415
+00:40:36,700 --> 00:40:39,460
+Very easy, very easy.
+
+416
+00:40:40,300 --> 00:40:46,840
+So 0.75 time two, time 16, time 27.5,
+
+417
+00:40:48,200 --> 00:40:51,040
+time square root of 3000.
+
+418
+00:40:52,620 --> 00:41:00,480
+This value equal 36149.7 bound.
+
+419
+00:41:04,520 --> 00:41:06,700
+Can you convert it to KIPP?
+
+420
+00:41:06,920 --> 00:41:08,400
+Yeah, I will divide it by 1000.
+
+421
+00:41:08,680 --> 00:41:11,520
+It will be 36.1 KIPP.
+
+422
+00:41:15,580 --> 00:41:16,260
+Favc.
+
+423
+00:41:18,260 --> 00:41:20,120
+36.1 KIPP.
+
+424
+00:41:20,380 --> 00:41:24,120
+the value coming from this equation will be inbound.
+
+425
+00:41:25,120 --> 00:41:28,460
+Go ahead and divide it by 1000 to be in KIPP.
+
+426
+00:41:31,340 --> 00:41:33,620
+I am done with this step.
+
+427
+00:41:34,360 --> 00:41:36,780
+I calculated their design shear strength.
+
+428
+00:41:37,720 --> 00:41:41,740
+Go ahead and assume what is the diameter of the stirrups?
+
+429
+00:41:41,940 --> 00:41:42,860
+So what do you think guys?
+
+430
+00:41:44,400 --> 00:41:47,300
+Go back to the problem, probably they are given,
+
+431
+00:41:47,420 --> 00:41:50,200
+Yeah, the problem give you a hint.
+
+432
+00:41:51,799 --> 00:41:53,880
+Use number four stirrups.
+
+433
+00:41:54,500 --> 00:41:57,360
+So please go ahead and disrespect what's going on
+
+434
+00:41:57,480 --> 00:41:57,940
+the problem.
+
+435
+00:41:58,900 --> 00:42:03,000
+The problem said go ahead and use number four stirrups.
+
+436
+00:42:07,640 --> 00:42:10,000
+So stirrups will be number four.
+
+437
+00:42:11,340 --> 00:42:13,240
+How many legs do you have?
+
+438
+00:42:13,940 --> 00:42:15,780
+Can you watch this cross section which is given?
+
+439
+00:42:16,220 --> 00:42:16,740
+How many legs?
+
+440
+00:42:17,780 --> 00:42:20,180
+One, two legs.
+
+441
+00:42:21,100 --> 00:42:25,120
+So area V will be two legs, time.
+
+442
+00:42:25,820 --> 00:42:28,560
+What is the area of number four open your table?
+
+443
+00:42:29,720 --> 00:42:34,720
+Number four bar size has pointy two area.
+
+444
+00:42:36,720 --> 00:42:40,980
+So time pointy two, your area V will be pointy four
+
+445
+00:42:41,680 --> 00:42:42,120
+inch square.
+
+446
+00:42:49,160 --> 00:42:53,020
+So the third step, we need to assume diameter,
+
+447
+00:42:53,540 --> 00:42:58,000
+but in our case, diameter is given, or bar size is given
+
+448
+00:42:58,420 --> 00:42:59,000
+in the problem.
+
+449
+00:42:59,440 --> 00:43:00,240
+But it's not given.
+
+450
+00:43:00,760 --> 00:43:01,400
+It's not given.
+
+451
+00:43:01,780 --> 00:43:04,960
+You can assume what you want, number three or number four.
+
+452
+00:43:05,720 --> 00:43:09,059
+Then I can calculate area V, which
+
+453
+00:43:09,060 --> 00:43:16,780
+is number of legs time area of one leg. Any question so far?
+
+454
+00:43:20,120 --> 00:43:27,460
+Okay, keep going. We are probably in this case or this case or this case. Let's see.
+
+455
+00:43:30,180 --> 00:43:38,080
+The ultimate is 100.8. Can you tell me what is the value of Fe? Vc divided by 2.
+
+456
+00:43:40,480 --> 00:43:41,700
+Fe Vc
+
+457
+00:43:45,440 --> 00:43:47,100
+equal 36.1.
+
+458
+00:43:50,260 --> 00:43:59,060
+Divide 2, it will be 18.05.
+
+459
+00:44:01,460 --> 00:44:07,900
+No, okay, FeVC equal 36.1.
+
+460
+00:44:09,860 --> 00:44:18,560
+No, so I believe the ultimate, which is 100, is greater than FeVC.
+
+461
+00:44:24,000 --> 00:44:38,540
+V ultimate greater than Vc because this term is 36, this term is 100.8. So you are in this case
+
+462
+00:44:40,340 --> 00:44:51,660
+v_ultimate greater than phi v_c. So we still have only two steps. First step, v_s equal v_ultimate
+
+463
+00:44:51,660 --> 00:45:01,580
+divide phi minus VC. So VS equal V ultimate divide phi minus VC.
+
+464
+00:45:06,590 --> 00:45:15,540
+V ultimate 100.8 divide phi 0.75. What is the value of VC? Do you remember?
+
+465
+00:45:19,500 --> 00:45:25,940
+48.13. Wow, how can I get this number? Guys,
+
+466
+00:45:27,500 --> 00:45:33,000
+fae vc equal 36.1, but we are looking for vc only.
+
+467
+00:45:33,680 --> 00:45:39,940
+Go ahead and divide this number by fae. It will be 48.30.
+
+468
+00:45:42,480 --> 00:45:48,140
+So I can figure out the value of vs. Your value will be
+
+469
+00:45:52,600 --> 00:45:55,820
+86.27 kips.
+
+470
+00:45:57,660 --> 00:46:08,800
+Last step, you're spacing equal. Area V, F yield, depth, divide Vs. So you're spacing
+
+471
+00:46:09,040 --> 00:46:30,020
+equal. Area V, F yield, what? Depth divided VS. What is the value of area V? 0.4. Do you
+
+472
+00:46:30,020 --> 00:46:40,400
+remember? 0.4. What is the value of F yield it's given in the problem? 4D thousand.
+
+473
+00:46:46,680 --> 00:46:56,400
+What is the value of depth? 27.5. What is the value of ES 86.27? Time 1000 please.
+
+474
+00:46:58,100 --> 00:47:13,120
+Why time 1000? Because this value in kip and if yield in bound, they're inch square. So this one in kip, this one in bound, I need to convert from kip to bound. So I multiplied by 1000.
+
+475
+00:47:14,580 --> 00:47:26,400
+Your final answer of S will be 0.4 times 40,000 times 27.5 divided by this number times 1000.
+
+476
+00:47:27,240 --> 00:47:30,180
+It will be 5.1 inches.
+
+477
+00:47:36,160 --> 00:47:38,260
+5.1 inches.
+
+478
+00:47:40,420 --> 00:47:46,580
+that means in this beam I have to put vertical stirrups
+
+479
+00:47:50,360 --> 00:48:06,240
+with number four sides at 5.1 inch it's written like this in the final in the shop drawing
+
+480
+00:48:08,500 --> 00:48:18,160
+layout or something like this it will be written like this number four at five point one inch
+
+481
+00:48:18,900 --> 00:48:29,140
+how can i read this expression number four which is the size of bars at means spacing every
+
+482
+00:48:29,700 --> 00:48:39,940
+each 5.1 inch. So if you would like to make it more easy for construction,
+
+483
+00:48:40,940 --> 00:48:49,480
+so you can 5.1 will be 5. Number 4 add 5 inch spacing. It will be more easy.
+
+484
+00:48:50,540 --> 00:48:57,859
+So your design of a stirrup, stirrups for this beam based on the shear force diagram
+
+485
+00:48:58,820 --> 00:49:05,760
+and you assumed number four size I'm gonna take every five inch
+
+486
+00:49:06,580 --> 00:49:08,520
+stirrups spacing
+
+487
+00:49:14,120 --> 00:49:19,360
+if you check the maximum spacing I believe five inch will be within or smaller than maximum
+
+488
+00:49:19,940 --> 00:49:26,260
+because you are talking about 24 inch or depth divide to something very very high so I believe
+
+489
+00:49:26,260 --> 00:49:38,440
+5 inch will be good for the maximum stirrups chip. So guys what do you think?
+
+490
+00:49:42,220 --> 00:49:45,240
+It's very easy, designed for shear, it's very easy.
+
+491
+00:49:49,620 --> 00:49:50,720
+Do you have any question?
+
+492
+00:49:55,140 --> 00:50:01,700
+Do you have any question? Okay.
+
+493
+00:50:03,300 --> 00:50:06,080
+Yeah, I have a question. Yeah.
+
+494
+00:50:07,460 --> 00:50:08,500
+For the ultimate.
+
+495
+00:50:10,340 --> 00:50:11,440
+How did you?
+
+496
+00:50:12,420 --> 00:50:14,780
+How did you like determine that exactly? So.
+
+497
+00:50:15,620 --> 00:50:20,480
+Let's say, okay, so let's say if we had a beam that didn't have a uniform distributed load.
+
+498
+00:50:21,680 --> 00:50:24,840
+And we had different values for reactions and etc.
+
+499
+00:50:26,080 --> 00:50:29,580
+How would you determine the ultimate from there?
+
+500
+00:50:31,099 --> 00:50:33,720
+What you mean by the ultimate shear? You mean?
+
+501
+00:50:34,160 --> 00:50:37,060
+Yes, ultimate shear. Yes. Okay, actually,
+
+502
+00:50:37,380 --> 00:50:42,900
+ultimate shear to figure it out, you have to draw shear force diagram.
+
+503
+00:50:47,700 --> 00:50:50,120
+Sometimes you have shear force diagram like this.
+
+504
+00:50:50,380 --> 00:50:51,920
+For example, like this.
+
+505
+00:50:55,000 --> 00:50:55,640
+For any reason.
+
+506
+00:50:57,460 --> 00:51:00,740
+So once you draw your sheer force diagram,
+
+507
+00:51:02,480 --> 00:51:05,080
+go ahead and search for the maximum value.
+
+508
+00:51:05,300 --> 00:51:06,520
+What is the value here?
+
+509
+00:51:07,280 --> 00:51:08,240
+What is the value here?
+
+510
+00:51:08,660 --> 00:51:09,300
+What is the value?
+
+511
+00:51:09,460 --> 00:51:11,940
+I don't care which one is positive, which one is negative.
+
+512
+00:51:12,220 --> 00:51:13,120
+I don't care about sign.
+
+513
+00:51:13,540 --> 00:51:14,400
+What is the value here?
+
+514
+00:51:14,600 --> 00:51:15,420
+What is the value here?
+
+515
+00:51:15,520 --> 00:51:16,340
+What is the value here?
+
+516
+00:51:16,440 --> 00:51:17,720
+And it gets the maximum one.
+
+517
+00:51:19,300 --> 00:51:25,320
+So V ultimate is the maximum value from shear force diagram.
+
+518
+00:51:26,920 --> 00:51:31,180
+Because sometimes your beam has uniform,
+
+519
+00:51:31,820 --> 00:51:35,620
+has concentrated, has moment, has something different.
+
+520
+00:51:36,240 --> 00:51:39,120
+So you have to draw shear force diagram first
+
+521
+00:51:39,520 --> 00:51:42,680
+to figure out the maximum value of shear.
+
+522
+00:51:43,360 --> 00:51:48,380
+But if your beam is simply supported
+
+523
+00:51:48,380 --> 00:51:56,220
+With only uniform distributed load, your shear will be the same like your reaction.
+
+524
+00:51:57,640 --> 00:51:58,800
+It's only special case.
+
+525
+00:52:02,540 --> 00:52:09,580
+Simply supported, uniform distributed load only, your maximum shear will be the same
+
+526
+00:52:10,260 --> 00:52:16,840
+value for reaction. You don't need to draw shear for the diagram. This is your question, Brock?
+
+527
+00:52:16,940 --> 00:52:20,840
+>> Yes sir, that's exactly what I meant.
+
+528
+00:52:20,960 --> 00:52:21,320
+Thank you.
+
+529
+00:52:21,810 --> 00:52:21,960
+>> Yeah.
+

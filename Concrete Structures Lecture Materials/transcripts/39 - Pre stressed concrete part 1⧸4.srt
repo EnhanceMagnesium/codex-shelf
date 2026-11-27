@@ -1,0 +1,1736 @@
+1
+00:00:02,260 --> 00:00:11,460
+Our topic today is about pre-stressed concrete. I understand and I know you understand what
+
+2
+00:00:11,460 --> 00:00:24,120
+is the meaning of pre-stressed. All of us learned before that concrete is very strong
+
+3
+00:00:24,760 --> 00:00:37,940
+under compression, but very weak under tension. Concrete cannot support tension. So the typical
+
+4
+00:00:39,380 --> 00:00:46,640
+way or the typical method to overcome this tensile stress to add reinforcement.
+
+5
+00:00:49,560 --> 00:00:53,320
+you remember that if you have a beam
+
+6
+00:00:58,250 --> 00:01:08,080
+like this and this beam is supported by a column here and another column there
+
+7
+00:01:10,700 --> 00:01:15,640
+and you have a load or loads on this beam I believe
+
+8
+00:01:17,720 --> 00:01:22,880
+or based also on the bending moment, I believe the tension will be at the bottom
+
+9
+00:01:24,540 --> 00:01:26,820
+and the compression will be at the top.
+
+10
+00:01:30,180 --> 00:01:36,100
+So the typical way to overcome this tension because concrete cannot support tension.
+
+11
+00:01:36,940 --> 00:01:44,120
+I'm going to add longitudinal bars of reinforcement like this at the bottom of this beam.
+
+12
+00:01:46,940 --> 00:01:59,400
+And we learned how we can figure out that required the area steal and how we can figure out the number of bars and what are or what is the size of these bars.
+
+13
+00:02:01,320 --> 00:02:02,100
+That's right.
+
+14
+00:02:03,500 --> 00:02:05,120
+Just to give me M ultimate.
+
+15
+00:02:06,960 --> 00:02:13,980
+and I can figure out M ultimate divide Fae BD square, then I can use a table to figure out
+
+16
+00:02:14,300 --> 00:02:21,020
+rho, then I can use a expression to figure out the area steel, then I can convert this area steel
+
+17
+00:02:21,180 --> 00:02:31,439
+to a number of bars and the size. Okay, we have a different technique. Probably I will not use
+
+18
+00:02:32,320 --> 00:02:42,520
+reinforcement. I'm sorry. So how can I support this tension? Okay, let me explain it in a very
+
+19
+00:02:42,740 --> 00:02:53,260
+simple way to understand the concept. We have a column, two columns here, and here is the B.
+
+20
+00:02:53,760 --> 00:03:02,300
+Okay, all of us understand that we have compression here and we have tension here.
+
+21
+00:03:05,880 --> 00:03:14,080
+We don't need this tension. We need to eliminate. But how? The applied loot
+
+22
+00:03:16,640 --> 00:03:21,060
+will cause this beam to be broken like this.
+
+23
+00:03:22,780 --> 00:03:25,020
+So I believe tension will be at the bottom.
+
+24
+00:03:27,100 --> 00:03:30,140
+That the typical way to add reinforcement
+
+25
+00:03:30,520 --> 00:03:31,620
+to support this tension.
+
+26
+00:03:31,740 --> 00:03:32,860
+Now we have a different technique.
+
+27
+00:03:33,260 --> 00:03:34,140
+What is your technique?
+
+28
+00:03:36,060 --> 00:03:41,039
+What do you think if I add compression force
+
+29
+00:03:42,640 --> 00:03:50,980
+from this side and the compression force from the other side at the bottom location of this beam.
+
+30
+00:03:53,600 --> 00:04:03,660
+We have compression due to this force and we have tension due to the effect of applied force.
+
+31
+00:04:06,250 --> 00:04:10,600
+From yourself you are standing here and you cause this tension.
+
+32
+00:04:11,680 --> 00:04:18,340
+So my technique or my new technique, okay, I will add a compression force from this side
+
+33
+00:04:18,600 --> 00:04:22,480
+and another compression force with the same value, but in opposite direction,
+
+34
+00:04:23,780 --> 00:04:29,200
+this compression force will eliminate this tension.
+
+35
+00:04:32,260 --> 00:04:38,980
+That means the final conclusion, we have compression here and we have compression here.
+
+36
+00:04:40,240 --> 00:04:50,880
+We don't have tension. Do you think we still need reinforcement? No. No, because the whole concrete
+
+37
+00:04:51,500 --> 00:05:02,160
+is under compression. And the concrete is good in compression, so we don't need any reinforcement.
+
+38
+00:05:05,200 --> 00:05:12,740
+So how can I add this compression force and this compression force? This is the meaning of
+
+39
+00:05:13,160 --> 00:05:25,400
+brief stressing. What is the meaning of pre? Pre means previous. What does it mean? It means
+
+40
+00:05:27,040 --> 00:05:36,340
+you construct this building or this beam. That's right. Before you and your family
+
+41
+00:05:38,460 --> 00:05:43,760
+in your apartment at this location, before this situation,
+
+42
+00:05:46,800 --> 00:05:52,440
+we oblige this compression. So your beam is
+
+43
+00:05:52,860 --> 00:05:59,500
+Bree stressed. You oblige Bree compression.
+
+44
+00:06:01,480 --> 00:06:05,180
+Before using this building you oblige Bree
+
+45
+00:06:05,940 --> 00:06:10,740
+looting. Coming from this force and this force. This is a meaning of Bree
+
+46
+00:06:11,280 --> 00:06:21,960
+previous, before. So, breathe, stressing, you apply it, breathe, stress on the beam. Then,
+
+47
+00:06:22,940 --> 00:06:33,180
+you and your family coming to this building, you apply it, life loot, this life loot alone
+
+48
+00:06:34,080 --> 00:06:39,580
+will make tension. But because you have breviance, you have
+
+49
+00:06:39,820 --> 00:06:44,660
+breathe compression, you have breathe stress, this tension,
+
+50
+00:06:45,540 --> 00:06:50,760
+blood, this breathe compression, the final stress will be compression.
+
+51
+00:06:53,480 --> 00:06:54,420
+Any questions, Sufab?
+
+52
+00:06:57,160 --> 00:07:04,060
+It's a good question. In what case? But before what case, we need to understand
+
+53
+00:07:04,060 --> 00:07:06,240
+What is the meaning of pre-stressed?
+
+54
+00:07:08,699 --> 00:07:11,620
+Okay, any questions so far?
+
+55
+00:07:21,299 --> 00:07:26,800
+For typical reinforcement, probably this beam
+
+56
+00:07:28,740 --> 00:07:30,340
+span lens
+
+57
+00:07:31,860 --> 00:07:33,580
+something around 10
+
+58
+00:07:35,340 --> 00:07:36,280
+20
+
+59
+00:07:38,419 --> 00:07:42,060
+maximum probably 30 feet
+
+60
+00:07:44,800 --> 00:07:52,360
+As you know the bending moment diagram M ultimate equal W L square divided 8
+
+61
+00:07:54,740 --> 00:07:56,380
+So once you're L
+
+62
+00:07:56,820 --> 00:08:09,500
+which is a span lens, increased, this L will be squared. So I expect huge
+
+63
+00:08:10,460 --> 00:08:18,400
+increase in the moment. If you have huge number of moments, that means we have a
+
+64
+00:08:18,460 --> 00:08:26,180
+huge number of reinforcement. Many, many, many bars we need. What do you think if
+
+65
+00:08:26,180 --> 00:08:31,180
+If you have this band, probably 50, 60, 100.
+
+66
+00:08:35,300 --> 00:08:39,360
+Yeah, we can add reinforcement, but how many?
+
+67
+00:08:40,620 --> 00:08:40,960
+How many?
+
+68
+00:08:42,099 --> 00:08:44,940
+You need probably 100 bars, 200 bars,
+
+69
+00:08:45,600 --> 00:08:46,480
+doesn't make any sense.
+
+70
+00:08:47,740 --> 00:08:49,400
+So we failed.
+
+71
+00:08:51,380 --> 00:08:53,660
+Making this solution is impossible.
+
+72
+00:08:54,820 --> 00:08:57,880
+or making this solution is costly.
+
+73
+00:08:59,800 --> 00:09:02,400
+So the only, the other option,
+
+74
+00:09:03,180 --> 00:09:05,460
+I'm gonna use this technique.
+
+75
+00:09:06,120 --> 00:09:08,940
+I will eliminate the tension
+
+76
+00:09:10,580 --> 00:09:13,900
+and they make all of stresses are compression
+
+77
+00:09:14,900 --> 00:09:17,960
+and no need to steal reinforcement.
+
+78
+00:09:19,400 --> 00:09:23,180
+So when I'm gonna use this technique
+
+79
+00:09:23,180 --> 00:09:32,480
+for large spin and phase or quickly construction.
+
+80
+00:09:34,950 --> 00:09:37,480
+If you have a bridge, we don't have time
+
+81
+00:09:38,380 --> 00:09:40,280
+to interrupt the traffic.
+
+82
+00:09:41,340 --> 00:09:45,720
+So both tensioning or pre-stressing beams
+
+83
+00:09:46,340 --> 00:09:50,520
+is the most easy or faster construction technique.
+
+84
+00:09:54,600 --> 00:09:58,260
+Let's go back and understand what's going on.
+
+85
+00:09:58,460 --> 00:10:02,420
+So because of the low tensile strengths of concrete,
+
+86
+00:10:02,540 --> 00:10:04,420
+because concrete is very weak,
+
+87
+00:10:05,440 --> 00:10:08,720
+flexural cracks develop at early stage.
+
+88
+00:10:09,060 --> 00:10:10,480
+We can expect cracking.
+
+89
+00:10:14,120 --> 00:10:17,420
+Stereoenforcement provides the tensile strengths
+
+90
+00:10:17,600 --> 00:10:20,280
+that the concrete is incapable of developing.
+
+91
+00:10:20,500 --> 00:10:23,160
+Okay, concrete cannot support the tension.
+
+92
+00:10:23,400 --> 00:10:26,600
+Okay, steel reinforcement will support this tension.
+
+93
+00:10:27,420 --> 00:10:32,419
+However, it is possible to involve an initial state
+
+94
+00:10:33,460 --> 00:10:36,680
+of stress such that when the stresses
+
+95
+00:10:36,860 --> 00:10:39,480
+from the applied load are added,
+
+96
+00:10:39,860 --> 00:10:41,440
+not on silent stress, okay.
+
+97
+00:10:44,760 --> 00:10:49,040
+I can apply compression force from this side and this side.
+
+98
+00:10:49,780 --> 00:10:54,260
+This compression stress will cause brief stressing here,
+
+99
+00:10:54,920 --> 00:10:55,600
+but compression.
+
+100
+00:10:56,720 --> 00:11:00,680
+When you add your applied load, this applied load
+
+101
+00:11:00,760 --> 00:11:01,700
+will cause tension.
+
+102
+00:11:01,980 --> 00:11:04,980
+So tension plus compression, the final is compression.
+
+103
+00:11:07,920 --> 00:11:10,280
+Once your cross section, the whole cross section
+
+104
+00:11:10,460 --> 00:11:12,000
+under compression and to compression,
+
+105
+00:11:12,240 --> 00:11:13,320
+I don't care about the value.
+
+106
+00:11:13,640 --> 00:11:15,860
+Compression, compression, compression, I'm good.
+
+107
+00:11:16,200 --> 00:11:16,880
+Concrete is good.
+
+108
+00:11:17,540 --> 00:11:18,920
+No need to steer reinforcement.
+
+109
+00:11:22,300 --> 00:11:22,940
+One more time.
+
+110
+00:11:24,180 --> 00:11:28,940
+The original or the first situation, you have a beam,
+
+111
+00:11:29,700 --> 00:11:30,320
+we have load.
+
+112
+00:11:32,020 --> 00:11:34,000
+That means we have neutral axis.
+
+113
+00:11:35,380 --> 00:11:37,660
+Above the neutral axis is under compression.
+
+114
+00:11:38,120 --> 00:11:41,040
+Below the neutral axis, we have tension.
+
+115
+00:11:43,020 --> 00:11:44,740
+We need to eliminate this tension.
+
+116
+00:11:45,380 --> 00:11:51,340
+So I added this compression force at the bottom.
+
+117
+00:11:52,340 --> 00:11:53,160
+Why at the bottom?
+
+118
+00:11:53,740 --> 00:11:55,120
+That makes sense, because you already
+
+119
+00:11:55,200 --> 00:11:56,640
+have tension at the bottom.
+
+120
+00:11:57,700 --> 00:12:00,120
+So I will add this compression and this compression
+
+121
+00:12:00,300 --> 00:12:00,820
+at the bottom.
+
+122
+00:12:01,880 --> 00:12:04,860
+These compression forces will make compression.
+
+123
+00:12:06,240 --> 00:12:09,640
+If you add this one, but this one, so we have compression.
+
+124
+00:12:09,900 --> 00:12:10,600
+We have tension.
+
+125
+00:12:10,980 --> 00:12:13,080
+This compression will eliminate this tension.
+
+126
+00:12:17,480 --> 00:12:23,620
+So the initial state of stress is provided by high strength tendons compressing the concrete.
+
+127
+00:12:23,900 --> 00:12:30,300
+The breast-tracing force keeps all or most of the member cross-section in compression.
+
+128
+00:12:31,300 --> 00:12:34,040
+This is the philosophy of breast-tracing.
+
+129
+00:12:35,300 --> 00:12:39,820
+need to eliminate any tension, any tensile stresses.
+
+130
+00:12:46,540 --> 00:12:56,940
+Remember, you are talking about huge amount of force. This force will be very
+
+131
+00:12:56,980 --> 00:13:07,240
+high. So we are going to use high strength tendons. Something very strong. We have different
+
+132
+00:13:07,820 --> 00:13:17,160
+shapes, different types of these tendons. Sometimes we call it strands. Restressing
+
+133
+00:13:17,260 --> 00:13:27,780
+tendons can be single wire, only one wire, only one, or strands composed of several wires
+
+134
+00:13:28,460 --> 00:13:32,720
+twisted together, like this one, or this one, or this one.
+
+135
+00:13:36,520 --> 00:13:41,280
+So this one can be called strands.
+
+136
+00:13:42,380 --> 00:13:51,600
+means many wires twisted together to make this strength. Sometimes it's they are seven
+
+137
+00:13:51,720 --> 00:14:04,220
+wires. Seven wires the strands means we have one, two, three, four, five, six. These six
+
+138
+00:14:04,260 --> 00:14:14,580
+wires are twisted around central one. So seven wire strands manufactured by twisting six wires
+
+139
+00:14:14,880 --> 00:14:24,460
+around a larger straight central wire are the most widely used. This shape is most widely used.
+
+140
+00:14:26,510 --> 00:14:34,240
+Can you look to this one? I believe this one is seven wires. Can you look? So we have central one
+
+141
+00:14:35,500 --> 00:14:39,900
+How many other bars, wires, one, two, three, four, five, six.
+
+142
+00:14:40,080 --> 00:14:43,120
+So this one is seven wire, strand.
+
+143
+00:14:45,500 --> 00:14:51,040
+Strands come in two grades, 250 kci, 270 kci.
+
+144
+00:14:51,220 --> 00:14:59,800
+Guys, can you imagine the strands of these wires or these strands?
+
+145
+00:15:00,780 --> 00:15:03,720
+Okay, I can explain it to you to imagine.
+
+146
+00:15:06,580 --> 00:15:13,860
+Anybody can remind me what is the meaning of this diagram?
+
+147
+00:15:18,060 --> 00:15:18,760
+Do you remember that?
+
+148
+00:15:23,980 --> 00:15:25,600
+Do you remember this diagram?
+
+149
+00:15:26,340 --> 00:15:28,940
+We learned it in the first week, in this course.
+
+150
+00:15:32,620 --> 00:15:54,460
+Thank you. Thank you. Stress strain curve, stress strain curve for steel. If you have a steel bar under tension and you are measuring the force and the elongation delta, you can construct this diagram and we cover this before.
+
+151
+00:15:54,460 --> 00:16:22,880
+just to let me imagine anybody can remind me what is the value of F yield I believe in our course our F yield probably 40,000 PSI 50,000 PSI 70,000 PSI if you would like to get it KSI 40 50 70.
+
+152
+00:16:24,240 --> 00:16:27,740
+I'm sorry, KSI.
+
+153
+00:16:28,820 --> 00:16:38,740
+So the maximum or the strongest steel reinforcement that we learned was KSI.
+
+154
+00:16:41,660 --> 00:16:51,840
+But you are talking about strands with ultimate capacity 250 and 270.
+
+155
+00:16:53,260 --> 00:17:06,780
+That means you are talking about value here 250 or 270. Do you think this
+
+156
+00:17:06,939 --> 00:17:13,959
+stereo enforcement is strong like this one? No. We have a very strong material.
+
+157
+00:17:15,280 --> 00:17:24,640
+Strengths, the maximum, the grades 250 and 270, the grades for the maximum
+
+158
+00:17:24,880 --> 00:17:27,760
+mysterious enforcement, the strongest one was 60.
+
+159
+00:17:28,920 --> 00:17:39,080
+60, so please compare 60 to 270 to imagine what is the strength for these
+
+160
+00:17:39,200 --> 00:17:42,920
+wires. What is the strength for these strands?
+
+161
+00:17:43,260 --> 00:17:44,460
+Did you imagine?
+
+162
+00:17:51,019 --> 00:17:57,380
+It doesn't matter. All of them or one of them. I don't care about the cross-section.
+
+163
+00:17:58,840 --> 00:18:03,860
+I don't care about the cross-section. The material. I'm talking about material.
+
+164
+00:18:07,660 --> 00:18:09,320
+I talking about material.
+
+165
+00:18:12,580 --> 00:18:16,240
+For strands and the material for a stereo force.
+
+166
+00:18:17,660 --> 00:18:26,740
+I don't care about what is the cross section, how many wires, no, this is not my problem. I'm talking about material.
+
+167
+00:18:35,260 --> 00:18:45,260
+So, you are talking about a very strong material, a very strong element, because this element
+
+168
+00:18:46,060 --> 00:18:51,080
+will be looted by a huge amount of force.
+
+169
+00:18:51,490 --> 00:18:54,600
+So it's dangerous because...
+
+170
+00:18:54,600 --> 00:19:02,840
+Anyway, so where I will put the tendon?
+
+171
+00:19:06,160 --> 00:19:21,960
+Tendons will apply compression on concrete and that makes sense for me.
+
+172
+00:19:23,500 --> 00:19:35,480
+That means tendons must be at the tension tight.
+
+173
+00:19:37,070 --> 00:19:37,840
+In concrete.
+
+174
+00:19:39,850 --> 00:19:43,340
+For example, we have a beam to span.
+
+175
+00:19:44,700 --> 00:19:56,000
+remember that the bending moment which is drawn at the compression site
+
+176
+00:20:01,500 --> 00:20:09,420
+that means at this location compression will be at the top tension will be at
+
+177
+00:20:09,460 --> 00:20:15,320
+bottom that makes sense we expect here tension so your tendon will be at this
+
+178
+00:20:15,420 --> 00:20:22,300
+location at support compression at the bottom tension at the top so we expect
+
+179
+00:20:22,320 --> 00:20:29,920
+the tension here so your tendon will be here at the other side compression at
+
+180
+00:20:29,980 --> 00:20:34,779
+the top so tension at the bottom so we expect tension here so the tendon will
+
+181
+00:20:34,780 --> 00:20:44,880
+be here. So I can but the tendon profile looks like this. Why this shape? Because I
+
+182
+00:20:44,960 --> 00:20:56,880
+need to bath through any tension in the beam. That makes sense. That makes sense
+
+183
+00:20:56,940 --> 00:21:11,720
+for you? It's very important. It's very important because you are applying this compression force
+
+184
+00:21:12,310 --> 00:21:21,360
+to overcome the tension. Doesn't make any sense to put this compression force at the compression.
+
+185
+00:21:22,060 --> 00:21:25,820
+So compression, plus compression, you will make this beam to be filled.
+
+186
+00:21:27,100 --> 00:21:35,560
+We need to overcome the tension. So the sense is to bought these tendons with a profile,
+
+187
+00:21:36,010 --> 00:21:42,880
+looks like parabola, looks like triangle, looks like terbizoidal, shape anything. I don't care.
+
+188
+00:21:43,860 --> 00:21:48,940
+To overcome the tension, so please go ahead and figure out where is your tension.
+
+189
+00:21:49,820 --> 00:21:56,960
+I can decide what is the profile of this term. How can I figure out the tension? You learned this
+
+190
+00:21:57,220 --> 00:22:03,040
+before. Go ahead and draw your bending moment diagram. Bending moment diagram is drawn at
+
+191
+00:22:03,140 --> 00:22:08,500
+the compression side. If you can figure out where is the compression side, I can figure out where is
+
+192
+00:22:08,500 --> 00:22:12,400
+the tension side. We learned this before.
+
+193
+00:22:19,320 --> 00:22:28,460
+We have two techniques of breathe-stressing. One called breathe tension and one called
+
+194
+00:22:28,660 --> 00:22:43,280
+BOST tension. By the way, BREE means previous, BEFORE. BOST means AFTER. Before or after what?
+
+195
+00:22:44,860 --> 00:22:45,920
+BOOING of concrete.
+
+196
+00:22:50,980 --> 00:23:01,640
+So for pre-tension, the tendons are bolt to the specified tensile force before placing the concrete.
+
+197
+00:23:03,160 --> 00:23:18,120
+Then concrete is bored around the tendon. After the concrete reaches a specified strength, probably after seven days or 14 days, the tendons are cut at the anchorage.
+
+198
+00:23:18,660 --> 00:23:23,760
+compressive stress caused by the shortening of the wires because these
+
+199
+00:23:23,860 --> 00:23:29,840
+wires looks like rubber band would like to go back you are stretching them you
+
+200
+00:23:29,940 --> 00:23:36,740
+are pulling them after cutting them these strands would like to go back so you
+
+201
+00:23:36,740 --> 00:23:47,220
+can expect a compressive stress okay the other technique no the tendons are free
+
+202
+00:23:48,120 --> 00:23:54,660
+to slide within the member inside tubes, sheath, or conduits.
+
+203
+00:23:56,980 --> 00:24:04,480
+After the concrete hardens, we board concrete and we are waiting for 14 days or 28 days without breathe stress.
+
+204
+00:24:05,560 --> 00:24:13,620
+Then I will place these tendons through these tubes inside concrete and try to jacking them.
+
+205
+00:24:14,220 --> 00:24:21,680
+Then tubes may be or may not be subsequently grouted to be bonded to prevent corrosion
+
+206
+00:24:22,220 --> 00:24:25,840
+that you can also be filled with corrosion resistance grease.
+
+207
+00:24:26,990 --> 00:24:29,600
+I will show you two videos.
+
+208
+00:24:33,420 --> 00:24:35,000
+Let's start with the first one.
+
+209
+00:24:51,420 --> 00:24:57,240
+Show you what is the difference between pre-attention and the post-attention.
+
+210
+00:24:57,920 --> 00:25:03,680
+Put yourself a nectar now. You'll get $399 worth of accessories. $365 now.
+
+211
+00:25:13,980 --> 00:25:15,500
+Pre-stressed concrete.
+
+212
+00:25:20,420 --> 00:25:26,780
+In case of big concrete construction projects like bridges, steel reinforcement bars alone
+
+213
+00:25:27,040 --> 00:25:30,740
+won't be sufficient to provide the necessary tensile strength.
+
+214
+00:25:31,390 --> 00:25:34,860
+In this case, pre-stressed concrete is being used.
+
+215
+00:25:37,800 --> 00:25:43,780
+In pre-stressing, the rods or tendons are stretched along the axis and cement is poured.
+
+216
+00:25:44,320 --> 00:25:50,400
+Later when the tendons are released the compression is generated at the bottom, which tries to
+
+217
+00:25:50,400 --> 00:25:54,960
+counterbalance the compression due to loading at the top part of the beam.
+
+218
+00:25:56,500 --> 00:26:02,040
+The principle behind pre-stressed concrete is that compressive stresses induced by the
+
+219
+00:26:02,120 --> 00:26:07,740
+high strength steel tendons in a concrete member before loads are applied. This will
+
+220
+00:26:07,820 --> 00:26:11,600
+balance the stresses imposed in the member during the service.
+
+221
+00:26:15,600 --> 00:26:22,380
+Most concrete can be used for the construction of roofs, floors, walls, and bridges with longer
+
+222
+00:26:22,580 --> 00:26:23,800
+unsupported spans.
+
+223
+00:26:24,540 --> 00:26:30,420
+Pre-stressing is generally done by two methods, pre-tensioned concrete and post-tensioned
+
+224
+00:26:30,440 --> 00:26:30,820
+concrete.
+
+225
+00:26:32,760 --> 00:26:34,220
+Pre-tensioned concrete.
+
+226
+00:26:35,140 --> 00:26:39,860
+Pre-tensioned concrete is those in which the tendons are tensioned before pouring of
+
+227
+00:26:39,960 --> 00:26:40,340
+concrete.
+
+228
+00:26:40,840 --> 00:26:47,480
+The tendons are initially tensioned and anchored at both end and then concrete is poured over it and cured.
+
+229
+00:26:48,380 --> 00:26:54,820
+When the concrete attains desired strength, the tendons are released and projections are cut out.
+
+230
+00:26:55,480 --> 00:26:58,720
+The pre-stress imparts into being through born action.
+
+231
+00:27:00,780 --> 00:27:02,060
+Post-tensioned concrete.
+
+232
+00:27:02,760 --> 00:27:08,140
+In post-tensioned concrete, the tendons are tensions after the concrete is poured.
+
+233
+00:27:10,340 --> 00:27:14,500
+Initially, the concrete is cast around the sheathing.
+
+234
+00:27:16,590 --> 00:27:20,240
+The ducts are formed in concrete in which tendons are placed.
+
+235
+00:27:23,479 --> 00:27:29,140
+After the concrete is hardened, the tendons are tensioned by hydraulic jacks and anchored.
+
+236
+00:27:31,200 --> 00:27:36,380
+In case of bonded type tendons, the duct is grouted with sufficient slurry.
+
+237
+00:27:38,560 --> 00:27:42,920
+In the unbounded type of tendons, grouting is not necessary.
+
+238
+00:27:45,100 --> 00:27:46,980
+We will learn about this later.
+
+239
+00:27:47,720 --> 00:27:48,820
+Thank you for watching.
+
+240
+00:27:49,820 --> 00:27:50,260
+Stay tuned.
+
+241
+00:27:51,220 --> 00:27:52,600
+The best is yet to come.
+
+242
+00:27:53,380 --> 00:27:53,740
+Kindly.
+
+243
+00:27:55,940 --> 00:28:03,560
+So, we have two types of breast-dressing.
+
+244
+00:28:05,240 --> 00:28:05,640
+Breast tension.
+
+245
+00:28:07,620 --> 00:28:16,060
+You are boiling the tendons first, boring concrete, then cut the tendons.
+
+246
+00:28:17,050 --> 00:28:19,840
+The second technique, both tensioned.
+
+247
+00:28:22,420 --> 00:28:28,240
+need to pour concrete first but before pouring concrete you have to locate you have to
+
+248
+00:28:29,440 --> 00:28:38,880
+bought tubes or sheath or conduits inside concrete at the location you need to bought tendons
+
+249
+00:28:39,820 --> 00:28:46,260
+then pour concrete and wait for many days for full strength of concrete curing all of this stuff
+
+250
+00:28:46,660 --> 00:28:52,500
+Then you need to base the tendons through these tubes
+
+251
+00:28:53,930 --> 00:28:59,700
+and then apply both tension and then probably apply grouting or
+
+252
+00:29:01,560 --> 00:29:03,580
+corrosion resistance grease.
+
+253
+00:29:04,290 --> 00:29:12,860
+The second video will show you the techniques used in constructing a bridge.
+
+254
+00:29:19,340 --> 00:29:20,740
+[inaudible]
+
+255
+00:29:33,140 --> 00:29:41,380
+Reinforcement, this reinforcement are minimum for shear, for torsion, for shrinkage, not
+
+256
+00:29:41,810 --> 00:29:46,320
+main steel reinforcement, because the main steel reinforcement will be sub, we will not
+
+257
+00:29:46,440 --> 00:29:49,360
+need this reinforcement for tension.
+
+258
+00:29:49,410 --> 00:29:56,660
+We need reinforcement for another issues, like torsion, like shear, like shrinkage, like
+
+259
+00:29:57,180 --> 00:29:57,440
+creep.
+
+260
+00:30:00,760 --> 00:30:27,960
+Installed bar share, but in
+
+261
+00:30:27,980 --> 00:30:30,480
+7. Complete install of every tender.
+
+262
+00:30:31,060 --> 00:30:33,020
+8. Complete sign form work.
+
+263
+00:30:33,780 --> 00:30:36,200
+9. Complete end of form work.
+
+264
+00:30:37,160 --> 00:30:38,620
+10. Complete team.
+
+265
+00:30:42,880 --> 00:30:44,580
+11. Install anchor.
+
+266
+00:30:45,020 --> 00:30:47,480
+Then applying the both tension.
+
+267
+00:30:48,800 --> 00:30:52,780
+Guys, if you pull these tendons, we need to put anchors.
+
+268
+00:30:53,350 --> 00:30:55,019
+So anchors is
+
+269
+00:31:15,039 --> 00:31:25,000
+critical. As you remember, we have ducts and we have tendons inside these ducts. So
+
+270
+00:31:25,000 --> 00:31:31,520
+fill these dots around the tendon with grout. Grout means something looks like
+
+271
+00:31:31,740 --> 00:31:38,420
+cement with water only. If you mix cement with water looks like grout.
+
+272
+00:31:45,980 --> 00:31:48,500
+So here is a Breast Stress Beam.
+
+273
+00:31:49,410 --> 00:31:50,740
+This beam is Breast Stress.
+
+274
+00:31:53,920 --> 00:31:58,380
+Then this beam in few days or few hours,
+
+275
+00:31:58,640 --> 00:32:01,160
+we can construct them for
+
+276
+00:32:01,440 --> 00:32:04,920
+bridge span between this column and this column.
+
+277
+00:32:08,300 --> 00:32:11,200
+So this bridge is called Breast Stress Concrete.
+
+278
+00:32:11,520 --> 00:32:19,320
+you are preparing your beings in a different site. Then by creating you can lift them and
+
+279
+00:32:19,320 --> 00:32:22,080
+and both them between sub-bores in few hours.
+
+280
+00:32:28,700 --> 00:32:30,080
+Okay, any question?
+
+281
+00:32:40,860 --> 00:32:44,300
+Before continuing, I would like to explain
+
+282
+00:32:45,120 --> 00:32:46,320
+what is the effect
+
+283
+00:32:48,560 --> 00:33:03,940
+this B-stressing. Here is the beam and you put the tendons at the bottom. These tendons
+
+284
+00:33:05,620 --> 00:33:11,760
+will apply compression at this location and to compression at this location.
+
+285
+00:33:13,360 --> 00:33:22,480
+What do you think this compression force or this compression force will cause something called
+
+286
+00:33:25,640 --> 00:33:26,000
+camber
+
+287
+00:33:31,420 --> 00:33:34,280
+or uplift deflection?
+
+288
+00:33:38,800 --> 00:33:46,040
+That makes sense. If you have, I will not say piece of wood, but if you have something weaker,
+
+289
+00:33:46,660 --> 00:33:54,600
+if you push it from the bottom, I believe you can expect cumbers. So we have vertical deflection,
+
+290
+00:33:54,860 --> 00:34:01,680
+upward deflection. We will cover it next time.
+
+291
+00:34:03,760 --> 00:34:17,159
+upward deflection. And also this deformation will cause we have compression at the bottom
+
+292
+00:34:18,060 --> 00:34:22,760
+and probably we have tension at the top and that makes sense.
+
+293
+00:34:24,960 --> 00:34:32,600
+So I'm talking about the effect of breast-tracing only without on weight,
+
+294
+00:34:33,620 --> 00:34:37,840
+without life load, without anything, just breast-tracing force.
+
+295
+00:34:39,800 --> 00:34:45,020
+If you apply compression at the bottom of the beam, you can expect this deformation
+
+296
+00:34:46,520 --> 00:34:50,520
+and you can expect compression at the bottom, tension at the top.
+
+297
+00:34:54,800 --> 00:34:59,500
+I will talk about this beam without pre-stress.
+
+298
+00:35:00,880 --> 00:35:04,280
+We have dead loot and we have life loot.
+
+299
+00:35:05,510 --> 00:35:08,960
+Can you tell me what is the expected deformity?
+
+300
+00:35:10,640 --> 00:35:13,800
+Right now I'm talking about external loads only.
+
+301
+00:35:14,270 --> 00:35:17,540
+Dead loot plus life loot only without pre-stress.
+
+302
+00:35:18,080 --> 00:35:23,400
+I believe this beam will deflect downward like this.
+
+303
+00:35:26,650 --> 00:35:28,940
+We have vertical downward deflection
+
+304
+00:35:32,620 --> 00:35:40,400
+and we expect the tension at this bottom fiber and we have compression at this top fiber.
+
+305
+00:35:43,000 --> 00:35:43,600
+That makes sense?
+
+306
+00:35:45,840 --> 00:35:54,220
+Okay. Because we have both of them together, we have restressing.
+
+307
+00:35:55,960 --> 00:36:04,180
+And we have external loot, so please add them together. And tell me what is the final sheep?
+
+308
+00:36:09,020 --> 00:36:12,920
+What is the final shape of deflection? Do you like? I'm asking.
+
+309
+00:36:13,840 --> 00:36:24,000
+Do you like the final shape of deflection to be upward or to be downward or to be zero?
+
+310
+00:36:26,260 --> 00:36:28,540
+I'm asking what do you like?
+
+311
+00:36:40,160 --> 00:36:40,540
+Zero.
+
+312
+00:36:43,780 --> 00:36:45,020
+Omiri said zero.
+
+313
+00:36:45,420 --> 00:36:47,220
+So any answer, any other answer?
+
+314
+00:36:52,100 --> 00:36:55,740
+I think to be a board, the final shape,
+
+315
+00:36:55,820 --> 00:36:57,900
+to be a board doesn't make sense for me
+
+316
+00:36:57,940 --> 00:37:00,520
+because if you are walking with your truck on the bridge,
+
+317
+00:37:00,880 --> 00:37:04,420
+doesn't make sense that bridge is covering up
+
+318
+00:37:04,760 --> 00:37:08,100
+or the deflection is upward, doesn't make sense for me.
+
+319
+00:37:08,520 --> 00:37:11,800
+So I believe upward deflection doesn't make sense.
+
+320
+00:37:12,640 --> 00:37:16,080
+So my question is, do you like to make it zero
+
+321
+00:37:17,820 --> 00:37:21,740
+or a little bit of downward deflection?
+
+322
+00:37:32,340 --> 00:37:35,200
+Zero, umere, zero, burak.
+
+323
+00:37:39,020 --> 00:37:39,720
+You need to think.
+
+324
+00:37:42,120 --> 00:37:47,540
+Guys, I told you the first case, we have brief stressing only.
+
+325
+00:37:47,860 --> 00:37:50,020
+So we can expect upward deflection.
+
+326
+00:37:50,640 --> 00:37:53,720
+We can expect compression at the bottom, tension at the top.
+
+327
+00:37:55,020 --> 00:38:00,960
+After we add dead load and the life load, life load like trucks, cars,
+
+328
+00:38:02,040 --> 00:38:08,740
+bitstrain, all of this stuff, B, all of this stuff, life load. So dead load, dead load means
+
+329
+00:38:08,970 --> 00:38:16,960
+on weight, finishing, asphalt layer, all of this stuff. So dead load plus life load will make or work
+
+330
+00:38:17,060 --> 00:38:22,280
+cause alone, will cause downward deflection, tension at the bottom, compression at the top.
+
+331
+00:38:23,240 --> 00:38:31,220
+I'm asking, the final deformation, do you like to make the final deformation to be upward or
+
+332
+00:38:31,220 --> 00:38:37,360
+or downward a little bit downward a little bit upward a little bit zero zero
+
+333
+00:38:40,720 --> 00:38:44,700
+why omari why slightly downward
+
+334
+00:39:11,520 --> 00:39:15,160
+Slightly downward is correct.
+
+335
+00:39:17,180 --> 00:39:17,620
+But why?
+
+336
+00:39:56,380 --> 00:39:57,100
+Any answer?
+
+337
+00:40:01,660 --> 00:40:03,060
+Okay.
+
+338
+00:40:20,480 --> 00:40:22,780
+guys if you
+
+339
+00:40:28,460 --> 00:40:38,640
+this post tension, how much? How much? If you apply high level of pre-stressing force,
+
+340
+00:40:38,690 --> 00:40:46,800
+you can expect too much of upward deflection. If you apply small value of pre-stressing
+
+341
+00:40:46,900 --> 00:40:52,820
+force you can expect small value of upward deflection. So the level of
+
+342
+00:40:52,890 --> 00:40:59,260
+pre-stressing depends on the level of pre-stressing you can expect the value of
+
+343
+00:40:59,260 --> 00:41:12,980
+the deflection. No, no. Okay listen to me everybody listen to me. I will assume I
+
+344
+00:41:12,980 --> 00:41:16,040
+I applied pre-stressing force equal 10 kip.
+
+345
+00:41:17,520 --> 00:41:21,080
+This 10 kip will cause upward deflection 0.5 inch.
+
+346
+00:41:24,440 --> 00:41:30,740
+And the dead load plus life load will cause down 0.5 inch deflection.
+
+347
+00:41:32,680 --> 00:41:35,440
+So this level of 10 kip.
+
+348
+00:41:37,700 --> 00:41:44,240
+and if you have didlude, plus live fluid, all of them together, what is the final deflection here?
+
+349
+00:41:46,060 --> 00:41:53,200
+Will be zero because you designed your pre-stressing force to cause 0.5 inch upward
+
+350
+00:41:54,220 --> 00:41:59,400
+and the given fluid didlude, plus live fluid will cause downward deflection 0.5.
+
+351
+00:42:00,540 --> 00:42:02,980
+So the final deformation will be zero.
+
+352
+00:42:04,960 --> 00:42:05,540
+That makes sense?
+
+353
+00:42:13,880 --> 00:42:15,180
+I have a question. Okay.
+
+354
+00:42:16,500 --> 00:42:21,020
+I'm not sure you are.
+
+355
+00:42:22,340 --> 00:42:29,580
+from here you will be slightly more than our thoughts no no no guys do you think
+
+356
+00:42:31,940 --> 00:42:40,880
+life looted on building on a building or bridge exist all time
+
+357
+00:42:43,820 --> 00:42:50,900
+sometimes we have a traffic jam on a bridge sometimes we are at midnight no
+
+358
+00:42:50,900 --> 00:43:01,660
+cars, no trucks, no life-lood on the bridge. So if the dead load and the life-load
+
+359
+00:43:02,100 --> 00:43:13,180
+together make 0.5 deflection and this 0.5 balance with this 0.5 under the
+
+360
+00:43:13,440 --> 00:43:19,780
+effect of prescracing, probably if you don't have life-lood and that makes
+
+361
+00:43:19,780 --> 00:43:26,860
+sense probably we don't have life-loat on the bridge there is no cars no trucks we
+
+362
+00:43:26,940 --> 00:43:39,220
+are at midnight everybody's sleeping so did Luda alone will cause only quarter inch deflection
+
+363
+00:43:40,940 --> 00:43:47,780
+but the B-stressing will cause upward point five and the did Luda alone will
+
+364
+00:43:47,780 --> 00:43:51,760
+because downward point 25, the financial will be upward.
+
+365
+00:43:53,820 --> 00:43:54,680
+We don't like this.
+
+366
+00:43:56,200 --> 00:43:58,100
+We don't like upward deflection.
+
+367
+00:43:58,780 --> 00:44:00,100
+That doesn't make any sense.
+
+368
+00:44:00,460 --> 00:44:04,380
+So during the night, we can see the bridge to concave up.
+
+369
+00:44:05,100 --> 00:44:06,220
+Doesn't make any sense.
+
+370
+00:44:07,040 --> 00:44:08,300
+What makes sense for you?
+
+371
+00:44:08,960 --> 00:44:11,640
+Okay, I will put here,
+
+372
+00:44:12,340 --> 00:44:16,400
+brisk tracing force to cause upward deflection for point five.
+
+373
+00:44:18,680 --> 00:44:35,780
+I will. I'm sorry for 0.25 only. For the load plus life load together will cause downward
+
+374
+00:44:36,040 --> 00:44:37,280
+deflection 0.25.
+
+375
+00:44:39,680 --> 00:44:48,920
+So the final shape after you add pre-stressing and the applied load will be downward deflection.
+
+376
+00:44:50,110 --> 00:45:01,780
+How much? Quarter. For any reason, we don't have life load. Okay. That means the final
+
+377
+00:45:01,880 --> 00:45:09,760
+deformation for this one will be zero or will be a little bit close to zero.
+
+378
+00:45:11,720 --> 00:45:23,400
+Okay, so this is the meaning of this slide. Limitation. We have limitation.
+
+379
+00:45:25,000 --> 00:45:33,940
+When a life loop acting on a beam is a large fraction of the total loop, you have a very huge number of life loops.
+
+380
+00:45:35,640 --> 00:45:51,640
+But acts not all the time. It may not be possible to design the beam so that it has no tensile stress or deflection under for life loop.
+
+381
+00:45:52,520 --> 00:46:03,540
+We need to design for dead loot and we need to understand that this life loot probably does not exist.
+
+382
+00:46:09,300 --> 00:46:14,760
+So high priest dressing, be careful because probably you can apply high priest dressing
+
+383
+00:46:15,720 --> 00:46:25,520
+required for full life-loot, you are assuming that the life-loot is full. And then you choose
+
+384
+00:46:25,600 --> 00:46:32,180
+this high level of breast-dressing, but make sure because the life-loot is not present,
+
+385
+00:46:32,440 --> 00:46:43,559
+then the beam deforms upward excessively. It's not good. Very large breast-dressing force may
+
+386
+00:46:43,560 --> 00:46:53,940
+also produce enough axial shortening. This force and this force will cause shortening of this beam.
+
+387
+00:46:56,420 --> 00:47:02,940
+I'm not talking about immediately, I'm talking about on the long run after five or ten or 15 years.
+
+388
+00:47:03,960 --> 00:47:11,620
+This shortening will make release for the breast-dressing force.
+
+389
+00:47:19,560 --> 00:47:29,500
+So be careful, be careful about brief stressing force to overcome the whole life load. Doesn't
+
+390
+00:47:29,620 --> 00:47:37,820
+make any sense because life load sometimes does not exist. So the scenario is you are
+
+391
+00:47:37,840 --> 00:47:42,640
+designing base tracing to overcome the dead load. Okay, dead load all the time exists.
+
+392
+00:47:43,500 --> 00:47:44,620
+But for life load, no.
+
+393
+00:47:51,800 --> 00:47:58,520
+Losses. When you apply base tracing and you are using the structure, we expect losses.
+
+394
+00:47:59,520 --> 00:48:13,100
+So by the hydraulic jack, you apply initial force here 10 kib. This level of force will not
+
+395
+00:48:13,640 --> 00:48:21,480
+continue because this 10 will be decreased a little bit, will be 9 or 8.5. Why? Because we have
+
+396
+00:48:21,520 --> 00:48:30,040
+losses. We have different type of losses due to the effect of tendon seating,
+
+397
+00:48:31,720 --> 00:48:42,380
+creep and shrinkage in concrete. Shrinkage means water is coming out of concrete, so we can expect
+
+398
+00:48:43,120 --> 00:48:53,140
+shrinkage, decreasing in the volume of concrete, that means losses or decreasing in the pre-stressing
+
+399
+00:48:53,380 --> 00:49:01,500
+force. Elastic shortening of the membrane, movement of the anchors, relaxation of the
+
+400
+00:49:01,500 --> 00:49:09,359
+steel tendons, friction between the tendon and the tubes around the tendons. All of these
+
+401
+00:49:10,080 --> 00:49:17,860
+reasons are sources of losses. So we have initial
+
+402
+00:49:20,240 --> 00:49:26,560
+Breastressing and we have final
+
+403
+00:49:28,340 --> 00:49:39,160
+breastressing. Initial breastressing just after releasing. After release.
+
+404
+00:49:42,960 --> 00:49:47,240
+final breast dressing under the effect of surface loot.
+
+405
+00:49:49,000 --> 00:49:52,440
+After one year, two years, five years, 10 years,
+
+406
+00:49:53,660 --> 00:49:57,240
+in between we have losses.
+
+407
+00:49:58,840 --> 00:50:02,400
+These losses probably for this reason,
+
+408
+00:50:02,600 --> 00:50:05,020
+or this reason, or this reason, or this reason.
+
+409
+00:50:06,420 --> 00:50:10,380
+So we have if I, and we have if,
+
+410
+00:50:11,920 --> 00:50:17,580
+If I initial pre-stressing force, F final pre-stressing force.
+
+411
+00:50:20,400 --> 00:50:21,300
+Any questions so far?
+
+412
+00:50:24,280 --> 00:50:25,360
+Any questions so far?
+
+413
+00:50:37,660 --> 00:50:41,220
+I just covered an introduction for pre-stressing.
+
+414
+00:50:41,880 --> 00:50:45,380
+We still have three parts with three problems.
+
+415
+00:50:46,550 --> 00:50:54,380
+The first one, we need to calculate the stresses due to the effect of applied force and the pre-stressing force.
+
+416
+00:50:55,080 --> 00:51:04,160
+And they tell me what is the final stress because the final stress must be compared to the allowable stress according to ACI.
+
+417
+00:51:05,520 --> 00:51:09,980
+Once your allowable stress is okay and your stresses is safe,
+
+418
+00:51:12,160 --> 00:51:15,180
+second step, deflection.
+
+419
+00:51:16,840 --> 00:51:19,980
+Your pre-stressing will cause upward deflection.
+
+420
+00:51:20,280 --> 00:51:20,600
+How much?
+
+421
+00:51:21,100 --> 00:51:23,140
+You need to calculate it.
+
+422
+00:51:24,020 --> 00:51:25,500
+What is the value of deflection?
+
+423
+00:51:26,300 --> 00:51:29,220
+And what is the value of deflection due to the given load?
+
+424
+00:51:31,120 --> 00:51:35,180
+Then I will add this one and this one to get the final deflection.
+
+425
+00:51:35,800 --> 00:51:36,860
+This is the second part.
+
+426
+00:51:38,340 --> 00:51:49,960
+The third part, we need to design the cross-section ultimate design to give me what is the design moment strengths.
+
+427
+00:51:51,280 --> 00:51:56,360
+What is the design strengths of the cross-section with B-stressing force?
+
+428
+00:51:56,360 --> 00:52:01,540
+So we have three different parts with three different problems.
+
+429
+00:52:02,180 --> 00:52:05,200
+In this topic, I will start with the stresses.
+
+430
+00:52:05,800 --> 00:52:07,640
+This one is very important.
+
+431
+00:52:09,520 --> 00:52:10,640
+Very important.
+
+432
+00:52:10,760 --> 00:52:12,180
+You have to understand it.
+
+433
+00:52:12,960 --> 00:52:19,540
+So I will cover it next time and to see what are the allowable stresses according to ACI
+
+434
+00:52:20,080 --> 00:52:23,520
+and how we can calculate these stresses.
+

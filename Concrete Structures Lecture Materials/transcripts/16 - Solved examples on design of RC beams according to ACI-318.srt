@@ -1,0 +1,2048 @@
+1
+00:00:02,780 --> 00:00:07,960
+Both of them are identical. So let's try to read something.
+
+2
+00:00:09,900 --> 00:00:18,940
+First problem, we have a floor system. This floor system looks like
+
+3
+00:00:22,380 --> 00:00:28,720
+these beams, this beam and this one and this one and we have continuous
+
+4
+00:00:32,060 --> 00:00:44,140
+and the Cantonese in the side. And this floor system for theater lobby. So the function of
+
+5
+00:00:44,180 --> 00:00:54,360
+this building as a lobby in a theater. So from this information, I can open table for
+
+6
+00:00:54,400 --> 00:01:09,300
+life loads from ASCE, American site of 7 engineer, for theaters, and lobbyists, the life load value
+
+7
+00:01:09,800 --> 00:01:18,000
+will be 100. This is the first thing. So life load on this lab or on this floor equal 100
+
+8
+00:01:18,480 --> 00:01:21,000
+bound bare square feet.
+
+9
+00:01:22,540 --> 00:01:29,940
+This floor consists of five inch thick reinforced concrete slab.
+
+10
+00:01:30,720 --> 00:01:35,140
+This thickness of the slab equal five inch.
+
+11
+00:01:36,660 --> 00:01:41,680
+Built monolithically with concrete beam.
+
+12
+00:01:42,320 --> 00:01:46,780
+We have a beam connected to this slab
+
+13
+00:01:48,780 --> 00:01:54,360
+built monolithically with concrete beams spaced eight feet.
+
+14
+00:01:55,340 --> 00:01:58,580
+So the spacing, centerline to centerline
+
+15
+00:01:58,900 --> 00:02:01,260
+between these beams eight feet.
+
+16
+00:02:02,420 --> 00:02:06,340
+And it's shown on the diagram, eight feet.
+
+17
+00:02:07,820 --> 00:02:10,340
+The beam spans 20 feet.
+
+18
+00:02:10,920 --> 00:02:17,200
+So this beam simply supported on this support and this support the lens equal 20 feet.
+
+19
+00:02:18,380 --> 00:02:28,200
+Between symbol supports width and overall depth. So this overall depth
+
+20
+00:02:29,960 --> 00:02:42,300
+for the beam equal 30 inch and 16 inch width this width equal 16 inch.
+
+21
+00:02:46,820 --> 00:02:54,620
+So you need to read the problem carefully and figure out what is the meaning of this information
+
+22
+00:02:55,080 --> 00:03:03,340
+on your diagram. One more time, we have a floor system in a theater lobby, so the function of
+
+23
+00:03:03,340 --> 00:03:09,040
+the building will help you to figure out the life-loot value from this table.
+
+24
+00:03:11,540 --> 00:03:18,560
+Consists of 5-inch thick reinforced concrete slabs through the thickness of the slab 5-inch,
+
+25
+00:03:19,800 --> 00:03:26,600
+built monolithically with concrete beams spaced so the spacing centerline centerline between
+
+26
+00:03:26,700 --> 00:03:34,420
+beams equal eight feet the beams span so the span of the beam simply supported equal 20 feet
+
+27
+00:03:35,610 --> 00:03:44,420
+the overall depth overall so the total thickness of the beam 30 feet 30 inch and the width is
+
+28
+00:03:44,520 --> 00:03:59,340
+16 inch. Given f'C 4500 psi, f'60000 psi, the surface loads on the slab are sober
+
+29
+00:03:59,620 --> 00:04:06,560
+embossed dead loot. Sober embossed dead loot. Anybody remember last time I told you what is
+
+30
+00:04:06,560 --> 00:04:16,019
+meaning of sober embossed dead loot on the floor? Finishing. Anything on the
+
+31
+00:04:16,060 --> 00:04:23,840
+control as a concrete slab so you're a slab with thickness five inch if you add
+
+32
+00:04:24,140 --> 00:04:33,240
+anything or just finishing on the concrete slab this called sober
+
+33
+00:04:33,240 --> 00:04:42,700
+imposed dead loot. Equal 40, bound bear square feet. The flexural reinforcement
+
+34
+00:04:45,280 --> 00:04:58,600
+in each beam is 8 bars, number 8, number 6. So 8 as a number. Size number 6 bars. So each
+
+35
+00:04:58,600 --> 00:05:10,060
+beam has eight number six bars so I can figure out the area steel in each beam.
+
+36
+00:05:12,100 --> 00:05:18,420
+Everything is given so what's the question? Concrete beam dimensions are
+
+37
+00:05:18,480 --> 00:05:25,160
+given. Stereo enforcement is given. Everything is given. What is the question?
+
+38
+00:05:25,280 --> 00:05:32,340
+The question is, do you think this beam are safe?
+
+39
+00:05:33,760 --> 00:05:41,640
+Do you think these beams are adequate to support this slab or this floor system?
+
+40
+00:05:43,300 --> 00:05:49,520
+Because your cross section is given, your stereo enforcement is given, the loading is given, everything is given.
+
+41
+00:05:49,520 --> 00:05:52,360
+So the question is do you think yes or no?
+
+42
+00:05:53,440 --> 00:05:57,280
+These beams are adequate to support this floor system.
+
+43
+00:05:59,120 --> 00:06:03,880
+So guys, if you go back a long time before,
+
+44
+00:06:04,780 --> 00:06:13,460
+I told you our design philosophy is M ultimate must be smaller than or equal
+
+45
+00:06:13,520 --> 00:06:39,760
+FAA-MN. M-Alphabet from loading from structure analysis. FAA-MN design moment for the cross
+
+46
+00:06:39,800 --> 00:06:47,120
+section. So your cross section is given. Your stereo enforcement is given. So I can figure out
+
+47
+00:06:47,260 --> 00:06:54,340
+the design moment. Your loading is given and I can figure out the rest like life load on weight
+
+48
+00:06:54,400 --> 00:07:00,340
+or something like this. And the beam is simply supported with this length 20 feet. So I can figure
+
+49
+00:07:00,500 --> 00:07:08,199
+out the applied moment from structure analysis. Then finally I can do a comparison between this
+
+50
+00:07:08,200 --> 00:07:17,480
+value and this value if M ultimate is smaller than or equal, say Mn these beams are adequate,
+
+51
+00:07:17,760 --> 00:07:27,860
+these beams will be safe, if not these beams will be unsafe. Did you get the idea? Thank you Angel,
+
+52
+00:07:28,520 --> 00:07:30,040
+Did you get the idea?
+
+53
+00:07:33,020 --> 00:07:39,860
+So sometimes we need to check your beam is safe or not safe.
+
+54
+00:07:41,760 --> 00:07:46,260
+Let's start so this problem can be divided to two parts.
+
+55
+00:07:46,680 --> 00:07:48,480
+We need to figure out the first part.
+
+56
+00:07:49,880 --> 00:07:53,840
+Let's start with the first part.
+
+57
+00:07:58,120 --> 00:07:58,500
+Looting.
+
+58
+00:08:03,020 --> 00:08:04,040
+Let's start with the sleep.
+
+59
+00:08:06,560 --> 00:08:11,020
+Anybody remember last meeting I told you we have three types
+
+60
+00:08:11,680 --> 00:08:13,860
+or three kind of looting on a sleep.
+
+61
+00:08:14,560 --> 00:08:18,320
+The first one on weight, the second one sober,
+
+62
+00:08:21,840 --> 00:08:25,920
+embossed, did loot, the third one life loot.
+
+63
+00:08:26,800 --> 00:08:29,320
+This on any slab, we have three kinds.
+
+64
+00:08:29,390 --> 00:08:30,780
+You need to figure out the three.
+
+65
+00:08:31,990 --> 00:08:34,240
+Do you remember what was the on-width value?
+
+66
+00:08:35,599 --> 00:08:35,900
+Thickness?
+
+67
+00:08:37,539 --> 00:08:40,780
+Please don't forget your thickness will be divided by 12
+
+68
+00:08:40,960 --> 00:08:44,540
+to be N feet, time gamma concrete.
+
+69
+00:08:46,680 --> 00:08:49,380
+If you go back last meeting, I told you
+
+70
+00:08:49,880 --> 00:08:52,820
+on weight for any slab, thickness, time gamma concrete.
+
+71
+00:08:53,700 --> 00:08:55,140
+So I think in this problem,
+
+72
+00:08:55,760 --> 00:08:59,160
+Your thickness of the slab is five, five inch.
+
+73
+00:09:00,220 --> 00:09:02,360
+So I will divide it by 12 to be in feet.
+
+74
+00:09:03,160 --> 00:09:06,360
+Gamma concrete, please remember this number all the time,
+
+75
+00:09:06,460 --> 00:09:09,820
+150 bound per cubic feet.
+
+76
+00:09:10,920 --> 00:09:13,720
+So I can figure out the value of the own weight
+
+77
+00:09:14,080 --> 00:09:23,200
+of this slab will be 62.5 bound per square feet.
+
+78
+00:09:23,580 --> 00:09:24,760
+Your units is important.
+
+79
+00:09:24,960 --> 00:09:26,820
+Please keep them with your number,
+
+80
+00:09:27,340 --> 00:09:28,540
+Bowen Bear Square feet.
+
+81
+00:09:29,480 --> 00:09:31,200
+Sober embossed dead load,
+
+82
+00:09:31,340 --> 00:09:33,520
+I think it's given how much for you.
+
+83
+00:09:36,160 --> 00:09:37,800
+Bowen Bear Square foot.
+
+84
+00:09:38,480 --> 00:09:39,800
+Your life load is not given,
+
+85
+00:09:39,960 --> 00:09:44,260
+but we have a function of the building theater lobby,
+
+86
+00:09:44,320 --> 00:09:46,200
+so I can figure out the value of life load,
+
+87
+00:09:46,500 --> 00:09:51,140
+how much, 100 Bowen Bear Square feet.
+
+88
+00:09:55,960 --> 00:10:00,000
+Do you agree? Any questions so far? Guys, any questions so far?
+
+89
+00:10:09,800 --> 00:10:11,860
+Oliver looks like you're writing something.
+
+90
+00:10:16,660 --> 00:10:17,940
+[BLANK_AUDIO]
+
+91
+00:10:23,960 --> 00:10:24,800
+Any question, guys?
+
+92
+00:10:27,980 --> 00:10:28,620
+[BLANK_AUDIO]
+
+93
+00:10:31,680 --> 00:10:33,340
+Okay, it's a good question, Oliver.
+
+94
+00:10:33,980 --> 00:10:39,180
+Oliver, you didn't note, I told you I'm talking about this lab only.
+
+95
+00:10:40,860 --> 00:10:42,240
+I didn't talk about beam.
+
+96
+00:10:43,480 --> 00:10:44,860
+I'm talking about the slab.
+
+97
+00:10:46,380 --> 00:10:49,400
+I'm talking about this portion of slab
+
+98
+00:10:51,160 --> 00:10:52,120
+and this is a good question.
+
+99
+00:10:52,200 --> 00:10:52,960
+Your question is good.
+
+100
+00:10:53,840 --> 00:10:54,780
+Your question is very good.
+
+101
+00:10:55,120 --> 00:10:58,360
+I'm talking right now about this portion of the slab.
+
+102
+00:11:00,020 --> 00:11:02,000
+I didn't talk about beams.
+
+103
+00:11:11,160 --> 00:11:16,460
+Okay, but we are talking about this lab, that's right.
+
+104
+00:11:19,680 --> 00:11:21,500
+But what about beam?
+
+105
+00:11:24,840 --> 00:11:26,740
+Remember what was the function,
+
+106
+00:11:26,880 --> 00:11:28,580
+the main function of the beams.
+
+107
+00:11:29,400 --> 00:11:30,480
+What was the function of the beam?
+
+108
+00:11:31,880 --> 00:11:37,060
+Beams to support the loop.
+
+109
+00:11:39,380 --> 00:11:46,440
+The load on the slab must be transferred to the beam.
+
+110
+00:11:47,420 --> 00:11:47,800
+That's right.
+
+111
+00:11:50,340 --> 00:11:50,780
+That's right.
+
+112
+00:11:52,920 --> 00:11:56,260
+Okay, my question is, what do you think?
+
+113
+00:11:57,160 --> 00:12:05,720
+This beam is supporting from this center line to this center line.
+
+114
+00:12:08,040 --> 00:12:17,940
+So this area of the slab will be assigned to this beam and the same for each beam.
+
+115
+00:12:19,180 --> 00:12:21,840
+So can you tell me what is the width here?
+
+116
+00:12:23,920 --> 00:12:25,000
+I think it will be 8 inch.
+
+117
+00:12:27,300 --> 00:12:30,660
+Yeah, from this center line to this center line
+
+118
+00:12:30,760 --> 00:12:31,480
+will be 8 inch.
+
+119
+00:12:36,080 --> 00:12:38,980
+So this surface load of the beam,
+
+120
+00:12:41,960 --> 00:12:42,500
+which is,
+
+121
+00:12:47,280 --> 00:12:48,340
+I can write it here.
+
+122
+00:12:58,580 --> 00:12:59,080
+From slap,
+
+123
+00:13:01,100 --> 00:13:01,300
+W,
+
+124
+00:13:02,450 --> 00:13:02,880
+dead loot,
+
+125
+00:13:04,260 --> 00:13:04,520
+W,
+
+126
+00:13:05,240 --> 00:13:05,560
+life loot.
+
+127
+00:13:07,140 --> 00:13:07,500
+How much?
+
+128
+00:13:08,620 --> 00:13:10,820
+For W dead loot, on weight is a dead loot.
+
+129
+00:13:11,060 --> 00:13:12,860
+So bar imposed dead loot is a dead loot.
+
+130
+00:13:12,960 --> 00:13:15,300
+So we have 62.5,
+
+131
+00:13:16,420 --> 00:13:16,960
+plus 40,
+
+132
+00:13:18,020 --> 00:13:22,000
+your value will be 102.5 bound per square feet.
+
+133
+00:13:23,880 --> 00:13:26,580
+Bound per square feet, that means on area.
+
+134
+00:13:31,100 --> 00:13:33,480
+And your life load with the main system bound
+
+135
+00:13:33,640 --> 00:13:34,360
+per square feet.
+
+136
+00:13:35,900 --> 00:13:39,400
+So W for slab did load W for slab life load.
+
+137
+00:13:40,180 --> 00:13:41,620
+I'm talking right now about beam.
+
+138
+00:13:44,460 --> 00:13:52,560
+So your beam is simply supported with 20 feet span.
+
+139
+00:13:53,800 --> 00:14:05,280
+We'll have uniform distributed load, W, dead load, and the W, life load.
+
+140
+00:14:07,780 --> 00:14:10,360
+Let's start with the W, dead load.
+
+141
+00:14:13,460 --> 00:14:23,320
+W did load will be this W did load from a slab which is 102.5
+
+142
+00:14:27,480 --> 00:14:44,200
+Time 8 feet plus 25 divided by 12, 16 divided by 12, time 150.
+
+143
+00:14:46,920 --> 00:14:59,020
+W life load on the beam will be this W life load of the slab which is 100 times 8 feet
+
+144
+00:15:00,130 --> 00:15:04,560
+and that's it equal 800 bound barefoot.
+
+145
+00:15:13,100 --> 00:15:27,620
+before asking any question. We have W, dead load and the W life load for the
+
+146
+00:15:27,620 --> 00:15:39,660
+sleep. If you multiply these values by this width, I can convert this surface
+
+147
+00:15:39,740 --> 00:15:43,800
+load to distributed load on this beam.
+
+148
+00:15:48,620 --> 00:15:58,800
+Do you agree? So the dead load on the slab, which is on weight plus sober in both dead
+
+149
+00:15:58,800 --> 00:16:09,160
+distributed load, multiply this value by width of the area assigned to the beam, I can convert
+
+150
+00:16:09,360 --> 00:16:19,040
+this load to a uniform distributed load on the beam. The same thing for life load. If
+
+151
+00:16:19,100 --> 00:16:24,700
+you multiply this life load by this width, I can convert this life load to be uniform
+
+152
+00:16:24,700 --> 00:16:26,920
+with distributed load on the beam.
+
+153
+00:16:28,920 --> 00:16:32,780
+So this life load from the slab, time
+
+154
+00:16:33,140 --> 00:16:35,540
+the width of the area assigned to the beam,
+
+155
+00:16:35,820 --> 00:16:40,020
+I can convert this to be uniform distributed load.
+
+156
+00:16:40,520 --> 00:16:41,860
+Any question for this point?
+
+157
+00:16:45,020 --> 00:16:45,160
+Yeah.
+
+158
+00:16:46,160 --> 00:16:49,820
+But the question is, we agree with this.
+
+159
+00:16:50,700 --> 00:16:53,880
+But the question is, what do you mean by this "bort"?
+
+160
+00:16:55,340 --> 00:16:57,880
+Anybody can figure out what does it mean?
+
+161
+00:16:59,280 --> 00:17:03,800
+What does it mean with 25 divided by 12 times 16 divided by 12 times 150?
+
+162
+00:17:04,560 --> 00:17:05,240
+What does it mean?
+
+163
+00:17:18,180 --> 00:17:19,220
+Oliver, you are good.
+
+164
+00:17:21,040 --> 00:17:22,260
+Melvin, you are good also.
+
+165
+00:17:25,800 --> 00:17:30,660
+I need a specific answer on weight of the beam, on dimension of the beam, on weight of the...
+
+166
+00:17:30,970 --> 00:17:34,780
+All of you are correct, but I need a specific answer.
+
+167
+00:17:39,000 --> 00:17:41,420
+Oliver, you should figure it out.
+
+168
+00:17:44,540 --> 00:17:54,140
+Okay, if you if you are saying on weight of the beam but the beam over all this is 30 inch. So why are you used only 25.
+
+169
+00:17:58,540 --> 00:18:13,060
+Perfect. Thank you, Oliver. Yeah, it's the remaining of your first question. Guys, if you go back, the unweight of the slab includes all of this sickness.
+
+170
+00:18:14,460 --> 00:18:18,760
+We still have part of the beam, which is this one.
+
+171
+00:18:22,540 --> 00:18:30,060
+the overall depth of the beam coming from up to down 30 inch.
+
+172
+00:18:30,910 --> 00:18:33,440
+And this thickness 5 inch.
+
+173
+00:18:33,650 --> 00:18:38,920
+So the remaining part of the beam which not included until this moment will be this one,
+
+174
+00:18:39,670 --> 00:18:42,300
+which is 16 times 25.
+
+175
+00:18:43,380 --> 00:18:45,440
+And remember these numbers in inch.
+
+176
+00:18:45,540 --> 00:18:52,720
+So I have to divide them by 12 by 12 and then multiply by gamma concrete.
+
+177
+00:18:54,620 --> 00:19:04,620
+So if you add this part, plus the didlude coming from a slab, I included everything, every didlude on the beam.
+
+178
+00:19:05,540 --> 00:19:08,140
+Your final answer will be
+
+179
+00:19:19,920 --> 00:19:21,840
+1236.67
+
+180
+00:19:22,380 --> 00:19:23,760
+Bowen Bear Foot.
+
+181
+00:19:25,760 --> 00:19:27,080
+And this one will be 800.
+
+182
+00:19:31,860 --> 00:19:33,060
+Okay, thank you guys.
+
+183
+00:19:35,139 --> 00:19:48,240
+So, w ultimate, we are on the final step right now because we converted everything to the beam as uniform distributed load.
+
+184
+00:19:48,380 --> 00:19:51,020
+We have got w did load and w left load on the beam.
+
+185
+00:19:51,740 --> 00:19:57,760
+So w ultimate will be 1.2 did load plus 1.6 life load.
+
+186
+00:19:58,480 --> 00:20:01,700
+Okay, 1.2, what is the value of the dead loot?
+
+187
+00:20:02,050 --> 00:20:04,940
+1,236.67.
+
+188
+00:20:06,640 --> 00:20:10,620
+Plus 1.6, the value of live loot, 800.
+
+189
+00:20:11,460 --> 00:20:12,820
+So I can get a big number.
+
+190
+00:20:14,280 --> 00:20:15,400
+This number will be
+
+191
+00:20:22,460 --> 00:20:25,000
+2,764 bound barefoot,
+
+192
+00:20:25,680 --> 00:20:28,220
+If you would like to make it more simple,
+
+193
+00:20:28,700 --> 00:20:34,140
+it will be 2.764 keb per foot.
+
+194
+00:20:34,260 --> 00:20:34,820
+We like keb.
+
+195
+00:20:38,380 --> 00:20:42,960
+So guys, we have beam with uniform distributed lute.
+
+196
+00:20:44,040 --> 00:20:49,140
+How much? 2.764 keb per foot.
+
+197
+00:20:49,840 --> 00:20:52,640
+And the span is 20 feet.
+
+198
+00:20:54,560 --> 00:20:55,040
+Do you remember?
+
+199
+00:20:55,420 --> 00:20:55,820
+Go back.
+
+200
+00:20:56,620 --> 00:20:58,280
+Your bending moment looks like parabola.
+
+201
+00:20:58,860 --> 00:21:02,460
+The maximum value, which is M ultimate,
+
+202
+00:21:02,980 --> 00:21:04,900
+will be WL squared divided.
+
+203
+00:21:06,300 --> 00:21:09,040
+W is given, 2.764.
+
+204
+00:21:09,780 --> 00:21:13,440
+L 20 squared divided 8.
+
+205
+00:21:13,880 --> 00:21:17,760
+Your value will be 138.2 K.
+
+206
+00:21:18,880 --> 00:21:22,520
+But, here is the value of M ultimate.
+
+207
+00:21:26,420 --> 00:21:28,780
+Here is the value of M ultimate.
+
+208
+00:21:29,640 --> 00:21:30,420
+Guys, go back.
+
+209
+00:21:30,620 --> 00:21:35,720
+We are looking for M ultimate to compare this value
+
+210
+00:21:36,100 --> 00:21:37,300
+with the design moment.
+
+211
+00:21:38,440 --> 00:21:40,900
+So what we did, we did looting.
+
+212
+00:21:41,160 --> 00:21:42,100
+It's called looting.
+
+213
+00:21:42,780 --> 00:21:45,440
+What is the dead and the life load on the slab?
+
+214
+00:21:46,340 --> 00:21:49,040
+How can we convert this load to the beam?
+
+215
+00:21:49,520 --> 00:21:55,460
+what is the own weight of the remaining part of the beam, then finally we can figure out the
+
+216
+00:21:55,500 --> 00:22:01,940
+bending moment on the beam which called M ultimate, why ultimate? Because you convert these loads to
+
+217
+00:22:02,060 --> 00:22:10,640
+ultimate load by using combination and factor of shift 1.2 and 1.6. Any questions so far?
+
+218
+00:22:15,360 --> 00:22:22,360
+Any questions so far? This part is very interesting. To understand what's going on,
+
+219
+00:22:23,680 --> 00:22:30,380
+you need to understand this point is very important. If you have a floor, how can I make my looting?
+
+220
+00:22:31,660 --> 00:22:39,839
+I am live loot, so my loot will go to the slab, then this slab we have a part width of the slab
+
+221
+00:22:39,840 --> 00:22:45,740
+assigned to one beam so I can convert this load to a beam. We have own weight for the beam
+
+222
+00:22:46,620 --> 00:22:53,040
+then I can figure out the bending moment on the beam. Second part of this problem,
+
+223
+00:22:53,420 --> 00:22:57,340
+how can I figure out the design moments? We have another problem.
+
+224
+00:23:01,700 --> 00:23:06,460
+We have cross section, remember your cross section not rectangle, it's CT section.
+
+225
+00:23:08,000 --> 00:23:16,520
+By the way, anybody can tell me what is the weight, the effective weight of this flange?
+
+226
+00:23:18,120 --> 00:23:23,940
+Yeah, because you are talking about t-section. Do you remember how can I figure out the p-effective?
+
+227
+00:23:26,240 --> 00:23:31,940
+We have three cases. We need to use the least one. The first one is band divide five.
+
+228
+00:23:33,280 --> 00:23:41,520
+The second one, 16, I think it's a flange plus a b-whip probably. The third one, centerline to centerline.
+
+229
+00:23:44,400 --> 00:23:53,500
+Your span of this beam is 20. Remember to multiply it by 12 to be an inch, divide 5, so this number will be 48.
+
+230
+00:23:56,080 --> 00:24:05,100
+This thickness, how much? 5 inch, so 16 times 5 plus this width, how much? I think 16. Yeah,
+
+231
+00:24:06,020 --> 00:24:13,320
+plus 16, so this one will be 96 inch. Centerline to centerline of the beam, I believe centerline
+
+232
+00:24:13,330 --> 00:24:18,540
+to centerline is 8 feet, please multiply it by 12 to be an inch, will be 96.
+
+233
+00:24:20,800 --> 00:24:26,700
+the least value so your P effective will be 48 inches.
+
+234
+00:24:30,100 --> 00:24:37,500
+Any question guys? We covered this before. As I told you we have a long story.
+
+235
+00:24:39,300 --> 00:24:42,760
+We are talking about a long story. Each part is important.
+
+236
+00:24:49,520 --> 00:24:50,600
+Yeah, thank you, Oliver.
+
+237
+00:24:53,280 --> 00:24:55,160
+Remember, the area steal is given.
+
+238
+00:24:55,720 --> 00:24:57,540
+So we have here area steal, whatever.
+
+239
+00:24:58,480 --> 00:25:03,580
+Your area steal, I think it's six number, it's eight number six.
+
+240
+00:25:05,040 --> 00:25:06,720
+Eight number six.
+
+241
+00:25:07,260 --> 00:25:10,360
+So your area steal will be eight, time number six.
+
+242
+00:25:11,280 --> 00:25:14,080
+So I need to open, open what?
+
+243
+00:25:15,440 --> 00:25:21,400
+a table for stereo enforcement number six.
+
+244
+00:25:24,660 --> 00:25:27,880
+What is the area of one bar 0.44?
+
+245
+00:25:31,200 --> 00:25:40,700
+So I can figure out the value of area scale, 8 times 0.44, your value will be 3.52 inch square.
+
+246
+00:25:44,400 --> 00:25:46,580
+We are in another problem.
+
+247
+00:25:47,940 --> 00:25:52,060
+We are looking for design moment for this cross section.
+
+248
+00:25:54,740 --> 00:26:03,520
+So I'm going to assume neutral axis within the flange.
+
+249
+00:26:07,320 --> 00:26:10,660
+So I'm going to assume your neutral axis is here.
+
+250
+00:26:10,880 --> 00:26:11,800
+I hope it's wrong.
+
+251
+00:26:11,960 --> 00:26:12,680
+It's correct.
+
+252
+00:26:13,320 --> 00:26:14,700
+will make it more simple.
+
+253
+00:26:15,620 --> 00:26:19,540
+So this part will be under compression.
+
+254
+00:26:19,880 --> 00:26:24,760
+So your capital C will be 0.85 if you go back, F prime C,
+
+255
+00:26:25,080 --> 00:26:35,560
+P effective A. And T, capital T, the tension
+
+256
+00:26:35,840 --> 00:26:39,060
+in stereo forcement will be area steel time F yield.
+
+257
+00:26:39,320 --> 00:26:39,700
+Let's see.
+
+258
+00:26:41,000 --> 00:26:49,220
+Let's see capital C equal capital T, so 0.85, 4,500 f prime C,
+
+259
+00:26:49,760 --> 00:26:57,540
+be effective for the 8 times A, equal area steel, 3.52 times f
+
+260
+00:26:57,620 --> 00:26:58,900
+yield, 60,000.
+
+261
+00:26:59,260 --> 00:27:04,000
+The only unknown in this equation is A. What is the value of A?
+
+262
+00:27:15,260 --> 00:27:17,780
+Oh, 115 inch piece.
+
+263
+00:27:18,430 --> 00:27:19,480
+I will do it one more time.
+
+264
+00:27:19,480 --> 00:27:19,860
+I'm sorry.
+
+265
+00:27:20,940 --> 00:27:22,220
+To be sure, I'm good.
+
+266
+00:27:23,980 --> 00:27:24,860
+Hey, Dr. Eggman.
+
+267
+00:27:25,620 --> 00:27:26,180
+Wait a moment.
+
+268
+00:27:26,320 --> 00:27:26,980
+Wait a moment.
+
+269
+00:27:30,560 --> 00:27:32,440
+Yes, 1.15 inch.
+
+270
+00:27:32,580 --> 00:27:33,460
+What's your question, Burak?
+
+271
+00:27:35,000 --> 00:27:40,900
+For the first case to figure out be effective you did L over five. Should I need to be L over four?
+
+272
+00:27:43,160 --> 00:27:43,980
+Yeah, you are right
+
+273
+00:27:45,340 --> 00:27:45,800
+So you are
+
+274
+00:27:46,600 --> 00:27:50,400
+Reminding me right now. Okay, it's band divide four. I'm sorry guys
+
+275
+00:27:52,000 --> 00:27:52,920
+This number will be wrong
+
+276
+00:27:54,400 --> 00:27:59,500
+So 20 times 12. Thank you for divide four. It will be 60
+
+277
+00:28:01,560 --> 00:28:03,199
+Your be effective will be 60
+
+278
+00:28:04,520 --> 00:28:06,900
+So a little mistake will make a big difference.
+
+279
+00:28:07,440 --> 00:28:08,700
+So this one will be 6t.
+
+280
+00:28:10,300 --> 00:28:12,480
+So your value of A, thank you Brock.
+
+281
+00:28:13,060 --> 00:28:15,500
+Your value of A will be different a little bit,
+
+282
+00:28:15,660 --> 00:28:19,440
+3.52 times 6t divide 0.85.
+
+283
+00:28:26,500 --> 00:28:28,920
+This one will be 0.92 inch.
+
+284
+00:28:31,340 --> 00:28:32,020
+Any other comment?
+
+285
+00:28:32,340 --> 00:28:33,860
+Thank you guys.
+
+286
+00:28:34,000 --> 00:28:34,740
+Any other comment?
+
+287
+00:28:36,260 --> 00:28:36,680
+You are right.
+
+288
+00:28:37,840 --> 00:28:42,000
+Then divide four, 16, thickness plus P web,
+
+289
+00:28:42,350 --> 00:28:43,580
+center line to center line.
+
+290
+00:28:46,020 --> 00:28:46,900
+Any comment here?
+
+291
+00:28:50,200 --> 00:28:51,780
+Did your assumption is correct?
+
+292
+00:28:52,060 --> 00:28:54,260
+Because you assume the neutral axis within the planche.
+
+293
+00:28:54,510 --> 00:28:55,060
+Do you agree?
+
+294
+00:28:56,120 --> 00:28:59,379
+Yeah, because your depth of the neutral axis
+
+295
+00:28:59,380 --> 00:29:06,900
+0.92, which is a smaller than 5 inch, which is a slab thickness.
+
+296
+00:29:07,420 --> 00:29:08,600
+That means you are good.
+
+297
+00:29:09,020 --> 00:29:10,140
+Your assumption is correct.
+
+298
+00:29:11,940 --> 00:29:13,380
+Thickness, anyway.
+
+299
+00:29:14,920 --> 00:29:15,540
+So keep going.
+
+300
+00:29:16,080 --> 00:29:27,539
+Your nominal moment will be area steel, F
+
+301
+00:29:27,540 --> 00:29:33,380
+yield D minus A divided by 2.
+
+302
+00:29:34,780 --> 00:29:35,260
+Dr. Amen.
+
+303
+00:29:35,670 --> 00:29:35,900
+Yes.
+
+304
+00:29:37,140 --> 00:29:39,700
+For your beta, 0.85.
+
+305
+00:29:43,120 --> 00:29:45,820
+Since your f prime c is 4,500,
+
+306
+00:29:47,880 --> 00:29:51,120
+wouldn't it be different number for beta?
+
+307
+00:29:53,320 --> 00:29:55,160
+Why you are looking for beta?
+
+308
+00:29:57,180 --> 00:29:59,240
+Yeah, if you are okay, just a moment.
+
+309
+00:30:00,400 --> 00:30:05,960
+A equal beta one times small c that you are, you mean beta one.
+
+310
+00:30:09,320 --> 00:30:11,240
+You are looking for beta one, this one.
+
+311
+00:30:12,990 --> 00:30:13,320
+>> Right.
+
+312
+00:30:14,820 --> 00:30:17,300
+I don't care about this equation right now.
+
+313
+00:30:17,360 --> 00:30:21,940
+My concern is what is the value of A, the depth of the stress block.
+
+314
+00:30:22,920 --> 00:30:25,480
+And compare this value with the thickness.
+
+315
+00:30:26,419 --> 00:30:31,560
+If this value is smaller than the thickness, you are right, your neutral axis within the
+
+316
+00:30:31,740 --> 00:30:34,120
+flange or your stress block within the flange.
+
+317
+00:30:36,120 --> 00:30:42,880
+I know that the depth of the neutral axis is C, but I don't care about the actual depth
+
+318
+00:30:42,960 --> 00:30:43,700
+of the neutral axis.
+
+319
+00:30:43,900 --> 00:30:48,280
+My concern is what is the depth of the stress block?
+
+320
+00:30:50,420 --> 00:30:54,700
+I need this stress block to be within the flange.
+
+321
+00:30:56,680 --> 00:30:58,320
+- Okay, let me ask you this.
+
+322
+00:30:58,680 --> 00:31:03,660
+So your equation for C, C equals 0.85 times F prime C.
+
+323
+00:31:04,600 --> 00:31:04,760
+- Yeah.
+
+324
+00:31:05,799 --> 00:31:11,360
+- Is it 0.85 times F prime C, or is it beta one times F prime C?
+
+325
+00:31:11,360 --> 00:31:20,400
+- No, no, no, no, no, no, no, no, no, no, no
+
+326
+00:31:20,420 --> 00:31:29,720
+prime C, I didn't mention this. 0.85 is a constant number. Beta 1 is used only for this equation only.
+
+327
+00:31:31,440 --> 00:31:40,640
+Okay, thank you. Okay. Yes, sir. Thank you. Okay, so area steel, how much the area steel?
+
+328
+00:31:42,340 --> 00:31:54,160
+3.52, F yield 60,000, your depth, wow, depth is not given. The actual depth is not given.
+
+329
+00:31:55,500 --> 00:32:02,360
+Okay, go ahead and assume any cover. This one, I'm going to assume it like 2 inch
+
+330
+00:32:03,410 --> 00:32:10,259
+or 3 inch, it's up to you or 2.5 inch. Let's do it 2.5. And the total depth
+
+331
+00:32:11,540 --> 00:32:30,140
+is 30. So this depth will be 27.5 minus a divided by 2. Your nominal moment will be
+
+332
+00:32:32,420 --> 00:32:46,160
+3.52 times 60 000 times 27.5 minus this number divided by 2. Your answer will be 5710848
+
+333
+00:32:46,660 --> 00:32:55,000
+bound inch divided by 12. It will be 475904
+
+334
+00:32:56,060 --> 00:33:01,820
+bound foot divided by 1000. It will be 475.9
+
+335
+00:33:02,300 --> 00:33:11,080
+KIP foot. Do you think we are done? No, no, we are looking for FAY MN which is called
+
+336
+00:33:11,340 --> 00:33:22,420
+design moment because MN alone is called nominal theoretical value. So do you remember how can
+
+337
+00:33:22,420 --> 00:33:32,360
+I figure out the value of faith? We have strain distribution. Do you remember? This value of
+
+338
+00:33:32,380 --> 00:33:35,960
+of a strain on concrete is constant, 0.003.
+
+339
+00:33:38,360 --> 00:33:39,980
+This depth is called C.
+
+340
+00:33:41,680 --> 00:33:44,500
+The remaining depth will be D minus C
+
+341
+00:33:45,580 --> 00:33:47,340
+and the strain in stereo enforcement,
+
+342
+00:33:47,680 --> 00:33:49,820
+epsilon tension or epsilon steel.
+
+343
+00:33:54,859 --> 00:33:55,160
+Thank you.
+
+344
+00:33:55,880 --> 00:33:57,220
+Do you remember all of this stuff?
+
+345
+00:33:58,180 --> 00:34:02,760
+So A equal beta one times C.
+
+346
+00:34:04,540 --> 00:34:08,000
+Value of A is 0.92.
+
+347
+00:34:10,879 --> 00:34:11,960
+Value of beta one.
+
+348
+00:34:12,620 --> 00:34:14,639
+Actually I cannot remember the value of beta one.
+
+349
+00:34:15,260 --> 00:34:21,460
+So I will go back to your second module I think.
+
+350
+00:34:27,720 --> 00:34:28,520
+No, 30 mid-yield.
+
+351
+00:34:33,460 --> 00:34:35,780
+We have a table here in the 30 mid-yield.
+
+352
+00:34:36,800 --> 00:34:37,080
+There you go.
+
+353
+00:34:39,540 --> 00:34:41,320
+No, no, no, I'm sorry, I'm sorry guys.
+
+354
+00:34:42,139 --> 00:34:42,820
+Second mid-yield.
+
+355
+00:34:55,200 --> 00:35:01,680
+beta one. Here you go. So your f prime c equal 4500.
+
+356
+00:35:05,480 --> 00:35:09,100
+So I believe you are outside the first one. We are in the second one.
+
+357
+00:35:10,800 --> 00:35:32,580
+So your beta will be 400, 4500 minus 4000 times 0.05 divided by 1000 minus 0.85. Your number will be 0.825.
+
+358
+00:35:35,360 --> 00:35:39,380
+So this value of beta 1 will be 0.825.
+
+359
+00:35:40,880 --> 00:35:45,340
+Based on the table in medial number 3--
+
+360
+00:35:45,630 --> 00:35:47,200
+I'm sorry, medial number 2.
+
+361
+00:35:48,820 --> 00:35:52,820
+Based on f prime c, I can figure out the value of beta 1.
+
+362
+00:35:53,920 --> 00:35:54,380
+Broke.
+
+363
+00:35:55,300 --> 00:35:56,760
+The value here is constant.
+
+364
+00:35:57,520 --> 00:36:00,740
+I didn't mention this value is beta f prime c.
+
+365
+00:36:00,740 --> 00:36:03,180
+No, this value is constant all the time.
+
+366
+00:36:03,320 --> 00:36:05,660
+whatever the value of f prime c, 0.85.
+
+367
+00:36:06,360 --> 00:36:08,320
+This is a different story, okay?
+
+368
+00:36:09,640 --> 00:36:11,580
+So beta one based on this table
+
+369
+00:36:11,880 --> 00:36:17,000
+and f prime c for 1500 is this number.
+
+370
+00:36:17,760 --> 00:36:20,460
+So I can figure out the value of c, the depth,
+
+371
+00:36:20,580 --> 00:36:22,360
+the actual depth of the neutral axis
+
+372
+00:36:23,980 --> 00:36:30,340
+will be one inch and 11.
+
+373
+00:36:31,720 --> 00:36:33,800
+So this one will be one inch and 11.
+
+374
+00:36:35,680 --> 00:36:40,679
+So your depth, 27.5, value of C, 1.11.
+
+375
+00:36:41,580 --> 00:36:48,820
+So I can figure out the value of this one will be 26.4 inch.
+
+376
+00:36:50,080 --> 00:36:53,000
+This triangle looks like this triangle.
+
+377
+00:36:54,440 --> 00:36:58,460
+0.003 divide this value,
+
+378
+00:36:58,640 --> 00:37:06,040
+epsilon tension equal this depth 1.11 divide this depth 26.4.
+
+379
+00:37:06,680 --> 00:37:09,960
+So I can figure out the value of strain in the stereo
+
+380
+00:37:10,120 --> 00:37:21,860
+forcement will be 0.071, which is greater than 0.005.
+
+381
+00:37:22,400 --> 00:37:24,960
+So if you go back to medial number three,
+
+382
+00:37:25,600 --> 00:37:29,200
+If your strain greater than 0.005,
+
+383
+00:37:29,580 --> 00:37:31,900
+your value of phi will be 0.9.
+
+384
+00:37:33,540 --> 00:37:36,200
+So, phi will be 0.9.
+
+385
+00:37:37,520 --> 00:37:41,500
+So go back, multiply this number by 0.9.
+
+386
+00:37:47,640 --> 00:37:55,300
+475.9 times 0.9 equal 428.31.
+
+387
+00:37:55,300 --> 00:37:57,520
+one, camp foot.
+
+388
+00:38:01,970 --> 00:38:10,480
+So guys, your design moment equal 428.3.
+
+389
+00:38:13,430 --> 00:38:21,260
+And your ultimate moment from the structure analysis, 138.2.
+
+390
+00:38:27,740 --> 00:38:41,960
+132.8 I think that's right 138.2. What's your final decision?
+
+391
+00:38:44,680 --> 00:38:56,120
+M ultimate smaller than design moment. Your beams are safe. Your beams are adequate to support this
+
+392
+00:38:56,200 --> 00:39:04,100
+floor. Actually, we are more safe because the applied moment 138, but the resisting or the
+
+393
+00:39:04,140 --> 00:39:06,980
+The design moment can support until 400.
+
+394
+00:39:07,280 --> 00:39:08,900
+So we are more, more, more safe.
+
+395
+00:39:09,580 --> 00:39:15,360
+Probably, probably we can decrease steel depth,
+
+396
+00:39:15,600 --> 00:39:20,520
+I'm sorry, concrete depth rather than 30 to be 25,
+
+397
+00:39:20,880 --> 00:39:24,060
+probably decrease the amount of stereo enforcement,
+
+398
+00:39:24,420 --> 00:39:25,740
+whatever the decision.
+
+399
+00:39:26,180 --> 00:39:28,520
+But anyway, the problem asked for,
+
+400
+00:39:29,000 --> 00:39:33,480
+do you think these beams are adequate to support this floor?
+
+401
+00:39:33,860 --> 00:39:34,080
+Yes.
+
+402
+00:39:39,680 --> 00:39:42,320
+So guys, if you are looking to this problem,
+
+403
+00:39:43,040 --> 00:39:47,120
+this problem covering everything, all what we learned.
+
+404
+00:39:50,000 --> 00:39:52,800
+How can we figure out the value of lutes,
+
+405
+00:39:53,780 --> 00:39:54,960
+did and the life on a slab?
+
+406
+00:39:55,920 --> 00:39:59,520
+How can we convert this lid and the life fluid to a beam?
+
+407
+00:40:00,200 --> 00:40:03,840
+How can we determine the rest part of the beam
+
+408
+00:40:03,840 --> 00:40:07,800
+as on weight, how can we convert dead load and the life load
+
+409
+00:40:07,900 --> 00:40:09,920
+to be ultimate load, make combination?
+
+410
+00:40:11,260 --> 00:40:14,200
+From structural analysis, what is our ultimate moment
+
+411
+00:40:14,340 --> 00:40:14,800
+on the beam?
+
+412
+00:40:15,980 --> 00:40:19,300
+From design, from concrete design, first step,
+
+413
+00:40:19,400 --> 00:40:20,640
+what is the value of the effective?
+
+414
+00:40:22,900 --> 00:40:25,920
+And we need to design this one, it's a T-section.
+
+415
+00:40:26,240 --> 00:40:29,240
+So I'm going to assume first step, neutral axis
+
+416
+00:40:29,400 --> 00:40:32,040
+within the flange.
+
+417
+00:40:32,680 --> 00:40:34,720
+Probably you are lucky in this problem,
+
+418
+00:40:34,840 --> 00:40:36,580
+but probably sometimes you are not lucky
+
+419
+00:40:36,960 --> 00:40:40,480
+because the value of A will be greater than five.
+
+420
+00:40:40,720 --> 00:40:42,440
+So you are outside the flange.
+
+421
+00:40:42,680 --> 00:40:45,760
+So we need to try the second assumption,
+
+422
+00:40:46,240 --> 00:40:47,420
+the neutral axis outside.
+
+423
+00:40:47,540 --> 00:40:50,040
+Do you remember that one that I covered last meeting?
+
+424
+00:40:54,140 --> 00:41:00,620
+We need to divide this part and then this part.
+
+425
+00:41:03,660 --> 00:41:12,980
+But anyway, it's very long problem, but it's systematic. You need to understand each part
+
+426
+00:41:13,200 --> 00:41:21,140
+in this problem. That long, I know. This is the reason I'm giving you a long time for
+
+427
+00:41:21,140 --> 00:41:21,640
+the exam.
+
+428
+00:41:26,060 --> 00:41:26,540
+Yeah.
+
+429
+00:41:27,620 --> 00:41:38,960
+I think you just covered this on this last problem, but it was similar to the last problem we worked out last lecture was the very last problem on module number four.
+
+430
+00:41:39,600 --> 00:41:39,700
+Yes.
+
+431
+00:41:40,420 --> 00:41:43,440
+Do you think you can go back to it really quick? I just have a quick question.
+
+432
+00:41:45,040 --> 00:41:45,520
+Okay.
+
+433
+00:41:45,960 --> 00:41:46,460
+Just a second.
+
+434
+00:41:47,300 --> 00:41:48,140
+If you can.
+
+435
+00:41:51,180 --> 00:41:53,280
+And you're
+
+436
+00:42:19,180 --> 00:42:26,340
+Neutral axis is within the flange, correct? Yes. And then we got our a to be 5.95 inches
+
+437
+00:42:26,540 --> 00:42:30,640
+But our thickness is four inches so it doesn't make any sense. Yeah
+
+438
+00:42:31,800 --> 00:42:33,200
+So you said
+
+439
+00:42:35,920 --> 00:42:38,740
+Okay, so let's say let's say if we worked it out and
+
+440
+00:42:40,430 --> 00:42:44,940
+And we assumed their neutral axis was actually smaller than
+
+441
+00:42:45,680 --> 00:42:52,720
+the thickness of our flange. What do we do from there? Do we just go straight to finding MN?
+
+442
+00:42:53,380 --> 00:43:01,000
+Yeah, that's it. MN equals area 3, F yield, depth minus A divided by 2. That's it. You have done like I did today.
+
+443
+00:43:04,980 --> 00:43:10,340
+If you find your assumption is correct like I did today, I assumed today
+
+444
+00:43:10,340 --> 00:43:10,460
+Okay.
+
+445
+00:43:15,440 --> 00:43:15,960
+Okay.
+
+446
+00:43:18,980 --> 00:43:20,940
+Yeah, today I assumed.
+
+447
+00:43:22,450 --> 00:43:28,200
+You can access within the plan and I found my assumption is correct. I am done.
+
+448
+00:43:28,690 --> 00:43:33,480
+It is your in the end. If your assumption not correct, you need to try the second assumption.
+
+449
+00:43:34,460 --> 00:43:35,340
+Okay, thank you sir.
+
+450
+00:43:36,040 --> 00:43:36,260
+Okay.
+
+451
+00:43:40,160 --> 00:43:43,160
+The second problem exactly the same.
+
+452
+00:43:44,380 --> 00:43:48,460
+Exactly. But your structure,
+
+453
+00:43:48,690 --> 00:43:50,880
+I think it's different a little bit.
+
+454
+00:43:52,000 --> 00:43:56,800
+I think your structure here is a passenger vehicles garage.
+
+455
+00:43:59,740 --> 00:44:01,960
+You need to figure different value of life load.
+
+456
+00:44:02,940 --> 00:44:04,000
+Open this table.
+
+457
+00:44:05,280 --> 00:44:08,240
+If you are talking about garage for passenger car,
+
+458
+00:44:09,140 --> 00:44:11,380
+Your life loop will be 40.
+
+459
+00:44:13,720 --> 00:44:16,640
+The lab thickness is 5, area steel is given,
+
+460
+00:44:17,220 --> 00:44:19,800
+subar embossed lead is given, and the same question,
+
+461
+00:44:20,040 --> 00:44:22,820
+and the area steel, 4 bars, number 11.
+
+462
+00:44:23,820 --> 00:44:26,840
+And the same question, are these beams adequate
+
+463
+00:44:27,140 --> 00:44:28,660
+to support this floor system?
+
+464
+00:44:29,080 --> 00:44:31,280
+So you need to figure out what is the value of M-ultimate?
+
+465
+00:44:32,100 --> 00:44:33,900
+What is the value of the design moment?
+
+466
+00:44:34,600 --> 00:44:38,140
+To make this beam save, your ultimate moment
+
+467
+00:44:38,140 --> 00:44:46,760
+be smaller than or equal design moment. The same sequence, nothing changed, but your numbers
+
+468
+00:44:46,980 --> 00:44:54,420
+will be different a little bit. So what do you think?
+
+469
+00:45:04,540 --> 00:45:06,880
+So go ahead and try to solve this problem.
+
+470
+00:45:06,960 --> 00:45:08,960
+If you have any question, let me know before Friday.
+
+471
+00:45:10,080 --> 00:45:12,500
+With this one is a typical problem like this one,
+
+472
+00:45:12,960 --> 00:45:14,520
+but a little bit different number,
+
+473
+00:45:14,960 --> 00:45:15,720
+but it's the same sequence.
+
+474
+00:45:16,740 --> 00:45:17,480
+Everything's the same.
+
+475
+00:45:27,020 --> 00:45:28,440
+For M-ultlet.
+
+476
+00:45:34,500 --> 00:45:40,740
+I started first with looting with the slab.
+
+477
+00:45:41,700 --> 00:45:44,260
+For your slab, we have three loots.
+
+478
+00:45:44,540 --> 00:45:45,880
+You need to figure them out.
+
+479
+00:45:46,520 --> 00:45:47,660
+On weight of the slab,
+
+480
+00:45:48,460 --> 00:45:50,400
+sober-imposed dead loot, which is given,
+
+481
+00:45:50,780 --> 00:45:54,960
+and the life loot based on the function of their building.
+
+482
+00:45:55,720 --> 00:46:00,500
+Then, your on weight and the sober-imposed dead loot,
+
+483
+00:46:00,720 --> 00:46:02,380
+both of them is dead loot.
+
+484
+00:46:02,860 --> 00:46:04,420
+So I add them together.
+
+485
+00:46:05,420 --> 00:46:07,340
+Your life load is life load alone.
+
+486
+00:46:08,460 --> 00:46:10,060
+So I am done with the first slip.
+
+487
+00:46:10,240 --> 00:46:13,340
+What are the dead load and the life load on the slip?
+
+488
+00:46:15,380 --> 00:46:19,260
+I need to convert these loads to be on the beam.
+
+489
+00:46:20,790 --> 00:46:25,960
+So I'm looking for WD load and the W life load on beam.
+
+490
+00:46:28,820 --> 00:46:33,960
+So WD load from a slab will be multiplied by width.
+
+491
+00:46:35,040 --> 00:46:35,740
+What is the width?
+
+492
+00:46:36,940 --> 00:46:40,240
+As I told you, each beam is supporting a load
+
+493
+00:46:40,340 --> 00:46:42,120
+from centerline to centerline.
+
+494
+00:46:43,180 --> 00:46:46,260
+So this area will be assigned to this beam.
+
+495
+00:46:46,840 --> 00:46:48,020
+So what is this width?
+
+496
+00:46:53,080 --> 00:46:55,320
+And remember, your beam will still have
+
+497
+00:46:55,400 --> 00:46:56,760
+another part of the beam.
+
+498
+00:46:59,360 --> 00:47:10,380
+This little part. So I added the own weight of the beam. So here is the dead load on the beam and the life load on the beam.
+
+499
+00:47:10,740 --> 00:47:19,160
+Once you get dead and the life on the beam, I can figure out the ultimate load by multiplying dead load by 1.2, life load by 1.6.
+
+500
+00:47:19,160 --> 00:47:25,820
+Once you get the ultimate load on the beam, your beam is simply supported with this band 20 and you have distributed load.
+
+501
+00:47:25,870 --> 00:47:27,480
+I can figure out the value of it.
+
+502
+00:47:29,460 --> 00:47:32,740
+It's a story. You need to start first with this lab.
+
+503
+00:47:34,180 --> 00:47:43,020
+Then for beam, then combination W ultimate, then you can figure out the value of M-ultit.
+
+504
+00:47:51,300 --> 00:48:00,600
+Yes, yes. On weight of the slab, what you mean by L equals 20, Roberto? What do you mean?
+
+505
+00:48:02,360 --> 00:48:08,440
+Oliver, your question, yes. On weight of the slab is the thickness of the slab divided by 12 times
+
+506
+00:48:08,680 --> 00:48:09,480
+gamma complete.
+
+507
+00:48:26,660 --> 00:48:35,460
+Yeah, M ultimate equal W square divided by 12. The length of the beam is 20. If you go back to the problem,
+
+508
+00:48:37,880 --> 00:48:45,520
+the beam spans 20 feet and given on the problem the span of the beam is 20 feet. So what's your
+
+509
+00:48:45,560 --> 00:48:56,280
+question? And your moment from structure analysis WL squared divided 8. So W and L and 8. So what's
+
+510
+00:48:56,280 --> 00:49:09,880
+your question? No, it's not WL squared divided by 12. It's WL squared divided by 8. WL squared
+
+511
+00:49:13,020 --> 00:49:25,680
+divided by 8. You got a different number? How did you get this? Divide 8. No, no, it's
+
+512
+00:49:25,680 --> 00:49:29,400
+138.2 WL square divide 8.
+

@@ -1,0 +1,2288 @@
+1
+00:00:02,559 --> 00:00:18,440
+But anyway, we need to figure out how to assume the cross-section of concrete.
+
+2
+00:00:20,400 --> 00:00:25,760
+We have cross-section, we have width B,
+
+3
+00:00:26,760 --> 00:00:31,080
+and we have total or overall depth,
+
+4
+00:00:31,880 --> 00:00:35,520
+which called T or sometimes H,
+
+5
+00:00:37,160 --> 00:00:39,460
+the whole or the overall depth.
+
+6
+00:00:40,840 --> 00:00:43,840
+By the way, the cross-section width,
+
+7
+00:00:45,040 --> 00:00:48,140
+go ahead and assume as you like.
+
+8
+00:00:49,120 --> 00:00:55,340
+the common values, 10, 12 or 14 inch.
+
+9
+00:00:57,380 --> 00:00:59,880
+So probably it can be 16,
+
+10
+00:01:01,280 --> 00:01:03,420
+but I think the minimum is 10.
+
+11
+00:01:04,760 --> 00:01:08,820
+And your number should be even number.
+
+12
+00:01:09,860 --> 00:01:11,160
+We cannot assume 11.
+
+13
+00:01:12,200 --> 00:01:16,300
+Just for construction, 13, 15,
+
+14
+00:01:17,840 --> 00:01:23,180
+probably 15 years, but most of the time this number is even number.
+
+15
+00:01:24,280 --> 00:01:28,520
+The common width 10, 12 or 14 inch.
+
+16
+00:01:29,120 --> 00:01:30,380
+This is for beam.
+
+17
+00:01:33,320 --> 00:01:42,200
+For edge, based on the beam, if you are talking about simply supported beam,
+
+18
+00:01:43,160 --> 00:01:45,540
+You have a beam simply supported
+
+19
+00:01:45,700 --> 00:01:47,720
+between this support and this support
+
+20
+00:01:47,900 --> 00:01:50,800
+and this beam has span L.
+
+21
+00:01:51,920 --> 00:01:55,360
+Go ahead and divide L by 16.
+
+22
+00:01:56,140 --> 00:01:58,800
+You can figure out there over all depth.
+
+23
+00:02:01,540 --> 00:02:06,260
+If you are talking about span like this one,
+
+24
+00:02:07,840 --> 00:02:10,280
+so for this span, what do you think?
+
+25
+00:02:11,520 --> 00:02:13,640
+It's a continuous from this site.
+
+26
+00:02:14,880 --> 00:02:17,560
+So if you are talking about one end continuous,
+
+27
+00:02:18,980 --> 00:02:23,820
+so span this L divide 18.5.
+
+28
+00:02:24,300 --> 00:02:25,880
+I'm not talking about my numbers,
+
+29
+00:02:26,140 --> 00:02:28,460
+I'm talking about ACI recommendation.
+
+30
+00:02:33,480 --> 00:02:41,500
+ACI 318 recommendation to select or assume
+
+31
+00:02:41,500 --> 00:02:51,940
+H over all depth. Please don't assume any H below these numbers. You can go over.
+
+32
+00:02:53,420 --> 00:02:59,120
+If this table give you a number 25, for example, you can assume it 30. That's fine.
+
+33
+00:02:59,970 --> 00:03:06,300
+You can assume it 27. That's fine. But don't assume a number below these limits.
+
+34
+00:03:08,300 --> 00:03:17,140
+If you're beam like this, I'm talking about this span, I'm sorry. This span.
+
+35
+00:03:19,200 --> 00:03:24,680
+If you are looking for this span, this span has continuous from two ends. From this side,
+
+36
+00:03:24,820 --> 00:03:31,040
+it's a continuous. We have another span here. At this side, we have another span here. So both ends
+
+37
+00:03:31,340 --> 00:03:40,860
+continuous. So this is span L divide to anyone I can figure out the overall depth.
+
+38
+00:03:41,720 --> 00:03:46,480
+If you are talking about cantilever, do you remember cantilever? Anybody remember?
+
+39
+00:03:47,660 --> 00:03:56,460
+Cantilever means we have a beam fixed from one side and the free from the other side.
+
+40
+00:03:57,160 --> 00:04:01,840
+So the span of this cantilever divide it.
+
+41
+00:04:15,920 --> 00:04:22,180
+So let me do an example. Just example.
+
+42
+00:04:25,420 --> 00:04:26,760
+We have a continuous beam.
+
+43
+00:04:31,060 --> 00:04:31,780
+We have spans.
+
+44
+00:04:34,540 --> 00:04:35,360
+This one is 10 feet.
+
+45
+00:04:36,600 --> 00:04:37,560
+This one is 12 feet.
+
+46
+00:04:38,400 --> 00:04:39,260
+This one is 10 feet.
+
+47
+00:04:39,960 --> 00:04:41,000
+This one is 14 feet.
+
+48
+00:04:43,480 --> 00:04:46,180
+I'm sorry, let me change these numbers a little bit.
+
+49
+00:04:48,900 --> 00:04:49,880
+This one is 12 feet.
+
+50
+00:04:50,860 --> 00:04:51,780
+And this one is 10 feet.
+
+51
+00:04:54,880 --> 00:05:09,240
+Go ahead and assume cross section. We need to satisfy the ACI limits. I'm gonna assume B
+
+52
+00:05:09,580 --> 00:05:17,739
+equal 14 inch. We have three values 10, 12, 14. I'm gonna assume it 14. So I'm looking for overall
+
+53
+00:05:19,680 --> 00:05:26,880
+If you start with this span, what is the assumed number?
+
+54
+00:05:27,560 --> 00:05:28,100
+What do you think?
+
+55
+00:05:28,540 --> 00:05:30,800
+This span is simply supported.
+
+56
+00:05:31,620 --> 00:05:36,520
+I don't think so because this span is continuous from this side.
+
+57
+00:05:36,640 --> 00:05:38,020
+We have another span continuous.
+
+58
+00:05:40,120 --> 00:05:43,980
+So you are in this case one in the continuous.
+
+59
+00:05:44,560 --> 00:05:47,720
+So your overall depth can be L divided by L.
+
+60
+00:05:47,720 --> 00:05:58,500
+18.5. So this one I'm going to assume h equal span divide 18.5. This one in feet
+
+61
+00:05:59,480 --> 00:06:09,540
+I'm gonna multiply it by 12 to be an inch and divide this number by 18.5. So 120
+
+62
+00:06:10,040 --> 00:06:22,560
+divide 18.5 so the limit here will be 6.5 inch. Very small. That's fine. What about this spin?
+
+63
+00:06:24,120 --> 00:06:30,460
+What do you think about this spin? I think this spin is continuous from this side and this side
+
+64
+00:06:30,900 --> 00:06:40,020
+from this end and this end. So you are talking about this case. Both ends continuous. So spin
+
+65
+00:06:41,380 --> 00:06:46,140
+So h equals band which is 12 divided by 21.
+
+66
+00:06:46,770 --> 00:06:51,160
+But this 12 in feet I'm going to multiply it by 12 to be an inch.
+
+67
+00:06:51,670 --> 00:06:56,980
+So 144 divided by 21 your value will be 6.85.
+
+68
+00:06:58,780 --> 00:07:00,980
+The same here, the same here.
+
+69
+00:07:01,450 --> 00:07:02,140
+So I'm done.
+
+70
+00:07:04,940 --> 00:07:13,120
+So please, I'm going to assume cross section width, width 14.
+
+71
+00:07:14,360 --> 00:07:16,600
+What about the overall depth?
+
+72
+00:07:18,880 --> 00:07:21,620
+I have a limit, 6.5 and 6.85.
+
+73
+00:07:21,850 --> 00:07:23,540
+So the limit will be 6.85.
+
+74
+00:07:24,280 --> 00:07:25,960
+I'm going to assume it 20 inch.
+
+75
+00:07:27,160 --> 00:07:29,280
+I'm going to assume it 24 inch.
+
+76
+00:07:29,900 --> 00:07:31,600
+I'm going to assume it 30 inch.
+
+77
+00:07:31,740 --> 00:07:32,100
+That's fine.
+
+78
+00:07:32,740 --> 00:07:35,720
+But please don't go below this number.
+
+79
+00:07:38,340 --> 00:07:39,200
+So we have a guide.
+
+80
+00:07:40,020 --> 00:07:40,840
+We have a guide.
+
+81
+00:07:41,660 --> 00:07:45,460
+We don't need to go below this limit,
+
+82
+00:07:45,760 --> 00:07:46,800
+but you can go over.
+
+83
+00:07:48,280 --> 00:07:49,020
+How much over?
+
+84
+00:07:49,500 --> 00:07:50,140
+It's up to you.
+
+85
+00:07:50,940 --> 00:07:52,640
+So I'm good.
+
+86
+00:07:53,000 --> 00:08:01,640
+If anybody assume 24, 20, 30, 25, 26, 22, 18, 16, that's fine.
+
+87
+00:08:01,860 --> 00:08:03,180
+All of these numbers are good.
+
+88
+00:08:04,480 --> 00:08:05,720
+Any question for this point?
+
+89
+00:08:08,500 --> 00:08:09,700
+Any question for this point?
+
+90
+00:08:27,240 --> 00:08:28,620
+Oliver, do you have any question?
+
+91
+00:08:43,499 --> 00:08:44,240
+One more example.
+
+92
+00:08:56,260 --> 00:08:57,360
+Yes, yes.
+
+93
+00:08:58,140 --> 00:08:59,380
+I'm talking about the minimum.
+
+94
+00:08:59,500 --> 00:09:01,520
+You cannot go blue this number.
+
+95
+00:09:03,640 --> 00:09:05,000
+Let's talk one more example.
+
+96
+00:09:05,180 --> 00:09:11,820
+We have a cantilever with span 30 feet.
+
+97
+00:09:14,100 --> 00:09:17,300
+How can I assume the cross section for this beam?
+
+98
+00:09:18,640 --> 00:09:23,460
+If you follow the limits for ACI, everything will be good.
+
+99
+00:09:24,400 --> 00:09:25,720
+We are on the safe side.
+
+100
+00:09:27,340 --> 00:09:29,560
+So I'm gonna assume this width 12.
+
+101
+00:09:30,760 --> 00:09:31,760
+Okay, that's fine.
+
+102
+00:09:33,060 --> 00:09:36,180
+What about the overall depth?
+
+103
+00:09:36,880 --> 00:09:37,540
+Do you have a limit?
+
+104
+00:09:37,980 --> 00:09:38,380
+We should.
+
+105
+00:09:39,580 --> 00:09:42,840
+So your limit for a cantilever,
+
+106
+00:09:43,260 --> 00:09:44,620
+because this beam is a cantilever,
+
+107
+00:09:44,900 --> 00:09:46,340
+it's only fixed from one side
+
+108
+00:09:46,460 --> 00:09:49,100
+and the free from the other side.
+
+109
+00:09:49,300 --> 00:09:51,860
+So you are in a cantilever case.
+
+110
+00:09:52,420 --> 00:09:54,360
+So span, divide it.
+
+111
+00:09:55,540 --> 00:10:00,560
+So h, the overall depth equals band 30 feet.
+
+112
+00:10:00,900 --> 00:10:04,580
+I'm going to multiply it by 12 to be an inch, divide it.
+
+113
+00:10:05,300 --> 00:10:15,900
+So your overall depth should be no less than 45 inch.
+
+114
+00:10:17,320 --> 00:10:19,740
+No less than this number.
+
+115
+00:10:20,580 --> 00:10:22,360
+So I'm going to assume it 45.
+
+116
+00:10:23,740 --> 00:10:27,180
+too much and the 30 feet also is too much.
+
+117
+00:10:28,140 --> 00:10:33,420
+Okay, so 45, 46, 50, it's up to you.
+
+118
+00:10:34,140 --> 00:10:36,840
+This one 12, 14, it's up to you.
+
+119
+00:10:36,940 --> 00:10:39,420
+Sometimes 16, it's okay, no problem.
+
+120
+00:10:40,800 --> 00:10:47,660
+So these limits just to guide you to assume
+
+121
+00:10:48,160 --> 00:10:52,160
+the correct, the correct overall depth.
+
+122
+00:10:53,740 --> 00:10:57,620
+Okay, your question broke.
+
+123
+00:11:03,219 --> 00:11:04,420
+This is overall depth.
+
+124
+00:11:05,350 --> 00:11:07,000
+We have a stereo enforcement.
+
+125
+00:11:10,040 --> 00:11:17,700
+We have stereo enforcement at this location with distance so called depth.
+
+126
+00:11:18,860 --> 00:11:34,840
+T, what we did over all depth, which is H, or sometimes T, over all depth. How can I
+
+127
+00:11:35,920 --> 00:11:44,320
+get the depth? So we need to subtract this little distance. Do you remember what is the
+
+128
+00:11:44,340 --> 00:11:57,360
+of this little distance? Do you remember? Cover. Yes, thank you, Cody. This is called cover.
+
+129
+00:11:58,810 --> 00:12:08,700
+So we have some guide also to help you to figure out what is the perfect value of cover.
+
+130
+00:12:10,260 --> 00:12:19,700
+according also to ACI 318. But before, do you remember what is the main purpose of the concrete cover?
+
+131
+00:12:21,100 --> 00:12:24,840
+Why? Why we didn't put a stereo enforcement like this?
+
+132
+00:12:27,019 --> 00:12:34,780
+Why? At the bottom, exactly, of the cross section. So anybody can watch it and we can
+
+133
+00:12:35,700 --> 00:12:45,100
+watch it for any reason. So why we didn't do this? Why we bought reinforcement embedded in
+
+134
+00:12:45,720 --> 00:12:57,060
+concrete with a cover? For corrosion, to prevent corrosion. Yeah, the corrosion is a very bad
+
+135
+00:12:57,940 --> 00:13:07,700
+attack issue for any building. So concrete cover protect reinforcement from corrosion
+
+136
+00:13:10,040 --> 00:13:20,240
+insulation the steel from extreme heat if you have fire. I think the effect of fire on steel
+
+137
+00:13:21,220 --> 00:13:26,280
+is bigger than the effect of fire on concrete. So we need to protect
+
+138
+00:13:27,800 --> 00:13:37,780
+theory enforcement for any extreme condition, like corrosion, like fire, all of these, like salt attack
+
+139
+00:13:39,640 --> 00:13:46,419
+for freezing, all of this stuff. So I think if you have a concrete
+
+140
+00:13:47,140 --> 00:13:54,960
+rested directly on ground, on soil, will be different about concrete on a building on
+
+141
+00:13:55,020 --> 00:14:03,400
+second floor or third floor. It will be completely different from a bridge in contact with water.
+
+142
+00:14:04,240 --> 00:14:11,640
+So we have different values of cover, but right now we are talking about beams,
+
+143
+00:14:14,340 --> 00:14:19,680
+not exposed to weather or in contact with ground.
+
+144
+00:14:21,160 --> 00:14:23,840
+Beam inside the floor, inside your apartment,
+
+145
+00:14:24,120 --> 00:14:25,040
+inside your building.
+
+146
+00:14:27,219 --> 00:14:30,320
+We don't have exposure, direct exposure to weather.
+
+147
+00:14:31,620 --> 00:14:39,400
+So beams will have minimum cover equal 1.5 inch, minimum.
+
+148
+00:14:41,180 --> 00:14:48,100
+I said minimum that means you can go over this number but you cannot go below this number.
+
+149
+00:14:50,080 --> 00:15:03,020
+And one more thing, one more thing, this cover, this cover from the bottom of the
+
+150
+00:15:03,060 --> 00:15:06,780
+the stereo enforcement to the bottom of the cross section.
+
+151
+00:15:07,440 --> 00:15:10,720
+This is a cover provided in this table.
+
+152
+00:15:11,740 --> 00:15:15,540
+But we are looking for this distance
+
+153
+00:15:15,980 --> 00:15:19,040
+from the center line of the stereo enforcement to the bottom.
+
+154
+00:15:20,360 --> 00:15:24,520
+So we have to add half diameter of the steel bars.
+
+155
+00:15:25,740 --> 00:15:29,560
+So for my Ovanium, I don't care about half diameter
+
+156
+00:15:29,820 --> 00:15:30,680
+or all of this stuff.
+
+157
+00:15:31,060 --> 00:15:33,140
+If this cover minimum is 1.5,
+
+158
+00:15:33,300 --> 00:15:37,200
+I'm gonna assume this cover two inch or 2.5 inch.
+
+159
+00:15:38,480 --> 00:15:42,460
+I'm gonna increase it by 0.5 inch or one inch more.
+
+160
+00:15:44,740 --> 00:15:49,820
+For example, one day we will talk about foundation.
+
+161
+00:15:52,080 --> 00:15:57,059
+We have foundation which is cast agonist
+
+162
+00:15:58,660 --> 00:16:02,100
+and has a direct to contact with ground.
+
+163
+00:16:02,760 --> 00:16:06,460
+So at this moment, your cover must be three inch.
+
+164
+00:16:07,340 --> 00:16:10,840
+So I'm gonna increase it a little bit, 0.5, one inch more.
+
+165
+00:16:11,160 --> 00:16:12,600
+So I'm gonna assume it four inch.
+
+166
+00:16:13,980 --> 00:16:14,940
+So your question brought,
+
+167
+00:16:15,400 --> 00:16:20,480
+how can I assume the concrete cover commonly for beams?
+
+168
+00:16:21,400 --> 00:16:22,900
+The minimum is 1.5,
+
+169
+00:16:23,060 --> 00:16:26,859
+but this minimum represents clear cover
+
+170
+00:16:26,860 --> 00:16:30,940
+from the bottom surface of the stereo enforcement
+
+171
+00:16:31,460 --> 00:16:33,680
+to the bottom surface of the cross section.
+
+172
+00:16:34,780 --> 00:16:36,280
+But I'm looking for the distance
+
+173
+00:16:36,420 --> 00:16:39,560
+between this center line to the bottom surface.
+
+174
+00:16:39,660 --> 00:16:42,440
+So I'm gonna increase this number a little bit more,
+
+175
+00:16:42,880 --> 00:16:43,920
+which is half diameter,
+
+176
+00:16:44,080 --> 00:16:45,700
+should be half diameter or more.
+
+177
+00:16:47,240 --> 00:16:49,180
+So once you figure out the cover,
+
+178
+00:16:51,060 --> 00:16:55,640
+I can figure out the depth that will be used in design.
+
+179
+00:16:58,460 --> 00:17:01,100
+So I didn't give you specific numbers.
+
+180
+00:17:02,180 --> 00:17:03,320
+I'm giving you guides.
+
+181
+00:17:05,939 --> 00:17:11,459
+So assume any missing data, but respect these limits.
+
+182
+00:17:13,839 --> 00:17:17,180
+Okay, for depth, for overall depth,
+
+183
+00:17:17,819 --> 00:17:20,120
+I didn't give you a specific number,
+
+184
+00:17:20,400 --> 00:17:21,600
+but I give you a guide.
+
+185
+00:17:22,560 --> 00:17:24,199
+Don't go below this number.
+
+186
+00:17:25,620 --> 00:17:27,660
+For cover, I give you a limit.
+
+187
+00:17:28,500 --> 00:17:30,380
+Please don't go below this limit.
+
+188
+00:17:30,940 --> 00:17:32,700
+Go over this limit.
+
+189
+00:17:34,260 --> 00:17:36,420
+Until this moment, do you have any more question?
+
+190
+00:17:42,879 --> 00:17:43,440
+Yes.
+
+191
+00:17:44,420 --> 00:17:48,860
+This cover, which is given in this table, this limits,
+
+192
+00:17:49,600 --> 00:17:50,940
+from the bottom of the,
+
+193
+00:17:51,360 --> 00:17:52,580
+here is the steering enforcement.
+
+194
+00:17:53,200 --> 00:17:55,080
+It's a circle cross-section.
+
+195
+00:17:55,540 --> 00:17:59,780
+So from the bottom to the bottom of the cross section.
+
+196
+00:18:00,440 --> 00:18:01,980
+This is a clear distance.
+
+197
+00:18:03,600 --> 00:18:05,180
+But to figure out with the depth,
+
+198
+00:18:05,960 --> 00:18:08,400
+this depth is measured from the center line
+
+199
+00:18:08,660 --> 00:18:11,500
+of the reinforcement to the top of the cross section.
+
+200
+00:18:12,900 --> 00:18:15,200
+So we need to add this cover
+
+201
+00:18:16,360 --> 00:18:20,300
+by a little bit of this radius or half the diameter.
+
+202
+00:18:23,520 --> 00:18:23,760
+Okay.
+
+203
+00:18:30,999 --> 00:18:32,700
+Okay, what else?
+
+204
+00:18:34,380 --> 00:18:38,000
+We covered last week two situations.
+
+205
+00:18:39,380 --> 00:18:42,700
+The first situation, everything is given.
+
+206
+00:18:43,160 --> 00:18:48,140
+You have a cross-section with dimensions, everything is given.
+
+207
+00:18:50,060 --> 00:18:51,600
+Even area steel is given.
+
+208
+00:18:53,260 --> 00:18:58,060
+And you can figure out what is the design bending moment.
+
+209
+00:18:59,250 --> 00:18:59,800
+Do you remember?
+
+210
+00:19:01,100 --> 00:19:02,440
+Design bending moment.
+
+211
+00:19:02,820 --> 00:19:04,320
+If I'm talking about design,
+
+212
+00:19:05,220 --> 00:19:09,680
+so I'm talking about MN time phase reduction factor.
+
+213
+00:19:11,180 --> 00:19:16,880
+And your applied moment must be smaller than
+
+214
+00:19:17,360 --> 00:19:19,380
+or equal the design moment.
+
+215
+00:19:20,460 --> 00:19:35,400
+So this one is a blight moment on the structure or on the beam and this value can be done
+
+216
+00:19:35,540 --> 00:19:36,620
+using structure analysis.
+
+217
+00:19:38,160 --> 00:19:50,440
+This one called design moment and this design moment depend on what is the cross section
+
+218
+00:19:50,440 --> 00:19:57,720
+what is the given area steel? So and this moment, a wide moment on the beam from
+
+219
+00:19:57,800 --> 00:20:07,240
+structural analysis coming from there, external load. The load on the building.
+
+220
+00:20:08,760 --> 00:20:13,560
+So we have moment from external load, we have design moment coming from there,
+
+221
+00:20:13,820 --> 00:20:17,919
+dimension and cross-section and the exterior enforcement of the in the
+
+222
+00:20:17,920 --> 00:20:25,260
+cross section. This is the first situation. The second situation, no, area steel is missed.
+
+223
+00:20:29,280 --> 00:20:37,400
+And M ultimate is known. Can we figure out the required area steel? We need to design exactly
+
+224
+00:20:37,580 --> 00:20:41,940
+what is the required area steel for this moment. Okay, go ahead and get this number.
+
+225
+00:20:43,760 --> 00:20:46,740
+use a table to figure out the value of rho,
+
+226
+00:20:47,180 --> 00:20:49,120
+steel reinforcement ratio,
+
+227
+00:20:50,360 --> 00:20:54,160
+and rho equal area steel divide B times D.
+
+228
+00:20:55,040 --> 00:20:57,000
+You have rho, you have B and D,
+
+229
+00:20:57,500 --> 00:20:59,580
+I can figure out the area steel.
+
+230
+00:21:01,000 --> 00:21:03,460
+Nancy, I'm not sure you are here or not.
+
+231
+00:21:05,020 --> 00:21:06,180
+You asked me a question
+
+232
+00:21:10,000 --> 00:21:12,400
+about once I get area steel,
+
+233
+00:21:42,780 --> 00:21:44,960
+about number three or four or five only.
+
+234
+00:21:45,040 --> 00:21:47,500
+No, you can go over for six, seven, eight
+
+235
+00:21:47,760 --> 00:21:48,660
+and get your number.
+
+236
+00:21:49,400 --> 00:21:54,760
+I prefer to select a size that give me a good number.
+
+237
+00:21:55,540 --> 00:22:02,040
+Not too much or not very, very small number.
+
+238
+00:22:03,280 --> 00:22:05,000
+So very, very small number like two.
+
+239
+00:22:05,900 --> 00:22:07,620
+Two is very, very low number.
+
+240
+00:22:08,360 --> 00:22:10,620
+10 bars is too much.
+
+241
+00:22:11,060 --> 00:22:16,020
+So I'm gonna assume six, five, four,
+
+242
+00:22:17,300 --> 00:22:18,540
+all of these numbers is good.
+
+243
+00:22:26,699 --> 00:22:32,180
+We have adjusted to remind you for something.
+
+244
+00:22:34,200 --> 00:22:35,820
+We learned from structure analysis
+
+245
+00:22:37,600 --> 00:22:39,860
+and I can't remember all of these stuff.
+
+246
+00:22:40,900 --> 00:22:43,140
+If I have a symbolic supported beam,
+
+247
+00:22:44,660 --> 00:22:48,720
+I'm talking about solving with the hand,
+
+248
+00:22:49,740 --> 00:22:51,780
+without any software, without RISA.
+
+249
+00:22:52,900 --> 00:22:54,420
+If you have symbolic supported beam
+
+250
+00:22:54,480 --> 00:22:56,840
+with uniform distributed W,
+
+251
+00:22:57,880 --> 00:22:59,580
+the bending moment is parabola.
+
+252
+00:23:01,280 --> 00:23:04,840
+And this value of moment equal WL square over E.
+
+253
+00:23:06,380 --> 00:23:08,419
+If you have symbolic supported beam
+
+254
+00:23:08,420 --> 00:23:21,460
+with concentrated load P at mid span, your moment equal P L over 4.
+
+255
+00:23:23,140 --> 00:23:28,620
+If this moment, your moment here will be looks like triangle
+
+256
+00:23:29,260 --> 00:23:32,660
+and this vertex of the triangle at the same location of the load.
+
+257
+00:23:33,440 --> 00:23:36,740
+And this value of moment equal P L over 4.
+
+258
+00:23:37,420 --> 00:23:40,480
+If this concentrated load not at midis band,
+
+259
+00:23:40,780 --> 00:23:43,400
+so we have distance A, distance B,
+
+260
+00:23:43,580 --> 00:23:45,420
+and the total distance is L,
+
+261
+00:23:47,120 --> 00:23:50,940
+so your bending moment will be triangle.
+
+262
+00:23:52,380 --> 00:23:54,840
+Don't forget the vertex of the triangle
+
+263
+00:23:55,060 --> 00:23:57,460
+at the same location of the applied force.
+
+264
+00:23:58,620 --> 00:24:04,880
+This maximum moment will be PAB divided L.
+
+265
+00:24:07,340 --> 00:24:11,320
+I highly recommend to keep these diagrams
+
+266
+00:24:12,000 --> 00:24:14,660
+and these values in your mind all the time.
+
+267
+00:24:15,940 --> 00:24:17,420
+If you have concentrated loot,
+
+268
+00:24:17,900 --> 00:24:19,360
+I'm sorry, if you have distributed loot,
+
+269
+00:24:21,140 --> 00:24:23,940
+first of all, I'm talking about simply supported beam.
+
+270
+00:24:29,500 --> 00:24:32,800
+So beam, supported by two supports only.
+
+271
+00:24:33,720 --> 00:24:34,940
+If you have distributed loot,
+
+272
+00:24:35,180 --> 00:24:36,560
+your moment looks like parabola.
+
+273
+00:24:38,300 --> 00:24:40,880
+Your maximum moment here, WL square over 8.
+
+274
+00:24:42,040 --> 00:24:47,040
+If you have concentrated load at mid span, your moment will be triangle.
+
+275
+00:24:47,660 --> 00:24:56,060
+The vertex of the triangle at the location of the concentrated load, which is at mid span, your moment will be PL/4.
+
+276
+00:24:57,220 --> 00:25:03,800
+If you have concentrated load, but not at the mid span, we have distance A and distance B and the total distance is L.
+
+277
+00:25:03,900 --> 00:25:09,540
+your moment will be triangle also the vertex of the triangle at the location
+
+278
+00:25:09,540 --> 00:25:15,040
+of the concentrated loot your maximum moment will be PAB/L.
+
+279
+00:25:25,860 --> 00:25:33,500
+2 bars is too low number. Try 4, 5, 6. These numbers is good.
+
+280
+00:25:34,799 --> 00:25:39,360
+2 bars is good, still good also. 2 bars is still good, I cannot say anything.
+
+281
+00:25:40,280 --> 00:25:45,560
+But 1 bar is wrong. Don't try to use 1 bar. 1 bar will make some eccentricity.
+
+282
+00:25:48,860 --> 00:25:56,360
+So the minimum number is two. I can agree. It's okay. It's okay, but we don't prefer. Okay.
+
+283
+00:25:59,220 --> 00:26:08,360
+Okay. But if you have a beam like this one or like this one,
+
+284
+00:26:12,300 --> 00:26:15,700
+do you remember something from last semester about structure analysis?
+
+285
+00:26:15,980 --> 00:26:24,020
+This means if you have more than two supports, you are talking about something called indeterminate structure.
+
+286
+00:26:28,120 --> 00:26:34,720
+We have many reactions, we have many things, so we cannot solve these structures with simple way.
+
+287
+00:26:36,960 --> 00:26:43,320
+Okay, so if you have more than one span, two spans, three spans like this,
+
+288
+00:26:44,060 --> 00:26:56,160
+ACI can help you to solve these beams using this table by providing simplified method of analysis.
+
+289
+00:26:56,860 --> 00:27:02,200
+We don't need to go back to structural analysis and the methods used to solve in
+
+290
+00:27:02,280 --> 00:27:08,060
+the term structure or using software. No, we don't have software, we don't have anything.
+
+291
+00:27:08,300 --> 00:27:12,760
+So we need to figure out these values of moment in a very simple way.
+
+292
+00:27:13,060 --> 00:27:14,280
+Is your all can help you?
+
+293
+00:27:20,399 --> 00:27:26,960
+Without going through this table, I'm going to summarize all of this information.
+
+294
+00:27:28,540 --> 00:27:31,420
+We have positive moment and we have negative moment.
+
+295
+00:27:32,460 --> 00:27:35,900
+Do you remember positive moment at the top, negative moment at the bottom?
+
+296
+00:27:37,240 --> 00:27:44,300
+So if you have two span, if you have two span, we have negative moment here.
+
+297
+00:27:45,800 --> 00:27:51,460
+We have positive, negative, we have negative,
+
+298
+00:27:54,560 --> 00:28:00,060
+and the positive, and we have negative. I'm sorry, we have negative.
+
+299
+00:28:09,860 --> 00:28:16,140
+This value based on this table will be W L square divided by 24.
+
+300
+00:28:17,300 --> 00:28:21,860
+This one will be W L square divided by 14.
+
+301
+00:28:22,600 --> 00:28:26,140
+This one will be the same W L square divided by 14.
+
+302
+00:28:27,140 --> 00:28:36,100
+one will be WL square divided 9, this one will be WL square divided 24. If you would
+
+303
+00:28:36,160 --> 00:28:44,500
+like to draw it in a very simple way, if you have to span, we have here a little bit of
+
+304
+00:28:44,560 --> 00:28:57,120
+negative moment, then we have positive, negative, positive, and a little bit of negative. This
+
+305
+00:28:57,960 --> 00:29:06,300
+WL squared divided by 14. WL squared divided by 14. WL squared divided by 24.
+
+306
+00:29:12,540 --> 00:29:21,200
+W is applied force. L span of this beam square divided by 40.
+
+307
+00:29:26,640 --> 00:29:38,100
+If your beam is not to span, no we have many spans, three minimums, four, five, six, seven, eight spans, whatever.
+
+308
+00:29:39,360 --> 00:29:42,580
+The same shape of moment.
+
+309
+00:29:44,940 --> 00:29:48,040
+We have positive here, we have negative here.
+
+310
+00:29:49,760 --> 00:29:56,220
+We have another negative, we have negative, we have negative, we have positive.
+
+311
+00:29:56,560 --> 00:29:58,300
+We have positive and so on.
+
+312
+00:29:59,980 --> 00:30:03,000
+This negative moment will be W L square divided 24.
+
+313
+00:30:04,000 --> 00:30:06,240
+This one will be the W L square divided 10.
+
+314
+00:30:06,920 --> 00:30:09,020
+This one will be W L square divided 11.
+
+315
+00:30:09,680 --> 00:30:11,620
+This one will be W L square divided 11.
+
+316
+00:30:12,160 --> 00:30:26,540
+W L square divided
+
+317
+00:30:26,560 --> 00:30:29,620
+or more than two span, can you see?
+
+318
+00:30:31,420 --> 00:30:33,940
+After the first one, this is the edges span
+
+319
+00:30:35,940 --> 00:30:38,320
+or the first span, we have different values.
+
+320
+00:30:38,840 --> 00:30:41,340
+Wl squared divided 24, W squared divided 14,
+
+321
+00:30:41,920 --> 00:30:42,800
+W squared divided 10.
+
+322
+00:30:43,520 --> 00:30:47,060
+But after this, the same, the same, the same, the same.
+
+323
+00:30:47,180 --> 00:30:49,440
+If everything's the same, W squared divided 11,
+
+324
+00:30:49,780 --> 00:30:52,140
+W squared divided 16, W squared divided 11,
+
+325
+00:30:52,560 --> 00:30:53,520
+W score divides 16.
+
+326
+00:30:53,820 --> 00:30:56,040
+This is a positive moment, this is a negative moment.
+
+327
+00:30:59,440 --> 00:31:03,440
+This is the translation of all of these values in this table.
+
+328
+00:31:06,900 --> 00:31:11,140
+Guys, remember, sometimes we need to figure out
+
+329
+00:31:11,260 --> 00:31:15,620
+the value of moment, to figure out the value of area steel.
+
+330
+00:31:17,700 --> 00:31:20,080
+So sometimes the first step, we need to figure out
+
+331
+00:31:20,340 --> 00:31:21,600
+what is the applied moment.
+
+332
+00:31:22,000 --> 00:31:26,700
+We don't need to go back to structure analysis. We don't need to go back to RISA.
+
+333
+00:31:28,779 --> 00:31:32,080
+So, ACR give you few hints.
+
+334
+00:31:33,540 --> 00:31:39,760
+Can give you the value of moment if you have two span beam or more than two span.
+
+335
+00:31:40,800 --> 00:31:42,560
+If you are talking about positive moment,
+
+336
+00:31:43,640 --> 00:31:45,220
+we have a separation for moment.
+
+337
+00:31:46,340 --> 00:31:48,160
+If you are talking about negative moment,
+
+338
+00:31:48,350 --> 00:31:49,760
+we have a separation for moment,
+
+339
+00:31:50,520 --> 00:31:58,140
+For two spin for three spin, you need to figure out, are you talking about the first is been or the niggas this bands?
+
+340
+00:31:58,840 --> 00:32:03,620
+If you are talking about the first is been, are you talking about positive or negative moment?
+
+341
+00:32:06,919 --> 00:32:08,260
+Any questions so far?
+
+342
+00:32:12,540 --> 00:32:13,480
+Any question?
+
+343
+00:32:15,360 --> 00:32:15,700
+Okay.
+
+344
+00:32:18,520 --> 00:32:23,360
+I will go back to this one by example, but just a second.
+
+345
+00:32:25,900 --> 00:32:30,420
+This slide, which is a slide number six, is critical.
+
+346
+00:32:33,360 --> 00:32:38,820
+Because if you didn't understand this slide correctly,
+
+347
+00:32:40,180 --> 00:32:45,300
+you will do fatal mistake in your construction.
+
+348
+00:32:48,240 --> 00:32:53,220
+This one is critical, please everybody pay attention.
+
+349
+00:32:55,000 --> 00:32:57,240
+Everybody please pay attention.
+
+350
+00:33:00,700 --> 00:33:02,780
+Okay, we have a beam.
+
+351
+00:33:04,120 --> 00:33:07,620
+This beam is supported on different supports.
+
+352
+00:33:08,840 --> 00:33:11,400
+This beam under the effect of applied load
+
+353
+00:33:13,060 --> 00:33:15,660
+by any method, structure analysis,
+
+354
+00:33:16,520 --> 00:33:22,960
+the simplified method using ACI, I am done.
+
+355
+00:33:23,620 --> 00:33:27,460
+I draw bending moment diagram.
+
+356
+00:33:29,100 --> 00:33:29,440
+That's right.
+
+357
+00:33:31,420 --> 00:33:31,820
+That's right.
+
+358
+00:33:34,200 --> 00:33:38,260
+This beam in the real life looks like this.
+
+359
+00:33:53,500 --> 00:33:54,600
+This is a column.
+
+360
+00:33:56,740 --> 00:33:58,940
+We have another column which called support.
+
+361
+00:33:59,620 --> 00:34:00,500
+We have another column.
+
+362
+00:34:01,640 --> 00:34:02,420
+We have another column.
+
+363
+00:34:06,060 --> 00:34:09,980
+This is a real beam, and this beam has a center line
+
+364
+00:34:11,080 --> 00:34:14,060
+at the mid thickness.
+
+365
+00:34:18,419 --> 00:34:23,220
+In the United States, what we learned in structural analysis
+
+366
+00:34:26,340 --> 00:34:30,280
+and the common direction of moment,
+
+367
+00:34:31,340 --> 00:34:37,280
+moment is drawn on the compression site.
+
+368
+00:34:41,660 --> 00:34:47,620
+Sometimes we have here positive moment, we have here negative moment, we have positive,
+
+369
+00:34:48,159 --> 00:34:58,360
+we have negative, we have positive. I'm talking about moment and sign convention in United States.
+
+370
+00:35:00,620 --> 00:35:08,980
+moment is drawn on the compression side of the member.
+
+371
+00:35:12,820 --> 00:35:23,400
+So at this board your bending moment is drawn above or below the member.
+
+372
+00:35:26,620 --> 00:35:36,120
+I'm talking about this part. I think this moment is drawn above. So compression side will be above
+
+373
+00:35:37,100 --> 00:35:48,820
+or below the beam. So compression side will be above. Okay, let me talk about this one from here
+
+374
+00:35:48,820 --> 00:35:56,500
+to here. Your bending moment is drawn like this. Based on this information, the moment
+
+375
+00:35:56,700 --> 00:36:04,060
+is drawn on the compression side. So I think your compression will be here. From this part,
+
+376
+00:36:04,480 --> 00:36:11,080
+your compression will be here. For this part, your compression will be down. For this part,
+
+377
+00:36:11,380 --> 00:36:18,940
+compression will be up. Anybody has any question for this point? It's very simple.
+
+378
+00:36:19,560 --> 00:36:25,480
+Go ahead and draw your moment. Positive moment is at the top. Negative moment
+
+379
+00:36:25,550 --> 00:36:31,960
+at the bottom. Once you draw your moment, your moment is drawn on the compression
+
+380
+00:36:32,140 --> 00:36:37,140
+side. Once you find the moment, you will find the compression side.
+
+381
+00:36:41,560 --> 00:36:46,440
+Guys, just to remind you, if you have cross-section, we have moment.
+
+382
+00:36:48,420 --> 00:36:49,660
+We have neutral axis.
+
+383
+00:36:51,840 --> 00:36:56,640
+We have one side in tension and one side in compression.
+
+384
+00:37:00,840 --> 00:37:03,540
+Sometimes your moment is coming like this.
+
+385
+00:37:06,180 --> 00:37:12,220
+tension will be at the top and your tension sometimes will be at the bottom, your compression
+
+386
+00:37:12,360 --> 00:37:19,540
+at the bottom and your neutral axis is here. So we need to determine are you in this case
+
+387
+00:37:20,330 --> 00:37:28,400
+or are you in this case? Why? The answer is very simple because if you are in this case,
+
+388
+00:37:28,820 --> 00:37:32,980
+Your reinforcement must be here at the tension side.
+
+389
+00:37:34,180 --> 00:37:39,380
+If you are in this case, your reinforcement must be here on the tension side.
+
+390
+00:37:40,880 --> 00:37:44,560
+That's right. One more time. One more time.
+
+391
+00:37:47,839 --> 00:37:52,780
+Guys, we used that your moment looks like this.
+
+392
+00:37:55,140 --> 00:38:01,880
+At this steel, I'm sorry, at this steel, we have tension.
+
+393
+00:38:05,220 --> 00:38:11,680
+At this hit, we have compression. In between, we have neutral axis.
+
+394
+00:38:13,500 --> 00:38:21,859
+So if you can't decide which side in tension, which side in compression, I can figure out
+
+395
+00:38:21,860 --> 00:38:24,280
+Where can I put my stereo enforcement?
+
+396
+00:38:26,580 --> 00:38:28,880
+Sometimes we have a different situation.
+
+397
+00:38:29,800 --> 00:38:33,500
+Your moment looks your beam and your moment looks like this.
+
+398
+00:38:35,680 --> 00:38:36,600
+So at this deal.
+
+399
+00:38:38,440 --> 00:38:40,080
+We have tension at this head.
+
+400
+00:38:40,440 --> 00:38:41,780
+We have compression in between.
+
+401
+00:38:41,900 --> 00:38:42,760
+We have neutral axis.
+
+402
+00:38:43,580 --> 00:38:45,560
+So tension in this case at the top.
+
+403
+00:38:45,840 --> 00:38:49,580
+So stereo force must stereo enforcement must be at the top.
+
+404
+00:38:51,720 --> 00:39:05,400
+So steel reinforcement is at the tension side.
+
+405
+00:39:08,470 --> 00:39:09,840
+We have information here.
+
+406
+00:39:10,330 --> 00:39:15,260
+Steel reinforcement is bought at the tension side.
+
+407
+00:39:16,470 --> 00:39:19,260
+So can anybody tell me where can I find--
+
+408
+00:39:19,260 --> 00:39:21,480
+I figure out, where is the tension side?
+
+409
+00:39:22,740 --> 00:39:23,960
+OK, I cannot.
+
+410
+00:39:24,660 --> 00:39:27,760
+But what I can do, I can let you know
+
+411
+00:39:27,940 --> 00:39:29,080
+where is the compression side?
+
+412
+00:39:30,580 --> 00:39:32,980
+If you can figure out, where is the compression side?
+
+413
+00:39:33,280 --> 00:39:35,060
+I can figure out, what is the tension side?
+
+414
+00:39:35,900 --> 00:39:38,160
+If the compression side at the top,
+
+415
+00:39:38,620 --> 00:39:39,660
+tension will be at the bottom.
+
+416
+00:39:40,220 --> 00:39:42,000
+If the compression side at the bottom,
+
+417
+00:39:42,320 --> 00:39:43,300
+tension will be at the top.
+
+418
+00:39:43,500 --> 00:39:43,840
+That's it.
+
+419
+00:39:45,460 --> 00:39:47,960
+Binding moment diagram can help you to figure it out.
+
+420
+00:39:48,960 --> 00:39:50,440
+Based on this information,
+
+421
+00:39:50,860 --> 00:39:55,620
+Binding moment diagram is drawn on the compression site.
+
+422
+00:39:56,960 --> 00:39:59,900
+Just very simple, just very simple.
+
+423
+00:40:01,640 --> 00:40:02,320
+For this part,
+
+424
+00:40:05,500 --> 00:40:10,160
+Binding moment diagram is drawn at the top of the beam.
+
+425
+00:40:11,360 --> 00:40:14,580
+That means at the top of the beam, we have compression.
+
+426
+00:40:15,040 --> 00:40:20,540
+That means the tension will be at the bottom, so the steering force must be here.
+
+427
+00:40:24,060 --> 00:40:25,740
+For this part of the beam.
+
+428
+00:40:27,800 --> 00:40:34,280
+The binning moment diagram is drawn below the beam, so compression side will be down.
+
+429
+00:40:35,080 --> 00:40:40,040
+That means tension side will be at the top, so the steering force will be here.
+
+430
+00:40:43,740 --> 00:40:51,840
+For this part of the beam, we have a binding moment diagram at the top of the beam, which
+
+431
+00:40:51,960 --> 00:40:52,540
+is positive.
+
+432
+00:40:52,900 --> 00:40:54,960
+So compression will be at the top.
+
+433
+00:40:55,760 --> 00:40:58,080
+That means tension will be at the bottom.
+
+434
+00:40:58,460 --> 00:41:00,480
+So stereo enforcement will be at the bottom.
+
+435
+00:41:03,580 --> 00:41:09,480
+For this part of the beam, binding moment diagram is drawn at the bottom.
+
+436
+00:41:10,000 --> 00:41:11,720
+So compression at the bottom.
+
+437
+00:41:12,880 --> 00:41:21,540
+you find, moment you find compression side. So I can figure out where is the tension side will be at the top. So stereo enforcement will be at the top.
+
+438
+00:41:23,700 --> 00:41:34,500
+For this part of the beam, bending moment diagram is at the top. So compression will be at the top. So tension will be at the bottom. So stereo enforcement is at the bottom.
+
+439
+00:41:40,880 --> 00:41:49,780
+This information are critical. This information are important, significant to your understanding.
+
+440
+00:41:54,020 --> 00:41:56,460
+Guys, did you get it?
+
+441
+00:42:02,080 --> 00:42:04,200
+It looks like you are playing.
+
+442
+00:42:05,520 --> 00:42:07,180
+Once you draw your binding moment diagram,
+
+443
+00:42:08,540 --> 00:42:10,460
+your moment, the binding moment diagram,
+
+444
+00:42:10,600 --> 00:42:12,440
+can tell you where is the compression side.
+
+445
+00:42:12,600 --> 00:42:14,920
+So I can figure out the tension side on the other side.
+
+446
+00:42:19,280 --> 00:42:20,700
+Guys, did you get it?
+
+447
+00:42:25,540 --> 00:42:25,800
+OK.
+
+448
+00:42:27,160 --> 00:42:27,380
+OK.
+
+449
+00:42:28,440 --> 00:42:42,040
+So you told me if you have a moment I can figure out the value of rho I can figure out the area
+
+450
+00:42:42,140 --> 00:42:49,800
+steel that's right that's right okay you are done we have a moment here go ahead and get rho
+
+451
+00:42:50,680 --> 00:42:58,420
+go ahead and get area steel for these bars only we have a moment here go ahead and get rho
+
+452
+00:42:58,420 --> 00:43:02,740
+go ahead and get area steel for the steering enforcement at this location only.
+
+453
+00:43:03,820 --> 00:43:04,740
+We have a moment here.
+
+454
+00:43:06,140 --> 00:43:10,160
+I can figure out raw area steel for these parts only.
+
+455
+00:43:11,480 --> 00:43:12,240
+And keep going.
+
+456
+00:43:13,579 --> 00:43:21,220
+So based on the moment diagram, I can figure out where can I put my steering enforcement.
+
+457
+00:43:21,420 --> 00:43:31,800
+Then, based on the value of the bending moment, I can figure out how many bars I need for this part of the beam.
+
+458
+00:43:33,700 --> 00:43:35,980
+Let me do this example.
+
+459
+00:43:38,620 --> 00:43:40,520
+This example is very important.
+
+460
+00:43:42,130 --> 00:43:42,900
+We have a beam.
+
+461
+00:43:44,500 --> 00:43:49,060
+We need to design the shown reinforced concrete beam by determining.
+
+462
+00:43:49,420 --> 00:43:54,520
+Nothing is given except we have a beam with three bands and the four supports.
+
+463
+00:43:55,660 --> 00:44:01,840
+We need to look out what is the cross-section dimension, what is the required area steel,
+
+464
+00:44:03,360 --> 00:44:16,680
+if a field 60,000, if prime C 4000 and each is band 20 feet, each is band here 20 feet,
+
+465
+00:44:17,460 --> 00:44:20,160
+20 feet, 20 feet.
+
+466
+00:44:23,359 --> 00:44:25,060
+Given we have a dead load,
+
+467
+00:44:25,880 --> 00:44:28,900
+light load, and we have a hint,
+
+468
+00:44:29,320 --> 00:44:32,020
+this dead load, which is 1.5 keb per foot,
+
+469
+00:44:32,320 --> 00:44:34,500
+not including the own weight of the bead.
+
+470
+00:44:36,840 --> 00:44:40,380
+So first step, we need to assume
+
+471
+00:44:43,640 --> 00:44:45,020
+the cross section.
+
+472
+00:44:51,460 --> 00:44:52,780
+What is the value of B?
+
+473
+00:44:53,980 --> 00:44:54,340
+Start to U.
+
+474
+00:44:54,880 --> 00:44:55,880
+10, 12, 14.
+
+475
+00:44:56,200 --> 00:44:56,620
+Start to U.
+
+476
+00:44:57,480 --> 00:44:58,540
+I'm gonna assume it 14.
+
+477
+00:45:00,700 --> 00:45:01,140
+Start to me.
+
+478
+00:45:02,700 --> 00:45:04,260
+What is the value of overall depth?
+
+479
+00:45:05,820 --> 00:45:06,080
+Okay.
+
+480
+00:45:06,740 --> 00:45:08,320
+For this span only,
+
+481
+00:45:09,180 --> 00:45:12,400
+this span is continuous from one side, this side only.
+
+482
+00:45:13,320 --> 00:45:13,480
+So,
+
+483
+00:45:15,280 --> 00:45:23,440
+your overall depth will be one in the continuous will be l/18.5
+
+484
+00:45:28,320 --> 00:45:38,400
+h equal this length divide 18.5 don't forget this one in feet i multiplied it by 12 to be an inch
+
+485
+00:45:39,440 --> 00:45:53,140
+This one will be 20 times 12 divided by 18.5. This one will be 12.97. Please don't go below
+
+486
+00:45:53,360 --> 00:45:59,620
+this number. For this is BAN. This is BAN is continuous from this end and the continuous
+
+487
+00:45:59,760 --> 00:46:05,760
+from this end. So we are talking about both ends are continuous. So your edge will be BAN
+
+488
+00:46:07,760 --> 00:46:20,460
+divide 21 I think. Is it 21? Yes, 21. So this overall depth will be
+
+489
+00:46:22,480 --> 00:46:32,740
+20 times 12 divided by 21 will be 11.42. So please go ahead and assume this overall depth
+
+490
+00:46:33,120 --> 00:46:38,980
+and don't be below this number or even this number.
+
+491
+00:46:40,000 --> 00:46:43,360
+So I'm going to assume it how much?
+
+492
+00:46:43,980 --> 00:46:44,200
+20?
+
+493
+00:46:46,060 --> 00:46:46,260
+20?
+
+494
+00:46:47,440 --> 00:46:48,340
+It's up to you, 22?
+
+495
+00:46:48,900 --> 00:46:49,220
+17?
+
+496
+00:46:49,900 --> 00:46:50,440
+I'm sorry, 16?
+
+497
+00:46:51,700 --> 00:46:52,080
+14?
+
+498
+00:46:53,620 --> 00:46:53,980
+That's fine.
+
+499
+00:46:54,500 --> 00:46:55,820
+So I'm going to assume it 24.
+
+500
+00:47:00,460 --> 00:47:00,900
+It's up to you.
+
+501
+00:47:03,380 --> 00:47:12,460
+The common dimensions, you are talking about something in 20s, 20, 22, 24, 26, something
+
+502
+00:47:12,700 --> 00:47:13,560
+in this range.
+
+503
+00:47:14,630 --> 00:47:29,800
+We don't like to go below 20 because if, you know, more depth less reinforcement.
+
+504
+00:47:31,940 --> 00:47:42,700
+less depth means more reinforcement. My question is for you. Do you think which one is more
+
+505
+00:47:42,780 --> 00:47:50,260
+expensive to buy stereo enforcement or to buy concrete? This question or the answer of
+
+506
+00:47:50,320 --> 00:47:59,920
+this question will let you know why. The required is only 12.97, 11.24. Why?
+
+507
+00:47:59,920 --> 00:48:08,820
+I'm gonna try to assume too much reinforcement to make stereo enforcement little and little.
+
+508
+00:48:10,280 --> 00:48:18,160
+But this information in your mind, more depth, less reinforcement. Less depth means more reinforcement.
+
+509
+00:48:19,110 --> 00:48:27,940
+Okay. If you don't care about how much it will cost, okay, go ahead and assume what you want.
+
+510
+00:48:29,760 --> 00:48:38,340
+What else? Yeah, if you have a steering enforcement here, can you tell me what is the depth? Yeah,
+
+511
+00:48:38,340 --> 00:48:52,300
+I can tell you 24 minus 2 will be 22. Because for beams, where? For beams, I'm gonna assume the
+
+512
+00:48:52,320 --> 00:48:59,180
+clear cover is 1.5. I'm going to increase it a little bit to be 2 inch or 2.5 inch. It's up to you.
+
+513
+00:49:00,600 --> 00:49:09,740
+Someone will assume this one 2.5. That's fine. So this one will be 21.5. That's fine.
+
+514
+00:49:13,560 --> 00:49:18,560
+If you remember, I told you we don't have one specific solution for any problem.
+
+515
+00:49:20,080 --> 00:49:24,220
+We don't have one specific solution because we are talking about design course.
+
+516
+00:49:25,000 --> 00:49:33,840
+So everybody will have different scenario. So the first step, I assume the cross section.
+
+517
+00:49:36,400 --> 00:49:45,200
+Any question for this point? These calculations only for guide, to guide you. That's it, just to guide
+
+518
+00:49:45,200 --> 00:49:51,920
+u. Any questions so far?
+
+519
+00:50:04,800 --> 00:50:07,180
+Guys, this Deglued
+
+520
+00:50:10,880 --> 00:50:13,520
+does not include the own weight of the beam.
+
+521
+00:50:14,000 --> 00:50:17,120
+So we need to figure out own weight of the beam.
+
+522
+00:50:17,200 --> 00:50:18,440
+Anybody remember last time?
+
+523
+00:50:19,620 --> 00:50:20,460
+I think last time.
+
+524
+00:50:21,140 --> 00:50:23,820
+How can I calculate the own weight of a beam?
+
+525
+00:50:24,340 --> 00:50:25,180
+Own weight equal.
+
+526
+00:50:26,260 --> 00:50:27,580
+B divided by 12.
+
+527
+00:50:28,560 --> 00:50:30,740
+Time t divided by 12.
+
+528
+00:50:31,700 --> 00:50:33,280
+Time 1 inch--
+
+529
+00:50:33,320 --> 00:50:35,020
+I'm sorry, 1 feet length.
+
+530
+00:50:36,460 --> 00:50:38,620
+Time gamma of concrete.
+
+531
+00:50:40,360 --> 00:50:44,880
+Do you remember? So 14 inch divided by 12.
+
+532
+00:50:45,680 --> 00:50:47,540
+24 inch divided by 12.
+
+533
+00:50:48,260 --> 00:50:50,480
+Time one. This is a volume.
+
+534
+00:50:51,540 --> 00:50:57,480
+Time 150 is the gamma of concrete, normal weight concrete.
+
+535
+00:50:59,060 --> 00:51:03,900
+So the value of on weight, by the way, this value 150,
+
+536
+00:51:04,560 --> 00:51:06,760
+bound the cubic feet, bound.
+
+537
+00:51:08,200 --> 00:51:15,500
+So 14 divided by 12 times 24 divided by 12 times 1 times 150.
+
+538
+00:51:16,320 --> 00:51:20,160
+This value equals 350 bound barefoot.
+
+539
+00:51:21,260 --> 00:51:25,020
+If you would like to convert it to kib barefoot to be like this
+
+540
+00:51:26,620 --> 00:51:32,360
+divided by 1000 would be 0.35 kib barefoot.
+
+541
+00:51:35,300 --> 00:51:45,280
+So your w ultimate equal 1.2 dead load plus 1.6 live load. We need to take factor of safety.
+
+542
+00:51:45,700 --> 00:51:50,980
+Do you remember? Factor of safety. So we need to increase dead load by 20 percent,
+
+543
+00:51:51,680 --> 00:52:01,180
+increase live load by 60 percent. So 1.2, what are the dead loads? We have given 1.5.
+
+544
+00:52:02,120 --> 00:52:14,560
+we have unweight calculated 0.35 nothing else plus 1.6 time life load 2.5
+
+545
+00:52:16,310 --> 00:52:19,200
+so your final answer will be
+
+546
+00:52:22,440 --> 00:52:37,020
+plus 1.5 times 1.2 plus 1.6 to 2.5 this one will be 6.22 kB. So guys right now
+
+547
+00:52:39,880 --> 00:52:51,940
+I have on this beam distributed you know four mil oot w ultimate equal six point twenty two k
+
+548
+00:52:53,160 --> 00:52:53,920
+barefoot
+
+549
+00:53:03,080 --> 00:53:10,540
+So we learned how to figure out or assume the cross-section dimension, how to calculate the
+
+550
+00:53:10,700 --> 00:53:17,540
+unweight, how to combine dead load plus life load and the take factor of safety.
+
+551
+00:53:19,920 --> 00:53:26,460
+Then the final situation right now, we have a beam with uniform distributed load,
+
+552
+00:53:26,600 --> 00:53:32,680
+how much 6.22 Kb/ft then what is the value of M altitude?
+
+553
+00:53:36,460 --> 00:53:42,640
+My question is how many how many bends here is it two or three? How many bends?
+
+554
+00:53:44,720 --> 00:53:45,180
+Three bends?
+
+555
+00:53:47,740 --> 00:53:48,740
+You are in this situation.
+
+556
+00:53:52,580 --> 00:53:52,760
+W?
+
+557
+00:53:56,360 --> 00:54:12,320
+6.22. L for each span 20 feet. So I can complete these diagrams. Once you complete these diagrams,
+
+558
+00:54:13,300 --> 00:54:18,640
+I can figure out the value of M ultimate for each part. From M ultimate, I can figure out
+
+559
+00:54:18,920 --> 00:54:28,100
+row and then a resty. I will continue next time but the last step we stopped here we figured out
+
+560
+00:54:28,620 --> 00:54:40,120
+the applied uniform load on the beam. Guys do you have any question today Zetobik is very important.
+
+561
+00:54:41,880 --> 00:54:49,920
+Today, the topic is very important. We have many information. We started to understand
+
+562
+00:54:50,700 --> 00:54:57,240
+something. What's going on? What's going on? We have some guides from ACI
+
+563
+00:54:57,960 --> 00:55:04,160
+help you to figure out the overall depth, the concrete cover, how can we design
+
+564
+00:55:05,020 --> 00:55:09,920
+some guides to figure out the applied load and what is the value of bending moment.
+
+565
+00:55:11,640 --> 00:55:27,940
+And where can I put a stereo enforcement at the top of the beam or at the bottom of the beam based on the diagram and remember bending moment is drawn on the compression side. I'm talking about USA.
+
+566
+00:55:29,320 --> 00:55:33,800
+Because if you go outside USA, you will find something different. Okay.
+
+567
+00:55:35,200 --> 00:55:38,180
+So bending moment can tell you what is the compression side.
+
+568
+00:55:38,520 --> 00:55:41,080
+That means the tension side will be on the other side.
+
+569
+00:55:42,600 --> 00:55:45,400
+So on the tension side, you have to put
+
+570
+00:55:45,840 --> 00:55:48,480
+stereo enforcement because the stereo enforcement
+
+571
+00:55:49,500 --> 00:55:55,940
+will support tension. Why? Because concrete is very weak in tension.
+
+572
+00:55:59,700 --> 00:56:00,580
+Any question guys?
+

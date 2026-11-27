@@ -1,0 +1,1604 @@
+1
+00:00:02,380 --> 00:00:20,020
+I started with retaining wool and I told you we have a site called active earth pressure
+
+2
+00:00:22,600 --> 00:00:25,640
+and we have another site called passive earth pressure.
+
+3
+00:00:27,760 --> 00:00:40,180
+air-soot pressure equal pressure equal key active gamma itch key active gamma itch key
+
+4
+00:00:41,620 --> 00:00:44,080
+equal 1 minus sin,
+
+5
+00:00:45,100 --> 00:00:48,980
+phi divided 1 plus sin phi,
+
+6
+00:00:50,240 --> 00:00:58,120
+where phi is the angle of internal friction.
+
+7
+00:00:59,080 --> 00:01:04,879
+All of these stuff is related or are related to in a soymic ax.
+
+8
+00:01:06,700 --> 00:01:10,559
+I need only to highlight something here and I will
+
+9
+00:01:10,560 --> 00:01:17,440
+start with an example if you have water table sometimes we have a water
+
+10
+00:01:18,100 --> 00:01:23,840
+underground water if you have a water this water if you go back to hydraulics
+
+11
+00:01:24,520 --> 00:01:36,319
+this water will cause a triangle pressure and the pressure here equal gamma
+
+12
+00:01:36,320 --> 00:01:46,440
+water time itch. At the top or at the water table surface we don't have itch for water.
+
+13
+00:01:47,360 --> 00:01:57,560
+Your value here is zero. At the end we have itch for water. If you multiply this itch time gamma water I
+
+14
+00:01:57,560 --> 00:02:04,780
+can construct this triangle. I'm talking this pressure coming from water.
+
+15
+00:02:07,740 --> 00:02:18,700
+Only we still need to draw the pressure due to the effect of soil which is gamma soil h
+
+16
+00:02:19,160 --> 00:02:21,480
+Soil time key active.
+
+17
+00:02:23,360 --> 00:02:24,980
+Guys, remember all the time
+
+18
+00:02:25,140 --> 00:02:27,480
+if you are talking about lateral pressure,
+
+19
+00:02:28,720 --> 00:02:31,680
+these two soil, it's not gamma H only.
+
+20
+00:02:31,920 --> 00:02:37,700
+It's a gamma H time key active or passive.
+
+21
+00:02:38,720 --> 00:02:40,600
+If you are talking about water,
+
+22
+00:02:41,580 --> 00:02:44,460
+lateral pressure equal gamma H, that's fine.
+
+23
+00:02:44,880 --> 00:02:46,660
+We don't have key for water.
+
+24
+00:02:48,040 --> 00:02:50,200
+We don't have K for water.
+
+25
+00:02:52,640 --> 00:02:54,060
+Okay, any question?
+
+26
+00:02:57,120 --> 00:02:57,680
+And also,
+
+27
+00:02:59,960 --> 00:03:04,800
+if you have soil without water, you can use this gamut.
+
+28
+00:03:06,240 --> 00:03:09,020
+But if you have soil with water,
+
+29
+00:03:09,600 --> 00:03:14,439
+the gamut here must be subtracted by 62.4
+
+30
+00:03:16,420 --> 00:03:17,440
+before using it.
+
+31
+00:03:20,200 --> 00:03:27,040
+Can you tell me what is the meaning of 62.4? What is the meaning of this value? Do you remember?
+
+32
+00:03:28,860 --> 00:03:40,000
+Do you remember the meaning of 62.4? Thank you. Gamma of water. Gamma of water. Why you subtracted
+
+33
+00:03:40,000 --> 00:03:48,620
+gamma of water from gamma of soil because you already separated the pressure of water alone.
+
+34
+00:03:50,410 --> 00:04:01,100
+So I will not use it two times. I draw the effect of water alone with a triangle. So when you are
+
+35
+00:04:01,320 --> 00:04:07,960
+trying to calculate the soil pressure, please subtract gamma water from the gamma soil.
+
+36
+00:04:10,040 --> 00:04:13,180
+Let's start to do example number one.
+
+37
+00:04:16,519 --> 00:04:17,739
+We have a retaining wall.
+
+38
+00:04:19,620 --> 00:04:24,160
+This retaining wall supporting the soil on the right side.
+
+39
+00:04:25,080 --> 00:04:26,580
+Here is the ground surface.
+
+40
+00:04:29,160 --> 00:04:31,580
+So I believe this one will be active.
+
+41
+00:04:33,060 --> 00:04:35,580
+Because this soil is trying to push.
+
+42
+00:04:36,080 --> 00:04:39,100
+this retaining wall to this side.
+
+43
+00:04:40,680 --> 00:04:45,160
+Okay. We need to figure out the lateral pressure.
+
+44
+00:04:46,280 --> 00:04:47,140
+Lateral pressure.
+
+45
+00:04:49,700 --> 00:04:53,760
+Gamma of soil is given, I think.
+
+46
+00:04:56,080 --> 00:05:02,740
+Dry unit with dynasty is given 100-pound per cubic feet.
+
+47
+00:05:03,900 --> 00:05:10,220
+And we have another gamma equal 140 bound per cubic feet.
+
+48
+00:05:10,980 --> 00:05:14,220
+What is the difference? Which one I'm going to use?
+
+49
+00:05:14,880 --> 00:05:18,340
+That's fine. It's a good question. Please read carefully.
+
+50
+00:05:19,200 --> 00:05:22,140
+Dry unit weight.
+
+51
+00:05:22,660 --> 00:05:25,460
+So this one will be dry without water.
+
+52
+00:05:25,720 --> 00:05:31,160
+I believe you are talking about this part of soil without water table.
+
+53
+00:05:32,900 --> 00:05:43,920
+And we have another part of soil inside water table. So this one will be gamma saturated. Equal 140.
+
+54
+00:05:47,220 --> 00:05:50,620
+Ground water table was found at 8 feet.
+
+55
+00:05:55,560 --> 00:06:01,100
+No, it's not at 8 feet, at 12 feet from the ground surface.
+
+56
+00:06:02,200 --> 00:06:03,160
+12 feet.
+
+57
+00:06:04,600 --> 00:06:09,420
+Compute the total active force, baryonite lens, of all.
+
+58
+00:06:10,640 --> 00:06:13,980
+We need to figure out the lateral pressure.
+
+59
+00:06:16,120 --> 00:06:16,860
+Let's start.
+
+60
+00:06:20,960 --> 00:06:26,960
+I will use this figure to construct the lateral pressure.
+
+61
+00:06:28,580 --> 00:06:33,080
+Can you tell me, phi for this soil equal 32?
+
+62
+00:06:34,160 --> 00:06:38,980
+So I can figure out the value of k active, 1 minus sine phi,
+
+63
+00:06:40,240 --> 00:06:42,600
+divide 1 plus sine phi.
+
+64
+00:06:43,640 --> 00:06:56,780
+use your calculator 1 minus sine 32 divide 1 plus sine 32 this value equal 0.31
+
+65
+00:06:59,820 --> 00:07:08,680
+let's start do you have water table yes please go ahead and draw the pressure d2 water
+
+66
+00:07:11,480 --> 00:07:15,440
+At the top of the water surface, we don't have gamma.
+
+67
+00:07:15,740 --> 00:07:18,660
+We don't have gamma H. We have gamma, but we don't have H.
+
+68
+00:07:19,180 --> 00:07:21,740
+So gamma H, gamma water, H water equals 0.
+
+69
+00:07:23,380 --> 00:07:26,220
+At this location, we have gamma water, H water.
+
+70
+00:07:26,600 --> 00:07:28,620
+Gamma water, 62.4.
+
+71
+00:07:28,820 --> 00:07:31,060
+H water is 8.
+
+72
+00:07:32,820 --> 00:07:39,980
+So this pressure will be 499.2.
+
+73
+00:07:40,440 --> 00:07:48,100
+bound square feet, this triangle only, only due to the effect of water.
+
+74
+00:07:50,640 --> 00:07:55,180
+Let's start to draw the lateral air-suppressor due to soil.
+
+75
+00:07:57,240 --> 00:08:02,860
+At this point, at this point, what is the value? At this point, what is the value?
+
+76
+00:08:04,440 --> 00:08:11,560
+pressure for soil equal k active gamma h summation.
+
+77
+00:08:14,440 --> 00:08:21,220
+Do you have any h for soil here? What is the h? What is the height of soil above this point?
+
+78
+00:08:21,670 --> 00:08:27,200
+We don't have anything so the pressure here will be zero at point number one,
+
+79
+00:08:27,400 --> 00:08:40,260
+point number two, point number three. So P1 equal zero. We don't have itch soil above this point.
+
+80
+00:08:41,919 --> 00:08:51,000
+Pressure at point two equal K-active point three one. Gamma of soil which is gamma dry because
+
+81
+00:08:51,000 --> 00:08:53,220
+because you are here, gamma dry 100,
+
+82
+00:08:54,400 --> 00:08:57,580
+it's of soil above this point 12.
+
+83
+00:08:59,080 --> 00:09:06,660
+Your value will be 372 bound bear square feet.
+
+84
+00:09:08,880 --> 00:09:17,760
+P three equal previous value, which is B two, 372,
+
+85
+00:09:18,040 --> 00:09:22,980
+plus active gamma H for the new soil.
+
+86
+00:09:24,300 --> 00:09:28,800
+The active point 31, gamma of soil.
+
+87
+00:09:29,230 --> 00:09:32,020
+Do you remember what is the value of gamma of soil
+
+88
+00:09:32,320 --> 00:09:35,640
+for soil under the water table surface?
+
+89
+00:09:37,020 --> 00:09:37,540
+140.
+
+90
+00:09:39,500 --> 00:09:42,880
+Because you already separated the effect of water,
+
+91
+00:09:43,240 --> 00:09:45,900
+so I need to subtract gamma of water.
+
+92
+00:09:46,420 --> 00:09:47,700
+Be careful about this point.
+
+93
+00:09:48,040 --> 00:09:49,220
+Be careful about this point.
+
+94
+00:09:49,780 --> 00:09:53,960
+What is the height for the new soil above this point is eight.
+
+95
+00:09:56,740 --> 00:09:57,540
+Guys, remember,
+
+96
+00:09:59,400 --> 00:10:03,420
+because I said pressure at point three equal pressure
+
+97
+00:10:03,530 --> 00:10:11,820
+at point two plus the new soil between point three
+
+98
+00:10:12,020 --> 00:10:12,640
+and point two.
+
+99
+00:10:12,860 --> 00:10:16,500
+So this H between 0.3 and 0.2.
+
+100
+00:10:16,960 --> 00:10:19,820
+This gamma between 0.3 and 0.2.
+
+101
+00:10:20,720 --> 00:10:24,440
+Because we have water, so I subtracted 62.4.
+
+102
+00:10:25,340 --> 00:10:26,400
+This value will be--
+
+103
+00:10:37,220 --> 00:10:38,580
+564.4.
+
+104
+00:10:39,740 --> 00:10:40,920
+Go ahead and put your numbers.
+
+105
+00:10:41,700 --> 00:10:55,680
+zero the value here is 372 the value here is five hundred sixty four point four we have this chip
+
+106
+00:11:04,880 --> 00:11:05,300
+any question
+
+107
+00:11:09,060 --> 00:11:21,300
+Looks good. But we don't, the problem didn't ask to calculate pressure. The problem asked to
+
+108
+00:11:21,380 --> 00:11:34,340
+calculate the total force. Okay, we need to convert this pressure to force. I think this
+
+109
+00:11:34,900 --> 00:11:37,440
+this triangle can be converted to a force.
+
+110
+00:11:38,300 --> 00:11:38,480
+How?
+
+111
+00:11:39,460 --> 00:11:42,060
+Get the area of this triangle,
+
+112
+00:11:43,060 --> 00:11:51,140
+area of triangle 0.5 times base for 199.2 times height,
+
+113
+00:11:51,780 --> 00:11:52,560
+which is 8.
+
+114
+00:11:53,560 --> 00:12:00,420
+This force will be 1,996.8.
+
+115
+00:12:02,300 --> 00:12:02,880
+As a force,
+
+116
+00:12:04,740 --> 00:12:08,140
+We have a complicated shape here.
+
+117
+00:12:09,460 --> 00:12:12,200
+So I will divide it to triangle.
+
+118
+00:12:13,100 --> 00:12:14,600
+I can figure out with the force.
+
+119
+00:12:15,320 --> 00:12:19,260
+And this trapezoidal, if you would like to divide it
+
+120
+00:12:19,400 --> 00:12:24,320
+to rectangle with a force and a little triangle
+
+121
+00:12:24,540 --> 00:12:25,580
+with a force, that's fine.
+
+122
+00:12:26,040 --> 00:12:31,320
+Let's see the upper triangle, the area will be 0.5,
+
+123
+00:12:31,740 --> 00:12:47,260
+time 372 time this height 12. So this force will be 2232. This rectangle will be 372
+
+124
+00:12:47,900 --> 00:12:52,899
+Time eight will be 2,976.
+
+125
+00:12:55,000 --> 00:12:56,840
+This little triangle will be
+
+126
+00:13:06,060 --> 00:13:09,500
+7,069.6.
+
+127
+00:13:10,510 --> 00:13:12,860
+So the total force F,
+
+128
+00:13:13,340 --> 00:13:15,699
+the total lateral force F will be
+
+129
+00:13:15,700 --> 00:13:31,160
+submission of all these forces 2322 plus 2976 plus 769.9 plus don't forget that force for water
+
+130
+00:13:32,020 --> 00:13:44,480
+1,996.8, some all of these lateral forces, you can get that total active force.
+
+131
+00:13:47,360 --> 00:13:52,700
+But before calculating the total active force, you have to calculate the pressure.
+
+132
+00:13:54,480 --> 00:14:01,020
+To convert this pressure to force, just piece of cake, you need to figure out the area.
+
+133
+00:14:01,060 --> 00:14:17,140
+of these figures. Just a reminder, just a reminder. Guys, we have a retaining wall like this.
+
+134
+00:14:17,140 --> 00:14:31,660
+here is the surface or the ground surface. Make sure if you have water table. I need two. First
+
+135
+00:14:31,880 --> 00:14:44,420
+system this water will make alone a triangle lateral pressure. This value gamma water,
+
+136
+00:14:44,420 --> 00:14:52,880
+H water which H which H at this point this H only I'm talking about height of
+
+137
+00:14:52,980 --> 00:14:58,720
+water if you are talking about soil okay I need to figure out with the value of
+
+138
+00:14:58,800 --> 00:15:04,900
+pressure here P1 the value of pressure here B2 the value of pressure here B3
+
+139
+00:15:07,060 --> 00:15:15,840
+P1 = k-active gamma H. We don't have H for soil above 0.1 so your pressure will be zero.
+
+140
+00:15:17,780 --> 00:15:29,840
+P2, actually P2 should be P1, the previous point, plus k-active gamma H between 0.2 and 0.1.
+
+141
+00:15:32,360 --> 00:15:37,220
+Probably, probably you have the value for P1, you have to put it here.
+
+142
+00:15:39,100 --> 00:15:50,020
+P3 equal what? P3 pressure at point 3 equal what? Previous point P2 plus K active gamma H.
+
+143
+00:15:50,880 --> 00:15:59,660
+Please be careful. If you are talking about soil inside water, this gamma will be gamma
+
+144
+00:15:59,660 --> 00:16:10,920
+saturated for this soil minus gamma water. Be careful. Guys, if you are talking about pressure
+
+145
+00:16:11,120 --> 00:16:25,460
+at point two, this edge between one and two, this edge for pressure at point three, this edge between
+
+146
+00:16:27,900 --> 00:16:35,940
+2 and 3. If you have P4, if you have P5, if you have P6, in the same sequence.
+
+147
+00:16:39,660 --> 00:16:43,320
+Any question? Any question?
+
+148
+00:16:50,860 --> 00:17:06,620
+Okay. Sometimes, so by the end, by the end, we found or we converted this pressure to forces.
+
+149
+00:17:08,459 --> 00:17:19,900
+These forces, pushing this retaining wall to lift, this pushing action probably can cause
+
+150
+00:17:19,900 --> 00:17:33,640
+overturning for the retaining wall about this toe. This point can be called toe of the retaining
+
+151
+00:17:33,700 --> 00:17:47,020
+goal, point of rotation. So we have two moments. One moment submission MO, which
+
+152
+00:17:47,220 --> 00:17:56,780
+cause overturning, trying to turn or to overturn the retaining goal. We have
+
+153
+00:17:56,820 --> 00:17:59,760
+another moment resisting.
+
+154
+00:18:05,680 --> 00:18:08,080
+Let me explain it here in more details.
+
+155
+00:18:08,640 --> 00:18:10,940
+If you have a retaining wall, it looks like this.
+
+156
+00:18:15,120 --> 00:18:16,140
+And we have soil.
+
+157
+00:18:20,120 --> 00:18:26,800
+And this soil give you this lateral pressure.
+
+158
+00:18:28,900 --> 00:18:44,300
+And this lateral pressure can be converted to a force if we need to check against overturning.
+
+159
+00:18:45,820 --> 00:18:55,700
+I have a question. This retaining wall will be overturned. About which point? I believe this point.
+
+160
+00:18:59,940 --> 00:19:06,880
+Second question. Which force will make an overturning moment?
+
+161
+00:19:09,020 --> 00:19:15,100
+Which force will try to overturn this retaining rule?
+
+162
+00:19:16,740 --> 00:19:17,160
+Which one?
+
+163
+00:19:21,819 --> 00:19:22,800
+The lateral force?
+
+164
+00:19:31,880 --> 00:19:35,260
+I think the lateral force, if,
+
+165
+00:19:36,540 --> 00:19:40,120
+If you multiply F by this vertical distance,
+
+166
+00:19:42,100 --> 00:19:48,600
+if time this vertical distance will cause moment, this moment can be called MO, overturning moment.
+
+167
+00:19:50,340 --> 00:19:59,360
+Thank you. What are the forces will meet resisting moment, will support the retaining
+
+168
+00:19:59,420 --> 00:20:07,400
+I will let you know. This part of the retaining goal has a weight, this part of the retaining
+
+169
+00:20:07,520 --> 00:20:17,120
+goal has a weight, this part of the soil has a weight, this weight supporting this part of the
+
+170
+00:20:17,200 --> 00:20:27,560
+retaining goal that make sense, that makes sense. I know we have lateral pressure from the soil,
+
+171
+00:20:27,580 --> 00:20:35,680
+but at the same time we have on wheat for the retaining wall, we have on wheat for the soil
+
+172
+00:20:37,100 --> 00:20:45,480
+above any part of the retaining wall. All of these forces will make moment, resisting moment,
+
+173
+00:20:46,540 --> 00:20:53,300
+to overcome the lateral moment or the overturning moment. So if you take moment at this point,
+
+174
+00:20:53,340 --> 00:21:02,120
+this force time this distance, this force time this distance, this force time this distance, I can figure out the resisting moment.
+
+175
+00:21:04,880 --> 00:21:14,600
+If you divide the resisting moment, divide the overturning moment, I can give you the factor of safety.
+
+176
+00:21:16,340 --> 00:21:20,300
+This factor of safety to make this retaining wall safe
+
+177
+00:21:21,580 --> 00:21:25,340
+must be greater than one, greater than or equal.
+
+178
+00:21:25,940 --> 00:21:26,340
+It's okay.
+
+179
+00:21:27,400 --> 00:21:31,220
+But for the real life, we need this factor of safety
+
+180
+00:21:31,280 --> 00:21:34,420
+to be more safe, to be more safe, not critical.
+
+181
+00:21:35,520 --> 00:21:37,420
+We need this value of factor of safety
+
+182
+00:21:37,460 --> 00:21:40,060
+to be between 1.5 and the two.
+
+183
+00:21:45,180 --> 00:21:45,720
+Does that make sense?
+
+184
+00:21:50,560 --> 00:21:50,800
+Okay.
+
+185
+00:21:52,020 --> 00:21:54,840
+Let me explain this example.
+
+186
+00:21:55,580 --> 00:22:00,500
+Probably I will postpone the check of sliding next week.
+
+187
+00:22:01,540 --> 00:22:03,400
+Let me do this example.
+
+188
+00:22:05,220 --> 00:22:08,780
+We have a retaining wall with this dimension,
+
+189
+00:22:09,320 --> 00:22:11,220
+the top width is three feet,
+
+190
+00:22:12,380 --> 00:22:14,240
+the bottom width is five feet,
+
+191
+00:22:14,460 --> 00:22:23,380
+the total height is 10 feet made from concrete with gamma equal 155.
+
+192
+00:22:23,520 --> 00:22:33,160
+Please the normal gamma for concrete is 150 until the problem give you another value.
+
+193
+00:22:33,400 --> 00:22:36,400
+Please use the other value given by the problem.
+
+194
+00:22:39,300 --> 00:22:53,700
+Okay, gamma soil is given 120. We have a water table. We have a water table.
+
+195
+00:22:57,040 --> 00:23:05,440
+Which is two feet from the top of the wall at two feet. This is a water table surface.
+
+196
+00:23:06,820 --> 00:23:14,480
+Let's start to see what's going on. We need to check against or to find the factor of safety
+
+197
+00:23:14,660 --> 00:23:24,340
+against overturning. My first question, this soil behind this retaining wall will try to overturn
+
+198
+00:23:24,940 --> 00:23:33,420
+this retaining wall in this direction. I mean about this soil, 0.0.
+
+199
+00:23:35,780 --> 00:23:41,960
+That makes sense. First step, we need to figure out the lateral pressure.
+
+200
+00:23:43,480 --> 00:23:53,500
+We have water, yes. So from this surface of water, we have triangle. This triangle
+
+201
+00:23:54,230 --> 00:24:00,940
+will cause lateral pressure. At the top, at the water surface, is zero pressure.
+
+202
+00:24:02,020 --> 00:24:10,780
+At the bottom surface we have gamma water each water. Gamma water 62.4 each water only
+
+203
+00:24:11,620 --> 00:24:22,040
+will be 8 feet. Do you know how? The total height is 10 subtract 2 feet then this height will be 8 feet.
+
+204
+00:24:23,960 --> 00:24:25,780
+This lateral pressure will be
+
+205
+00:24:28,900 --> 00:24:35,420
+Tickestry 2.4 times 8, 999.2.
+
+206
+00:24:40,260 --> 00:24:48,220
+For soil, we need to figure out the pressure at this point, P1, pressure at this point, P2,
+
+207
+00:24:49,460 --> 00:24:57,760
+pressure at this point, P3. Remember, we will use a value for key active for a soil,
+
+208
+00:24:58,580 --> 00:25:06,280
+equal one minus sine phi divided by one plus sine phi. I think if A is given
+
+209
+00:25:10,679 --> 00:25:21,720
+36 degree so one minus sine 36 divided by one plus sine 36 it will be 0.26.
+
+210
+00:25:23,860 --> 00:25:37,800
+So pressure p1 equal k active gamma soil h soil. Do you have any h soil above point p1? No, we don't
+
+211
+00:25:37,820 --> 00:25:48,800
+have any soil above so p1 equals 0. b2 equal previous value which is p1 plus k active gamma
+
+212
+00:25:49,060 --> 00:26:01,640
+soil H soil between 1 and 2 P10, K active point to 6. Gamma soil is given what is the value
+
+213
+00:26:01,640 --> 00:26:10,660
+of gamma soil 120. H of soil between point two and point one is two feet. This pressure will be
+
+214
+00:26:15,540 --> 00:26:19,300
+62.4 bound bare square feet.
+
+215
+00:26:21,600 --> 00:26:40,240
+p3 equal p2 plus k active gamma H. p2 62.4 plus k active 0.26 time H of soil between
+
+216
+00:26:40,980 --> 00:26:50,500
+point two three and point two be careful because this soil inside or under the effect of water
+
+217
+00:26:52,020 --> 00:27:03,000
+groundwater so I will use the given gamma 120 but I will subtract 62.4 and the height between
+
+218
+00:27:03,060 --> 00:27:10,980
+0.3 and 0.2 equal 8 feet. That makes sense. So this value will be
+
+219
+00:27:21,479 --> 00:27:30,580
+182.2. So we have a value here 0, we have a value here. How much? 62.4. We have another value here.
+
+220
+00:27:30,740 --> 00:27:34,880
+how much 182.2 like this.
+
+221
+00:27:41,840 --> 00:27:50,640
+We need to convert these pressure to forces. We have a force here. We have a force here for this
+
+222
+00:27:51,700 --> 00:28:01,280
+triangle and I will divide this trapezoid to one rectangle and one triangle.
+
+223
+00:28:02,790 --> 00:28:08,800
+Go ahead and find these forces. Let's start with the triangle of the water.
+
+224
+00:28:09,630 --> 00:28:19,420
+One half time for 199.2 times 8. This value of force will be 196.8.
+
+225
+00:28:20,660 --> 00:28:28,300
+this little force will be 0.5 times 62.4 times 2 will be 62.4.
+
+226
+00:28:29,760 --> 00:28:39,500
+This rectangle will be 62.4 times 8, 499.2. This little triangle will be
+
+227
+00:28:47,660 --> 00:28:49,920
+479.2
+
+228
+00:29:01,300 --> 00:29:01,500
+so
+
+229
+00:29:07,780 --> 00:29:17,580
+this retaining wall has a force here, another force, another force, another force.
+
+230
+00:29:19,060 --> 00:29:22,200
+The top one 62.4.
+
+231
+00:29:26,200 --> 00:29:36,480
+This one from the rectangle 499.2. This one for the little triangle 479.
+
+232
+00:29:39,380 --> 00:29:48,960
+pointy two. That one from the water, one thousand two much, two much, one thousand nine hundred ninety
+
+233
+00:29:49,240 --> 00:30:01,340
+six point eight. All of these forces trying to make overturning. So what is the value of
+
+234
+00:30:01,340 --> 00:30:10,880
+turning moment or overturning moment. Take moment at point O, this force 62.4
+
+235
+00:30:11,720 --> 00:30:21,420
+time what distance? Plus this force 499.2 time what distance? Plus this force
+
+236
+00:30:22,300 --> 00:30:26,820
+479.2 time what distance plus this force
+
+237
+00:30:26,820 --> 00:30:32,180
+1,996.8 time what distance to figure out
+
+238
+00:30:32,240 --> 00:30:35,300
+the value of the overturning move please
+
+239
+00:30:35,420 --> 00:30:38,700
+go back to the previous diagram
+
+240
+00:30:43,000 --> 00:30:46,900
+the location of this force at the centroid
+
+241
+00:30:47,010 --> 00:30:50,020
+of this triangle
+
+242
+00:30:51,720 --> 00:30:53,860
+So can you tell me what is the vertical distance
+
+243
+00:30:54,240 --> 00:30:56,140
+between this force and the point O?
+
+244
+00:30:57,980 --> 00:31:03,340
+Okay, this little distance will be 1/3, 2,
+
+245
+00:31:04,480 --> 00:31:08,540
+plus eight, so this distance will be 8.6.
+
+246
+00:31:12,080 --> 00:31:14,680
+The second one, for this rectangle,
+
+247
+00:31:15,480 --> 00:31:19,260
+at distance, have eight, which is four.
+
+248
+00:31:22,820 --> 00:31:30,820
+This triangle, the distance between this force and the bottom will be one-third eight.
+
+249
+00:31:36,500 --> 00:31:44,060
+The distance between this force and the bottom, this force at the center of this triangle
+
+250
+00:31:44,140 --> 00:31:53,240
+it will be one-third eight. That makes sense. So if you get a number
+
+251
+00:32:12,300 --> 00:32:28,480
+9140.3. That makes sense? Looks good. Okay. This retaining wall has weight.
+
+252
+00:32:30,240 --> 00:32:38,460
+This board has a weight W1. This board has another weight W2. Actually, you are lucky
+
+253
+00:32:38,460 --> 00:32:45,100
+because we don't have any soil supporting this retaining goal.
+
+254
+00:32:45,920 --> 00:32:46,960
+What you mean by no soil?
+
+255
+00:32:47,620 --> 00:32:55,820
+I mean, I don't have any soil above part of the retaining goal like this.
+
+256
+00:32:57,000 --> 00:32:57,240
+Okay.
+
+257
+00:32:58,060 --> 00:33:02,100
+So everything is supported only by the weight of the retaining goal itself.
+
+258
+00:33:02,740 --> 00:33:04,520
+What is the W1 equal?
+
+259
+00:33:05,300 --> 00:33:13,320
+Just to remind you, gamma equal weight divided volume.
+
+260
+00:33:16,380 --> 00:33:21,280
+So we have an extension in the other direction, which is one feet unit width.
+
+261
+00:33:22,440 --> 00:33:29,080
+So W1 equal to figure out the weight, you need to multiply volume by gamma.
+
+262
+00:33:29,680 --> 00:33:32,800
+Gamma for concrete, 155 is given.
+
+263
+00:33:33,620 --> 00:33:34,440
+What is the volume?
+
+264
+00:33:35,340 --> 00:33:36,160
+What is this lens?
+
+265
+00:33:37,060 --> 00:33:39,800
+What is this height and this width?
+
+266
+00:33:42,760 --> 00:33:43,140
+Go back.
+
+267
+00:33:44,220 --> 00:33:46,640
+This lens is three, this height is 10.
+
+268
+00:33:48,780 --> 00:33:50,740
+So this one is three, this one is 10,
+
+269
+00:33:51,040 --> 00:33:54,560
+this one is one feet, so three times 10 times one.
+
+270
+00:33:57,660 --> 00:33:59,280
+W2, 155 is gamma.
+
+271
+00:34:00,700 --> 00:34:01,520
+What is the volume?
+
+272
+00:34:02,260 --> 00:34:07,640
+for this shape, the area for this triangle is 1/2.
+
+273
+00:34:08,960 --> 00:34:12,240
+This distance will be 2.
+
+274
+00:34:15,980 --> 00:34:19,240
+This height is 10, and the unit width is 1.
+
+275
+00:34:25,000 --> 00:34:27,879
+So W1 is 4,650.
+
+276
+00:34:29,220 --> 00:34:37,200
+W2, 1,550 bound.
+
+277
+00:34:40,820 --> 00:34:42,820
+Summation in resistance.
+
+278
+00:34:47,120 --> 00:34:51,200
+What is the distance between W1 and the point O?
+
+279
+00:34:52,250 --> 00:34:55,780
+What is the distance between W2 and the point O?
+
+280
+00:34:56,620 --> 00:35:02,340
+I think the distance between W1 and the point O will be 3.5.
+
+281
+00:35:03,180 --> 00:35:06,280
+So 4,650, which is W1,
+
+282
+00:35:07,220 --> 00:35:09,040
+times this distance 3.5.
+
+283
+00:35:12,520 --> 00:35:16,540
+Plus the second weight, W2, if I 1,550,
+
+284
+00:35:18,580 --> 00:35:20,100
+what is the distance between this weight
+
+285
+00:35:20,240 --> 00:35:22,300
+and this distance is 2/32.
+
+286
+00:35:26,540 --> 00:35:39,540
+So the value will be 18341.67.
+
+287
+00:35:41,680 --> 00:35:43,960
+The factor of safety equal.
+
+288
+00:35:44,670 --> 00:35:55,780
+The resisting moment, which is trying to support the retaining wall, 18341.67, divide the overturning
+
+289
+00:35:55,780 --> 00:36:07,800
+a moment trying to overturn the retaining wall your factor of safety will be two greater than
+
+290
+00:36:08,810 --> 00:36:16,360
+or equal one you are safe actually you are more safe because your factor of safety is greater than
+
+291
+00:36:16,440 --> 00:36:25,760
+one the required factor of safety against overturning we recommend to be from 1.5 to 2 you are gone
+
+292
+00:36:25,760 --> 00:36:33,160
+But over than 2, more, more, more safe, but not economy.
+
+293
+00:36:34,840 --> 00:36:39,860
+Smaller than 1.5, you are safe, but still critical.
+
+294
+00:36:41,020 --> 00:36:42,880
+Smaller than 1, unsafe.
+
+295
+00:36:47,340 --> 00:36:54,520
+So guys, if you have a retaining wall and you need to check for overcaring, you need to
+
+296
+00:36:54,520 --> 00:36:59,780
+do all of these steps. First, you need to figure out the lateral pressure.
+
+297
+00:37:03,120 --> 00:37:08,540
+Second, the lateral pressure about this point will cause
+
+298
+00:37:09,720 --> 00:37:11,040
+overturning moment.
+
+299
+00:37:13,860 --> 00:37:20,780
+The unweight of the retaining wall, probably weight of some of the soil,
+
+300
+00:37:21,560 --> 00:37:32,280
+will cause resisting a moment. When I will use part of the soil to support, if you have part of
+
+301
+00:37:32,380 --> 00:37:41,100
+the retaining wall and you have soil above this part, so this part of the soil will also has a weight
+
+302
+00:37:42,799 --> 00:37:45,580
+supporting this retaining wall from over term.
+
+303
+00:37:50,200 --> 00:37:53,860
+about this point. That makes sense.
+
+304
+00:37:59,540 --> 00:38:06,820
+If it's okay, you are talking about what in the real life or in our problem, in our problems,
+
+305
+00:38:07,100 --> 00:38:12,700
+problems in the exam or homework, we need only to tell me what is the factor of safety and say
+
+306
+00:38:12,840 --> 00:38:18,060
+it's safe or unsafe. That's fine. But for the real life, Roberto, for the real life,
+
+307
+00:38:18,840 --> 00:38:24,600
+factor of safety for anything in the real life must be greater than one because the smaller than
+
+308
+00:38:24,680 --> 00:38:33,040
+one is unsafe. So we have factor of safety a little bit above one, critical, still critical
+
+309
+00:38:33,660 --> 00:38:40,740
+for any accident, for any unexpected events, we can expect failure.
+
+310
+00:38:42,680 --> 00:38:51,540
+Do you remember guys the videos you watched last time? I believe factor of safety was very low.
+
+311
+00:38:52,380 --> 00:39:00,060
+I believe the factor of safety was between 1 and 1.5 because for some reason you didn't expect
+
+312
+00:39:00,520 --> 00:39:05,880
+probably you have rainfall, probably you have a truck moving around the site,
+
+313
+00:39:07,240 --> 00:39:15,400
+Probably you have earthquake happened during your construction. All of these unexpected events
+
+314
+00:39:16,120 --> 00:39:22,860
+will cause this small factor of safety very critical so we can expect failure.
+
+315
+00:39:23,940 --> 00:39:30,820
+So we highly recommend to make factor of safety between one and the two to make sure if you have
+
+316
+00:39:30,920 --> 00:39:35,180
+any unexpected event you still see.
+
+317
+00:39:41,280 --> 00:39:47,760
+A good question why I subtracted gamma water because you already
+
+318
+00:39:48,760 --> 00:39:55,660
+take water separately. If you didn't subtract gamma water from
+
+319
+00:39:55,720 --> 00:40:04,560
+here that means you doubled the effect of water and that doesn't make sense. You already
+
+320
+00:40:05,140 --> 00:40:13,940
+calculated the effect of water alone. So please don't take it one more time with soil. Because
+
+321
+00:40:14,060 --> 00:40:19,980
+gamma of soil under water is taking the two effect, effect of soil and water, both of
+
+322
+00:40:20,040 --> 00:40:24,120
+them in this gamma so I need to subtract 62.4.
+
+323
+00:40:26,940 --> 00:40:27,220
+Okay
+
+324
+00:40:31,620 --> 00:40:34,660
+it's a point related to soil mechanics so
+
+325
+00:40:35,880 --> 00:40:38,860
+I will not go through this in more details but at least
+
+326
+00:40:39,100 --> 00:40:44,520
+I need you to know we already take the effect of water so we don't need to
+
+327
+00:40:44,580 --> 00:40:50,020
+take it one more time and this gamma I know gamma here is 120
+
+328
+00:40:50,020 --> 00:40:52,880
+And the gamma here is 120, but we have a big difference.
+
+329
+00:40:53,280 --> 00:40:55,240
+Because this one is soil only.
+
+330
+00:40:55,680 --> 00:40:59,880
+But this gamma, which is 120, both of them soil and water,
+
+331
+00:41:00,760 --> 00:41:02,060
+both of them in this value.
+
+332
+00:41:07,099 --> 00:41:09,420
+We have another issue.
+
+333
+00:41:11,539 --> 00:41:16,800
+Probably the retaining wall will not be overturned,
+
+334
+00:41:17,060 --> 00:41:18,180
+but it will slide.
+
+335
+00:41:19,740 --> 00:41:25,840
+it will move no collapse will happen but suddenly you can find this retaining wall is working
+
+336
+00:41:29,380 --> 00:41:36,420
+a little bit also this is this is this is considered collapse because if you find the
+
+337
+00:41:36,960 --> 00:41:44,780
+retaining wall worked a little bit so we can expect failure we have the house at this location so
+
+338
+00:41:44,780 --> 00:41:54,660
+the house will move also because everything will be moved. We have here lateral force which called
+
+339
+00:41:57,220 --> 00:41:58,720
+the driving force.
+
+340
+00:42:01,560 --> 00:42:10,380
+Driving force, submission of all lateral force. In the sliding we are talking about forces only.
+
+341
+00:42:11,900 --> 00:42:20,360
+Okay, all of the lateral forces will cause summation f of d. What is the value of summation f of r?
+
+342
+00:42:21,390 --> 00:42:27,220
+Can you tell me which force is supporting sliding?
+
+343
+00:42:29,790 --> 00:42:35,460
+Do you know which one? Sliding, which one will support sliding?
+
+344
+00:42:39,740 --> 00:42:48,280
+lateral which lateral yeah I agree with you we have in this site passive pressure
+
+345
+00:42:51,100 --> 00:42:54,340
+because we have another soil on the other side so I believe this soil
+
+346
+00:42:55,400 --> 00:43:03,580
+will support a little bit but we have another source of supporting at this interaction we have here
+
+347
+00:43:03,980 --> 00:43:18,420
+friction. We have here friction between the concrete and the soil. Guys, if you have a box
+
+348
+00:43:19,600 --> 00:43:27,700
+on the ground surface and you are trying to push it from engineering mechanics, we learned that we
+
+349
+00:43:27,700 --> 00:43:33,320
+have something here called friction. That makes sense. We have also here friction
+
+350
+00:43:34,220 --> 00:43:40,340
+between the retaining wall and the soil. So summation f of r equal.
+
+351
+00:43:42,600 --> 00:43:51,680
+Friction force. Do you remember what was the value of friction force? Mu time n.
+
+352
+00:43:53,620 --> 00:43:58,580
+I cover this topic today in the engineering mechanics class.
+
+353
+00:43:59,300 --> 00:44:05,900
+Mu direction coefficient equal 10 delta,
+
+354
+00:44:07,400 --> 00:44:20,040
+N summation of all vertical forces on the contact surface.
+
+355
+00:44:23,760 --> 00:44:24,940
+What is the Mino-Go of Delta?
+
+356
+00:44:27,520 --> 00:44:42,100
+Angle of friction between soil and the retaining goal.
+
+357
+00:44:44,800 --> 00:44:47,380
+If you get 10 this angle,
+
+358
+00:44:48,520 --> 00:44:53,560
+we'll give you mu, which is the friction coefficient.
+
+359
+00:44:55,940 --> 00:44:56,320
+Let's see.
+
+360
+00:44:57,820 --> 00:45:01,380
+We need the same example.
+
+361
+00:45:03,380 --> 00:45:05,820
+We need to check it against the sliding.
+
+362
+00:45:09,060 --> 00:45:10,880
+Okay, the same steps.
+
+363
+00:45:13,840 --> 00:45:23,320
+We have pressure from the soil give you a force 1,996.8.
+
+364
+00:45:24,680 --> 00:45:34,380
+We have soil pressure give you a force here and another force here and another force here.
+
+365
+00:45:35,900 --> 00:46:03,819
+values, 62.4, this value 400, what's the value here? Let me get it from here, 499.2, 499.2
+
+366
+00:46:03,820 --> 00:46:18,980
+this force 479.2. So, some mission of all forces, of all lateral forces will be
+
+367
+00:46:21,260 --> 00:46:39,400
+driving force equal forces only 62.4 plus 499.2 plus 479.2 plus 1996.8 equal
+
+368
+00:46:51,100 --> 00:46:57,280
+33,037.6 bound.
+
+369
+00:47:01,200 --> 00:47:07,200
+Summation of all forces or all resistance forces equal mu time n friction.
+
+370
+00:47:07,850 --> 00:47:13,840
+Mu equal tan delta n summation of all vertical forces.
+
+371
+00:47:14,980 --> 00:47:16,400
+Yeah, we have a weight here.
+
+372
+00:47:17,050 --> 00:47:18,100
+Do you remember that weight?
+
+373
+00:47:19,900 --> 00:47:22,300
+W1, 4,650.
+
+374
+00:47:25,760 --> 00:47:27,980
+We have another weight here, how much?
+
+375
+00:47:28,900 --> 00:47:31,100
+W2, 1,550.
+
+376
+00:47:34,780 --> 00:47:37,820
+So 10 delta is given.
+
+377
+00:47:39,820 --> 00:47:41,800
+Be careful, we have phi,
+
+378
+00:47:42,780 --> 00:47:45,920
+this phi used to figure out the value of k active,
+
+379
+00:47:46,420 --> 00:47:50,440
+One minus sine phi divide one minus plus sine phi,
+
+380
+00:47:50,940 --> 00:47:55,720
+but delta is the friction under the base
+
+381
+00:47:55,980 --> 00:47:58,300
+of the retaining goal, 1026.
+
+382
+00:47:59,640 --> 00:48:02,420
+Submission of all forces, all vertical forces,
+
+383
+00:48:02,420 --> 00:48:05,740
+4,650 plus 1,550.
+
+384
+00:48:07,740 --> 00:48:07,960
+So,
+
+385
+00:48:13,760 --> 00:48:14,560
+1026,
+
+386
+00:48:15,580 --> 00:48:22,920
+This value will be 33,223.94.
+
+387
+00:48:23,900 --> 00:48:28,400
+So the factor of safety, equal.
+
+388
+00:48:29,160 --> 00:48:33,900
+The resisting force, 3,023.94,
+
+389
+00:48:34,920 --> 00:48:37,760
+divide the deriving force, 3,000.
+
+390
+00:48:39,960 --> 00:48:41,940
+Oh my goodness, divide.
+
+391
+00:48:44,380 --> 00:48:50,640
+This one equal 0.9955 smaller than one.
+
+392
+00:48:51,400 --> 00:48:52,040
+Unseef.
+
+393
+00:48:55,300 --> 00:49:01,880
+Fillier will have been something like you watched
+
+394
+00:49:01,960 --> 00:49:03,960
+at last meeting will have been.
+
+395
+00:49:07,800 --> 00:49:10,060
+So check of sliding is more easy.
+
+396
+00:49:11,120 --> 00:49:13,460
+You just figure out with the lateral forces,
+
+397
+00:49:14,220 --> 00:49:18,280
+sum them together to figure out the submission of driving force.
+
+398
+00:49:19,400 --> 00:49:26,400
+For submission of all resisting force equal any vertical force time 10 delta.
+
+399
+00:49:28,140 --> 00:49:31,060
+Then the factor of safety can be figured out.
+
+400
+00:49:32,480 --> 00:49:41,720
+So the key to figure out the to check out the against sliding or against overturning,
+
+401
+00:49:42,140 --> 00:49:46,220
+how to draw the lateral pressure. So be careful about this part.
+

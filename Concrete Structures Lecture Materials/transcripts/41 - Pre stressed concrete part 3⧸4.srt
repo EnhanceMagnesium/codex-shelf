@@ -1,0 +1,1780 @@
+1
+00:00:00,919 --> 00:00:01,480
+(sizzling)
+
+2
+00:00:03,940 --> 00:00:08,520
+I will start our meeting today to cover this example.
+
+3
+00:00:09,680 --> 00:00:12,860
+We have a brief stress concrete beam section,
+
+4
+00:00:13,280 --> 00:00:16,160
+it's shown blue, it's a rectangular cross section.
+
+5
+00:00:17,520 --> 00:00:20,360
+The beam is 50 feet span.
+
+6
+00:00:21,740 --> 00:00:25,000
+Breast stressing tendons, we have how many tendons
+
+7
+00:00:25,100 --> 00:00:27,840
+do you have, one, two, three, four, five, six, seven, eight,
+
+8
+00:00:27,960 --> 00:00:31,160
+9, 10, 11, 12 tendons.
+
+9
+00:00:32,419 --> 00:00:40,800
+The area of these tendons equal 1.836 for all of them.
+
+10
+00:00:42,680 --> 00:00:44,500
+By the way, for your information,
+
+11
+00:00:45,720 --> 00:01:01,020
+these tendons have diameter of 1/2 inch.
+
+12
+00:01:03,260 --> 00:01:05,640
+The area of one tendon.
+
+13
+00:01:07,460 --> 00:01:10,700
+I'm talking about the common tendons used in pre-stressing.
+
+14
+00:01:11,600 --> 00:01:18,640
+So the area of one tendons equal 0.153 inches square.
+
+15
+00:01:21,800 --> 00:01:26,240
+This area related to tendons with this diameter.
+
+16
+00:01:28,300 --> 00:01:34,140
+So in this problem we have 12 tendons.
+
+17
+00:01:36,100 --> 00:01:50,400
+That means the total area for tendons will be 12, time 0.153, your total area will be 1.836.
+
+18
+00:01:54,340 --> 00:02:09,179
+inch square. So I gave you the total area for tendons in one time. But sometimes this one is
+
+19
+00:02:09,280 --> 00:02:17,680
+important please pay attention. Sometimes probably I will give you hey the tendons
+
+20
+00:02:20,340 --> 00:02:27,080
+used R one inch diameter.
+
+21
+00:02:31,020 --> 00:02:33,320
+And I will give you this cross section.
+
+22
+00:02:34,480 --> 00:02:38,000
+So how can I get the final area for the tendons?
+
+23
+00:02:38,300 --> 00:02:44,980
+You need to remember for one half diameter, the area of one
+
+24
+00:02:45,060 --> 00:02:50,180
+one tendon equal point one five three guys it's wrong
+
+25
+00:02:51,920 --> 00:02:53,120
+It's wrong
+
+26
+00:02:54,000 --> 00:02:58,080
+To say the area of one tendon equal by divide four
+
+27
+00:02:58,820 --> 00:03:00,460
+Time this diameter square
+
+28
+00:03:02,040 --> 00:03:05,320
+If you did this you will get a different number
+
+29
+00:03:08,520 --> 00:03:12,340
+You will get point one nine six it's wrong
+
+30
+00:03:13,580 --> 00:03:23,940
+Because we have a table, we have a table based on the diameter, I can figure out the area of one tendon.
+
+31
+00:03:26,480 --> 00:03:31,080
+Probably I didn't give you this table, but I'm giving you this information.
+
+32
+00:03:33,740 --> 00:03:41,720
+Okay, so the area of one tendon with the diameter one half inch is 0.153
+
+33
+00:03:42,480 --> 00:03:50,640
+inches square. You need to multiply this area by the number of tendons you can get the final area.
+
+34
+00:03:54,660 --> 00:04:01,819
+Okay, so ultimate stress equal to 170, the initial pre-stress 175
+
+35
+00:04:02,620 --> 00:04:05,260
+are located as shown in the figure.
+
+36
+00:04:08,260 --> 00:04:13,460
+We need to calculate the flexural stresses on the top and bottom fiber of the cross section
+
+37
+00:04:13,580 --> 00:04:20,459
+due to a combination of the stress force and the own weight of the beam only.
+
+38
+00:04:23,240 --> 00:04:30,960
+Guys, just to remind you, to calculate stresses we need two things.
+
+39
+00:04:31,900 --> 00:04:37,400
+The first one, effect of external load.
+
+40
+00:04:41,320 --> 00:04:47,300
+We have a beam. We have uniform distributed load, probably did load plus life load.
+
+41
+00:04:48,580 --> 00:04:54,440
+This will give you a moment, this moment, maximum equal WL square divided.
+
+42
+00:04:56,060 --> 00:05:03,560
+The second one, we have this cross section with pre-stress force which has F.
+
+43
+00:05:05,000 --> 00:05:17,400
+That means we have eccentricity E. So we have to effect, effect of F divided area and F
+
+44
+00:05:17,740 --> 00:05:25,660
+time E, time Y, divide inertia. Do you remember that? For this one, we have a stress equal M
+
+45
+00:05:26,420 --> 00:05:35,080
+time Y, divide I, or sometimes M divide S. So we have a stress here, we have a stress here,
+
+46
+00:05:35,080 --> 00:05:43,019
+we have a stress here, we need to add them together to get the final stress. So let's start
+
+47
+00:05:43,660 --> 00:05:49,300
+with the first one, effect of external external load.
+
+48
+00:05:53,420 --> 00:05:59,100
+The problem did not give you any life load and also the problem
+
+49
+00:05:59,440 --> 00:06:05,460
+asked you to get the final stress due to the effect of unwet of the beam.
+
+50
+00:06:07,260 --> 00:06:15,920
+So this beam is simply supported with total span equal 50 feet.
+
+51
+00:06:18,240 --> 00:06:22,660
+We have uniform distributed load here equal dead load only.
+
+52
+00:06:23,900 --> 00:06:30,140
+And the dead load in this problem equal the unweight of the beam only.
+
+53
+00:06:31,020 --> 00:06:35,040
+Do you remember how can we calculate the unweight of a beam?
+
+54
+00:06:35,740 --> 00:06:46,860
+Yes, I can. 18 divided 12 times 36 divided 12 times 1.
+
+55
+00:06:47,800 --> 00:06:50,720
+I'm assuming unit length, 1 feet.
+
+56
+00:06:52,080 --> 00:06:55,460
+Time gamma concrete, which is 150.
+
+57
+00:06:57,640 --> 00:07:02,640
+Guys, I divided this b by 12 to be in feet.
+
+58
+00:07:03,380 --> 00:07:06,200
+36 divided by 12 to be in feet.
+
+59
+00:07:06,880 --> 00:07:10,420
+One feet is a unit length of this beam.
+
+60
+00:07:12,180 --> 00:07:17,520
+So and the gamma concrete 150 bound per cubic feet.
+
+61
+00:07:17,700 --> 00:07:18,900
+So 18 divided by 12.
+
+62
+00:07:22,040 --> 00:07:24,200
+Time 36 divided by 12.
+
+63
+00:07:24,660 --> 00:07:32,140
+Time 150 equals 675 bound bare foot.
+
+64
+00:07:35,800 --> 00:07:41,620
+So the bending moment due to the effect of this on weight will be a parabola.
+
+65
+00:07:42,580 --> 00:07:56,140
+M maximum equal WL squared divided by W675L squared 50 feet squared divided by 8.
+
+66
+00:07:56,180 --> 00:07:57,780
+this number will be
+
+67
+00:08:08,560 --> 00:08:21,560
+210,937 bound foot please make sure your units are consistent that's fine any
+
+68
+00:08:21,560 --> 00:08:22,300
+Any questions so far?
+
+69
+00:08:24,460 --> 00:08:24,840
+Looks good.
+
+70
+00:08:26,240 --> 00:08:27,560
+Any questions so far?
+
+71
+00:08:34,540 --> 00:08:37,700
+Okay, so please read the problem carefully.
+
+72
+00:08:38,960 --> 00:08:42,880
+Because in the exam, you don't need to ask a question.
+
+73
+00:08:44,480 --> 00:08:49,340
+The problem did not mention anything related to life-loot.
+
+74
+00:08:50,260 --> 00:08:50,520
+Okay?
+
+75
+00:08:50,520 --> 00:08:57,440
+we don't have light loot and the also is a problem mentioned we need to calculate the flexural stress
+
+76
+00:08:59,120 --> 00:09:05,100
+This is the effect of on weight of the beam. So that's fine. We have on weight only
+
+77
+00:09:06,460 --> 00:09:07,060
+Okay
+
+78
+00:09:08,480 --> 00:09:12,460
+second part we need to talk a little bit about with the
+
+79
+00:09:14,040 --> 00:09:15,720
+brief stressing force
+
+80
+00:09:16,460 --> 00:09:22,340
+But before starting, I need to ask a question. Anybody can tell me what is the eccentricity?
+
+81
+00:09:24,720 --> 00:09:25,580
+For these tendons,
+
+82
+00:09:27,080 --> 00:09:32,360
+just to remind you, the cross-section has a centroid and
+
+83
+00:09:34,340 --> 00:09:36,380
+the tendons has a centroid.
+
+84
+00:09:37,610 --> 00:09:43,520
+The distance between the centroid of the cross-section and the centroid of the tendons called
+
+85
+00:09:45,839 --> 00:09:48,420
+Can you tell me what is the value of E?
+
+86
+00:09:49,340 --> 00:09:49,880
+I need answer.
+
+87
+00:09:51,760 --> 00:09:53,820
+I need someone to answer my question.
+
+88
+00:09:54,080 --> 00:09:56,620
+What is the eccentricity E?
+
+89
+00:10:11,080 --> 00:10:13,160
+Anybody can answer my question?
+
+90
+00:10:14,880 --> 00:10:18,000
+So please locate the centroid of the tendons
+
+91
+00:10:18,920 --> 00:10:22,540
+and locate the centroid of the rectangular cross section
+
+92
+00:10:23,500 --> 00:10:26,980
+and tell me what is the distance between both of them?
+
+93
+00:10:52,720 --> 00:10:54,660
+Yes, perfect rectangle.
+
+94
+00:10:55,170 --> 00:10:55,580
+Why?
+
+95
+00:10:56,260 --> 00:11:03,620
+we don't have tension. We don't have tension. We don't have cracks. So the whole cross-section
+
+96
+00:11:04,860 --> 00:11:05,440
+is working.
+
+97
+00:11:11,520 --> 00:11:15,060
+And I didn't catch your question. Will there be two?
+
+98
+00:11:33,160 --> 00:11:38,860
+No, no Cody Brock your answer is wrong. It is wrong. It's not the centrist.
+
+99
+00:11:50,040 --> 00:11:51,720
+It's not 15.5.
+
+100
+00:11:52,640 --> 00:11:52,840
+No.
+
+101
+00:11:54,700 --> 00:11:55,800
+Guys, it's very easy.
+
+102
+00:11:55,900 --> 00:12:02,440
+Just put a point at the centroid of the tendons and a point at the centroid of the rectangle
+
+103
+00:12:02,980 --> 00:12:06,100
+and then what is the distance between the two points?
+
+104
+00:12:14,060 --> 00:12:15,000
+Yes, we have two rows.
+
+105
+00:12:19,540 --> 00:12:21,880
+And we have two rows.
+
+106
+00:12:24,140 --> 00:12:30,740
+Then the centroid of these tendons will be at this location,
+
+107
+00:12:33,200 --> 00:12:36,940
+which is at a vertical distance from the bottom,
+
+108
+00:12:38,980 --> 00:12:41,500
+equal four inches.
+
+109
+00:12:44,100 --> 00:12:56,660
+3 plus 1 and is a centroid of the rectangular cross section at half distance of 36.
+
+110
+00:12:57,390 --> 00:13:08,820
+So the vertical distance between the centroid and the bottom is 18 inch 36 divide to.
+
+111
+00:13:09,960 --> 00:13:23,860
+So the distance between the centroid of the tendons and the centroid of the cross section will be 18-4=14 inch.
+
+112
+00:13:37,980 --> 00:13:41,320
+That makes sense. That makes sense.
+
+113
+00:13:44,120 --> 00:13:44,960
+It's very easy.
+
+114
+00:13:46,620 --> 00:13:51,180
+I told you, bought a point at the centroid of the cross section.
+
+115
+00:13:52,380 --> 00:13:55,080
+It's a rectangular with 18 times 36.
+
+116
+00:13:56,760 --> 00:14:03,020
+And bought a point at the centroid of the attendance. We have 12. Okay, that's fine. Two rows. That's fine.
+
+117
+00:14:03,340 --> 00:14:10,460
+Where is the centroid at the middle? And then measure the distance between the two points.
+
+118
+00:14:10,760 --> 00:14:12,400
+This called eccentricity.
+
+119
+00:14:18,180 --> 00:14:23,140
+And this is eccentricity equal 1.167 feet.
+
+120
+00:14:28,060 --> 00:14:33,220
+One more question. Can you tell me what is the breast-stressing force?
+
+121
+00:14:35,960 --> 00:14:36,740
+Do you remember that?
+
+122
+00:14:40,660 --> 00:14:45,500
+If be ultimate, I don't care about this number. This number is nothing for me right now.
+
+123
+00:14:47,380 --> 00:14:54,580
+My concern is the initial breast-stress equal 175, but this is a stress.
+
+124
+00:14:55,980 --> 00:15:03,520
+So how can I convert this stress to a force, to initial force, to initial breast-tracing force?
+
+125
+00:15:11,820 --> 00:15:22,539
+So this is stress 175, the initial breast-trace time, the area for the whole
+
+126
+00:15:22,540 --> 00:15:30,820
+tendons which is given 1.836 this brief stress force
+
+127
+00:15:35,540 --> 00:15:39,940
+equal 321.3 kip
+
+128
+00:15:51,180 --> 00:15:58,400
+yes thank you brock okay we almost done we almost done
+
+129
+00:16:01,080 --> 00:16:17,380
+so right now we have moment due to the effect of on weight equal 210,937
+
+130
+00:16:18,540 --> 00:16:37,560
+bound feet. And we have a cross section with a force here equal 321.3 Kip with its
+
+131
+00:16:37,560 --> 00:16:44,420
+its intensity equal 14 inch which is 1.167 feet.
+
+132
+00:16:47,500 --> 00:16:55,620
+Can you go ahead and draw or calculate the stresses?
+
+133
+00:16:56,190 --> 00:16:56,920
+Yes, I can.
+
+134
+00:16:58,760 --> 00:17:06,660
+Due to the effect of moment, we have a stress equal m y over r.
+
+135
+00:17:09,019 --> 00:17:13,360
+For the restressing force, we have stress uniform.
+
+136
+00:17:15,199 --> 00:17:16,420
+This one will be tension.
+
+137
+00:17:16,819 --> 00:17:17,800
+This one will be compression.
+
+138
+00:17:18,240 --> 00:17:19,579
+This one will be compression, compression.
+
+139
+00:17:20,000 --> 00:17:22,060
+The force divide area.
+
+140
+00:17:23,680 --> 00:17:26,319
+And due to the effect of its intensity,
+
+141
+00:17:28,120 --> 00:17:35,480
+We have compression at the bottom, tension at the top,
+
+142
+00:17:37,320 --> 00:17:40,920
+and your stress equal force, time eccentricity,
+
+143
+00:17:41,160 --> 00:17:43,120
+time y divide r.
+
+144
+00:17:45,180 --> 00:17:47,200
+If you go back to our last meeting,
+
+145
+00:17:47,540 --> 00:17:51,200
+you can find the three cases.
+
+146
+00:17:53,540 --> 00:17:56,020
+I know some of you will ask this question.
+
+147
+00:17:56,120 --> 00:17:59,800
+It's a very good question and please make sure you can get it.
+
+148
+00:18:01,460 --> 00:18:05,740
+The effect of this bestressing force is acting at the bottom.
+
+149
+00:18:07,600 --> 00:18:10,300
+So at the bottom, we have compression.
+
+150
+00:18:11,120 --> 00:18:13,740
+That means at the top, we will have tension.
+
+151
+00:18:15,080 --> 00:18:15,600
+That makes sense.
+
+152
+00:18:16,700 --> 00:18:20,340
+This moment coming from the effect of on wheat
+
+153
+00:18:21,820 --> 00:18:24,120
+or effect of external loot.
+
+154
+00:18:24,840 --> 00:18:25,460
+What do you think?
+
+155
+00:18:25,620 --> 00:18:29,520
+I believe the external load will make tension at the bottom
+
+156
+00:18:30,080 --> 00:18:31,500
+and the compression at the top.
+
+157
+00:18:31,600 --> 00:18:33,360
+So we have tension and the compression.
+
+158
+00:18:34,020 --> 00:18:36,220
+So make sure you didn't confuse.
+
+159
+00:18:37,720 --> 00:18:39,540
+And this effect is compression
+
+160
+00:18:40,140 --> 00:18:43,600
+because we are assuming this force acting at this centroid.
+
+161
+00:18:46,060 --> 00:18:48,520
+Anyway, to figure out these values,
+
+162
+00:18:50,120 --> 00:18:54,440
+your cross-section properties are not given,
+
+163
+00:18:55,500 --> 00:18:56,880
+but the cross-section is given.
+
+164
+00:18:57,060 --> 00:19:01,460
+We have 18 inch, we have 36 inch.
+
+165
+00:19:02,840 --> 00:19:06,860
+So the area of this cross-section 18 times 36,
+
+166
+00:19:08,660 --> 00:19:14,400
+the moment of inertia I equal parallel 18 times 36 cube
+
+167
+00:19:14,820 --> 00:19:19,379
+over 12, here is the neutral axis
+
+168
+00:19:19,380 --> 00:19:24,240
+At the centroid, that means the distance y here equal 18 inch,
+
+169
+00:19:25,120 --> 00:19:28,780
+and the distance y here equal 18 inch.
+
+170
+00:19:30,220 --> 00:19:33,100
+Y for the bottom and Y for the top.
+
+171
+00:19:36,140 --> 00:19:41,420
+So these values area 18 times 36
+
+172
+00:19:42,220 --> 00:19:45,060
+equals 648 inches square.
+
+173
+00:19:46,500 --> 00:19:57,920
+The barrel time 36 Q over 12 will be 69,984 inch to power 4.
+
+174
+00:20:07,140 --> 00:20:11,520
+So we have I, we have Y and we have moment.
+
+175
+00:20:13,020 --> 00:20:17,360
+but please be careful because this moment in bound feet
+
+176
+00:20:19,080 --> 00:20:22,040
+and everything in the section properties in inch.
+
+177
+00:20:23,220 --> 00:20:26,120
+So make sure your units are consistent.
+
+178
+00:20:27,300 --> 00:20:38,360
+So M will be 210,937 times 12 to be bound inch.
+
+179
+00:20:39,180 --> 00:20:46,900
+Time y 18 inch divide I stick is the 9,984.
+
+180
+00:20:49,220 --> 00:20:51,700
+So the two stresses will be equal.
+
+181
+00:21:03,620 --> 00:21:04,700
+651.
+
+182
+00:21:05,920 --> 00:21:07,000
+651.
+
+183
+00:21:08,860 --> 00:21:21,780
+How much this force? This force equal 321.3 kips so I will multiply it by 1000.
+
+184
+00:21:21,880 --> 00:21:47,220
+divided by area 648. This stress equal 495. 495. For this one, the force equal 321.3
+
+185
+00:21:47,220 --> 00:21:51,300
+time 1000 to be in bound. Time is
+
+186
+00:21:51,320 --> 00:21:54,040
+intercity 14 inch. Please make sure
+
+187
+00:21:54,240 --> 00:22:00,220
+everything in inch. Y 18 inch. I we
+
+188
+00:22:00,260 --> 00:22:06,020
+calculated I. So 321.3 times 1000
+
+189
+00:22:06,680 --> 00:22:11,080
+time is intercity 14 inch time Y 18
+
+190
+00:22:11,140 --> 00:22:25,520
+inch divide I 69,984 this stress will be 1156 1156
+
+191
+00:22:31,820 --> 00:22:36,500
+finally can you tell me what is the final stress
+
+192
+00:22:42,880 --> 00:22:50,980
+Okay, we have here compression, we have here compression, both of them will be 8, 651 plus
+
+193
+00:22:53,559 --> 00:23:04,020
+495 minus 100, 1156. This one is the biggest one, so we will have tension
+
+194
+00:23:05,820 --> 00:23:08,080
+equal 10 psi.
+
+195
+00:23:11,690 --> 00:23:16,960
+At the bottom, we have tension, we have compression, we have compression. So the two compression
+
+196
+00:23:17,830 --> 00:23:31,400
+will be added for 195 plus 1156 minus 651. The final will be compression equal 1000 psi.
+
+197
+00:23:34,940 --> 00:23:36,540
+Here is the final stress.
+
+198
+00:23:44,460 --> 00:23:51,520
+Any question? I don't care about the science positive or negative, my concern is please tell me
+
+199
+00:23:51,580 --> 00:23:54,560
+Is it compression or is it tension?
+
+200
+00:24:04,280 --> 00:24:07,420
+Will both forces always equal?
+
+201
+00:24:07,680 --> 00:24:08,280
+Which forces?
+
+202
+00:24:09,120 --> 00:24:11,740
+Brock, regarding your question, which forces?
+
+203
+00:24:11,740 --> 00:24:13,560
+[BLANK_AUDIO]
+
+204
+00:24:45,060 --> 00:24:56,520
+This one equal to this one because you have a cross section give you this y distance equal to this y distance.
+
+205
+00:24:58,200 --> 00:25:02,160
+You are lucky because your cross section looks like a rectangle.
+
+206
+00:25:03,900 --> 00:25:10,960
+to the centroid and the neutral axis at the mid height. So the distance at the bottom equals
+
+207
+00:25:11,020 --> 00:25:17,900
+the distance at the top. So your stress at the bottom equals the stress at the top.
+
+208
+00:25:19,580 --> 00:25:24,400
+But if you go back to the previous example, last meeting, we have something different,
+
+209
+00:25:26,380 --> 00:25:37,240
+something like this. So this distance is not equal to this distance. So at this time you will get
+
+210
+00:25:37,270 --> 00:25:46,580
+two different values. This value will be different than this value. So it depends on the cross section
+
+211
+00:25:46,840 --> 00:25:53,740
+if you got a distance to the top equals the distance to the bottom the two values are equal.
+
+212
+00:25:56,660 --> 00:26:09,220
+It's number. m times y divides i. i moment of inertia for the cross section is constant.
+
+213
+00:26:10,160 --> 00:26:17,380
+Moment is the applied moment is constant. So which one is a variable y? If the y distance
+
+214
+00:26:17,500 --> 00:26:22,680
+for the top equals the y distance for the bottom, both of them must be equal.
+
+215
+00:26:34,860 --> 00:26:42,040
+This question is very important. How to figure out the final stress?
+
+216
+00:26:55,480 --> 00:26:55,980
+deflection
+
+217
+00:26:58,460 --> 00:27:09,900
+just to let you know deflection due to the effect of the given load dead load plus life
+
+218
+00:27:09,900 --> 00:27:16,940
+fluid which is uniform distributed fluid the deflection will be downward.
+
+219
+00:27:21,260 --> 00:27:21,820
+How much?
+
+220
+00:27:25,500 --> 00:27:33,220
+W, I'm sorry 5 WL to power 4 divide 384 EI.
+
+221
+00:27:36,940 --> 00:27:39,260
+Guys, do you remember what was the value of E?
+
+222
+00:27:41,200 --> 00:27:50,960
+If you go back to the first week in this course equal 75,000 square root for F prime C,
+
+223
+00:27:52,300 --> 00:27:59,380
+I can tell you what is the value of E complete. Do you remember that? Anyway, so just to keep in
+
+224
+00:27:59,380 --> 00:28:05,880
+your mind the deflection due to the effect of external load is downward
+
+225
+00:28:07,500 --> 00:28:20,400
+deflection how much this one by the way W equal did load plus life load we don't
+
+226
+00:28:20,420 --> 00:28:25,820
+have factor just surface load if you need to figure out the deflection due to
+
+227
+00:28:25,820 --> 00:28:34,120
+did load only? Okay, w equal did load only. If you would like to consider the deflection for
+
+228
+00:28:34,220 --> 00:28:42,900
+life load only, w equal life load only. If you would like to consider the deflection for both of
+
+229
+00:28:43,100 --> 00:28:51,820
+them, the load and the life load, w equal did load plus life load. Life is easy. The same
+
+230
+00:28:51,820 --> 00:28:57,240
+same expression 5 W L to power 4 divided by 384 EI.
+
+231
+00:28:59,060 --> 00:29:03,800
+If you would like to get that deflection for the fluid only, okay, W equal the fluid,
+
+232
+00:29:04,080 --> 00:29:04,440
+that's it.
+
+233
+00:29:05,360 --> 00:29:09,760
+If you would like to consider life fluid only, okay, W equal life fluid only.
+
+234
+00:29:09,980 --> 00:29:14,540
+If you would like to consider the deflection for both of them at the same time, okay,
+
+235
+00:29:14,900 --> 00:29:24,100
+equal dL+L, we don't use factor 1.2 or 1.6 for deflection.
+
+236
+00:29:29,690 --> 00:29:30,840
+If this beam,
+
+237
+00:29:34,920 --> 00:29:38,000
+under the effect of external post tension,
+
+238
+00:29:40,340 --> 00:29:46,760
+we have initial camber, upward deflection.
+
+239
+00:29:51,310 --> 00:30:03,840
+This one was downward deflection. This one will be camber or upward deflection.
+
+240
+00:30:06,260 --> 00:30:17,360
+How much for this deflection? It depends on what is the shape of the or what is the profile of the
+
+241
+00:30:17,800 --> 00:30:26,140
+tendon. Straight tendon you can calculate the deflection by this expression.
+
+242
+00:30:28,260 --> 00:30:40,020
+P is a pre-stress force, F. E1 is centricity, L squared divided by 8EI.
+
+243
+00:30:41,400 --> 00:30:48,000
+If the profile of the tendon looks like trapezoid or trapezoidal shape like this,
+
+244
+00:30:49,300 --> 00:30:59,100
+the upward deflection will be using this expression. Because the profile is different,
+
+245
+00:30:59,200 --> 00:31:04,560
+so we have two eccentricities, one at the mid-span and one at the end.
+
+246
+00:31:05,040 --> 00:31:10,940
+Two eccentricities, E1, E2. If the profile of the tint that looks like a parabola,
+
+247
+00:31:13,460 --> 00:31:22,000
+we have a different expression. But in our course most 99% of the problem will be straight
+
+248
+00:31:22,360 --> 00:31:30,860
+tendon. So this expression will be used mostly. By the way the modulus of elasticity of concrete
+
+249
+00:31:31,140 --> 00:31:39,660
+you can get it by ACI. Do you remember that? E-concrete equals 75,000 square root F prime C.
+
+250
+00:31:40,500 --> 00:31:45,700
+the moment of inertia is calculated for the concrete cross-section based on the shape of
+
+251
+00:31:45,800 --> 00:31:53,160
+the cross-section rectangular barrel time perpendicular cube over 12. Sober position can be used.
+
+252
+00:31:53,840 --> 00:32:00,780
+What you mean by sober position, I mean you will calculate the deflection due to the effect of
+
+253
+00:32:00,880 --> 00:32:10,480
+load, dead load or life load or both of them up a downward and then alone and then calculate deflection
+
+254
+00:32:12,420 --> 00:32:19,080
+This one is upward, this one is downward, this one is alone, this one is alone.
+
+255
+00:32:19,940 --> 00:32:23,680
+That means delta final deflection will be.
+
+256
+00:32:24,780 --> 00:32:32,640
+This one, which is downward, this one, which is upward, and you need to tell me the final deflection.
+
+257
+00:32:32,800 --> 00:32:34,400
+Is it upward or downward?
+
+258
+00:32:36,220 --> 00:32:37,220
+Which one is bigger?
+
+259
+00:32:38,840 --> 00:32:43,560
+This is the meaning of sober position. Sober position means I'm going to calculate deflection
+
+260
+00:32:43,720 --> 00:32:49,960
+due to weight, due to life load alone, and deflection due to the effect of breast-dressing alone,
+
+261
+00:32:50,700 --> 00:32:56,780
+and then finally I can add them together and see which one is bigger. This is the meaning of sober
+
+262
+00:32:59,839 --> 00:33:02,700
+Okay, let's do this example.
+
+263
+00:33:09,220 --> 00:33:17,720
+We have a pre-stress concrete beam with its band 30 feet with cross section 20 x 12.
+
+264
+00:33:19,530 --> 00:33:22,000
+The did and the live load are indicated.
+
+265
+00:33:22,450 --> 00:33:24,380
+We have did load equal 0.5.
+
+266
+00:33:25,500 --> 00:33:39,760
+have life-lute equal point to it. Pre-stressing tendon have an area of 5.9 inches square.
+
+267
+00:33:40,630 --> 00:33:48,860
+Okay, ultimate stress, if P ultimate, this information is nothing for me until this moment.
+
+268
+00:33:49,040 --> 00:33:54,220
+I don't care about Fp-altern. My concern is what is the initial pre-stress force
+
+269
+00:33:54,220 --> 00:33:56,420
+And what is the final breath stress force?
+
+270
+00:33:57,360 --> 00:34:00,880
+I'm sorry, the initial breath stress and the final breath stress.
+
+271
+00:34:02,640 --> 00:34:07,000
+Calculate the center line deflection and submit a span
+
+272
+00:34:07,660 --> 00:34:10,840
+just after release and after the final breath stress
+
+273
+00:34:11,220 --> 00:34:14,639
+is reached. I forget to mention something here.
+
+274
+00:34:19,260 --> 00:34:23,120
+and I covered it last meeting and I would like to repeat it.
+
+275
+00:34:24,300 --> 00:34:32,659
+Guys, just after construction, one second after construction,
+
+276
+00:34:34,379 --> 00:34:40,679
+the beam under the effect of initial breath stress force
+
+277
+00:34:43,740 --> 00:34:50,000
+and the bridge or the building did not be used by anybody.
+
+278
+00:34:51,139 --> 00:34:53,520
+So we have did loot only.
+
+279
+00:34:58,140 --> 00:35:02,400
+Under surface loot
+
+280
+00:35:04,760 --> 00:35:09,440
+one year, one month, five years later
+
+281
+00:35:12,300 --> 00:35:20,100
+the beam will be under the effect of f final. Guys, do you remember what is the difference
+
+282
+00:35:20,360 --> 00:35:27,340
+between the initial bristress force and the final bristress force? What is in between? Do you remember
+
+283
+00:35:27,500 --> 00:35:38,860
+that I need one word? I need one word. Guys, do you remember what is the difference between
+
+284
+00:35:38,860 --> 00:35:44,600
+the initial priestress force just after construction and the final priestress force under surface loot.
+
+285
+00:35:45,300 --> 00:35:51,200
+Do you remember that? Not time, not deformation, not shortening, not "I need one word."
+
+286
+00:35:51,860 --> 00:35:58,260
+You guys answered me the same question as the same answer last meeting and I told you I need one word.
+
+287
+00:36:00,940 --> 00:36:01,660
+One word.
+
+288
+00:36:07,500 --> 00:36:10,000
+losses. Thank you Brock losses.
+
+289
+00:36:12,420 --> 00:36:19,900
+Losses will include what you said what you said losses.
+
+290
+00:36:22,240 --> 00:36:32,320
+Will include what you said everything. Everything. Exhibit the difference between the first situation
+
+291
+00:36:32,460 --> 00:36:43,640
+and the final situation. So we have losses between the two situations. Anyway, but under
+
+292
+00:36:43,860 --> 00:36:50,040
+the surface lodes, the bridge under using, so we have did lode and we have life lode.
+
+293
+00:36:51,820 --> 00:37:03,240
+That makes sense. So this problem asked to figure out the deflection just after release,
+
+294
+00:37:04,440 --> 00:37:12,760
+just after construction and after the effect of the final bristress force.
+
+295
+00:37:14,300 --> 00:37:15,520
+So we have two situations.
+
+296
+00:37:16,840 --> 00:37:21,860
+The first one, just after release.
+
+297
+00:37:28,740 --> 00:37:31,340
+So we have dead load only
+
+298
+00:37:33,200 --> 00:37:35,920
+and we have initial pre-stress force.
+
+299
+00:37:38,840 --> 00:37:39,380
+That makes sense.
+
+300
+00:37:43,740 --> 00:37:48,640
+Did LUD only how much? 0.5 plus.
+
+301
+00:37:50,620 --> 00:37:53,580
+The problem did not say anything related
+
+302
+00:37:53,700 --> 00:37:55,520
+to the own weight of this beam.
+
+303
+00:37:55,970 --> 00:37:57,420
+So I need to include it.
+
+304
+00:37:59,380 --> 00:38:03,360
+12 divided 12, 20 divided 12,
+
+305
+00:38:04,330 --> 00:38:09,560
+time one, time 150, all of them divide 1000.
+
+306
+00:38:10,660 --> 00:38:13,820
+why because the given did load in KIPP.
+
+307
+00:38:14,460 --> 00:38:17,940
+So I need to divide this number by 1000 to be in KIPP.
+
+308
+00:38:18,960 --> 00:38:20,940
+The final value for the did load
+
+309
+00:38:33,520 --> 00:38:38,240
+will be 0.75 KIPP, barefoot.
+
+310
+00:38:40,720 --> 00:38:51,400
+The initial pre-stress force equal the area of the tendons 5.9 times the initial pre-stress stress 180.
+
+311
+00:38:52,800 --> 00:38:59,120
+So 5.9 times 180 equal 1062 kips.
+
+312
+00:39:01,380 --> 00:39:04,580
+Guys, can you tell me what is the deflection?
+
+313
+00:39:05,520 --> 00:39:15,340
+D2, dead loot, which is downward, equal 5 WL to power 4 divided by 384 EI.
+
+314
+00:39:17,700 --> 00:39:24,080
+By the way, F prime C is missed in this problem, equal 5,000 PSI.
+
+315
+00:39:25,820 --> 00:39:31,320
+So E concrete equals 75,000 square root f prime c.
+
+316
+00:39:32,140 --> 00:39:43,380
+This value will be 40, 30.5 ksi.
+
+317
+00:39:47,020 --> 00:39:50,140
+Moment of inertia for this cross section
+
+318
+00:39:50,260 --> 00:39:54,160
+equal 12 times 20 cubed over 12.
+
+319
+00:39:55,100 --> 00:39:57,960
+This one will be 8000.
+
+320
+00:40:00,340 --> 00:40:05,120
+So the final value for this deflection equal 5,
+
+321
+00:40:07,180 --> 00:40:08,140
+what is the value of W?
+
+322
+00:40:11,540 --> 00:40:14,920
+If you would like to consider the deflection
+
+323
+00:40:15,080 --> 00:40:25,080
+for D-dlude only, okay, go ahead and equate W equal D-dlude
+
+324
+00:40:25,080 --> 00:40:27,440
+V 0.75.
+
+325
+00:40:32,319 --> 00:40:34,060
+L30 to power four,
+
+326
+00:40:35,980 --> 00:40:40,120
+divide 384, time E40,
+
+327
+00:40:41,019 --> 00:40:45,320
+30.5, time inertia are 8000.
+
+328
+00:40:46,420 --> 00:40:48,600
+If you get a value, your value will be wrong.
+
+329
+00:40:49,460 --> 00:40:49,940
+Do you know why?
+
+330
+00:40:51,580 --> 00:40:52,120
+Do you know why?
+
+331
+00:40:53,840 --> 00:40:56,840
+This weight, KIP, berfoot.
+
+332
+00:40:58,740 --> 00:40:59,960
+This length, foot.
+
+333
+00:41:02,640 --> 00:41:06,760
+This E, KIP, berinch square.
+
+334
+00:41:07,940 --> 00:41:10,320
+This I, inch to power four.
+
+335
+00:41:11,180 --> 00:41:13,500
+Your units are not consistent.
+
+336
+00:41:13,940 --> 00:41:17,740
+Okay, I agree with you, everything in KIP, that's fine.
+
+337
+00:41:18,560 --> 00:41:22,940
+But not everything in inch or even in foot.
+
+338
+00:41:23,200 --> 00:41:25,420
+We have some in foot and some in inch.
+
+339
+00:41:25,780 --> 00:41:28,520
+So we need to keep your units consistent.
+
+340
+00:41:29,580 --> 00:41:34,140
+So this 30 will be multiple by 12 to be an inch.
+
+341
+00:41:35,400 --> 00:41:37,740
+This one, Kib divide foot.
+
+342
+00:41:38,500 --> 00:41:42,720
+So I will divide this one by 12 to be an inch.
+
+343
+00:41:43,680 --> 00:41:45,580
+Now I can get a final answer.
+
+344
+00:41:52,160 --> 00:41:54,960
+[BLANK_AUDIO]
+
+345
+00:42:05,880 --> 00:42:12,120
+Your final value will be 0.424 inch down.
+
+346
+00:42:16,280 --> 00:42:23,960
+The only problem, the only issue to you with this expression to make your units consistent,
+
+347
+00:42:24,240 --> 00:42:26,120
+please be careful about units.
+
+348
+00:42:29,560 --> 00:42:30,000
+Thank you, Borat.
+
+349
+00:42:32,160 --> 00:42:42,880
+Then your profile or the profile for this beam is straight.
+
+350
+00:42:43,950 --> 00:42:48,860
+If the problem didn't say anything related to the profile, that means we assume it's
+
+351
+00:42:49,040 --> 00:42:49,600
+as straight.
+
+352
+00:42:50,960 --> 00:43:00,540
+So that deflection equal f the brist tracing force initial.
+
+353
+00:43:01,600 --> 00:43:02,880
+Time is intensity.
+
+354
+00:43:03,900 --> 00:43:08,820
+Time L square divided 8EI.
+
+355
+00:43:10,320 --> 00:43:11,060
+This expression.
+
+356
+00:43:12,460 --> 00:43:14,880
+Okay go ahead and substitute.
+
+357
+00:43:16,440 --> 00:43:23,020
+The initial breast-racing force 1062 hip is interesting.
+
+358
+00:43:25,420 --> 00:43:32,520
+Guys, this time can you figure out the eccentricity between the location of the tendon and the
+
+359
+00:43:32,540 --> 00:43:33,000
+centroid?
+
+360
+00:43:34,060 --> 00:43:36,020
+Can you do it this time?
+
+361
+00:43:53,280 --> 00:43:59,740
+Thank you, Alim. Yes, it's six. Guys, I believe this distance, the remaining distance will
+
+362
+00:43:59,760 --> 00:44:04,960
+be four because four plus sixteen equal twenty. The distance between this and
+
+363
+00:44:05,060 --> 00:44:09,400
+try to the bottom is ten. The distance between the ten and the bottom is four.
+
+364
+00:44:09,660 --> 00:44:17,060
+That means the eccentricity equals six. So eccentricity equals six. The length of
+
+365
+00:44:17,060 --> 00:44:32,540
+the beam 30. Clear divide 8 time e 40 30.5 i 8000 please make sure your units are consistent
+
+366
+00:44:33,810 --> 00:44:42,520
+i don't think so so because this one in kip that's fine this one in inch this one in feet
+
+367
+00:44:43,700 --> 00:44:50,740
+This one in kib and divide inch square. This one in inch to power four. Looks like everything in kib. That's fine.
+
+368
+00:44:51,380 --> 00:44:57,280
+But we have some in feet and some in inch. I need to keep everything in inch. So I need to multiply 30 by 12.
+
+369
+00:44:59,020 --> 00:45:00,240
+So the final value
+
+370
+00:45:14,860 --> 00:45:19,160
+will be 3.2 inch upward.
+
+371
+00:45:24,220 --> 00:45:28,900
+Okay, the problem did not ask to calculate deflection.
+
+372
+00:45:29,220 --> 00:45:35,260
+two did load alone and the deflection due to pre-stressing alone we need delta final
+
+373
+00:45:37,840 --> 00:45:48,220
+so 0.424 down plus 3.2 up I believe the final deflection will be
+
+374
+00:45:50,100 --> 00:45:54,760
+2.78 inch
+
+375
+00:45:58,740 --> 00:46:09,680
+Just after release, just after construction of breast-dressing, the beam will be cambered up by 2.78 inch.
+
+376
+00:46:21,360 --> 00:46:22,320
+Any questions so far?
+
+377
+00:46:23,040 --> 00:46:23,440
+Looks good.
+
+378
+00:46:24,900 --> 00:46:25,180
+Okay.
+
+379
+00:46:26,480 --> 00:46:29,540
+Let's do under surface root.
+
+380
+00:46:32,900 --> 00:46:34,840
+Guys, everything will be changed.
+
+381
+00:46:36,400 --> 00:46:36,800
+Everything.
+
+382
+00:46:37,680 --> 00:46:37,880
+Really?
+
+383
+00:46:38,260 --> 00:46:38,360
+Yeah.
+
+384
+00:46:39,200 --> 00:46:39,960
+Let's see.
+
+385
+00:46:40,900 --> 00:46:47,940
+First of all, your W equal DL+L, both of them should be considered.
+
+386
+00:46:48,140 --> 00:46:54,660
+So we have DL.75, you need to add the value of the L.8.
+
+387
+00:46:57,720 --> 00:47:08,020
+So the W used for deflection will be 1.55 KB.
+
+388
+00:47:09,660 --> 00:47:34,640
+Your deflection, d2L=5Wl/4/384EI will be 5*1.55*30/4/384*40/30.5*8000.
+
+389
+00:47:35,660 --> 00:47:38,940
+One more time, make sure your units are consistent.
+
+390
+00:47:39,620 --> 00:47:41,200
+So I will divide this one by 12.
+
+391
+00:47:41,400 --> 00:47:43,300
+I will multiply this one by 12
+
+392
+00:47:43,740 --> 00:47:45,480
+to figure out the final deflection.
+
+393
+00:48:02,420 --> 00:48:07,060
+0.876 inch down.
+
+394
+00:48:12,620 --> 00:48:13,300
+Four tendons.
+
+395
+00:48:17,440 --> 00:48:20,400
+Please go ahead and figure out the value of F.
+
+396
+00:48:21,000 --> 00:48:22,600
+I'm sorry, you figured it out before.
+
+397
+00:48:23,040 --> 00:48:23,740
+F, no.
+
+398
+00:48:24,460 --> 00:48:27,840
+This F was the initial breast stress force.
+
+399
+00:48:28,520 --> 00:48:30,860
+I used the initial breast stress.
+
+400
+00:48:32,400 --> 00:48:44,940
+180. We have final stress after losses. So we need to multiply 140 by this area. We have another F.
+
+401
+00:48:45,380 --> 00:48:59,540
+140 times 5.9 equals 826 k. Your deflection, the two pre-stress,
+
+402
+00:48:59,540 --> 00:49:05,320
+s equal, do you remember that one?
+
+403
+00:49:06,880 --> 00:49:07,900
+f e l square
+
+404
+00:49:11,140 --> 00:49:12,620
+divide 8 e i.
+
+405
+00:49:13,230 --> 00:49:17,540
+So the f 826 is interested in the same
+
+406
+00:49:19,920 --> 00:49:20,760
+6.
+
+407
+00:49:22,400 --> 00:49:26,540
+l 30 times 12 square
+
+408
+00:49:29,380 --> 00:49:37,040
+8E4030.5 I8000. Everything is good. Go ahead and get a number.
+
+409
+00:49:48,260 --> 00:49:52,160
+This one will be 2.5 inch upward.
+
+410
+00:49:53,360 --> 00:50:03,440
+So the final deflection equal 0.876 down plus 2.4 inch up.
+
+411
+00:50:05,500 --> 00:50:12,660
+So the final deflection will be 1.61 inch up.
+
+412
+00:50:13,480 --> 00:50:15,780
+I don't care about the final one is up or down,
+
+413
+00:50:15,920 --> 00:50:22,580
+safe or unsafe, it's not my point right now. My point is to figure out the final deflection
+
+414
+00:50:23,020 --> 00:50:28,240
+for this beam under the effect of the dead load and live load.
+
+415
+00:50:32,580 --> 00:50:33,120
+That makes sense?
+
+416
+00:50:36,260 --> 00:50:37,000
+Any question?
+
+417
+00:50:40,800 --> 00:50:47,440
+looks good, looks like it's nothing, just you are following some steps.
+
+418
+00:50:53,280 --> 00:50:57,160
+So, until this moment, we cover two bars.
+
+419
+00:50:59,440 --> 00:51:06,480
+The first bar, I can give you a beam with pre-stressing force, and I'm asking to figure out
+
+420
+00:51:06,480 --> 00:51:09,760
+with the final stress at the two fibers,
+
+421
+00:51:11,800 --> 00:51:14,060
+at the top and at the bottom.
+
+422
+00:51:15,180 --> 00:51:21,000
+You need to construct the three sheeps with numbers
+
+423
+00:51:21,320 --> 00:51:24,080
+at the top and the bottom, top and bottom, top and bottom.
+
+424
+00:51:25,300 --> 00:51:28,660
+And tell me the final stress.
+
+425
+00:51:30,760 --> 00:51:34,780
+The second part, I will give you a beam,
+
+426
+00:51:36,200 --> 00:51:41,720
+a brief stress beam with a given load,
+
+427
+00:51:43,260 --> 00:51:46,400
+or probably you can calculate the own weight of the beam
+
+428
+00:51:47,080 --> 00:51:49,320
+to tell me what is the final deflection.
+
+429
+00:51:50,340 --> 00:51:54,240
+And make sure which deflection I'm looking for.
+
+430
+00:51:54,700 --> 00:51:58,140
+Is it deflection just after release,
+
+431
+00:51:59,340 --> 00:52:04,560
+or deflection, final deflection under the surface load?
+
+432
+00:52:05,640 --> 00:52:06,840
+because we have a big difference.
+
+433
+00:52:07,600 --> 00:52:11,360
+Just after release, we have FI without losses.
+
+434
+00:52:12,820 --> 00:52:16,340
+We have the loot only, including the own weight of the beam.
+
+435
+00:52:17,520 --> 00:52:20,900
+But after losses under surface loot,
+
+436
+00:52:21,900 --> 00:52:25,800
+your W or the loot will be dead and alive, both of them.
+
+437
+00:52:26,760 --> 00:52:30,440
+And the tendon will lose some forces.
+
+438
+00:52:31,060 --> 00:52:34,840
+So we have a final after considering losses.
+
+439
+00:52:36,960 --> 00:52:40,200
+To make sure you are reading the problem carefully.
+
+440
+00:52:41,960 --> 00:52:45,040
+One more part will be covered next meeting.
+
+441
+00:52:45,920 --> 00:52:51,720
+What is the ultimate design of a cross section or a pre-stressed cross section?
+
+442
+00:52:52,100 --> 00:52:52,900
+It's a piece of cake.
+
+443
+00:52:52,900 --> 00:52:54,040
+We covered this before.
+
+444
+00:52:54,440 --> 00:52:55,900
+It will be very easy.
+
+445
+00:52:56,440 --> 00:52:59,480
+Nothing in you except how to calculate FBS.
+

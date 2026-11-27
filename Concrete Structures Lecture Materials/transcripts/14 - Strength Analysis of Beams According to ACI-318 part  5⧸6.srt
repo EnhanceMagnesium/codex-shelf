@@ -1,0 +1,1304 @@
+1
+00:00:28,580 --> 00:00:29,980
+*Sizzling
+
+2
+00:00:30,000 --> 00:00:34,260
+but you cannot realize that you can.
+
+3
+00:00:36,500 --> 00:00:46,940
+Anyway, if you have a cross-section and area steel is unknown,
+
+4
+00:00:49,220 --> 00:00:53,520
+we have B, we have D.
+
+5
+00:00:55,840 --> 00:01:00,740
+Right now I'm talking about M ultimate is known.
+
+6
+00:01:02,800 --> 00:01:04,920
+I can figure out the value of M ultimate.
+
+7
+00:01:06,440 --> 00:01:12,380
+Cross-section is known.
+
+8
+00:01:12,620 --> 00:01:14,280
+I can figure out the cross-section.
+
+9
+00:01:15,340 --> 00:01:16,200
+But the issue is,
+
+10
+00:01:16,660 --> 00:01:20,840
+I cannot figure out the area steel and I don't like to use a table.
+
+11
+00:01:22,660 --> 00:01:23,800
+Can I get the area steel?
+
+12
+00:01:23,840 --> 00:01:27,280
+Yes, you can. Very simple. Very simple.
+
+13
+00:01:29,580 --> 00:01:34,220
+Between reinforcement and concrete on the top side of the cross section,
+
+14
+00:01:34,380 --> 00:01:38,620
+we have something called neutral axis. We have a strain distribution.
+
+15
+00:01:39,800 --> 00:01:44,320
+We learned all of this stuff before. Epsilon steel and epsilon concrete,
+
+16
+00:01:44,640 --> 00:01:50,280
+which is 0.003. We have stress distribution.
+
+17
+00:01:50,600 --> 00:01:59,280
+we have compression stress block with depth A and the total depth for the neutral axis is C.
+
+18
+00:02:00,400 --> 00:02:07,800
+This value of stress point 85 F prime C and we have here a tension force in the
+
+19
+00:02:07,960 --> 00:02:14,540
+stereo enforcement which is unknown and we have compressive force here capital C.
+
+20
+00:02:16,200 --> 00:02:18,600
+Everybody agree with this layout?
+
+21
+00:02:20,500 --> 00:02:22,720
+Anybody has any question for this point?
+
+22
+00:02:27,300 --> 00:02:28,560
+I think we are good.
+
+23
+00:02:30,640 --> 00:02:36,020
+We learned it from equilibrium capital C equal capital T.
+
+24
+00:02:38,160 --> 00:02:45,300
+So 0.85 F prime C, A, B, that's right.
+
+25
+00:02:45,400 --> 00:02:55,100
+equal area steel time a field. Unfortunately in this equation we have
+
+26
+00:02:55,110 --> 00:03:05,200
+two unknowns. Area steel is unknown, A the depth of this stress block is unknown.
+
+27
+00:03:06,860 --> 00:03:12,199
+This is the first equation. Everything is known. Everything else is known. We have
+
+28
+00:03:12,200 --> 00:03:16,020
+to unknowns. Anybody has any question until this moment?
+
+29
+00:03:21,560 --> 00:03:30,760
+We learned. We have something called MN. Nominal moment. Do you remember equal? Areas
+
+30
+00:03:30,760 --> 00:03:36,040
+If you yield time d minus a divided by two.
+
+31
+00:03:38,780 --> 00:03:42,640
+If you multiply this nominal moment by phase,
+
+32
+00:03:44,300 --> 00:03:46,860
+so the other side will be multiplied by phase.
+
+33
+00:03:51,720 --> 00:03:52,120
+That's right.
+
+34
+00:03:53,880 --> 00:03:54,360
+That's right.
+
+35
+00:03:56,020 --> 00:03:59,820
+Your design, we are looking for area steel that make.
+
+36
+00:04:01,160 --> 00:04:09,760
+M ultimate from structure analysis smaller than or equal to Faye Mn.
+
+37
+00:04:09,960 --> 00:04:14,060
+So I'm going to assume M ultimate equal Faye Mn.
+
+38
+00:04:15,600 --> 00:04:30,260
+So this equation can be M ultimate instead of Faye Mn equal Faye area steel F yield D
+
+39
+00:04:30,260 --> 00:04:31,500
+minus a divided two.
+
+40
+00:04:35,140 --> 00:04:36,940
+If you are looking for this equation,
+
+41
+00:04:37,060 --> 00:04:38,480
+which is equation number two,
+
+42
+00:04:39,380 --> 00:04:40,600
+M ultimate is known.
+
+43
+00:04:41,920 --> 00:04:44,160
+Faye, I can assume it 0.9.
+
+44
+00:04:45,380 --> 00:04:47,040
+Area steel is unknown.
+
+45
+00:04:48,540 --> 00:04:49,940
+A is unknown.
+
+46
+00:04:51,580 --> 00:04:54,380
+So if you go back to the first equation
+
+47
+00:04:57,240 --> 00:04:59,660
+with unknowns, A and the area steel,
+
+48
+00:05:00,880 --> 00:05:05,760
+And the second equation with unknown in area steel and A,
+
+49
+00:05:06,480 --> 00:05:16,760
+I can solve these equations together to figure out what is the value of area steel,
+
+50
+00:05:17,300 --> 00:05:18,600
+what is the value of A.
+
+51
+00:05:18,960 --> 00:05:20,880
+I don't care about the value of A,
+
+52
+00:05:21,380 --> 00:05:26,020
+I can get the value of area steel required without using any table.
+
+53
+00:05:30,499 --> 00:05:32,160
+But we did more calculations.
+
+54
+00:05:33,860 --> 00:05:35,260
+We did more calculations.
+
+55
+00:05:35,480 --> 00:05:39,200
+We set up two equation, equation number one,
+
+56
+00:05:39,420 --> 00:05:43,180
+equation number two, and solve these equations together
+
+57
+00:05:43,600 --> 00:05:45,700
+to figure out the required area steel.
+
+58
+00:05:46,620 --> 00:05:49,600
+Instead of that, we are using table
+
+59
+00:05:50,860 --> 00:05:54,420
+by a value m ultimate divides pay b d square.
+
+60
+00:05:55,020 --> 00:05:58,140
+This value can figure out the value of rho
+
+61
+00:05:58,440 --> 00:06:00,760
+and directly the value of area steel
+
+62
+00:06:01,120 --> 00:06:02,480
+without any more calculations.
+
+63
+00:06:08,220 --> 00:06:08,860
+Did you get it?
+
+64
+00:06:11,500 --> 00:06:15,740
+Because last meeting, Barack, he isn't here today.
+
+65
+00:06:17,000 --> 00:06:20,320
+Asked me what will happen if we have something different
+
+66
+00:06:20,560 --> 00:06:22,200
+than in the table?
+
+67
+00:06:24,380 --> 00:06:28,900
+If Brian C, it's not 3000, it's the 3500.
+
+68
+00:06:29,750 --> 00:06:31,540
+So it's not included in the tables.
+
+69
+00:06:33,140 --> 00:06:34,820
+How can I figure out the area steel?
+
+70
+00:06:36,220 --> 00:06:39,360
+You can figure out the area steel from first Princeton.
+
+71
+00:06:40,960 --> 00:06:44,820
+Do you remember I told you this layout is very important.
+
+72
+00:06:45,220 --> 00:06:47,440
+From this layout, we can design,
+
+73
+00:06:47,440 --> 00:06:49,720
+we can do anything in this course.
+
+74
+00:06:52,420 --> 00:07:04,980
+basics. Okay, and this one capital C and the capital T basics. And the concept nominal moment equal
+
+75
+00:07:05,440 --> 00:07:13,560
+T time this level R. So we can figure out anything with these basics.
+
+76
+00:07:22,180 --> 00:07:23,100
+Any questions so far?
+
+77
+00:07:25,520 --> 00:07:29,960
+Any questions so far? Okay, we have a new topic today
+
+78
+00:07:32,320 --> 00:07:33,740
+Which called t-section
+
+79
+00:07:35,940 --> 00:07:40,320
+t-section guys what we covered before
+
+80
+00:07:42,060 --> 00:07:43,780
+I covered a
+
+81
+00:07:44,879 --> 00:07:45,000
+rectangular
+
+82
+00:07:46,500 --> 00:07:46,700
+beam
+
+83
+00:07:47,960 --> 00:07:51,619
+What you mean we have a rectangular like this beam
+
+84
+00:07:51,620 --> 00:08:00,340
+beam. This beam, reinforced concrete beam, the cross section for this beam is rectangle.
+
+85
+00:08:01,690 --> 00:08:16,980
+Looks like this one with B as a width and overall depth and actual depth, D, with area
+
+86
+00:08:17,020 --> 00:08:24,960
+steel. We learned how to calculate everything for this cross section. If everything is given,
+
+87
+00:08:25,140 --> 00:08:31,680
+area steel is given, I can figure out the design moment. If M ultimate is given, I can figure out
+
+88
+00:08:31,820 --> 00:08:39,700
+the required area steel. We have two situations. We covered all of these stuff. But sometimes,
+
+89
+00:08:40,539 --> 00:08:49,820
+it's not sometimes most of the times your cross section or your beam is connected to slab
+
+90
+00:08:52,619 --> 00:08:54,540
+concrete deck
+
+91
+00:08:58,200 --> 00:09:07,339
+so this beam with this slab will make different shape of cross section which you call t-section
+
+92
+00:09:09,420 --> 00:09:16,720
+and that makes sense. We have a slab. In your building you are walking on floor.
+
+93
+00:09:17,780 --> 00:09:24,560
+This floor, I'm not talking about wood building, I'm talking about concrete, reinforced concrete
+
+94
+00:09:24,840 --> 00:09:34,619
+building. This slab made from concrete and beam made from concrete. This beam with this slab are
+
+95
+00:09:35,260 --> 00:09:38,680
+board or place monolithically.
+
+96
+00:09:43,220 --> 00:09:48,560
+So they are making one unit, this unit called t-section.
+
+97
+00:09:54,200 --> 00:09:56,280
+Okay, t-section.
+
+98
+00:09:59,260 --> 00:10:06,340
+Part of the slab is working with this beam to make t-section.
+
+99
+00:10:06,720 --> 00:10:09,880
+By the way, this part of the beam can be called whip.
+
+100
+00:10:11,220 --> 00:10:15,700
+This part of the slab which is working with this whip called flange.
+
+101
+00:10:17,380 --> 00:10:21,220
+This flange and this whip can make the t-section.
+
+102
+00:10:25,820 --> 00:10:35,760
+According to ACI, if you have a web connected to slab,
+
+103
+00:10:36,460 --> 00:10:42,920
+barred, only barred. Not all the slab is working with the beam to make t-section. No,
+
+104
+00:10:43,100 --> 00:10:56,360
+we have only a bar. This bar has width called B-flange or sometimes B-effective.
+
+105
+00:10:59,560 --> 00:11:06,040
+So if you have a beam with it's connected to a slab, how can I figure out the effective width
+
+106
+00:11:06,940 --> 00:11:14,300
+of this slab which is working with this beam to make t-section. We have three conditions. I'm
+
+107
+00:11:14,360 --> 00:11:29,080
+going to use the least value. According to ACI, American Concrete Institute 318 ACI 318 for 2018.
+
+108
+00:11:33,340 --> 00:11:44,720
+span of this beam, span of this beam, divide 4, we have a value, 16 h flange plus b web,
+
+109
+00:11:45,100 --> 00:11:54,820
+we have another value, or centerline to centerline. As you see here, we have a beam here,
+
+110
+00:11:56,140 --> 00:12:03,160
+we have another beam, we have another beam, we have a distance between this one and this one
+
+111
+00:12:03,500 --> 00:12:13,340
+center line to center line, so this is a value, we have another one 16 each flange, this slab
+
+112
+00:12:13,740 --> 00:12:25,040
+has thickness equal each flange, plus b-whip the width of this width, or it's band divide force,
+
+113
+00:12:25,040 --> 00:12:32,040
+we have three values which one I'm going to use the least value the least value
+
+114
+00:12:39,520 --> 00:12:42,980
+for example the third problem in your homework
+
+115
+00:12:46,480 --> 00:12:52,319
+calculate the effective planch with we are looking only what is the value of b effective
+
+116
+00:12:55,480 --> 00:13:01,260
+For the shown cross section, if the span length of the beam equal 24 feet, so we have
+
+117
+00:13:01,330 --> 00:13:01,940
+three values.
+
+118
+00:13:04,440 --> 00:13:05,840
+Let's start with the first one.
+
+119
+00:13:06,880 --> 00:13:07,880
+What was the first one?
+
+120
+00:13:08,740 --> 00:13:10,260
+Span divided 4.
+
+121
+00:13:12,020 --> 00:13:14,100
+What is the span of this beam?
+
+122
+00:13:15,020 --> 00:13:15,680
+24 feet.
+
+123
+00:13:18,680 --> 00:13:30,620
+4. Please multiply this feed by 12 to be an inch. So this value will be 24 times 12 divided
+
+124
+00:13:30,900 --> 00:13:46,239
+4 equal 72 inch. Second condition or second value 16 H flange plus B web. 16. What is
+
+125
+00:13:46,240 --> 00:13:59,540
+thickness of this slip or this flange what is the thickness how much for plus be web
+
+126
+00:14:02,020 --> 00:14:10,980
+what is the value of this web what is the width be web how much is given 12 we have a value 16
+
+127
+00:14:11,360 --> 00:14:25,180
+time 4 plus 12 76 inch third condition centerline to centerline distance what
+
+128
+00:14:25,180 --> 00:14:31,360
+is the distance between this centerline and this centerline what is the
+
+129
+00:14:31,380 --> 00:14:45,240
+distance how much 4 feet 0 inch so 4 feet time 12 how much 48 so final
+
+130
+00:14:45,380 --> 00:14:55,860
+decision be effective for this t-section this web with part of the slab will
+
+131
+00:14:55,900 --> 00:15:07,060
+make t-section. This width of the slab that make t-section will be 48 inch. Least value.
+
+132
+00:15:08,580 --> 00:15:18,840
+Least value, 48, 76, 72, least value will be the effective flange width. The effective
+
+133
+00:15:19,340 --> 00:15:26,380
+but from this lab will work together with the beam to make t-section.
+
+134
+00:15:31,340 --> 00:15:33,260
+Any question for this point?
+
+135
+00:15:37,860 --> 00:15:40,560
+Guys, any question for this point?
+
+136
+00:15:42,780 --> 00:15:53,360
+Very easy. Very easy. Quarter span, web width plus 16 times left thickness or center line
+
+137
+00:15:53,500 --> 00:15:54,760
+distance between webs.
+
+138
+00:16:06,460 --> 00:16:13,640
+Sometimes I'm talking about T-section. I'm talking about intermediate beam.
+
+139
+00:16:15,520 --> 00:16:19,480
+Sometimes your beam will be at the edge.
+
+140
+00:16:30,380 --> 00:16:31,260
+of this slab.
+
+141
+00:16:34,620 --> 00:16:40,340
+If you are talking about intermediate beam,
+
+142
+00:16:42,120 --> 00:16:49,080
+so we have a beam connected to effective width of the slab, this shape will be t-section.
+
+143
+00:16:50,620 --> 00:16:52,940
+But sometimes we have edge beam.
+
+144
+00:16:56,060 --> 00:17:01,880
+So what is the part of the slab is working with this beam, this part.
+
+145
+00:17:03,460 --> 00:17:09,520
+So that if the format shape will be L section, this one L, not T.
+
+146
+00:17:10,819 --> 00:17:20,420
+L section or L beam, we have a flange on one side of the web only.
+
+147
+00:17:21,560 --> 00:17:30,980
+so the effective width be effective equal 1/12 of the span, span divide 12
+
+148
+00:17:33,440 --> 00:17:39,200
+or width width plus 6 times 6 etchiflange plus b-web
+
+149
+00:17:41,300 --> 00:17:48,539
+or have distance centerline to centerline so we have three values
+
+150
+00:17:50,220 --> 00:17:54,240
+we are going to use the least value.
+
+151
+00:18:00,940 --> 00:18:04,220
+So if you're beam on the edge of the slab,
+
+152
+00:18:07,640 --> 00:18:14,960
+we have L shape, so we have a different limits for B effective span divide 12,
+
+153
+00:18:16,060 --> 00:18:27,940
+6-H flange, this flange thickness plus B-web, this B-web, or half distance, this distance between
+
+154
+00:18:28,160 --> 00:18:35,580
+this centerline and this centerline, we will use the half distance. And I'm going to use the least
+
+155
+00:18:35,740 --> 00:18:41,380
+value. So please be careful. If you are talking about intermediate beam,
+
+156
+00:18:43,980 --> 00:18:51,540
+So we have t-section, we have a limit for b effective, one, two, three, and we will use the least value.
+
+157
+00:18:52,400 --> 00:18:58,260
+If you are talking about edge beam, so we are talking about l-section,
+
+158
+00:18:59,570 --> 00:19:06,660
+so we have a different values for b effective, and we are going to use the least value.
+
+159
+00:19:12,300 --> 00:19:18,380
+Any questions so far? Guys, any questions so far?
+
+160
+00:19:22,300 --> 00:19:22,440
+So,
+
+161
+00:19:26,960 --> 00:19:29,620
+yeah, this one is T. So, okay.
+
+162
+00:19:32,860 --> 00:19:40,560
+Let's start. How to design of T-section, design of T-section.
+
+163
+00:19:41,740 --> 00:19:43,780
+Very simple, very easy.
+
+164
+00:19:45,640 --> 00:19:46,760
+You learned the basics.
+
+165
+00:19:48,200 --> 00:19:51,000
+So right now, we have B effective
+
+166
+00:19:52,500 --> 00:19:54,120
+at the top of the cross section.
+
+167
+00:19:56,840 --> 00:19:57,900
+And we have B web,
+
+168
+00:19:59,400 --> 00:20:00,540
+and we have area steel,
+
+169
+00:20:02,040 --> 00:20:05,800
+and we have itchy flange, the thickness of this flange.
+
+170
+00:20:07,180 --> 00:20:12,480
+I'm gonna assume the neutral axis within the flange.
+
+171
+00:20:15,620 --> 00:20:20,760
+I'm gonna assume the neutral axis falls in the flange.
+
+172
+00:20:22,620 --> 00:20:23,940
+Like Ferris DeBranczbel,
+
+173
+00:20:24,620 --> 00:20:28,140
+anything above neutral axis will be under compression.
+
+174
+00:20:28,900 --> 00:20:31,120
+Anything blue will be under tension.
+
+175
+00:20:31,680 --> 00:20:34,040
+Concrete intention will crack.
+
+176
+00:20:34,540 --> 00:20:36,500
+So we have only stereo enforcement.
+
+177
+00:20:36,900 --> 00:20:38,840
+So we have tension force here T,
+
+178
+00:20:40,100 --> 00:20:42,360
+we have compression force here capital C.
+
+179
+00:20:43,840 --> 00:20:46,480
+The value of capital C equal
+
+180
+00:20:48,340 --> 00:20:53,220
+0.85 F prime C A B effective.
+
+181
+00:20:56,510 --> 00:21:01,920
+Do you remember last week capital C equal
+
+182
+00:21:02,060 --> 00:21:06,460
+0.85 F prime C A B.
+
+183
+00:21:07,340 --> 00:21:08,200
+Which is this one?
+
+184
+00:21:09,420 --> 00:21:10,260
+Which is this one?
+
+185
+00:21:11,920 --> 00:21:18,200
+No, this time we are talking about this area of flange under compression.
+
+186
+00:21:18,900 --> 00:21:22,140
+So what is the weight of this area?
+
+187
+00:21:23,480 --> 00:21:24,860
+Is be effective.
+
+188
+00:21:25,840 --> 00:21:26,880
+Be effective.
+
+189
+00:21:28,000 --> 00:21:30,660
+Not this weight as normal.
+
+190
+00:21:31,960 --> 00:21:34,440
+How can I figure out the value of be effective?
+
+191
+00:21:34,860 --> 00:21:36,880
+Go back, are you in this case?
+
+192
+00:21:38,460 --> 00:21:42,860
+Or this case, 90% will be in this case.
+
+193
+00:21:43,580 --> 00:21:48,900
+Anyway, what is the value of capital T area steel?
+
+194
+00:21:51,260 --> 00:21:51,960
+Time a field.
+
+195
+00:21:53,320 --> 00:21:55,920
+The only unknown in this equation is A,
+
+196
+00:21:56,460 --> 00:21:59,000
+the depth of the stress block.
+
+197
+00:21:59,460 --> 00:22:01,100
+If you can figure out A,
+
+198
+00:22:01,780 --> 00:22:13,780
+Please make sure that this value of A is smaller than the flange width to make sure that the neutral axis is still within the flange.
+
+199
+00:22:15,540 --> 00:22:22,100
+Then your nominal moment equal area steel F yield time D minus A divided by 2.
+
+200
+00:22:23,260 --> 00:22:31,760
+Then if you would like to get the design moment, this design moment equal Faye area steel F yield time D minus A divided by 2.
+
+201
+00:22:32,120 --> 00:22:35,820
+And the Faye most of the time will be 0.9.
+
+202
+00:22:36,260 --> 00:22:41,320
+But you can figure it out by the value of epsilon steel.
+
+203
+00:22:44,680 --> 00:22:51,660
+you remember a table we have a table we can use the value of a strain in steel
+
+204
+00:22:52,010 --> 00:23:00,340
+to figure out the value of A. Guys remember effective flange widths be effective
+
+205
+00:23:01,070 --> 00:23:11,019
+is used instead of B-web this web this width we will not use at n t section if
+
+206
+00:23:11,020 --> 00:23:28,040
+your beam is a t-section. Let's do an example, very simple example. This one.
+
+207
+00:23:30,620 --> 00:23:35,260
+Determine the design strengths. We are looking for what is the value of the
+
+208
+00:23:35,780 --> 00:23:41,220
+end of the T beam in the shown figure. Use a concrete F prime C,
+
+209
+00:23:41,700 --> 00:23:44,440
+steel reinforcement grade, safety, the beam,
+
+210
+00:23:45,090 --> 00:23:49,620
+here you go, the beam has been equal 30 feet
+
+211
+00:23:51,490 --> 00:23:58,540
+and the cast integrally with four inch thick floor slab.
+
+212
+00:23:58,960 --> 00:24:05,219
+This slab has a thickness four inch and the clear distance between
+
+213
+00:24:05,220 --> 00:24:17,380
+whips is 50 inch. Wow. Wow. So I'm gonna ask you guys, everybody can tell me what is the value of
+
+214
+00:24:17,380 --> 00:24:23,120
+B effective? Go ahead and calculate it please. We have three values. What will be the first one?
+
+215
+00:24:23,260 --> 00:24:32,819
+What will be the second one? What will be the third one? Be careful about this one. Be careful
+
+216
+00:24:32,820 --> 00:24:49,160
+about this one. I'm gonna do it here so we have span divided 4, 30, 12,
+
+217
+00:24:50,040 --> 00:25:00,280
+divide 4, we have 16, h3n+bweb, so we have 16, 34, 10, we have centerline,
+
+218
+00:25:00,280 --> 00:25:14,780
+to center line, center line to center line, be careful, center line to center line, 16 times 4 plus 10,
+
+219
+00:25:17,820 --> 00:25:25,460
+center line to center line, so any answer? Let's see,
+
+220
+00:25:30,160 --> 00:25:43,620
+guys any answer we have 10 divided 4 we have 16 etchif lange plus p web we have center
+
+221
+00:25:43,700 --> 00:25:53,800
+line to center line. Any answer? What is the value of P effective? This width of flange?
+
+222
+00:26:38,480 --> 00:26:39,400
+[silence]
+
+223
+00:26:43,480 --> 00:26:43,740
+guys
+
+224
+00:26:57,500 --> 00:27:03,240
+no answer you are spending too much time for nothing
+
+225
+00:27:09,100 --> 00:27:10,700
+Time is a key.
+
+226
+00:27:25,100 --> 00:27:27,980
+Okay, so it looks like no answer.
+
+227
+00:27:35,040 --> 00:27:36,000
+Okay.
+
+228
+00:27:39,660 --> 00:27:40,360
+Let's do it.
+
+229
+00:27:41,620 --> 00:27:43,020
+It's band divide 4.
+
+230
+00:27:45,160 --> 00:27:46,440
+Band 30 feet.
+
+231
+00:27:47,640 --> 00:27:52,740
+Band length of this beam equal 30 feet.
+
+232
+00:27:53,620 --> 00:27:56,400
+Time 12 to be an inch divide 4.
+
+233
+00:27:56,960 --> 00:27:57,520
+So what's the value?
+
+234
+00:27:58,840 --> 00:27:59,480
+Second one.
+
+235
+00:28:03,280 --> 00:28:04,400
+Second one.
+
+236
+00:28:07,240 --> 00:28:11,700
+16, flange thickness plus B web.
+
+237
+00:28:14,360 --> 00:28:22,140
+16, time, this flange thickness 4 plus this web 10.
+
+238
+00:28:23,240 --> 00:28:24,040
+What is the value?
+
+239
+00:28:25,680 --> 00:28:28,460
+Then centerline to centerline.
+
+240
+00:28:29,160 --> 00:28:30,800
+We have here an information,
+
+241
+00:28:31,060 --> 00:28:33,940
+the clear distance between web.
+
+242
+00:28:34,220 --> 00:28:35,000
+What does it mean?
+
+243
+00:28:35,780 --> 00:28:38,720
+This one in the real life looks like this.
+
+244
+00:28:40,120 --> 00:28:45,620
+We have many beams arranged together, parallel to each other.
+
+245
+00:28:48,900 --> 00:28:52,380
+The information said clear distance.
+
+246
+00:28:53,560 --> 00:28:59,320
+Clear distance means distance between this side to this side, how much? 50.
+
+247
+00:29:00,440 --> 00:29:04,620
+But we are looking for distance between centerline and centerline.
+
+248
+00:29:06,140 --> 00:29:09,940
+Anybody can tell me what is the distance between centerline and centerline?
+
+249
+00:29:11,500 --> 00:29:15,260
+We have to add here from this side 5 and from this side,
+
+250
+00:29:15,500 --> 00:29:18,240
+another 5, so it will be 60 inch.
+
+251
+00:29:19,259 --> 00:29:20,840
+Centerline will be 60,
+
+252
+00:29:21,940 --> 00:29:24,980
+16 times 4 plus 10 will be 74,
+
+253
+00:29:25,900 --> 00:29:29,520
+30 times 12 divided 4 will be 90.
+
+254
+00:29:30,090 --> 00:29:33,200
+So we have three values of B effective.
+
+255
+00:29:33,940 --> 00:29:37,620
+I'm gonna use the least value.
+
+256
+00:29:38,790 --> 00:29:41,920
+So the value of B effective in this problem
+
+257
+00:29:42,460 --> 00:29:44,160
+equals 60 inch.
+
+258
+00:29:50,080 --> 00:29:51,840
+Equal 60 inch.
+
+259
+00:29:54,860 --> 00:29:55,800
+Yeah, thank you, Alan.
+
+260
+00:29:59,580 --> 00:30:07,040
+Alan 50 is wrong. 90, okay, 74, okay, but 50, be careful.
+
+261
+00:30:08,320 --> 00:30:10,600
+Clear distance. So I didn't say
+
+262
+00:30:13,140 --> 00:30:18,260
+clear distance. I said center line distance between webs.
+
+263
+00:30:19,640 --> 00:30:24,060
+So if the clear distance is given, you can figure out the center line to center line.
+
+264
+00:30:26,240 --> 00:30:29,600
+Okay, next step is nothing.
+
+265
+00:30:31,390 --> 00:30:40,920
+We have capital C equal point 85, F prime C, A, B effective.
+
+266
+00:30:41,970 --> 00:30:42,460
+Be careful.
+
+267
+00:30:43,960 --> 00:30:49,200
+So we have also capital T, area steel time F field.
+
+268
+00:30:51,380 --> 00:30:52,920
+What is the value of area steel?
+
+269
+00:30:53,540 --> 00:31:07,860
+give it six inches square so 0.85 times f prime c how much 4,000
+
+270
+00:31:12,400 --> 00:31:19,060
+time a i don't know what is the value of b effective 60 equal area steel six inch
+
+271
+00:31:19,220 --> 00:31:28,940
+time if yield 60,000. The only unknown in this equation is the value of A. So 0.85
+
+272
+00:31:30,000 --> 00:31:40,720
+time times 60 divides 6 times. It will be 0.567 inch.
+
+273
+00:31:43,140 --> 00:31:53,880
+one more time 0.85 times 4000 times 60 oh no no i have something different sorry
+
+274
+00:31:56,710 --> 00:32:07,540
+no no no it's wrong this value is wrong this value equal 1.76 inch i'm sorry
+
+275
+00:32:10,340 --> 00:32:12,820
+I have to make a check.
+
+276
+00:32:14,960 --> 00:32:15,340
+Check what?
+
+277
+00:32:17,540 --> 00:32:24,980
+I assumed the neutral axis falls inside this flange.
+
+278
+00:32:26,460 --> 00:32:34,640
+And this depth of the stress block A must be smaller than the thickness of the flange.
+
+279
+00:32:35,160 --> 00:32:42,160
+So make sure this A is smaller than H-flange, which is 4-inch in our case.
+
+280
+00:32:43,040 --> 00:32:50,540
+Yes. Okay, keep going. Nominal moment equal.
+
+281
+00:32:54,040 --> 00:32:58,100
+Before nominal moment, anybody can tell me what is the value of C?
+
+282
+00:32:59,780 --> 00:33:06,520
+Do you remember we have a value of C, which is the actual depth of neutral axis equal beta 1 time A.
+
+283
+00:33:08,990 --> 00:33:13,540
+Do you remember how can we figure out the value of beta 1? Yeah, we have a table.
+
+284
+00:33:15,120 --> 00:33:24,840
+If prime C equal 4000, so beta 1 will be 0.85. So we have C equal 0.85.
+
+285
+00:33:26,180 --> 00:33:34,960
+I'm sorry guys, I'm sorry, I'm so sorry. A equal beta 1 times c, I'm so sorry. So
+
+286
+00:33:38,980 --> 00:33:52,499
+c will be a divide 0.85 will be 2.1 inch. Anyway, what is the value of nominal moment equal area
+
+287
+00:33:52,500 --> 00:34:03,640
+Steel F yield time D minus a divide to area steel six inches square F yield 60,000 depth.
+
+288
+00:34:04,990 --> 00:34:12,860
+What is the value of depth is given 24 depth for the center line of the stereo enforcement
+
+289
+00:34:12,980 --> 00:34:32,360
+24 minus a 1.76 divided 2. Your final value of mn will be 6 times 60,000 times 24 minus
+
+290
+00:34:32,500 --> 00:34:49,460
+1.76 divided by 2. This one will be 8 3 2 3.2 K. If you divide it by 12, it will be
+
+291
+00:34:49,500 --> 00:35:06,380
+6993.6, but we are looking for design moment. Design moment will be
+
+292
+00:35:06,500 --> 00:35:12,120
+Faye mn. Do you remember how can we figure out the value of Faye?
+
+293
+00:35:15,520 --> 00:35:21,340
+Value of Faye. We have strain distribution,
+
+294
+00:35:24,380 --> 00:35:33,339
+epsilon steel, epsilon concrete equal point OO3. This neutral axis at depth
+
+295
+00:35:33,340 --> 00:35:50,880
+equal c, small c, 2.1. So the remaining distance will be d minus c equal 24 minus 2.1 will be
+
+296
+00:35:50,960 --> 00:36:00,420
+21.9. Can you do triangle similarity between this triangle and this triangle? Yes, I can
+
+297
+00:36:00,420 --> 00:36:10,440
+0.003 divide epsilon tension equal this value 2.1 divide this value 21.9.
+
+298
+00:36:10,500 --> 00:36:14,360
+So I can figure out the value of epsilon t it will be
+
+299
+00:36:21,160 --> 00:36:23,080
+0.031.
+
+300
+00:36:32,720 --> 00:36:40,880
+Yes, so this value greater than 0.005 so Phae will be 0.9.
+
+301
+00:36:44,300 --> 00:36:56,640
+Your design moment, fA, mN, will be 0.9 times mN, 6, 9, 3, 0.6.
+
+302
+00:36:57,780 --> 00:37:07,020
+final answer will be 0.9 times 693.6 will be 624.2 keb foot.
+
+303
+00:37:11,740 --> 00:37:15,940
+Guys, I told you before we are talking about long story.
+
+304
+00:37:18,280 --> 00:37:26,420
+In a different meeting probably last week as I remember we learned how to get the design moment
+
+305
+00:37:27,460 --> 00:37:34,320
+by multiplying it by phi. And we learned how to figure out the value of phi based on the strain
+
+306
+00:37:34,660 --> 00:37:40,480
+in the stereo enforcement. How can we calculate the strain in stereo enforcement using strain
+
+307
+00:37:40,680 --> 00:37:50,220
+distribution by triangle similarities? Based on the value of epsilon tension in steel, I can figure
+
+308
+00:37:50,220 --> 00:37:54,840
+out the value of fail, then I can figure out the value of design moment.
+
+309
+00:37:57,420 --> 00:38:06,520
+The only thing we added today, we need to calculate the B effective, the effective width
+
+310
+00:38:06,980 --> 00:38:12,960
+of flange, which is working with this width. So we have a width, we have a flange,
+
+311
+00:38:14,260 --> 00:38:19,020
+this flange has effective width. It's not given, we need to figure it out.
+
+312
+00:38:20,060 --> 00:38:23,160
+Once you get it, go ahead and do your calculation as normal.
+
+313
+00:38:23,720 --> 00:38:27,060
+But be careful, capital C, which is a compressive force
+
+314
+00:38:27,280 --> 00:38:30,400
+in concrete, I'm going to use the B effective
+
+315
+00:38:30,900 --> 00:38:36,280
+rather than the normal or typical B, which is the whip width.
+
+316
+00:38:38,660 --> 00:38:41,640
+And keep going to finally figure out
+
+317
+00:38:41,670 --> 00:38:44,440
+the value of the design moment.
+
+318
+00:38:49,220 --> 00:38:55,400
+No, we will not use a table because this table or these tables only for rectangular section.
+
+319
+00:38:58,080 --> 00:39:02,980
+I'm sorry, Omiri, you have to use the first principle.
+
+320
+00:39:05,740 --> 00:39:13,640
+Even if area steel is not given. Okay. These tables only for rectangular section.
+
+321
+00:39:14,100 --> 00:39:21,060
+if you are talking with something different, we are using the first principle. Also,
+
+322
+00:39:21,440 --> 00:39:28,660
+area steel here is given, so we are looking for M design moment, so we have to use the first principle.
+
+323
+00:39:32,860 --> 00:39:33,080
+Okay.
+
+324
+00:39:38,580 --> 00:39:44,460
+Any question? I'm going to stop here. We still have one more.
+
+325
+00:39:46,900 --> 00:39:50,680
+Bart, this one, and one more example.
+
+326
+00:39:51,380 --> 00:39:52,820
+[BLANK_AUDIO]
+

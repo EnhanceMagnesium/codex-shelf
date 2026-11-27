@@ -1,0 +1,1796 @@
+1
+00:00:01,359 --> 00:00:02,200
+(sizzling)
+
+2
+00:00:02,780 --> 00:00:06,040
+Concrete design is a little bit different
+
+3
+00:00:06,260 --> 00:00:09,100
+than the first course,
+
+4
+00:00:09,220 --> 00:00:11,360
+Structural Analysis or Engineering Mechanics.
+
+5
+00:00:12,800 --> 00:00:15,839
+This course is a long story.
+
+6
+00:00:22,279 --> 00:00:23,000
+Long story.
+
+7
+00:00:24,560 --> 00:00:25,700
+What you mean by long story?
+
+8
+00:00:26,760 --> 00:00:34,280
+I means each part is built based on the previous part.
+
+9
+00:00:37,880 --> 00:00:40,580
+I know we have different topics in this course,
+
+10
+00:00:40,720 --> 00:00:46,380
+but each topic is built on the previous one.
+
+11
+00:00:47,760 --> 00:00:49,500
+So for example, until this moment,
+
+12
+00:00:49,700 --> 00:00:52,540
+because you're still asking for something,
+
+13
+00:00:52,900 --> 00:00:54,360
+you can't figure it out.
+
+14
+00:00:55,360 --> 00:00:59,860
+Many students ask me about what is the value of N.
+
+15
+00:01:03,300 --> 00:01:06,580
+N is E steel divide E concrete.
+
+16
+00:01:07,820 --> 00:01:11,480
+E steel, it's not given, you have to remember it.
+
+17
+00:01:12,720 --> 00:01:16,320
+29 million PSI.
+
+18
+00:01:18,280 --> 00:01:20,180
+E concrete is not given, okay?
+
+19
+00:01:21,000 --> 00:01:23,440
+But probably F prime C is given.
+
+20
+00:01:26,060 --> 00:01:33,000
+So I can figure out e concrete equal 75,000 square root of f prime c.
+
+21
+00:01:34,920 --> 00:01:37,400
+Okay, f prime c is not given.
+
+22
+00:01:39,560 --> 00:01:42,100
+In the problem, okay, go ahead and assume it.
+
+23
+00:01:44,760 --> 00:01:55,840
+How can I assume f'c is a common, the typical values for f'c in your design from 3000 PSI
+
+24
+00:01:56,180 --> 00:02:07,020
+to 5000 PSI something in between 3000, 3500, 4000, 4500, 5000 that's fine.
+
+25
+00:02:08,119 --> 00:02:14,680
+You know, so I'm telling you along the story, so you need to remember all these bars.
+
+26
+00:02:16,020 --> 00:02:23,700
+So when you are going through this course, okay, so please, I bought at the beginning of each
+
+27
+00:02:23,880 --> 00:02:32,720
+homework, assume any missing data. So you can assume what you want. As I told Brock, in this course,
+
+28
+00:02:33,000 --> 00:02:41,300
+you will assume something from nothing. You don't have an existing building, you will create this
+
+29
+00:02:41,400 --> 00:02:49,760
+building. So we will assume and based on your assumption, we will design and also be careful,
+
+30
+00:02:49,980 --> 00:02:57,559
+your assumption must be more realistic. So don't assume f prime c equals 10. What does it mean
+
+31
+00:02:57,560 --> 00:03:08,540
+of 10. Don't assume f'c equal 1 million. No, no, no, you are kidding me. f'c is a typical
+
+32
+00:03:08,720 --> 00:03:17,980
+values. If you go back to our previous examples, f'c is something between 3000 and 5000. If you go
+
+33
+00:03:18,660 --> 00:03:26,440
+below 3000, you are talking about very weak concrete. If you go over 5000, 6, 7, 8,000, 10,000,
+
+34
+00:03:26,600 --> 00:03:33,760
+it's okay but it's a different concrete called high strength concrete. No the typical or the
+
+35
+00:03:33,800 --> 00:03:42,600
+normal or the common concrete used in design the F-brine C between 3000 and 5000. So from F-brine C
+
+36
+00:03:43,500 --> 00:03:50,439
+I can figure out E-concrete from E-concrete and E-steel I can figure out their uh moderate ratio N
+
+37
+00:03:52,280 --> 00:03:57,040
+Okay, so all of these stuff, put them in your mind.
+
+38
+00:04:01,540 --> 00:04:03,720
+Any question guys? Any question?
+
+39
+00:04:07,480 --> 00:04:14,240
+Any question? Okay, we have very interesting story this week.
+
+40
+00:04:16,120 --> 00:04:26,500
+just to remind you in this week we will learn what is what's going on in ACI.
+
+41
+00:04:28,300 --> 00:04:35,440
+Everything related to concrete design is included in something called American
+
+42
+00:04:35,960 --> 00:04:49,480
+concrete in-stitute standard. ACI 318, probably the version right now for 2018.
+
+43
+00:04:51,970 --> 00:05:01,480
+If you have a chance to look to this standard, that will be great. If you have a chance to buy it,
+
+44
+00:05:02,280 --> 00:05:10,980
+it will be a great chance. If you don't, I will provide you with everything. Don't worry.
+
+45
+00:05:11,170 --> 00:05:19,500
+Okay? So everything related to concrete design is included. It's not my method, it's not my
+
+46
+00:05:20,320 --> 00:05:24,280
+suggestion. No, it's American concrete institute standard.
+
+47
+00:05:27,960 --> 00:05:35,600
+We have first case in design. What is the first case in your design?
+
+48
+00:05:37,580 --> 00:05:47,420
+We have cross section is given. And the next week I think I will let you know how can I assume
+
+49
+00:05:47,880 --> 00:06:01,820
+this cross-section, B and T. How can I assume this? What is the value of B? How much? How can I figure out the T?
+
+50
+00:06:02,060 --> 00:06:10,700
+We have many things to learn about these dimensions next week. Okay, by the way, but the cross-section is given.
+
+51
+00:06:13,000 --> 00:06:17,600
+And the steering reinforcement, how much steering reinforcement is given also.
+
+52
+00:06:19,220 --> 00:06:25,960
+Nickest time on Friday, I will let you know how can I get the reinforcement, but step by step,
+
+53
+00:06:26,560 --> 00:06:32,560
+we are starting from the beginning. So right now we have a given cross-section, everything is given.
+
+54
+00:06:33,820 --> 00:06:39,860
+Can you tell me how much bending moment this cross-section can support?
+
+55
+00:06:41,800 --> 00:06:48,280
+I'm sorry. What do you mean by bending moment? I will let you know what is the end of our story.
+
+56
+00:06:49,820 --> 00:06:50,740
+End of a story.
+
+57
+00:06:55,020 --> 00:07:03,640
+We learned from structural analysis last semester something called bending moment diagram.
+
+58
+00:07:05,400 --> 00:07:14,220
+We have a beam, we have external forces, we learned how to draw bending moment diagram. Do you remember?
+
+59
+00:07:17,040 --> 00:07:20,980
+Bending moment diagram from structural analysis.
+
+60
+00:07:23,400 --> 00:07:36,320
+Today we have beam looks like this real beam and this beam has stereo enforcement.
+
+61
+00:07:39,460 --> 00:07:50,480
+Can you tell me how much bending moment this beam can support called the Fey MN design moment?
+
+62
+00:07:54,760 --> 00:07:59,840
+If you can figure out the design moment of this cross-section with this
+
+63
+00:07:59,940 --> 00:08:07,860
+stereo enforcement, I will do a very small comparison. What is the value of
+
+64
+00:08:07,940 --> 00:08:15,940
+moment here and what is the value of moment here for this beam to be safe,
+
+65
+00:08:15,940 --> 00:08:28,040
+If for this beam to be good for this case, this moment must equal greater than or equal
+
+66
+00:08:28,600 --> 00:08:29,120
+this moment.
+
+67
+00:08:33,930 --> 00:08:35,560
+This is the end of our story.
+
+68
+00:08:38,140 --> 00:08:42,560
+This site from structure analysis, we have a beam, we have given loops.
+
+69
+00:08:43,900 --> 00:08:46,640
+I can draw something called bending moment diagram.
+
+70
+00:08:46,900 --> 00:08:50,280
+This moment can be called M-ultimate, ultimate moment
+
+71
+00:08:52,400 --> 00:08:53,280
+from structure analysis.
+
+72
+00:08:54,900 --> 00:08:57,280
+From concrete design, we have cross-section,
+
+73
+00:08:58,160 --> 00:08:59,060
+we have reinforcement,
+
+74
+00:08:59,860 --> 00:09:02,400
+and I will do some calculation to figure out
+
+75
+00:09:03,480 --> 00:09:07,460
+how much moment this beam or this cross-section
+
+76
+00:09:07,580 --> 00:09:09,660
+with this stereo enforcement can support,
+
+77
+00:09:10,320 --> 00:09:12,600
+which called FAYMN.
+
+78
+00:09:14,780 --> 00:09:19,260
+For this beam to be safe, for this beam to be enough,
+
+79
+00:09:20,180 --> 00:09:25,560
+for this case, this moment must be greater than
+
+80
+00:09:25,740 --> 00:09:28,540
+or equal the actual moment on the beam.
+
+81
+00:09:29,980 --> 00:09:31,400
+Any question in this point?
+
+82
+00:09:34,700 --> 00:09:35,960
+Any question in this point?
+
+83
+00:09:36,480 --> 00:09:37,820
+This is the end of our story.
+
+84
+00:09:40,460 --> 00:09:40,960
+You got it?
+
+85
+00:09:44,820 --> 00:09:45,920
+Guys, you got it.
+
+86
+00:09:47,500 --> 00:09:50,620
+This is a relationship between this course, concrete design,
+
+87
+00:09:50,840 --> 00:09:53,040
+and our previous course, structure analysis.
+
+88
+00:09:54,080 --> 00:09:56,240
+From structure analysis, we have a moment,
+
+89
+00:09:57,460 --> 00:09:58,440
+D2 give a loot.
+
+90
+00:10:01,880 --> 00:10:04,000
+In our concrete design, we have a moment
+
+91
+00:10:06,100 --> 00:10:09,260
+can be supported by this cross-section
+
+92
+00:10:09,260 --> 00:10:10,720
+And this is still reinforcement.
+
+93
+00:10:12,880 --> 00:10:15,020
+We need to make a comparison between this moment
+
+94
+00:10:15,200 --> 00:10:16,980
+and this moment to be safe.
+
+95
+00:10:17,220 --> 00:10:18,400
+This beam to be safe.
+
+96
+00:10:18,520 --> 00:10:20,200
+This is still reinforcement to be enough.
+
+97
+00:10:21,120 --> 00:10:25,160
+This moment from design must be equal or greater
+
+98
+00:10:25,320 --> 00:10:28,960
+than this moment from the given or the applied load
+
+99
+00:10:29,100 --> 00:10:29,680
+on the structure.
+
+100
+00:10:32,640 --> 00:10:32,880
+OK.
+
+101
+00:10:34,560 --> 00:10:34,780
+OK.
+
+102
+00:10:36,980 --> 00:10:45,600
+I would like to understand we have a cross-section given everything is given dimensions and the
+
+103
+00:10:45,660 --> 00:10:53,980
+steering enforcement we need to figure out how much moment this beam can support we learned a
+
+104
+00:10:53,980 --> 00:11:03,060
+little bit last time just to remind you we have a cross-section this story is very important
+
+105
+00:11:03,060 --> 00:11:10,160
+this part of the story. We have a cross section. We have a stereo enforcement.
+
+106
+00:11:14,280 --> 00:11:20,140
+Between one side and the other side, we have something called neutral axis.
+
+107
+00:11:22,720 --> 00:11:31,340
+This neutral axis at a depth equal C. On the upper board, we have compression.
+
+108
+00:11:34,160 --> 00:11:43,820
+Looks like this, but this compression block did not reach the neutral axis a little bit
+
+109
+00:11:43,860 --> 00:11:53,540
+behind this depth equal a. We have a relationship between a and c. C is the actual depth of
+
+110
+00:11:53,540 --> 00:12:01,360
+the neutral axis from the top. A is the depth of the stress block from the top. So a equal
+
+111
+00:12:01,360 --> 00:12:03,280
+beta one times C.
+
+112
+00:12:05,040 --> 00:12:08,120
+And guys, you have to remember this part of the story.
+
+113
+00:12:09,220 --> 00:12:10,460
+What is the value of C?
+
+114
+00:12:10,720 --> 00:12:11,140
+Do you remember?
+
+115
+00:12:12,940 --> 00:12:15,340
+What is the value, I'm sorry, what is the value of beta one?
+
+116
+00:12:17,100 --> 00:12:17,800
+Anybody remember?
+
+117
+00:12:18,780 --> 00:12:23,520
+We have a table based on what is the value of F prime C?
+
+118
+00:12:23,920 --> 00:12:26,500
+I can figure out the value of beta one.
+
+119
+00:12:27,140 --> 00:12:30,520
+Sometimes 0.85, 0.8, 0.75, 0.65,
+
+120
+00:12:30,800 --> 00:12:38,900
+something like this. So you have to remember this stuff from before. This value of stress
+
+121
+00:12:39,080 --> 00:12:48,780
+equal 0.85 f prime c and this width of the cross section is b. So if you are looking
+
+122
+00:12:49,000 --> 00:12:58,399
+for the equivalent to compression force in concrete capital C, this capital C equal the
+
+123
+00:12:58,400 --> 00:13:09,160
+volume of this stress block 0.85 f prime c a b. And also we have tensile force capital
+
+124
+00:13:09,480 --> 00:13:19,780
+T in stereo enforcement. This capital T equal area steel time f yield. For acrobium, this cross
+
+125
+00:13:19,840 --> 00:13:28,040
+section is in equilibrium. So capital C equal capital T. So point eight five F prime C AB
+
+126
+00:13:28,780 --> 00:13:36,180
+equal area steel F yield. Everything is given except A. So I can figure out the value of A.
+
+127
+00:13:39,740 --> 00:13:47,919
+I can figure out the value of A. The distance between this force and this force equal D
+
+128
+00:13:48,720 --> 00:13:50,320
+minus a divided by two.
+
+129
+00:13:53,340 --> 00:13:57,280
+So your final moment, mn,
+
+130
+00:13:57,620 --> 00:14:01,700
+which called nominal moment.
+
+131
+00:14:05,100 --> 00:14:10,340
+Equal area steel, F yield time d minus a divided by two.
+
+132
+00:14:10,440 --> 00:14:11,860
+We cover all of this stuff before.
+
+133
+00:14:12,100 --> 00:14:13,280
+That's fine, that's right.
+
+134
+00:14:14,840 --> 00:14:17,680
+So nominal moment, which called mn,
+
+135
+00:14:18,680 --> 00:14:22,800
+Equal area steel F yield times D minus 8 divided by 2.
+
+136
+00:14:23,380 --> 00:14:28,399
+And all of these stuff are summarized here from acrobium.
+
+137
+00:14:30,800 --> 00:14:32,780
+I can figure out the depth A.
+
+138
+00:14:34,360 --> 00:14:36,280
+So your moment, this moment,
+
+139
+00:14:36,820 --> 00:14:45,120
+MN can be called nominal moment or theoretical moment.
+
+140
+00:14:46,880 --> 00:14:50,860
+equal area steel FeL prime D minus E divided by 2.
+
+141
+00:14:51,880 --> 00:14:56,520
+But we are looking for something called design moment.
+
+142
+00:15:00,240 --> 00:15:04,620
+Design moment, we need to multiply this value
+
+143
+00:15:05,340 --> 00:15:07,760
+by another value called phase.
+
+144
+00:15:10,780 --> 00:15:16,080
+Reduction factor for factor of safety, more safety.
+
+145
+00:15:16,080 --> 00:15:24,240
+You are talking about lives. You are talking about lives of people. So we need to take factor of safety.
+
+146
+00:15:25,080 --> 00:15:29,740
+Theoretically, based on your calculation, there is a nominal moment.
+
+147
+00:15:31,100 --> 00:15:37,560
+But we need to take a little bit of factor of safety, so we need to multiply this value by a reduction factor called "fade".
+
+148
+00:15:38,080 --> 00:15:47,680
+To get that design moment then I will do a comparison between moment from structure analysis and our moment from design
+
+149
+00:15:57,580 --> 00:15:58,920
+Any question
+
+150
+00:16:05,040 --> 00:16:10,480
+Guys, I have something wrong with my laptop, so I will make a start.
+
+151
+00:16:10,660 --> 00:16:15,060
+So staying and I will be back in few minutes.
+
+152
+00:16:15,320 --> 00:16:16,640
+[BLANK_AUDIO]
+
+153
+00:16:45,320 --> 00:16:47,520
+[BLANK_AUDIO]
+
+154
+00:17:15,319 --> 00:17:17,520
+[BLANK_AUDIO]
+
+155
+00:17:45,320 --> 00:17:47,520
+[BLANK_AUDIO]
+
+156
+00:18:15,320 --> 00:18:17,520
+[BLANK_AUDIO]
+
+157
+00:19:05,600 --> 00:19:08,400
+[BLANK_AUDIO]
+
+158
+00:19:10,320 --> 00:19:12,360
+for this interruption.
+
+159
+00:19:14,460 --> 00:19:16,260
+If there a reason why the compression block
+
+160
+00:19:16,360 --> 00:19:21,020
+does not go all the way to the neutral axis, yes, yes.
+
+161
+00:19:22,020 --> 00:19:24,240
+I think it has something to do with changing
+
+162
+00:19:24,460 --> 00:19:26,060
+the slope of the distribution.
+
+163
+00:19:32,140 --> 00:19:33,860
+It's asking Roberto.
+
+164
+00:19:34,810 --> 00:19:38,980
+Do you remember last week, I think,
+
+165
+00:19:39,440 --> 00:19:44,500
+I told you we have three stages of concrete.
+
+166
+00:19:45,090 --> 00:19:47,100
+The first one, N-clicked.
+
+167
+00:19:49,840 --> 00:19:52,000
+The first one, cracked.
+
+168
+00:19:54,700 --> 00:19:57,980
+The third one, ultimate stage.
+
+169
+00:19:58,250 --> 00:19:58,800
+Do you remember?
+
+170
+00:19:59,600 --> 00:20:03,100
+If you go back to notes for last week,
+
+171
+00:20:05,920 --> 00:20:08,220
+we have neutral axis for ultimate.
+
+172
+00:20:08,540 --> 00:20:09,760
+I'm talking about the stage.
+
+173
+00:20:10,480 --> 00:20:13,940
+The actual stress distribution of concrete,
+
+174
+00:20:14,300 --> 00:20:15,620
+something looks like this.
+
+175
+00:20:18,060 --> 00:20:19,780
+And I told you at that time,
+
+176
+00:20:20,840 --> 00:20:22,880
+we have some difficulty
+
+177
+00:20:24,560 --> 00:20:28,820
+to work with this parabola of stress distribution.
+
+178
+00:20:29,700 --> 00:20:33,600
+So we need to make equivalent for this parabola
+
+179
+00:20:34,400 --> 00:20:35,880
+to make it something like this.
+
+180
+00:20:36,500 --> 00:20:42,400
+This stress block is equivalent to this shape
+
+181
+00:20:42,540 --> 00:20:43,560
+of stress distribution.
+
+182
+00:20:44,780 --> 00:20:48,000
+To make this block constant with a constant value,
+
+183
+00:20:48,030 --> 00:20:54,320
+0.85, f prime c, to make it equivalent to this distribution
+
+184
+00:20:54,600 --> 00:20:58,700
+of stress, we need to make it shorter at distance a,
+
+185
+00:20:58,920 --> 00:21:01,120
+however this one at distance c.
+
+186
+00:21:02,460 --> 00:21:10,200
+So this block as an area equivalent to this parabola as an area.
+
+187
+00:21:11,820 --> 00:21:17,460
+This is the reason, the main reason why we make it shorter a little bit.
+
+188
+00:21:20,340 --> 00:21:20,580
+Okay.
+
+189
+00:21:28,180 --> 00:21:28,420
+Okay.
+
+190
+00:21:33,240 --> 00:21:46,060
+Let me content. So, okay, I understand all of this stuff. And one of the problem in our homework, how to calculate MN, nominal moment.
+
+191
+00:21:46,670 --> 00:21:54,680
+So, can you tell me more about Faye, the reduction factor? How can I multiply this moment by Faye?
+
+192
+00:21:56,220 --> 00:22:02,980
+Okay, Fe, you can figure out the value of Fe using this table.
+
+193
+00:22:06,240 --> 00:22:08,120
+Sometimes Fe equal 0.65,
+
+194
+00:22:09,120 --> 00:22:10,620
+sometimes equal 0.9,
+
+195
+00:22:11,140 --> 00:22:17,280
+sometimes something different based on what is the strain in stereo enforcement.
+
+196
+00:22:18,680 --> 00:22:22,300
+I'm sorry, how can I figure out the strain in stereo enforcement?
+
+197
+00:22:24,080 --> 00:22:28,480
+The cross section, as I told you, the cross section has something called neutral axis.
+
+198
+00:22:29,960 --> 00:22:32,340
+This neutral axis at depth C.
+
+199
+00:22:34,040 --> 00:22:35,700
+Remember from the first step,
+
+200
+00:22:36,240 --> 00:22:38,540
+you are able to calculate A.
+
+201
+00:22:39,020 --> 00:22:46,400
+That means you will be able to calculate C because A equal beta 1 times C.
+
+202
+00:22:46,760 --> 00:22:50,700
+That's right. So A, I can get it.
+
+203
+00:22:51,800 --> 00:22:56,440
+Beta 1 based on the table based on f prime c.
+
+204
+00:22:57,840 --> 00:22:59,860
+I can figure out the value of c,
+
+205
+00:23:00,140 --> 00:23:03,100
+which is the actual depth of the neutral axis.
+
+206
+00:23:03,540 --> 00:23:06,920
+Right now, this depth, I can figure it out.
+
+207
+00:23:08,040 --> 00:23:10,820
+We have something called strain distribution.
+
+208
+00:23:12,560 --> 00:23:17,960
+We have contraction in concrete and we have elongation in steel.
+
+209
+00:23:18,560 --> 00:23:20,780
+If you connect between both of them,
+
+210
+00:23:20,900 --> 00:23:23,100
+you have to bear through the neutral axis.
+
+211
+00:23:23,560 --> 00:23:26,140
+Neutral axis means we don't have contraction,
+
+212
+00:23:26,300 --> 00:23:28,320
+we don't have elongation, we don't have anything.
+
+213
+00:23:28,860 --> 00:23:29,900
+Stress is equal to zero.
+
+214
+00:23:31,440 --> 00:23:37,360
+Based on ACI strain in concrete at alternate stage is known.
+
+215
+00:23:38,100 --> 00:23:40,820
+0.003.
+
+216
+00:23:45,540 --> 00:23:47,740
+Can I tell you a good story also?
+
+217
+00:23:48,400 --> 00:23:50,000
+Okay, let me tell you this.
+
+218
+00:23:50,380 --> 00:23:59,320
+If you go back to our old story, we have concrete slenders filled with concrete,
+
+219
+00:24:01,280 --> 00:24:08,840
+waited for 28 days, and applied compression force on their concrete slenders.
+
+220
+00:24:10,060 --> 00:24:14,420
+And we can record the relationship between strain and distress.
+
+221
+00:24:15,960 --> 00:24:17,480
+Do you remember this story?
+
+222
+00:24:17,980 --> 00:24:22,120
+We can draw this relationship to be something like this,
+
+223
+00:24:23,020 --> 00:24:26,060
+which is called stress-strain care for concrete.
+
+224
+00:24:27,360 --> 00:24:28,820
+Do you remember this value?
+
+225
+00:24:29,380 --> 00:24:32,720
+The highest value can be called f-brine c.
+
+226
+00:24:34,140 --> 00:24:35,840
+To continue this story,
+
+227
+00:24:36,800 --> 00:24:40,320
+the corresponding strain for this stress,
+
+228
+00:24:41,800 --> 00:24:49,100
+Equal epsilon concrete ultimate, which is 0.003 all the time.
+
+229
+00:24:49,520 --> 00:24:51,120
+Something around this value.
+
+230
+00:24:51,430 --> 00:24:59,580
+So, if I decided to take ultimate strain and concrete equal 0.003.
+
+231
+00:25:03,820 --> 00:25:08,560
+Guys, all of this stuff you have to be familiar with, all of this stuff.
+
+232
+00:25:10,780 --> 00:25:15,280
+Okay, so this value of strain.
+
+233
+00:25:17,220 --> 00:25:25,020
+I have to figure it out. It's all the time based on ACI 0.003.
+
+234
+00:25:26,800 --> 00:25:29,300
+And you see, I can get it.
+
+235
+00:25:30,580 --> 00:25:35,820
+Can you tell me what is the value of strain in the sterium forcement?
+
+236
+00:25:36,740 --> 00:25:42,220
+We have at this location, stereo, stereo enforcement. So can you tell me what is the value of string here?
+
+237
+00:25:43,240 --> 00:25:48,280
+Yeah, I can do something called triangle similarity between this triangle
+
+238
+00:25:49,880 --> 00:25:58,900
+and this triangle. I can figure out this value of distance equal d minus c.
+
+239
+00:26:00,260 --> 00:26:06,880
+Do you remember? D, the distance between the stereo enforcement and the top of the cross section.
+
+240
+00:26:07,860 --> 00:26:14,800
+C is the distance between the top to the neutral axis. That means the remaining distance will be
+
+241
+00:26:15,150 --> 00:26:23,160
+D minus C. If you make a triangle similarity, I can figure out the value of strain in stereo
+
+242
+00:26:23,220 --> 00:26:32,260
+enforcement. If this value smaller than yielding the value of steel, we can use
+
+243
+00:26:32,390 --> 00:26:40,400
+0.65 for faith. If this value greater than or equal 0.005, we will use 0.9. If this
+
+244
+00:26:40,520 --> 00:26:46,640
+value between yielding and 0.05, we can set up this equation and figure out the
+
+245
+00:26:46,680 --> 00:26:47,760
+value of faith.
+
+246
+00:27:01,459 --> 00:27:04,860
+Okay, another story, another story.
+
+247
+00:27:06,540 --> 00:27:11,360
+We have steel rebar, under tension.
+
+248
+00:27:12,550 --> 00:27:15,860
+So I can record the value of force
+
+249
+00:27:16,260 --> 00:27:17,740
+and the value of elongation.
+
+250
+00:27:18,060 --> 00:27:22,220
+So I can figure out a relationship between strain and the stress.
+
+251
+00:27:23,080 --> 00:27:26,840
+Typically, this relationship looks like something like this.
+
+252
+00:27:28,680 --> 00:27:30,720
+Proceal, reinforcement.
+
+253
+00:27:31,980 --> 00:27:37,060
+At this location, we have something called F yield, yielding.
+
+254
+00:27:38,740 --> 00:27:43,520
+At this location, we have something called epsilon yield,
+
+255
+00:27:44,540 --> 00:27:47,160
+yielding of stress, yielding, I'm sorry,
+
+256
+00:27:47,260 --> 00:27:49,120
+yielding of steel.
+
+257
+00:27:52,120 --> 00:27:54,540
+And everybody know that
+
+258
+00:27:56,140 --> 00:28:01,139
+E youngest modulus of a steel equal F yield
+
+259
+00:28:02,900 --> 00:28:05,640
+divide epsilon yield.
+
+260
+00:28:08,760 --> 00:28:15,340
+So epsilon steel 29 million, PSI.
+
+261
+00:28:16,540 --> 00:28:20,220
+If yield will be given, what type of stereo enforcement
+
+262
+00:28:20,300 --> 00:28:21,040
+you are using?
+
+263
+00:28:21,580 --> 00:28:25,900
+Probably this value 50, 60, or 40.
+
+264
+00:28:26,360 --> 00:28:28,560
+Only three values, something like this.
+
+265
+00:28:28,860 --> 00:28:31,260
+40, 50, 60, case I.
+
+266
+00:28:33,100 --> 00:28:36,420
+So I can figure out the value of epsilon yield,
+
+267
+00:28:36,780 --> 00:28:38,900
+yielding strain of stereo enforcement.
+
+268
+00:28:40,160 --> 00:28:42,540
+So I can figure out the yielding strain.
+
+269
+00:28:43,220 --> 00:28:43,560
+Why?
+
+270
+00:28:44,300 --> 00:28:47,740
+because I need to know what is the relationship between
+
+271
+00:28:48,000 --> 00:28:49,980
+epsilon steel in my problem
+
+272
+00:28:51,040 --> 00:28:53,180
+that I calculated from triangle similarity
+
+273
+00:28:54,340 --> 00:28:58,480
+and the yielding strain to figure out the value of phi
+
+274
+00:28:58,860 --> 00:29:02,180
+which is a reduction factor of our design.
+
+275
+00:29:04,120 --> 00:29:05,960
+I will go through all of this stuff
+
+276
+00:29:06,700 --> 00:29:10,380
+by doing this example.
+
+277
+00:29:14,820 --> 00:29:22,480
+We have cross section and I believe you learn it all of this stuff during the homework.
+
+278
+00:29:22,910 --> 00:29:27,200
+This problem looks like one in your homework, but the only difference is fake.
+
+279
+00:29:28,180 --> 00:29:35,100
+According to ACI 318, we are looking for design moment trends.
+
+280
+00:29:36,760 --> 00:29:43,640
+Design means you have to multiply your nominal moment capital Mn time fake.
+
+281
+00:29:44,480 --> 00:29:54,680
+For the beam cross section F prime C equal 4 KSI, F yield equals 60 KSI,
+
+282
+00:29:55,320 --> 00:29:59,180
+and the area steel is given for number 10 bars.
+
+283
+00:30:01,480 --> 00:30:05,320
+Okay, anybody can remind me what is the actual value of area steel?
+
+284
+00:30:07,280 --> 00:30:11,020
+Yeah, it's 4, number 10. Okay, what is the value in inches square?
+
+285
+00:30:12,180 --> 00:30:15,260
+What is the value? 4 times what?
+
+286
+00:30:16,340 --> 00:30:22,760
+I need to open my tables and figure out number 10. Where is number 10? Here you go.
+
+287
+00:30:23,660 --> 00:30:24,220
+Number 10.
+
+288
+00:30:26,960 --> 00:30:32,120
+What is the area of this cross section of number 10, 1.27.
+
+289
+00:30:33,840 --> 00:30:47,900
+So 4 times 1.27, so I can figure out the value of area steel equal 4 times 1.27, 5.08 inches square.
+
+290
+00:30:51,780 --> 00:30:59,020
+I would like to remember my calculation with a story. So I have a story, we have neutral axis.
+
+291
+00:31:00,400 --> 00:31:09,460
+I would like to solve my problem like this. In this side we have compression. In this side we have tension.
+
+292
+00:31:12,140 --> 00:31:17,000
+If I would like to draw strain distribution, it will be looks like this.
+
+293
+00:31:17,760 --> 00:31:26,580
+Linear relationship. This is strain at this location called epsilon tension in steel.
+
+294
+00:31:27,660 --> 00:31:35,040
+Strain at this location equal epsilon concrete ultimate equal 0.003.
+
+295
+00:31:36,580 --> 00:31:48,020
+this neutral axis has a depth equal C. We have stress distribution but at the
+
+296
+00:31:48,020 --> 00:31:56,120
+upper part it's a constant stress distribution a little bit behind the
+
+297
+00:31:57,540 --> 00:32:11,280
+neutral axis with depth equal a and this value equal 0.85 f prime c. We have capital C here
+
+298
+00:32:11,980 --> 00:32:18,620
+which is the equivalent compression force for this stress block. We have tensile force here
+
+299
+00:32:18,660 --> 00:32:32,740
+capital T for acrobium capital C equal capital T. I like to calculate to do my
+
+300
+00:32:32,880 --> 00:32:38,440
+work like this. I need to draw strain distribution, it will be more easy to make
+
+301
+00:32:38,460 --> 00:32:44,980
+triangle similarity and I would like to draw stress distribution.
+
+302
+00:32:48,480 --> 00:32:54,120
+Please train yourself to draw all of this stuff. Capital C
+
+303
+00:32:56,580 --> 00:33:07,579
+is 0.85 F prime C A prime B equal capital T
+
+304
+00:33:07,580 --> 00:33:09,880
+area steel time f yield.
+
+305
+00:33:12,300 --> 00:33:21,000
+Guys remember and be careful. Units of f prime c must be the same like f yield.
+
+306
+00:33:23,220 --> 00:33:30,620
+If this one ksi, this one must be ksi. If this one psi, this one will be psi. So be careful.
+
+307
+00:33:31,100 --> 00:33:44,420
+So I will keep both of them KSI so 0.85 times 4 which is 4000 times A times B the width of
+
+308
+00:33:44,500 --> 00:33:55,680
+this cross section is given 12 equal area steel I can figure it out 5.08 times F yield which is
+
+309
+00:33:55,680 --> 00:34:20,700
+given 60. One more time, one more time. 60 in KSI. 4 in KSI. So be careful, both of them
+
+310
+00:34:20,720 --> 00:34:32,020
+must be the same. The only unknown in this equation is A. So 5.08 times 60
+
+311
+00:34:32,960 --> 00:34:41,980
+divide 0.85 times 4 times 12. This A equals 7.5 inch.
+
+312
+00:34:45,679 --> 00:34:52,679
+By the way, a equal beta 1 times c, a equals 7.5.
+
+313
+00:34:53,679 --> 00:34:56,440
+Anybody can tell me what is the value of beta 1?
+
+314
+00:35:00,100 --> 00:35:02,640
+Thank you, Bro. What is the value of beta 1?
+
+315
+00:35:07,920 --> 00:35:11,380
+If I open my old,
+
+316
+00:35:15,740 --> 00:35:16,500
+I think this one.
+
+317
+00:35:25,120 --> 00:35:27,340
+We have a table here.
+
+318
+00:35:34,720 --> 00:35:35,660
+Yes, this one.
+
+319
+00:35:37,560 --> 00:35:41,320
+This table, based on the value of F prime C,
+
+320
+00:35:42,520 --> 00:35:51,660
+I think your value is 4,000 or 4,000 in PSI, which is equivalent to 4KSI.
+
+321
+00:35:54,260 --> 00:36:00,780
+So, if f prime c is smaller than or equal 4,000, your beta equal 0.85.
+
+322
+00:36:04,400 --> 00:36:11,000
+So this value equal 0.85 times C.
+
+323
+00:36:11,760 --> 00:36:19,460
+I can figure out the value of C equal 0.8, 0.8 inch.
+
+324
+00:36:23,220 --> 00:36:31,700
+The nominal moment equal area steel time F yield
+
+325
+00:36:32,440 --> 00:36:37,320
+find d minus a divided 2.
+
+326
+00:36:39,520 --> 00:36:46,560
+Both your numbers area steel equal 5.08 f yield and be careful.
+
+327
+00:36:47,920 --> 00:36:49,480
+F yield is 60, it's okay.
+
+328
+00:36:50,760 --> 00:36:55,220
+60 is good, but it's kept very inch square,
+
+329
+00:36:55,440 --> 00:36:56,780
+kept remember it's in kept.
+
+330
+00:36:57,020 --> 00:37:01,140
+Okay, your depth is given 21.5.
+
+331
+00:37:02,740 --> 00:37:05,920
+The difference between 24 and 21.5,
+
+332
+00:37:06,060 --> 00:37:09,040
+24 is the total depth,
+
+333
+00:37:10,620 --> 00:37:13,860
+or the overall depth, or the overall thickness.
+
+334
+00:37:15,020 --> 00:37:17,760
+But D, which is 21.5,
+
+335
+00:37:17,880 --> 00:37:19,820
+is the distance between the stereo enforcement
+
+336
+00:37:20,160 --> 00:37:21,940
+and the top of the cross section.
+
+337
+00:37:22,820 --> 00:37:29,420
+So D is given 21.5 minus A, how much?
+
+338
+00:37:29,890 --> 00:37:33,200
+7.5 divided by 2.
+
+339
+00:37:34,950 --> 00:37:46,320
+I can figure out my value, 5.08 times 60 times 21.5 minus 7.5 divided by 2.
+
+340
+00:37:47,140 --> 00:37:54,000
+this value equal 5,410.2.
+
+341
+00:37:54,800 --> 00:37:55,940
+What is the unit?
+
+342
+00:37:57,140 --> 00:37:58,480
+Units are very important.
+
+343
+00:37:58,900 --> 00:37:59,720
+What are the units?
+
+344
+00:38:00,420 --> 00:38:02,480
+What is the unit for this moment?
+
+345
+00:38:05,740 --> 00:38:09,460
+Remember your stress was in Kibb, the inch square
+
+346
+00:38:09,600 --> 00:38:10,940
+and everything in inch.
+
+347
+00:38:11,380 --> 00:38:14,019
+So your final one will be Kibb,
+
+348
+00:38:15,820 --> 00:38:18,600
+dot inch or keep time inch.
+
+349
+00:38:19,720 --> 00:38:22,380
+I don't like inch in my moment.
+
+350
+00:38:22,380 --> 00:38:24,660
+So I will divide this number by 12.
+
+351
+00:38:25,600 --> 00:38:30,620
+Your final answer will be 450.85.
+
+352
+00:38:33,000 --> 00:38:35,700
+Keep, put.
+
+353
+00:38:40,400 --> 00:38:43,340
+But I'm looking for what is the design moment.
+
+354
+00:38:43,860 --> 00:38:45,720
+I'm not looking for what is the nominal moment.
+
+355
+00:38:45,880 --> 00:38:47,800
+I'm looking for what is the design moment.
+
+356
+00:38:48,640 --> 00:38:53,320
+So we need to multiply this value time phase.
+
+357
+00:38:54,920 --> 00:38:55,440
+Do you agree?
+
+358
+00:38:57,400 --> 00:39:01,020
+Do you agree if we multiply MN time phase,
+
+359
+00:39:01,760 --> 00:39:05,240
+the final answer can be called design moment.
+
+360
+00:39:14,120 --> 00:39:15,900
+No, no, no, not KSI.
+
+361
+00:39:16,620 --> 00:39:18,860
+The stresses was KSI.
+
+362
+00:39:19,540 --> 00:39:23,260
+So if you figure out the units, this one is inches square.
+
+363
+00:39:23,900 --> 00:39:26,200
+This one, a cube per inches square.
+
+364
+00:39:27,160 --> 00:39:28,660
+And this one in inch.
+
+365
+00:39:28,880 --> 00:39:31,960
+So your final unit will be cube inch.
+
+366
+00:39:33,260 --> 00:39:35,640
+I need to divide it by 12 to be careful.
+
+367
+00:39:37,100 --> 00:39:38,380
+So my step right now,
+
+368
+00:39:38,560 --> 00:39:41,360
+I need to figure out the value of faith.
+
+369
+00:39:42,560 --> 00:39:47,620
+Few moment ago, I told you we have another table.
+
+370
+00:39:50,840 --> 00:39:53,740
+We need to figure out which one I will use this value
+
+371
+00:39:54,240 --> 00:39:57,460
+or this value or something from this equation.
+
+372
+00:39:58,300 --> 00:40:00,020
+Based on what is the relationship
+
+373
+00:40:00,020 --> 00:40:05,020
+between strain in steel and yielding and 0.005.
+
+374
+00:40:10,040 --> 00:40:10,280
+Okay.
+
+375
+00:40:12,020 --> 00:40:16,160
+What do you think about this triangle?
+
+376
+00:40:19,040 --> 00:40:24,540
+Hey, remember this value equal 0.003, 0.003.
+
+377
+00:40:25,580 --> 00:40:27,600
+And this value of depth,
+
+378
+00:40:28,340 --> 00:40:30,180
+How much? 8.8.
+
+379
+00:40:31,520 --> 00:40:31,660
+C.
+
+380
+00:40:33,880 --> 00:40:35,000
+8.8.
+
+381
+00:40:36,820 --> 00:40:38,420
+We are looking for this value.
+
+382
+00:40:39,740 --> 00:40:45,240
+So this value can be included in this little triangle.
+
+383
+00:40:45,880 --> 00:40:47,400
+Can you make triangle similarity
+
+384
+00:40:47,660 --> 00:40:49,140
+between this one and this one?
+
+385
+00:40:50,560 --> 00:40:51,800
+Yeah, we can do.
+
+386
+00:40:55,320 --> 00:40:56,260
+Let me do it here.
+
+387
+00:41:00,480 --> 00:41:16,220
+We have this shape, epsilon t, 0.003, this distance is 8.8, so the remaining distance will be 21.45 minus 8.8.
+
+388
+00:41:16,620 --> 00:41:17,760
+How can I get this one?
+
+389
+00:41:18,580 --> 00:41:25,020
+Go back, the total distance between the top and the stereo enforcement, 21.5.
+
+390
+00:41:26,040 --> 00:41:32,700
+The distance between the top and the neutral axis, 8.8. So the remaining distance will be 21.5
+
+391
+00:41:32,860 --> 00:41:40,460
+minus 8.8. 21.5 minus 8.8, this one will be 12.7.
+
+392
+00:41:44,500 --> 00:41:52,020
+So your triangle celerity, you can do it like this. This value divides the corresponding one
+
+393
+00:41:55,340 --> 00:42:00,660
+equal this value divides the corresponding value.
+
+394
+00:42:03,870 --> 00:42:14,480
+The only unknown in this equation is strain in stereo enforcement. Okay, 0.003 times 12.7
+
+395
+00:42:14,480 --> 00:42:22,760
+7/8.8, your value equal 0.0043.
+
+396
+00:42:25,500 --> 00:42:31,940
+By the way, epsilon yield equal is still divided F yield.
+
+397
+00:42:33,200 --> 00:42:37,020
+Value of is still 29,000.
+
+398
+00:42:39,660 --> 00:42:49,420
+29,000 if you are talking about KSI, 29 million if you are talking about PSI divide it yield.
+
+399
+00:42:50,160 --> 00:42:54,460
+Yielding is given in case I, there's a reason why I use 29,000.
+
+400
+00:42:55,500 --> 00:42:56,740
+So it's 60.
+
+401
+00:42:57,610 --> 00:42:59,680
+So I can figure out the value of yielding.
+
+402
+00:43:00,460 --> 00:43:09,520
+29,000 divided by 6T your value. I'm sorry. I'm sorry. I have a mistake here. I'm sorry. I'm sorry guys.
+
+403
+00:43:12,000 --> 00:43:12,720
+I have the big mistake.
+
+404
+00:43:17,140 --> 00:43:25,400
+It's F yield divide is T I'm sorry. So 6T divide 29,000. I'm so sorry.
+
+405
+00:43:26,600 --> 00:43:33,460
+So, safety divide 29,000, your value equal 0.002.
+
+406
+00:43:35,880 --> 00:43:40,480
+So, the value of strain in the stereo enforcement equal 0.0043.
+
+407
+00:43:40,700 --> 00:43:53,500
+The value of yielding equal 0.002, I believe epsilon in steel greater than epsilon yield and the smaller than 0.005.
+
+408
+00:43:53,680 --> 00:43:54,520
+Do you agree?
+
+409
+00:43:57,960 --> 00:44:09,040
+Yeah, 0.004 is greater than 0.002 and the smaller than 0.005. So I am in this situation.
+
+410
+00:44:11,300 --> 00:44:14,140
+We are in this situation.
+
+411
+00:44:15,240 --> 00:44:18,020
+Second because or second situation.
+
+412
+00:44:18,640 --> 00:44:24,360
+So I need to figure out value of a equal to this equation.
+
+413
+00:44:26,680 --> 00:44:35,260
+So your value epsilon t 0.004 epsilon yield 0.002 0.002.
+
+414
+00:44:35,530 --> 00:44:37,840
+So I can figure out my values.
+
+415
+00:44:39,760 --> 00:44:47,580
+So fail equal 0.65.
+
+416
+00:44:47,640 --> 00:45:03,660
+x5 plus 0.25. What do you have else? Epsilon t minus yield, epsilon t, how much? 0.0043
+
+417
+00:45:04,360 --> 00:45:18,780
+minus yielding 0.002 divide 0.005 minus yielding, I think.
+
+418
+00:45:21,260 --> 00:45:29,740
+Yes, so your final answer will be minus 0.02 divide 0.03
+
+419
+00:45:30,540 --> 00:45:35,540
+Time 0.25 plus 0.65, 0.84.
+
+420
+00:45:37,830 --> 00:45:43,060
+So your design moment equal 0.84,
+
+421
+00:45:44,820 --> 00:45:48,820
+which is fair time the design moment
+
+422
+00:45:49,480 --> 00:45:53,920
+that you are reached 450.85.
+
+423
+00:45:55,440 --> 00:45:59,820
+450.85, so your final answer
+
+424
+00:45:59,820 --> 00:46:07,180
+will be 379.5 K.
+
+425
+00:46:12,860 --> 00:46:18,900
+So this called design moment.
+
+426
+00:46:21,300 --> 00:46:26,100
+So just a very small part we covered today,
+
+427
+00:46:27,420 --> 00:46:29,560
+Because all of this stuff covered last week,
+
+428
+00:46:30,720 --> 00:46:33,420
+how to figure out the value of C of A,
+
+429
+00:46:34,140 --> 00:46:38,060
+how can I figure out the nominal moment, capital MN?
+
+430
+00:46:38,720 --> 00:46:43,160
+The new bar today, we need to reach the design moment.
+
+431
+00:46:43,360 --> 00:46:46,000
+So we need to multiply this nominal value
+
+432
+00:46:46,500 --> 00:46:49,240
+by something called reduction factor, FAY.
+
+433
+00:46:50,640 --> 00:46:52,960
+So how can I figure out the value of FAY?
+
+434
+00:46:53,340 --> 00:46:55,700
+We need to figure out the value of strain
+
+435
+00:46:55,700 --> 00:46:56,700
+in stereo enforcement.
+
+436
+00:46:57,640 --> 00:47:01,960
+This value can be done or can be figured out
+
+437
+00:47:02,460 --> 00:47:04,000
+using triangle similarity.
+
+438
+00:47:04,360 --> 00:47:06,500
+Once you figure out the value of strain,
+
+439
+00:47:06,940 --> 00:47:11,460
+you can figure out which equation I will use
+
+440
+00:47:11,560 --> 00:47:13,440
+or which value I will use for Faye.
+
+441
+00:47:14,800 --> 00:47:17,100
+One more time, Faye can be called
+
+442
+00:47:17,100 --> 00:47:18,960
+the strength reduction factor.
+
+443
+00:47:20,700 --> 00:47:24,420
+It account for something we didn't consider
+
+444
+00:47:24,420 --> 00:47:33,020
+in our design. Actually, factor of safety is used all the time to consider something we missed.
+
+445
+00:47:35,460 --> 00:47:41,160
+Which something you missed? I don't know. Something is missed. Probably in the future,
+
+446
+00:47:41,400 --> 00:47:54,400
+I don't know what will happen. Okay. So first case, we talked about everything is given. The
+
+447
+00:47:54,400 --> 00:48:03,080
+is given we need to figure out the design moment. On Friday we will learn if we are looking for a
+
+448
+00:48:03,140 --> 00:48:10,960
+stereo reinforcement, if I'm looking for area steel how much we will figure it out on Friday.
+
+449
+00:48:11,880 --> 00:48:15,280
+But until this moment do you have any question?
+

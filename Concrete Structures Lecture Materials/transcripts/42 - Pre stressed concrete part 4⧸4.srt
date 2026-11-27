@@ -1,0 +1,956 @@
+1
+00:00:00,001 --> 00:00:01,760
+(sizzling)
+
+2
+00:00:10,719 --> 00:00:12,960
+So guys, for breath stress,
+
+3
+00:00:14,220 --> 00:00:17,220
+we covered the first part here
+
+4
+00:00:18,060 --> 00:00:20,800
+to calculate the stresses.
+
+5
+00:00:22,640 --> 00:00:25,400
+Initial, just after release
+
+6
+00:00:25,660 --> 00:00:29,260
+or under the effect of surface loot.
+
+7
+00:00:30,680 --> 00:00:35,400
+And we learned that we have three stress distribution.
+
+8
+00:00:36,040 --> 00:00:39,520
+The first one under the effect of applied loot.
+
+9
+00:00:40,880 --> 00:00:43,200
+The second one due to eccentricity.
+
+10
+00:00:43,440 --> 00:00:47,520
+The third one, if we assume we have concentric pre-stress.
+
+11
+00:00:48,300 --> 00:00:50,180
+And then we need to add them together.
+
+12
+00:00:50,480 --> 00:00:52,460
+Which one is tension, which one is compression?
+
+13
+00:00:52,760 --> 00:00:54,740
+So the tension will be added to the tension
+
+14
+00:00:54,880 --> 00:00:56,840
+and subtracted from the compression.
+
+15
+00:00:58,200 --> 00:01:01,300
+We learned also how to calculate deflection
+
+16
+00:01:02,300 --> 00:01:04,760
+based on the profile shape.
+
+17
+00:01:05,460 --> 00:01:07,360
+We have three different profiles
+
+18
+00:01:07,580 --> 00:01:11,120
+with three different expressions for deflection.
+
+19
+00:01:11,860 --> 00:01:15,720
+99% of our problems will be straight in them
+
+20
+00:01:16,320 --> 00:01:18,060
+with constant eccentricities.
+
+21
+00:01:18,060 --> 00:01:20,140
+We are going to use this expression
+
+22
+00:01:20,760 --> 00:01:22,100
+in calculating deflection.
+
+23
+00:01:22,300 --> 00:01:24,680
+Make sure you understood.
+
+24
+00:01:26,000 --> 00:01:29,980
+This point and this point.
+
+25
+00:01:31,440 --> 00:01:34,320
+The first one, initial breast stress without losses.
+
+26
+00:01:35,400 --> 00:01:38,180
+You are talking about initial breast-tracing force
+
+27
+00:01:38,480 --> 00:01:40,500
+and did lute only.
+
+28
+00:01:44,240 --> 00:01:47,440
+Under surface, surface after one year, two years,
+
+29
+00:01:47,560 --> 00:01:51,480
+five years, five months, we have final breast stress.
+
+30
+00:01:52,240 --> 00:01:53,620
+We need to consider losses.
+
+31
+00:01:54,000 --> 00:02:00,520
+So we have F final and we need to consider the load and the life load because the structure is under use.
+
+32
+00:02:02,760 --> 00:02:03,320
+That makes sense.
+
+33
+00:02:06,220 --> 00:02:11,200
+Today, we will talk about ultimate design.
+
+34
+00:02:12,240 --> 00:02:14,780
+Guys, do you remember our philosophy in design?
+
+35
+00:02:16,560 --> 00:02:19,940
+Ultimate LUD must be smaller than or equal
+
+36
+00:02:20,560 --> 00:02:23,360
+Fe MN
+
+37
+00:02:25,140 --> 00:02:29,700
+the design, ultimate design of the B-stress beam.
+
+38
+00:02:31,480 --> 00:02:37,320
+M ultimate coming from 1.2 D LUD plus 1.6 LIFELUD.
+
+39
+00:02:39,300 --> 00:02:44,420
+Fe MN, MN coming from the cross-section analysis.
+
+40
+00:02:45,520 --> 00:02:46,440
+I will remind you.
+
+41
+00:02:48,280 --> 00:02:52,100
+We have a cross section with brief stress tendon.
+
+42
+00:02:52,260 --> 00:02:53,820
+At the bottom, we don't have reinforcement.
+
+43
+00:02:54,400 --> 00:02:55,340
+So we have tendons.
+
+44
+00:02:56,260 --> 00:03:00,980
+Between the tension side and the compression side,
+
+45
+00:03:02,660 --> 00:03:05,080
+we have something called neutral axis.
+
+46
+00:03:07,120 --> 00:03:08,440
+Here is the strain distribution,
+
+47
+00:03:08,900 --> 00:03:13,080
+strain at the top fiber of concrete 0.003.
+
+48
+00:03:13,240 --> 00:03:14,100
+Do you remember that?
+
+49
+00:03:15,180 --> 00:03:19,600
+And we have a strain in the tendon at the bottom.
+
+50
+00:03:20,940 --> 00:03:23,140
+This is called strain distribution.
+
+51
+00:03:25,200 --> 00:03:26,540
+We have stress distribution.
+
+52
+00:03:28,640 --> 00:03:31,580
+At the part of concrete under compression,
+
+53
+00:03:31,780 --> 00:03:36,820
+we have stress block, the maximum stress value 0.85
+
+54
+00:03:37,200 --> 00:03:41,600
+if prime C with depth equal A,
+
+55
+00:03:42,340 --> 00:03:45,300
+but the depth of the neutral axis is C
+
+56
+00:03:45,840 --> 00:03:48,980
+and the relationship between C and A,
+
+57
+00:03:50,280 --> 00:03:53,480
+A equal beta one times C.
+
+58
+00:03:53,680 --> 00:03:54,560
+Do you remember that?
+
+59
+00:03:56,040 --> 00:03:59,140
+Do you remember how can we figure out the value of beta one?
+
+60
+00:03:59,460 --> 00:04:01,780
+Yes, based on this table
+
+61
+00:04:02,240 --> 00:04:05,140
+and based on the value of the F prime C,
+
+62
+00:04:05,660 --> 00:04:07,640
+I can figure out the value of beta one.
+
+63
+00:04:07,780 --> 00:04:09,020
+So if F prime C,
+
+64
+00:04:09,300 --> 00:04:13,620
+C between 2500 and 4000 beta 1 equal 0.85.
+
+65
+00:04:14,620 --> 00:04:17,340
+If prime C greater than 4000 is 8000,
+
+66
+00:04:17,660 --> 00:04:20,519
+we can use this expression to figure out the value of beta 1.
+
+67
+00:04:21,500 --> 00:04:24,900
+If f prime C greater than or equal to 8000,
+
+68
+00:04:25,360 --> 00:04:29,660
+so I'm going to use beta 1 equal 0.65, just to remind you.
+
+69
+00:04:31,540 --> 00:04:36,360
+We have capital C, compression force,
+
+70
+00:04:37,100 --> 00:04:43,200
+and we have capital T tension in the tendons and the compression in concrete.
+
+71
+00:04:43,830 --> 00:04:51,240
+Do you remember the value of C capital C? 0.85 F prime C A times B.
+
+72
+00:04:53,160 --> 00:05:01,480
+And the capital T tension in tendons will be area PS times F PS.
+
+73
+00:05:04,460 --> 00:05:10,700
+If area PS area of tendons
+
+74
+00:05:14,800 --> 00:05:27,260
+if BS is the stress in the tendons I will cover it just moment. Okay from this equation I can figure
+
+75
+00:05:27,340 --> 00:05:34,780
+out the value of A. Once you get the value of A, I can get the nominal flexural strength,
+
+76
+00:05:35,520 --> 00:05:44,920
+Mn equal area PSFBS which is T, time the distance between this force and this force which equal depth
+
+77
+00:05:46,060 --> 00:05:54,900
+minus A divided by 2. Depth here is called dB because it's the depth for the tendon,
+
+78
+00:05:55,740 --> 00:06:06,420
+pre-stressed standard but it's death. Any questions so far? I believe we covered all of this stuff
+
+79
+00:06:06,460 --> 00:06:15,420
+before. The only difference right now what is the meaning of FPS? Previously we learned that
+
+80
+00:06:15,560 --> 00:06:25,099
+this term is a field of steel but now for pre-stressed it's a different story. Okay once I figured out
+
+81
+00:06:25,100 --> 00:06:31,120
+the value of the nominal moment, how can I get the design moment? I need to multiply this nominal
+
+82
+00:06:31,320 --> 00:06:41,300
+moment by fade. Do you remember how can we figure out the value of fade using this table?
+
+83
+00:06:42,920 --> 00:06:52,619
+Based on the value of the strain in the tendon, if this strain less than or equal yielding the
+
+84
+00:06:52,620 --> 00:07:00,680
+strain I'm gonna use this value for faith if the strain in the tendon between
+
+85
+00:07:00,840 --> 00:07:05,960
+yielding and point 0.05 I'm gonna use this expression to figure out the value of
+
+86
+00:07:06,140 --> 00:07:12,080
+faith if epsilon t greater than or equal point 0.05 I can figure out the value of
+
+87
+00:07:12,220 --> 00:07:17,019
+faith equal point nine anybody remember how can we figure out the value of
+
+88
+00:07:17,020 --> 00:07:24,160
+of Epsilon t. Guys, do you remember that I need to hear from you?
+
+89
+00:07:32,940 --> 00:07:36,560
+Okay, Roberto, I will answer your question after I'm done.
+
+90
+00:07:36,660 --> 00:07:46,140
+Okay? Guys, my question is, anybody remember how can we figure out the value of Epsilon?
+
+91
+00:07:49,360 --> 00:07:57,680
+string in the tendons and based on this value I can decide which value of A this one or
+
+92
+00:07:57,740 --> 00:08:06,960
+this one or this one. Do you remember that or you forget it? Guys are you still here?
+
+93
+00:08:18,520 --> 00:08:24,140
+So how can I figure out the value of the strain in the tendon?
+
+94
+00:08:33,919 --> 00:08:43,960
+Thank you Oliver. Yes, this triangle because if you can figure out the value of A, I can figure
+
+95
+00:08:44,140 --> 00:08:52,280
+out the value of C. So this triangle, I can figure out this value is 0.003, this value is known.
+
+96
+00:08:53,060 --> 00:08:55,680
+And this triangle is similar to this triangle.
+
+97
+00:08:58,040 --> 00:09:02,940
+Based on the triangle similarity, I can figure out the value of epsilon t.
+
+98
+00:09:03,440 --> 00:09:05,620
+That's fine. So I can figure out the value of phi.
+
+99
+00:09:05,940 --> 00:09:10,620
+So I can multiply nominal moment by phi to figure out the design.
+
+100
+00:09:10,940 --> 00:09:14,780
+And I can make a good comparison between M ultimate and the phi mn.
+
+101
+00:09:15,160 --> 00:09:17,860
+I need M ultimate to be smaller than or equal.
+
+102
+00:09:19,700 --> 00:09:26,880
+So I will go back to our big concern in this problem. What is the value of FPS?
+
+103
+00:09:28,700 --> 00:09:37,720
+Based on the ACI, the value of FPS can be calculated from this expression equal
+
+104
+00:09:37,860 --> 00:09:42,600
+FB ultimate, the ultimate strength of Tindall which is given.
+
+105
+00:09:45,740 --> 00:09:53,220
+Guys, if you go back to our examples, previous examples, we have something
+
+106
+00:09:53,700 --> 00:09:59,600
+given in the problem we didn't use before, ultimate stress of the Tindall, FB ultimate.
+
+107
+00:10:00,900 --> 00:10:14,080
+This term will be used here to figure out the value of FPS. 1 minus gamma B, gamma B equal 0.55 or 0.4 or 0.28
+
+108
+00:10:14,880 --> 00:10:23,260
+based on this condition or this condition or this condition. Type of tendons.
+
+109
+00:10:26,900 --> 00:10:35,700
+beta one based on this table, which depend on f prime c.
+
+110
+00:10:38,580 --> 00:10:45,400
+This term will be zero all the time. Most of the time, I will not say all the time,
+
+111
+00:10:45,520 --> 00:10:55,539
+most of the time, because this term depend on if you have reinforcement beside both tension or
+
+112
+00:10:55,540 --> 00:11:05,640
+pre-stressed tendons. So our course will not cover this term. We don't have
+
+113
+00:11:05,760 --> 00:11:15,960
+extra reinforcement, we have only tendons, pre-stressed tendons. So row B equal area of
+
+114
+00:11:16,020 --> 00:11:19,600
+of tendons divide B time depth of tendon.
+
+115
+00:11:21,420 --> 00:11:24,680
+FB ultimate, this one, F prime C,
+
+116
+00:11:24,950 --> 00:11:28,060
+so I can figure out the value of FBS.
+
+117
+00:11:33,280 --> 00:11:35,040
+Let's do one example
+
+118
+00:11:37,980 --> 00:11:40,380
+and see what's going on.
+
+119
+00:11:40,580 --> 00:11:44,099
+This example is looking to calculate the design
+
+120
+00:11:44,100 --> 00:11:57,800
+flexural strengths, design, FAYMN, which is the same like the third problem in the homework.
+
+121
+00:12:00,260 --> 00:12:07,820
+For this type of problem, I would like to draw the strain and stress distribution.
+
+122
+00:12:17,380 --> 00:12:18,080
+We have strain.
+
+123
+00:12:23,600 --> 00:12:32,620
+Epsilon, Cu, ultimate compressive strength of concrete 0.003 and the depth of the neutral
+
+124
+00:12:32,740 --> 00:12:43,480
+axis can be called the C and we have epsilon T in the tendon at this location. By the way,
+
+125
+00:12:44,440 --> 00:12:55,940
+this depth for the tendons which can be called dB equal 30, the total or the overall depth,
+
+126
+00:12:56,020 --> 00:13:14,240
+30 minus 5 will be 25. b equal 12 inch okay we have here stress block 0.85 f
+
+127
+00:13:14,580 --> 00:13:25,179
+prime c with depth a and we have compression here capital C and we have
+
+128
+00:13:25,180 --> 00:13:35,760
+tension here capital T. The value of capital C equal point eight five F prime C AB. The
+
+129
+00:13:35,800 --> 00:13:50,620
+value of capital T equal area PS which is the area of this tendons time FBS. Let's do our job.
+
+130
+00:13:54,220 --> 00:14:03,100
+Area PS is given, go back to the problem. The area of the low relaxation,
+
+131
+00:14:03,680 --> 00:14:12,880
+breast-tracing tendons provided is 0.765 inches square. So the area of the tendons is given,
+
+132
+00:14:13,580 --> 00:14:25,540
+0.765 inches square. Let's figure out the value of FPS. So I'm going to use this
+
+133
+00:14:25,780 --> 00:14:32,100
+expression. The first term in this expression, FB ultimate. Do you think FB
+
+134
+00:14:32,140 --> 00:14:40,280
+ultimate is given? Yes. Insidious strengths, FB ultimate of the tendons, 270. So we have 270.
+
+135
+00:14:41,660 --> 00:14:54,460
+then one minus gamma p divided beta one one minus gamma p
+
+136
+00:14:57,140 --> 00:15:08,379
+gamma p equal 0.8 0.5 0.4 0.28 based on the type of the tendon please go back and try to figure
+
+137
+00:15:08,380 --> 00:15:15,580
+out the value, the type of the tendon, the area of the low relaxation,
+
+138
+00:15:16,260 --> 00:15:23,620
+breast-dressing tendons. Low relaxation, breast-dressing tendons.
+
+139
+00:15:24,600 --> 00:15:29,660
+For any tendons, which are low relaxation,
+
+140
+00:15:31,580 --> 00:15:36,160
+low relaxation, low relaxation.
+
+141
+00:15:36,560 --> 00:15:41,579
+So the value of gamma P will be 0.28.
+
+142
+00:15:46,360 --> 00:15:49,020
+We need to figure out the value of beta one.
+
+143
+00:15:50,860 --> 00:15:52,160
+I'm gonna use this table.
+
+144
+00:15:52,980 --> 00:15:54,940
+So what is the value of F prime C?
+
+145
+00:15:56,320 --> 00:15:59,360
+F prime C is a compressive strength of concrete 6000.
+
+146
+00:16:00,900 --> 00:16:03,560
+6,000, that means you are in this category.
+
+147
+00:16:05,080 --> 00:16:10,880
+So beta one will be 6,000 minus 4,000,
+
+148
+00:16:12,420 --> 00:16:19,040
+time 0.05 divide 1,000 plus 0.85,
+
+149
+00:16:19,620 --> 00:16:21,180
+this value will be 0.75.
+
+150
+00:16:27,320 --> 00:16:28,160
+What is the next?
+
+151
+00:16:30,700 --> 00:16:48,980
+row B. Row P equal area. Tendon divide B times D B. The area of tendons 0.765.
+
+152
+00:16:50,300 --> 00:16:54,860
+pb of the cross-section 12, db is 25.
+
+153
+00:16:55,450 --> 00:16:57,660
+So I can figure it out very easy.
+
+154
+00:17:05,699 --> 00:17:07,220
+0.00255.
+
+155
+00:17:07,579 --> 00:17:10,560
+So this term 0.00255.
+
+156
+00:17:11,900 --> 00:17:16,800
+Multiply it by fp ultimate divide f prime c.
+
+157
+00:17:19,020 --> 00:17:21,959
+FB ultimate is given 270.
+
+158
+00:17:23,839 --> 00:17:26,160
+F'C is given 6000.
+
+159
+00:17:26,680 --> 00:17:27,980
+We have a good, a mistake here.
+
+160
+00:17:28,520 --> 00:17:29,760
+Can you tell me what is a mistake?
+
+161
+00:17:32,400 --> 00:17:35,240
+Can you tell me what is a mistake right now?
+
+162
+00:17:36,240 --> 00:17:40,600
+FB ultimate is given 270, kept per inch square.
+
+163
+00:17:41,900 --> 00:17:45,340
+F'C is given 6000 bound per inch square.
+
+164
+00:17:45,580 --> 00:17:47,860
+So we need to convert one to the other one.
+
+165
+00:17:48,140 --> 00:17:52,920
+So I'm gonna convert 270 by 1000 to be inbound.
+
+166
+00:17:54,760 --> 00:17:55,300
+That makes sense.
+
+167
+00:17:56,580 --> 00:17:59,780
+Then plus the second term will be zero.
+
+168
+00:18:00,440 --> 00:18:01,840
+Don't try to get it.
+
+169
+00:18:06,000 --> 00:18:08,740
+So right now I can figure out the value of FPS.
+
+170
+00:18:24,019 --> 00:18:29,560
+This value would be 258.4, KSI.
+
+171
+00:18:31,840 --> 00:18:33,220
+This one will be KSI.
+
+172
+00:18:34,840 --> 00:18:35,780
+Hawaii KSI,
+
+173
+00:18:37,100 --> 00:18:41,700
+because this one will follow the same unit like this term.
+
+174
+00:18:50,920 --> 00:18:51,360
+Thank you.
+
+175
+00:18:52,820 --> 00:18:56,360
+Okay, let's do the next.
+
+176
+00:18:59,500 --> 00:19:04,560
+Capital C equal capital T, so 0.85, F prime C,
+
+177
+00:19:05,820 --> 00:19:11,220
+A, B equal area PSFPS.
+
+178
+00:19:12,620 --> 00:19:18,180
+0.85 F prime C 6000, A time B 12 inch,
+
+179
+00:19:18,980 --> 00:19:21,340
+equal FBS point how much?
+
+180
+00:19:24,339 --> 00:19:29,240
+765 time FBS 258.4.
+
+181
+00:19:29,240 --> 00:19:30,540
+We have a mistake here also.
+
+182
+00:19:31,780 --> 00:19:35,960
+This one is ksi, which means kip per inch square,
+
+183
+00:19:36,420 --> 00:19:39,820
+but this f prime c is bound per inch square.
+
+184
+00:19:40,480 --> 00:19:42,800
+So we need to convert one to the other one.
+
+185
+00:19:43,380 --> 00:19:45,600
+So I will multiply this one by 1,000.
+
+186
+00:19:46,820 --> 00:19:49,520
+The only unknown in this expression is a.
+
+187
+00:20:03,640 --> 00:20:06,640
+A will be 3.23 inch.
+
+188
+00:20:10,599 --> 00:20:13,760
+By the way, for your information, we got beta 1.
+
+189
+00:20:15,240 --> 00:20:16,940
+You remember beta 1.75.
+
+190
+00:20:19,440 --> 00:20:29,600
+So A equal beta 1C, so 3.23 equal beta 1.75 times C.
+
+191
+00:20:29,940 --> 00:20:36,720
+So the depth of the neutral axis will be 4.3 inch.
+
+192
+00:20:40,680 --> 00:20:40,880
+OK.
+
+193
+00:20:43,020 --> 00:20:47,359
+The value of nominal moment will be area PS time
+
+194
+00:20:47,360 --> 00:20:52,800
+FPS time depth of tendon minus a divided by two.
+
+195
+00:20:54,560 --> 00:21:04,660
+Area, PS.765, FPS equal 258.4,
+
+196
+00:21:05,160 --> 00:21:10,320
+depth 25 minus a 3.23 divided by two.
+
+197
+00:21:14,560 --> 00:21:31,020
+So this value will be 4,622.6 kip inch.
+
+198
+00:21:33,260 --> 00:21:34,660
+Why kip and inch?
+
+199
+00:21:34,820 --> 00:21:38,160
+Because this one is still kip per inch square.
+
+200
+00:21:39,080 --> 00:21:40,280
+This one is inches square.
+
+201
+00:21:40,680 --> 00:21:41,600
+This one is inch.
+
+202
+00:21:41,860 --> 00:21:42,620
+This one is inch.
+
+203
+00:21:43,400 --> 00:21:44,940
+So everything in k and the edge,
+
+204
+00:21:45,020 --> 00:21:47,080
+so the moment will be k and edge,
+
+205
+00:21:47,380 --> 00:21:52,760
+I will divide it by 12 to be 385.2 k.
+
+206
+00:21:56,280 --> 00:21:58,620
+We are not looking for the nominal moment,
+
+207
+00:21:58,800 --> 00:22:01,160
+we are looking for the design moment.
+
+208
+00:22:01,480 --> 00:22:03,700
+So we need to multiply this value by thing.
+
+209
+00:22:05,280 --> 00:22:07,360
+So we need to figure out the value of thing.
+
+210
+00:22:08,680 --> 00:22:09,740
+To figure this out,
+
+211
+00:22:11,520 --> 00:22:14,960
+I will go back to the strain distribution.
+
+212
+00:22:19,720 --> 00:22:21,600
+The strain here 0.003,
+
+213
+00:22:22,520 --> 00:22:24,880
+this depth of the neutral axis,
+
+214
+00:22:25,520 --> 00:22:30,519
+which called small c, 4.3 inch,
+
+215
+00:22:33,240 --> 00:22:36,660
+that means the remaining part of the depth
+
+216
+00:22:36,880 --> 00:22:40,400
+will be 25 minus 4.3.
+
+217
+00:22:41,880 --> 00:22:46,440
+That makes sense because the total depth is 25.
+
+218
+00:22:47,120 --> 00:22:54,640
+If you subtract 25 minus 4.3, I can figure out the remaining depth.
+
+219
+00:22:55,900 --> 00:23:02,840
+So this triangle looks like this triangle with epsilon t in the tendon.
+
+220
+00:23:03,800 --> 00:23:11,840
+So I can say 0.003 divided by epsilon t equal 4.3 divided by 20.7.
+
+221
+00:23:12,100 --> 00:23:14,280
+I can figure out the value of epsilon t.
+
+222
+00:23:19,440 --> 00:23:26,380
+This value equal 0.0144 which is greater than 0.005.
+
+223
+00:23:28,800 --> 00:23:38,380
+If you go back to this table, epsilon t greater than 0.005, that means phi equal 0.9, that
+
+224
+00:23:38,480 --> 00:23:48,720
+means phi mn, which is a design ultimate moment, will be 0.9 times 385.2.
+
+225
+00:23:54,400 --> 00:24:08,180
+will be 346.7 keb foot probably probably mm ultimate will be 1.2 dL + 1.6
+
+226
+00:24:08,560 --> 00:24:19,200
+lifeLoud or or I'm sorry W ultimate so M ultimate will be W L square divide it so
+
+227
+00:24:19,240 --> 00:24:23,320
+So I can make a comparison between M ultimate and the Faye MN.
+
+228
+00:24:24,820 --> 00:24:29,480
+M ultimate must be smaller than or equal Faye MN.
+
+229
+00:24:33,020 --> 00:24:39,860
+So this part or this problem, exactly we covered it before.
+
+230
+00:24:40,920 --> 00:24:44,919
+But the only difference between the current situation
+
+231
+00:24:44,920 --> 00:24:49,640
+for brief stress and the previous problems is this term.
+
+232
+00:24:50,080 --> 00:24:52,100
+We are talking about brief stress.
+
+233
+00:24:53,000 --> 00:24:57,200
+So FBS can be figured out using this expression
+
+234
+00:24:57,460 --> 00:24:58,780
+according to ACI.
+
+235
+00:25:00,540 --> 00:25:04,000
+Once you get the FBS, I can set up the equilibrium equation
+
+236
+00:25:04,720 --> 00:25:06,220
+to figure out the value of A
+
+237
+00:25:06,640 --> 00:25:08,940
+and then the value of nominal moment
+
+238
+00:25:09,380 --> 00:25:12,799
+and then the value of the ultimate design moment
+
+239
+00:25:12,800 --> 00:25:18,240
+by making triangle similarity to figure out the value of phi.
+

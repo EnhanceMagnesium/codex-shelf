@@ -1,0 +1,1944 @@
+1
+00:00:02,779 --> 00:00:11,560
+We started to design a strip footing. Just to remind you, strip footing we have two cases.
+
+2
+00:00:12,870 --> 00:00:29,980
+The first case, you have a wall with a certain lens. This lens is known. This lens is known
+
+3
+00:00:29,980 --> 00:00:50,680
+known. Then the footing lens is known, the same lens of the wall. Probably you can extend
+
+4
+00:00:50,880 --> 00:00:58,460
+one feet and another one feet from the two sides or two ends. That's fine. So what will
+
+5
+00:00:58,460 --> 00:01:09,340
+be the width of the footing. This is the first case. So the area of the footing will be this lens
+
+6
+00:01:10,260 --> 00:01:24,460
+time this width. That's fine. Second case we have a wall with infinity lens. I cannot know where
+
+7
+00:01:25,820 --> 00:01:32,920
+the start and where is the end. So in this case we are designing a footing
+
+8
+00:01:38,320 --> 00:01:42,840
+based on unit lengths. I'm going to assume unit lengths,
+
+9
+00:01:45,360 --> 00:01:55,800
+one feet, and I'm looking for the width which is B. So the area required
+
+10
+00:01:55,800 --> 00:02:04,900
+for this footing will be one feet time B and also the given load
+
+11
+00:02:07,490 --> 00:02:14,820
+B did load and B live load will be something kept bare foot
+
+12
+00:02:18,120 --> 00:02:30,920
+If you were given this k-foot, that means the wall has infinity lengths. We are taking only one unit length, one foot.
+
+13
+00:02:32,240 --> 00:02:40,760
+So, unit equal p divide area required.
+
+14
+00:02:42,580 --> 00:02:52,120
+Unit will be, you can figure it out, p equal b dead plus p life without factor, I can figure out the area required.
+
+15
+00:02:53,020 --> 00:02:58,380
+Guys, do you remember after you did the dimension of the footing, we have two issues.
+
+16
+00:02:59,580 --> 00:03:00,820
+We need to check for shear.
+
+17
+00:03:02,360 --> 00:03:04,640
+We need to check for moment.
+
+18
+00:03:06,880 --> 00:03:10,620
+I have, you should learn this information.
+
+19
+00:03:10,860 --> 00:03:12,980
+You should remember it all the time.
+
+20
+00:03:14,120 --> 00:03:17,060
+Where is the critical section for shear?
+
+21
+00:03:17,220 --> 00:03:17,960
+Do you remember that?
+
+22
+00:03:19,080 --> 00:03:22,000
+It is a wall, it is a footing.
+
+23
+00:03:22,920 --> 00:03:26,360
+Do you remember where is the critical section for shear?
+
+24
+00:03:26,840 --> 00:03:32,080
+distance D from the face of the wall.
+
+25
+00:03:32,340 --> 00:03:35,880
+At this location, we have a critical section.
+
+26
+00:03:36,860 --> 00:03:40,420
+So this area, this lens,
+
+27
+00:03:41,380 --> 00:03:44,300
+time the unit lens which is feet,
+
+28
+00:03:44,700 --> 00:03:49,060
+one feet, I can figure out the value of V ultimate,
+
+29
+00:03:50,220 --> 00:03:53,980
+which equal Q ultimate time this area.
+
+30
+00:03:56,040 --> 00:04:05,420
+area of shear. We have issue with moment just to remind you do remember where is
+
+31
+00:04:05,460 --> 00:04:15,180
+the critical section for moment at the face of the wall. We have stress here
+
+32
+00:04:16,280 --> 00:04:23,799
+which called q ultimate coming from p ultimate divide area of footing and I
+
+33
+00:04:23,800 --> 00:04:28,960
+I can figure out this lens and the other lens is one feet.
+
+34
+00:04:29,960 --> 00:04:32,560
+So this area can be figured out.
+
+35
+00:04:33,310 --> 00:04:37,180
+If you multiply this area by this stress, I have a force.
+
+36
+00:04:37,660 --> 00:04:40,620
+If you multiply this force by this half distance,
+
+37
+00:04:41,560 --> 00:04:44,180
+I can get a moment M-ultimate.
+
+38
+00:04:44,760 --> 00:04:48,020
+Once you get the M-ultimate, I can get the reinforcement.
+
+39
+00:04:48,400 --> 00:04:50,320
+And also here, once you get the ultimate,
+
+40
+00:04:50,560 --> 00:04:54,100
+I can check the depth for against shear.
+
+41
+00:04:56,320 --> 00:04:58,680
+All of this stuff for strip footing.
+
+42
+00:04:59,700 --> 00:05:03,980
+Let's start to talk about isolated footing.
+
+43
+00:05:05,040 --> 00:05:09,180
+Actually, it will be exactly identical procedures.
+
+44
+00:05:10,840 --> 00:05:14,280
+By the way, isolated footing means
+
+45
+00:05:14,720 --> 00:05:20,000
+we have a footing carrying a column, only one column.
+
+46
+00:05:20,000 --> 00:05:29,540
+one column is supported by one footing. At this time this footing can be called isolated footing,
+
+47
+00:05:29,880 --> 00:05:40,400
+like this one, like this footing or this footing or this footing. We have few steps and I will go
+
+48
+00:05:40,600 --> 00:05:49,980
+through these steps and see what is the difference between isolated footing and strip footing. First
+
+49
+00:05:49,980 --> 00:05:54,980
+the total n factored load P equal.
+
+50
+00:05:56,740 --> 00:06:00,480
+Did load reaction plus life load reaction?
+
+51
+00:06:01,040 --> 00:06:08,120
+This one can be called n factored total load.
+
+52
+00:06:09,880 --> 00:06:10,520
+That makes sense.
+
+53
+00:06:11,420 --> 00:06:15,720
+I believe this load will be used with Q net
+
+54
+00:06:16,610 --> 00:06:19,180
+to figure out the area required of the footing.
+
+55
+00:06:19,860 --> 00:06:36,140
+I think the second step, we need to figure out the factor or the ultimate total loot.
+
+56
+00:06:36,760 --> 00:06:38,400
+So we need to use factors.
+
+57
+00:06:39,260 --> 00:06:45,040
+We need to use 1.2 for dead, 1.6 for life.
+
+58
+00:06:46,800 --> 00:06:48,060
+This is the second step.
+
+59
+00:06:48,580 --> 00:07:01,520
+Third step, we need to assume the footing depth or the footing thickness overall depth,
+
+60
+00:07:02,600 --> 00:07:17,780
+HF. Actually, you can assume what you want. 16, 18, 24, 26, 28, 30, that's fine. But for
+
+61
+00:07:17,780 --> 00:07:27,940
+isolated footing we have some guide. If the column is rectangular column I can
+
+62
+00:07:28,060 --> 00:07:35,660
+use this expression to help me to figure out a depth. If the column is a
+
+63
+00:07:35,680 --> 00:07:41,680
+circular column I can use this expression to help me to figure out a
+
+64
+00:07:41,680 --> 00:07:51,980
+depth. I'm talking about this depth. If you can get a depth, add it at 4 inch to this depth to figure out the total thickness.
+
+65
+00:07:52,780 --> 00:08:03,540
+If you don't like to use these two guides, okay, go ahead and assume your thickness, like we did in strip footing.
+
+66
+00:08:05,060 --> 00:08:14,680
+Okay, I will use this equation. So what is the meaning of this equation? 4-depth square plus 2 b plus c.
+
+67
+00:08:15,380 --> 00:08:30,680
+b and dc are the two dimensions of the column. Guys, before designing a foundation, you should design columns.
+
+68
+00:08:33,800 --> 00:08:40,960
+That's right. You already finished this step. You already designed the column. So if the
+
+69
+00:08:41,080 --> 00:08:57,280
+column is a short column, short type column, pultmet equal, I think 0.85. As I remember,
+
+70
+00:08:58,120 --> 00:09:05,000
+f prime c area gross minus area steel plus a field time area steel.
+
+71
+00:09:07,000 --> 00:09:13,500
+That's right. So from this equation, I figured out the value of area gross of the column.
+
+72
+00:09:14,160 --> 00:09:20,480
+I figured out the cross section of the column, which is B and C.
+
+73
+00:09:22,120 --> 00:09:30,660
+Now we are in another step in the following step this column with dimension BC that you figure the
+
+74
+00:09:30,660 --> 00:09:43,660
+out before is supported by a footing. So we are right now in this step designing of footing.
+
+75
+00:09:43,800 --> 00:09:55,420
+So that makes sense. So the previous step was designing the column. The current step is designing
+
+76
+00:09:55,740 --> 00:10:05,080
+of the footing. Okay. So B and C, the two dimension of the column, D is the depth,
+
+77
+00:10:05,240 --> 00:10:07,380
+P ultimate is the ultimate load,
+
+78
+00:10:07,860 --> 00:10:15,520
+fa equal 0.75, vc or newc equal this expression.
+
+79
+00:10:15,860 --> 00:10:20,440
+For lambda equal 1, square root of f prime c.
+
+80
+00:10:21,320 --> 00:10:24,500
+So we have equation from the second order.
+
+81
+00:10:24,980 --> 00:10:27,540
+I can solve it to figure out the depth.
+
+82
+00:10:28,060 --> 00:10:32,020
+If you don't like to assume thickness.
+
+83
+00:10:33,260 --> 00:10:34,460
+Once you get this depth,
+
+84
+00:10:34,680 --> 00:10:42,980
+go ahead and I add four inch to this depth to get the total thickness of the footing.
+
+85
+00:10:44,520 --> 00:10:52,760
+Okay, so we have a guide here. Can help you, brock, this step can help you to figure out the depth.
+
+86
+00:10:52,980 --> 00:10:59,159
+If you don't like, it's up to you. If you don't like to use this equation to help you
+
+87
+00:10:59,880 --> 00:11:06,180
+Or to guide you to assume the correct depth. Okay, go ahead and assume your own depth.
+
+88
+00:11:10,740 --> 00:11:14,920
+Any question? Oliveav looks like you have a question.
+
+89
+00:11:20,540 --> 00:11:26,919
+No, for strip footing, we don't have this empirical equation or empirical
+
+90
+00:11:27,880 --> 00:11:34,140
+expression. This is only for one column supported by a footing. Okay.
+
+91
+00:11:38,860 --> 00:11:48,620
+The next step, we need to figure out the Q net. As you know from the geotechnical engineer,
+
+92
+00:11:49,000 --> 00:11:53,660
+will give us the allowable bearing capacity.
+
+93
+00:11:54,400 --> 00:11:57,340
+Q allowable is allowable bearing capacity given
+
+94
+00:11:57,460 --> 00:11:59,760
+by the geotechnical engineer.
+
+95
+00:12:00,660 --> 00:12:06,620
+But this allowable, we need to subtract this weight of footing,
+
+96
+00:12:08,300 --> 00:12:12,120
+which is gamma-concrete time thickness of the footing.
+
+97
+00:12:12,920 --> 00:12:18,840
+and make sure that this thickness in feet,
+
+98
+00:12:20,920 --> 00:12:23,960
+make sure that this thickness in feet,
+
+99
+00:12:24,340 --> 00:12:28,380
+because gamma concrete is 150 bound per cubic feet.
+
+100
+00:12:29,640 --> 00:12:33,360
+I need to also to subtract this weight of soil.
+
+101
+00:12:36,040 --> 00:12:40,760
+So this depth of soil, which is called H soil, Hs,
+
+102
+00:12:41,680 --> 00:12:44,780
+This thickness for concrete is hf footing.
+
+103
+00:12:45,860 --> 00:12:48,100
+So gamma soil time hs.
+
+104
+00:12:48,340 --> 00:12:51,140
+So to figure out the unit, you need to subtract q
+
+105
+00:12:51,140 --> 00:12:55,280
+and loble minus gamma soil h, soil minus gamma concrete h
+
+106
+00:12:55,740 --> 00:12:56,000
+footing.
+
+107
+00:12:56,620 --> 00:13:00,040
+And to make sure this depth of soil in feet,
+
+108
+00:13:02,080 --> 00:13:06,140
+the depth of soil above the concrete surface.
+
+109
+00:13:07,820 --> 00:13:11,660
+Once you figure out the unit, I can figure out
+
+110
+00:13:11,660 --> 00:13:24,020
+area of footing that require the area of footing which is lens time width.
+
+111
+00:13:27,430 --> 00:13:37,060
+This area will be P and factored total load from the first step do you remember divide
+
+112
+00:13:37,340 --> 00:13:46,240
+unit I can figure out the area required. Guys if your column is a square column
+
+113
+00:13:48,020 --> 00:13:59,000
+your footing will be square also. If the column is a rectangle, column your
+
+114
+00:13:59,020 --> 00:14:10,220
+footing will be rectangle. So if your footing is square, this area under square root, I
+
+115
+00:14:10,220 --> 00:14:22,320
+can figure out the side lengths of this footing. If this footing is rectangular footing, I'm
+
+116
+00:14:22,320 --> 00:14:29,440
+going to assume one dimension to figure out the second dimension. So I will assume for example
+
+117
+00:14:29,660 --> 00:14:37,780
+the width to figure out the length or I can assume the length to figure out the width. By the way,
+
+118
+00:14:38,320 --> 00:14:42,700
+and that makes sense. If you have a rectangle column like this,
+
+119
+00:14:45,200 --> 00:14:49,020
+I think your footing will be like this.
+
+120
+00:14:51,730 --> 00:14:58,260
+The longer dimension of the footing will barrel to the longer dimension of the column.
+
+121
+00:14:59,460 --> 00:15:05,580
+And the shorter dimension of the footing will barrel to the shorter dimension of the column.
+
+122
+00:15:06,300 --> 00:15:14,260
+And that makes sense. Okay. If your column is square, your footing will be square.
+
+123
+00:15:14,960 --> 00:15:22,360
+that makes sense. Guys, we need all the time to make sure the centroid of the column is the
+
+124
+00:15:22,460 --> 00:15:29,840
+centroid of the footing. The centroid of the column is the centroid of the footing to make sure
+
+125
+00:15:30,150 --> 00:15:38,620
+you have uniform stress on the soil. Okay, so from this tip, I can figure out the area
+
+126
+00:15:39,600 --> 00:15:46,000
+of footing. Once you get the area, I can figure out the dimension of the footing. So right now
+
+127
+00:15:47,180 --> 00:15:54,840
+I figured out the total thickness of the footing. I figured out the dimension of the footing.
+
+128
+00:15:55,420 --> 00:16:03,580
+And that makes sense. Looks like we don't have too much difference between slip footing and isolated
+
+129
+00:16:03,680 --> 00:16:04,000
+for isolated footing.
+
+130
+00:16:14,580 --> 00:16:18,780
+Guys, for isolated footing, we have three issues.
+
+131
+00:16:20,160 --> 00:16:27,260
+For isolated footing, we have three issues.
+
+132
+00:16:27,760 --> 00:16:30,920
+We need to check or we need to design.
+
+133
+00:16:32,400 --> 00:16:34,920
+The first issue is called punch.
+
+134
+00:16:37,080 --> 00:16:42,720
+Or sometimes we can call it two way shear.
+
+135
+00:16:45,000 --> 00:16:52,700
+The second issue can be called shear or sometimes one way shear.
+
+136
+00:16:55,680 --> 00:17:01,080
+The third issue is the moment and this moment will give you the area steal.
+
+137
+00:17:03,940 --> 00:17:04,300
+Bunch.
+
+138
+00:17:06,540 --> 00:17:13,439
+I told you before something about Bunch. Do you remember when I told you if you have
+
+139
+00:17:16,260 --> 00:17:17,180
+one way slip
+
+140
+00:17:19,980 --> 00:17:22,780
+and this slip is supported by a column.
+
+141
+00:17:32,240 --> 00:17:45,580
+This column can make a bunch in this slip. We are worrying about a bunch. Looks like you have a piece of paper
+
+142
+00:17:47,400 --> 00:17:51,380
+and you have a pencil with a sharp end.
+
+143
+00:17:52,940 --> 00:17:57,140
+So we can expect bunching for this paper.
+
+144
+00:17:58,530 --> 00:18:01,020
+The same issue for footing.
+
+145
+00:18:02,050 --> 00:18:09,300
+You have a footing with thickness, itch footing.
+
+146
+00:18:10,380 --> 00:18:14,180
+This footing is supporting a column.
+
+147
+00:18:16,840 --> 00:18:18,540
+We can expect bunch.
+
+148
+00:18:21,840 --> 00:18:25,000
+Bunch means the column will
+
+149
+00:18:26,820 --> 00:18:30,100
+move this part of the footing to down.
+
+150
+00:18:31,320 --> 00:18:35,900
+And the soil will move the outer part to up.
+
+151
+00:18:36,520 --> 00:18:37,860
+So we can expect bunch.
+
+152
+00:18:38,080 --> 00:18:40,400
+I believe I have a picture here like this.
+
+153
+00:18:42,400 --> 00:18:47,640
+So this column will push this part of the footing down.
+
+154
+00:18:49,060 --> 00:18:55,440
+And the soil pressure will push the remaining part up.
+
+155
+00:18:56,010 --> 00:18:58,980
+So we can expect bunching like this.
+
+156
+00:19:01,060 --> 00:19:06,580
+This is called two-way shear or sometimes punching or punch.
+
+157
+00:19:06,950 --> 00:19:07,860
+It's very important.
+
+158
+00:19:08,520 --> 00:19:08,860
+Wow.
+
+159
+00:19:09,960 --> 00:19:20,680
+phenomena does not exist in strip footing and that makes sense I believe because
+
+160
+00:19:21,540 --> 00:19:26,140
+strip footing we have a continuous so how can the punch will happen
+
+161
+00:19:26,800 --> 00:19:34,620
+bunching means we have a very sharp or very thin column I believe this column
+
+162
+00:19:34,620 --> 00:19:44,460
+is thin. 16 inch times 16 inch or 20 inch times 20 inch we still have one
+
+163
+00:19:44,580 --> 00:19:50,580
+element one vertical element with a certain dimension so I expect bunching
+
+164
+00:19:50,920 --> 00:19:56,560
+for this part of the footing. This phononia does not exist if you have
+
+165
+00:19:56,560 --> 00:20:06,860
+have strip footing. We never heard about bunching in strip footing. It's not an issue. This
+
+166
+00:20:07,040 --> 00:20:15,840
+issue only related to a column supported by a footing. If you have a column, you can expect
+
+167
+00:20:16,120 --> 00:20:18,520
+Bunching and also sheer.
+
+168
+00:20:22,320 --> 00:20:30,360
+According to ACI, I need to figure out what is the area of the footing will go down with the column.
+
+169
+00:20:31,020 --> 00:20:33,400
+Okay, come to the column dimension.
+
+170
+00:20:35,579 --> 00:20:43,220
+And you have a distance here, depth of the footing divided by two from the side.
+
+171
+00:20:44,020 --> 00:20:47,640
+and the depth divided by two from the other side.
+
+172
+00:20:48,360 --> 00:20:51,500
+And the depth divided by two from this side.
+
+173
+00:20:52,060 --> 00:20:55,700
+And the depth divided by two from this side.
+
+174
+00:20:56,200 --> 00:20:59,640
+Once you extend your area d divided by two,
+
+175
+00:20:59,760 --> 00:21:02,620
+d divided by two from each side,
+
+176
+00:21:03,540 --> 00:21:05,560
+I will construct a new area.
+
+177
+00:21:06,980 --> 00:21:09,880
+This area can be called area of bunch.
+
+178
+00:21:18,100 --> 00:21:26,140
+Okay. Area of bunch. We need to figure out what is the perimeter for this area.
+
+179
+00:21:31,420 --> 00:21:34,840
+And what is the area of this area of punch?
+
+180
+00:21:36,460 --> 00:21:40,400
+So first step, to check the punch, we
+
+181
+00:21:40,400 --> 00:21:41,940
+need to figure out q ultimate.
+
+182
+00:21:42,980 --> 00:21:44,540
+Do you remember the value of q ultimate?
+
+183
+00:21:44,680 --> 00:21:50,740
+Equal p ultimate, 1.2 delude plus 1.6 life loop.
+
+184
+00:21:51,660 --> 00:21:53,880
+Divide area of footing.
+
+185
+00:21:55,300 --> 00:21:58,620
+If your area, if the footing is a square, so b square,
+
+186
+00:21:59,260 --> 00:22:03,780
+if the area, if the footing is rectangle, B time L.
+
+187
+00:22:04,280 --> 00:22:07,700
+So the dominator is area of footing.
+
+188
+00:22:12,040 --> 00:22:17,220
+So the perimeter of the boundaries, outside boundaries
+
+189
+00:22:17,440 --> 00:22:23,360
+for the column dimension, P note equal this length
+
+190
+00:22:23,860 --> 00:22:26,920
+plus this length plus this length plus this length.
+
+191
+00:22:27,680 --> 00:22:29,960
+If you would like to use this expression, that's fine.
+
+192
+00:22:30,540 --> 00:22:36,520
+C plus D times two plus two B plus D.
+
+193
+00:22:37,100 --> 00:22:39,380
+D is the depth of the footing.
+
+194
+00:22:41,220 --> 00:22:45,320
+C and B is the two dimension of the column.
+
+195
+00:22:51,620 --> 00:22:53,720
+Two dimension of the column.
+
+196
+00:22:55,100 --> 00:22:55,840
+And that makes sense.
+
+197
+00:22:56,560 --> 00:23:02,280
+If you add D plus divide two from here and the D divide two from here,
+
+198
+00:23:03,020 --> 00:23:07,840
+I believe the total length will be C plus depth.
+
+199
+00:23:09,540 --> 00:23:15,700
+And if you add D divide two from this side and the D divide two from this side,
+
+200
+00:23:15,840 --> 00:23:20,580
+so the total length here will be B plus depth.
+
+201
+00:23:22,360 --> 00:23:24,960
+If you add this side, plus this side,
+
+202
+00:23:25,460 --> 00:23:27,540
+plus this side, plus this side,
+
+203
+00:23:28,460 --> 00:23:30,360
+so I can add this one time two,
+
+204
+00:23:31,340 --> 00:23:32,780
+and this one time two.
+
+205
+00:23:33,040 --> 00:23:35,860
+So I can figure out the perimeter of this area.
+
+206
+00:23:38,060 --> 00:23:38,560
+That make sense?
+
+207
+00:23:42,880 --> 00:23:43,300
+Looks good.
+
+208
+00:23:51,299 --> 00:23:52,340
+The ultimate
+
+209
+00:23:54,240 --> 00:24:08,320
+Fourth equal p ultimate of the column minus q ultimate time this area.
+
+210
+00:24:15,600 --> 00:24:20,500
+So, from this step, I figured out the perimeter of this area.
+
+211
+00:24:21,760 --> 00:24:33,080
+Second step, I used the value of this area, trying to ultimate with minus plus p ultimate,
+
+212
+00:24:33,260 --> 00:24:34,860
+which is the ultimate load.
+
+213
+00:24:35,740 --> 00:24:40,640
+Once you get the ultimate punching force, I need to check.
+
+214
+00:24:42,160 --> 00:24:45,400
+A check of the assumed depth.
+
+215
+00:24:46,740 --> 00:24:53,240
+Most of the time, 99% we are using this expression only.
+
+216
+00:24:55,860 --> 00:25:01,060
+The ultimate two, two means two way shear.
+
+217
+00:25:04,220 --> 00:25:18,300
+you are working on punch. Okay divide Fe 0.75 for lambda equal one with root of f
+
+218
+00:25:18,320 --> 00:25:27,820
+prime c, b0. b0 is a perimeter of the punching area. I will figure out a depth.
+
+219
+00:25:27,900 --> 00:25:37,880
+this depth must be smaller than or equal the assumed depth and I hope this
+
+220
+00:25:38,000 --> 00:25:45,560
+expression will be valid because if not you have to go back and assumed a new
+
+221
+00:25:45,640 --> 00:25:45,900
+depth
+
+222
+00:25:50,840 --> 00:25:56,520
+The second explanation used if you have a rectangular column.
+
+223
+00:25:58,080 --> 00:26:04,680
+I'm going to add here beta C and this beta C must be greater than 2 and
+
+224
+00:26:04,780 --> 00:26:09,600
+beta is the ratio between the longer side to the shorter side of the column.
+
+225
+00:26:10,540 --> 00:26:11,920
+One of you will ask me, hey,
+
+226
+00:26:12,190 --> 00:26:17,880
+if the column is a square 20 inch and the 20 inch,
+
+227
+00:26:18,380 --> 00:26:23,080
+So beta C equal 20 divided 20 equal 1.
+
+228
+00:26:23,760 --> 00:26:27,440
+It's not valid because beta must be greater than 2.
+
+229
+00:26:29,140 --> 00:26:30,340
+One of you will say, "Hey,
+
+230
+00:26:30,340 --> 00:26:35,100
+I have a column with dimension 30 and 20."
+
+231
+00:26:35,800 --> 00:26:42,480
+So the longer beta C equals the longer 30 divided 20 equal 1.5.
+
+232
+00:26:42,720 --> 00:26:44,040
+I'm sorry, it's not valid.
+
+233
+00:26:44,740 --> 00:26:46,200
+Beta must be greater than 2.
+
+234
+00:26:46,500 --> 00:26:51,020
+So this expression, it's very rare to use it.
+
+235
+00:26:53,020 --> 00:26:55,140
+Beta must be greater than 2.
+
+236
+00:26:56,600 --> 00:27:00,320
+Not applicable unless beta C greater than 2.
+
+237
+00:27:00,320 --> 00:27:03,260
+What is the value of beta C is the ratio
+
+238
+00:27:03,360 --> 00:27:06,520
+of the longer side of the column to the shorter side
+
+239
+00:27:06,580 --> 00:27:07,200
+of the column.
+
+240
+00:27:08,520 --> 00:27:12,220
+The third one, I'm going to use it
+
+241
+00:27:12,220 --> 00:27:27,280
+if your column at the edge of the footing or your column at the corner of the footing
+
+242
+00:27:29,520 --> 00:27:35,840
+and sometimes if your column at the center of the footing.
+
+243
+00:27:37,580 --> 00:27:42,280
+So interior column, edge column, or corner column.
+
+244
+00:27:42,600 --> 00:27:45,060
+And I'll give you the value of alpha s
+
+245
+00:27:45,740 --> 00:27:47,900
+based on the position of the column.
+
+246
+00:27:48,380 --> 00:27:52,360
+But my recommendation, use only the first expression.
+
+247
+00:27:53,200 --> 00:27:54,680
+But just to keep in your mind, we
+
+248
+00:27:54,820 --> 00:27:58,260
+have another different expressions in different cases.
+
+249
+00:28:00,340 --> 00:28:06,260
+OK, so I'm telling you, just use the first one only
+
+250
+00:28:06,260 --> 00:28:07,380
+to make it more easy.
+
+251
+00:28:10,600 --> 00:28:13,060
+Any question related to bunching?
+
+252
+00:28:15,800 --> 00:28:18,820
+I need you to understand this point.
+
+253
+00:28:20,580 --> 00:28:21,180
+For a footing,
+
+254
+00:28:25,100 --> 00:28:26,820
+supporting a column,
+
+255
+00:28:28,220 --> 00:28:29,680
+we have issues with bunch.
+
+256
+00:28:31,780 --> 00:28:33,900
+We're a good question.
+
+257
+00:28:34,360 --> 00:28:44,080
+where a distance d divided 2 from the face of the column in each side.
+
+258
+00:28:46,360 --> 00:28:48,160
+d divided 2.
+
+259
+00:28:49,560 --> 00:28:52,280
+Then I will construct a new area.
+
+260
+00:28:53,400 --> 00:28:56,260
+This area can be called area of bunch.
+
+261
+00:28:59,560 --> 00:29:08,580
+I need to get two values, b_nude, which is a parameter of this area, and what is the area value?
+
+262
+00:29:11,060 --> 00:29:19,880
+This area value will help me to figure out the ultimate tool. This p parameter will help you to check the depth.
+
+263
+00:29:27,640 --> 00:29:28,460
+Any questions so far?
+
+264
+00:29:31,940 --> 00:29:33,960
+Any questions so far?
+
+265
+00:29:53,360 --> 00:29:54,200
+It's a good question.
+
+266
+00:29:55,340 --> 00:29:57,080
+It's a very good question.
+
+267
+00:29:59,540 --> 00:30:11,080
+When you are calculating this value for v ultimate, make sure everything in feet of the dimension.
+
+268
+00:30:14,740 --> 00:30:16,680
+c + d must be in feet.
+
+269
+00:30:17,700 --> 00:30:19,280
+b + d must be in feet.
+
+270
+00:30:19,460 --> 00:30:27,400
+everything in this expression must be in feet. When you are trying to calculate
+
+271
+00:30:27,500 --> 00:30:37,980
+b-note, please, everything in inch. Why? Because b-note will be used here. In this
+
+272
+00:30:38,000 --> 00:30:45,060
+This expression everything in PSI everything in inch everything in bound.
+
+273
+00:30:47,640 --> 00:30:57,940
+Okay, so this V ultimate two must be about F prime C PSI B naught in inch.
+
+274
+00:30:58,200 --> 00:31:03,180
+So this is the reason why I told you this expression must be everything in inch.
+
+275
+00:31:04,480 --> 00:31:11,980
+But make sure this expression everything in feet. Why? Because q ultimate will be bound
+
+276
+00:31:12,580 --> 00:31:23,520
+bare square feet. q ultimate from this expression. q ultimate divide b square the area of footing,
+
+277
+00:31:23,780 --> 00:31:30,960
+area of footing in square feet. So when you multiply q ultimate by area, this area must
+
+278
+00:31:30,960 --> 00:31:35,760
+be in feet square so everything here must be in feet so make sure your units
+
+279
+00:31:35,820 --> 00:31:40,880
+are consistent by the way if you are using this expression everything in psi
+
+280
+00:31:41,560 --> 00:31:43,380
+everything in inch everything in bound
+
+281
+00:31:54,860 --> 00:31:57,860
+We have also issue with shear.
+
+282
+00:32:00,440 --> 00:32:03,220
+This shear can be called one way shear.
+
+283
+00:32:03,980 --> 00:32:06,300
+Guys, do you remember from strip footing
+
+284
+00:32:06,660 --> 00:32:10,660
+where is the critical shear location?
+
+285
+00:32:12,200 --> 00:32:18,340
+At distance D from the face of the column.
+
+286
+00:32:19,300 --> 00:32:22,360
+At this distance, I will assume
+
+287
+00:32:22,360 --> 00:32:23,980
+I have critical section here.
+
+288
+00:32:24,800 --> 00:32:26,300
+Can you figure out this area?
+
+289
+00:32:28,920 --> 00:32:33,140
+And then multiply this area by q ultimate.
+
+290
+00:32:34,220 --> 00:32:37,400
+I can figure out the ultimate shear force.
+
+291
+00:32:45,700 --> 00:32:48,780
+I call it v ultimate one to make sure
+
+292
+00:32:48,780 --> 00:32:51,559
+we have a difference between v ultimate two
+
+293
+00:32:53,400 --> 00:32:57,360
+The ultimate two for bunch, the ultimate one for shear.
+
+294
+00:32:59,080 --> 00:33:04,620
+These expressions only to help you to figure out what is the lens here.
+
+295
+00:33:05,380 --> 00:33:12,680
+Because if you know the lens and multiply it by this B, I can figure out this area.
+
+296
+00:33:13,560 --> 00:33:21,780
+Once you get this area, go ahead and multiply it by qultmet, which is the ultimate soil stress.
+
+297
+00:33:22,660 --> 00:33:31,660
+I can figure out the vult. To check for depth, I can use this expression, vultmet be inbound
+
+298
+00:33:32,280 --> 00:33:39,400
+f'c in psi, eweb here will be the width of the footing.
+
+299
+00:33:43,560 --> 00:33:45,140
+eweb this width.
+
+300
+00:33:52,080 --> 00:33:59,160
+I hope the depth will be okay because if not acceptable, we have to increase the
+
+301
+00:33:59,160 --> 00:34:06,340
+thickness of the footing. So right now I did a check against the bunch which called a shear.
+
+302
+00:34:07,180 --> 00:34:10,840
+I did a check against the shear which is called one-way shear.
+
+303
+00:34:12,220 --> 00:34:18,000
+Next step reinforcement it's very easy. Do you remember where is the critical
+
+304
+00:34:18,919 --> 00:34:27,560
+section for moment exactly at the face of the column? Can you figure out with this lens? I believe
+
+305
+00:34:27,560 --> 00:34:34,139
+you can and I know this lens if you multiply this one time this one I can get this area.
+
+306
+00:34:36,100 --> 00:34:38,679
+If you multiply this area by q ultimate
+
+307
+00:34:40,940 --> 00:34:48,960
+I can figure out this force if you multiply this force by this distance I can figure out the M
+
+308
+00:34:49,179 --> 00:34:57,540
+ultimate once you get M ultimate I can figure out rho then I can figure out the area. That's
+
+309
+00:34:59,940 --> 00:35:08,420
+That's fine. And make sure row within the limit, row minimum, greater than row minimum,
+
+310
+00:35:09,020 --> 00:35:16,500
+and the smaller than row maximum. Let's do one example and see what's going on.
+
+311
+00:35:16,640 --> 00:35:19,900
+I will finish up this example and then we are done for today.
+
+312
+00:35:24,460 --> 00:35:37,940
+we have a square column and we need to design a square footing. And the column is 16 x 16
+
+313
+00:35:38,340 --> 00:35:51,780
+inch. Interior column that supports added load and life load. First step, I'm going
+
+314
+00:35:51,780 --> 00:36:03,920
+calculate the n factor the total load 200 plus 160 the 300 stick is taken without
+
+315
+00:36:04,140 --> 00:36:16,260
+factor second step ultimate load 1.2 time dead 1.6 time life
+
+316
+00:36:21,260 --> 00:36:22,400
+I should have a calculator.
+
+317
+00:36:27,180 --> 00:36:37,020
+So 1.2 times 200, 1.6 times 160, 496 kip.
+
+318
+00:36:41,600 --> 00:36:44,940
+What do you think? What do you like? Do you like to assume?
+
+319
+00:36:46,540 --> 00:36:52,940
+Do you like to assume the depth or using this expression?
+
+320
+00:36:53,580 --> 00:36:54,160
+It's up to you.
+
+321
+00:36:55,740 --> 00:36:56,960
+Let's use this one.
+
+322
+00:36:57,500 --> 00:36:59,400
+Let's try to use this one for d squared.
+
+323
+00:37:03,880 --> 00:37:07,740
+For d squared plus 2, I think.
+
+324
+00:37:12,220 --> 00:37:15,940
+b + c the two dimensions of the column time d
+
+325
+00:37:20,560 --> 00:37:22,960
+16 + 60
+
+326
+00:37:26,540 --> 00:37:26,860
+plus
+
+327
+00:37:33,000 --> 00:37:42,200
+I'm sorry time d equal p ultimate divide a vc so p ultimate we figured it out
+
+328
+00:37:42,200 --> 00:37:52,420
+vc equal for lambda gaster f prime c and the phi equal 0.75 we have here depth
+
+329
+00:37:53,620 --> 00:38:05,180
+equal p ultimate divide phi vc vc equal for lambda f prime c that's right
+
+330
+00:38:08,340 --> 00:38:20,240
+For lambda. Yes, f prime c square root f prime c. Let's do this expression four time one square root f prime c 30,000.
+
+331
+00:38:22,400 --> 00:38:23,660
+This expression will be.
+
+332
+00:38:28,480 --> 00:38:49,780
+219.1. So this expression will be 4d2 + 64d=p ultimate 496*1000 to be inbound divide
+
+333
+00:38:49,920 --> 00:39:01,540
+phase 0.75 times VC 219.20. So 4d square plus 64d minus
+
+334
+00:39:11,920 --> 00:39:20,380
+2018.6 equals 0. Equation from the second order, I think I can solve it.
+
+335
+00:39:35,440 --> 00:39:44,460
+The first one will give you 20.6 inch and the second solution will be negative 336.
+
+336
+00:39:46,020 --> 00:39:54,840
+I think negative is rejected. We don't have depth with negative. So I believe your depth
+
+337
+00:39:55,840 --> 00:40:05,760
+Equal 20.6 will be good. So guys I'm gonna assume hf equal 25 inch
+
+338
+00:40:07,460 --> 00:40:16,720
+Then your depth will be 25 minus inch minus four inch will be 21 inch 21 will be good. We hope so
+
+339
+00:40:18,280 --> 00:40:18,880
+We hope so
+
+340
+00:40:20,070 --> 00:40:22,079
+I still need to check also
+
+341
+00:40:22,800 --> 00:40:26,500
+This exhibition just empirical to help you to guide you.
+
+342
+00:40:28,680 --> 00:40:38,400
+Okay. Yes. Your your depth is 20.6 but you're assuming 25 inches because like you're just given it
+
+343
+00:40:39,000 --> 00:40:46,240
+some some room I mean yeah yeah because 20 inches more extra yes.
+
+344
+00:40:48,720 --> 00:40:54,160
+You can assume 26, you can assume 28, but just please don't go below this number.
+
+345
+00:40:56,619 --> 00:41:00,700
+Okay. Thank you. As I told you, this expression is empirical.
+
+346
+00:41:02,720 --> 00:41:10,340
+That means you don't have the right to say, "Hey, I assumed my dips based on this expression and
+
+347
+00:41:10,340 --> 00:41:11,240
+and it's still unsafe.
+
+348
+00:41:11,680 --> 00:41:16,000
+I'm sorry, this equation just empirical to help you,
+
+349
+00:41:16,120 --> 00:41:18,600
+to guide you, no guarantee,
+
+350
+00:41:19,360 --> 00:41:21,700
+to give you a good value for depth,
+
+351
+00:41:22,220 --> 00:41:24,800
+no guarantee to give you a safe value for depth,
+
+352
+00:41:25,180 --> 00:41:27,040
+just guide you, okay?
+
+353
+00:41:29,180 --> 00:41:32,640
+Let's do the next step, step number four.
+
+354
+00:41:35,680 --> 00:41:39,460
+I need to figure out the value of Q net equal Q alt,
+
+355
+00:41:40,020 --> 00:41:45,340
+I'm sorry q allowable minus gamma soil h soil minus gamma concrete h footing.
+
+356
+00:41:46,760 --> 00:41:48,520
+q allowable is given in this problem.
+
+357
+00:41:49,240 --> 00:41:49,900
+What is the value?
+
+358
+00:41:51,660 --> 00:41:52,460
+Where is the q allowable?
+
+359
+00:41:52,580 --> 00:41:53,220
+5,000.
+
+360
+00:41:54,740 --> 00:41:58,380
+It's given 5,000 and make sure this value in bound,
+
+361
+00:41:59,210 --> 00:42:00,000
+be a square feet.
+
+362
+00:42:01,380 --> 00:42:03,440
+Gamma soil is given.
+
+363
+00:42:04,880 --> 00:42:08,100
+The unit weight of soil 100 bound.
+
+364
+00:42:10,200 --> 00:42:17,940
+each soil what is the height of the soil please make sure the height of the soil is not 5 guys
+
+365
+00:42:18,580 --> 00:42:32,900
+the height of the soil not 5 we have excavation at depth 5 feet then I will construct my footing
+
+366
+00:42:35,940 --> 00:42:48,520
+with thickness 25 inch then I will put the fill so can you tell me what is the
+
+367
+00:42:48,520 --> 00:43:01,300
+depth of the soil above the footing yes I can 5 feet minus 25 divide 12 make sure
+
+368
+00:43:01,300 --> 00:43:03,600
+Your units are consistent.
+
+369
+00:43:07,880 --> 00:43:09,160
+2.9167.
+
+370
+00:43:10,700 --> 00:43:14,700
+2.91 minus gamma concrete 150.
+
+371
+00:43:16,360 --> 00:43:19,800
+Thickness of the footing is 25 feet a inch.
+
+372
+00:43:19,980 --> 00:43:22,900
+Please divide it by 12 to be in feet, this one in feet.
+
+373
+00:43:24,560 --> 00:43:28,280
+Then I can figure out the value of Q net.
+
+374
+00:43:36,460 --> 00:43:42,260
+It will be 4396.5 bound, bear square feet.
+
+375
+00:43:45,870 --> 00:43:58,580
+The next step, area footing will be P and factor the total load, divide unit.
+
+376
+00:44:01,020 --> 00:44:15,780
+P, go back to the first step, what is the value of P? 360. Kips. Kips. And the unit from this
+
+377
+00:44:15,880 --> 00:44:25,220
+calculation, 4396.5. But this one in bound, bare square feet, you have to make your units
+
+378
+00:44:25,220 --> 00:44:41,800
+consistent so I need to multiply this value by 1000. So the area required will be 81.9
+
+379
+00:44:42,260 --> 00:44:53,480
+feet square. I need to convert this area footing to square footing. What should I do?
+
+380
+00:44:54,500 --> 00:44:57,340
+to get the square root of this value.
+
+381
+00:45:00,840 --> 00:45:04,980
+Probably it will be 9 feet times 9 feet.
+
+382
+00:45:06,579 --> 00:45:09,420
+9 feet times 9 feet, it's very close.
+
+383
+00:45:09,880 --> 00:45:15,560
+Probably you can assume it 9.1 times 9.1 feet will be better.
+
+384
+00:45:17,120 --> 00:45:18,420
+Or 9.2.
+
+385
+00:45:19,160 --> 00:45:21,520
+It's up to you because you are very, very, very close.
+
+386
+00:45:21,620 --> 00:45:28,680
+If you assume it 9 times 9, your area will be 81, but we need 81.9.
+
+387
+00:45:29,080 --> 00:45:30,260
+So I'm going to...
+
+388
+00:45:31,700 --> 00:45:38,760
+It's very close, can be accepted, but better to assume it 9.1 times 9.1.
+
+389
+00:45:39,820 --> 00:45:46,920
+So this dimension will be 9.1 feet times 9.1 feet.
+
+390
+00:45:47,580 --> 00:45:55,780
+So right now your total thickness is 25 inch, the actual depth is 21 inch and the dimension
+
+391
+00:45:55,980 --> 00:45:59,560
+of this footing 9.1 times 9.1 feet.
+
+392
+00:46:01,340 --> 00:46:02,060
+We need to check.
+
+393
+00:46:04,320 --> 00:46:09,140
+Let's start but before checking guys we need to get the Q ultimate.
+
+394
+00:46:10,740 --> 00:46:14,280
+You ultimate equal P ultimate divide area of footing.
+
+395
+00:46:18,540 --> 00:46:21,060
+P ultimate, what is the value of P ultimate?
+
+396
+00:46:22,320 --> 00:46:25,180
+I think P ultimate equal 496.
+
+397
+00:46:28,720 --> 00:46:31,640
+Divide 1000, I'm sorry, time 1000 to be bound.
+
+398
+00:46:32,000 --> 00:46:32,580
+We like bound.
+
+399
+00:46:33,960 --> 00:46:36,640
+Divide area of footing, actual area of footing.
+
+400
+00:46:36,900 --> 00:46:38,760
+The actual dimension right now,
+
+401
+00:46:40,140 --> 00:46:42,420
+9.1 times 9.1.
+
+402
+00:46:43,360 --> 00:46:45,220
+So this value of q ultimate will be
+
+403
+00:46:55,460 --> 00:46:57,520
+5,989.6
+
+404
+00:46:59,740 --> 00:47:01,800
+bound bare square feet.
+
+405
+00:47:02,740 --> 00:47:04,260
+Put your units all the time.
+
+406
+00:47:04,940 --> 00:47:07,680
+This area in feet square, this value in bound,
+
+407
+00:47:08,080 --> 00:47:09,360
+so everything in bound.
+
+408
+00:47:11,480 --> 00:47:15,080
+We need to check off bunch.
+
+409
+00:47:19,660 --> 00:47:20,320
+Very easy.
+
+410
+00:47:22,220 --> 00:47:22,920
+Here is the footing.
+
+411
+00:47:26,340 --> 00:47:27,040
+Here is the column.
+
+412
+00:47:27,980 --> 00:47:30,480
+Guys, can you remind me what is the dimension of the column?
+
+413
+00:47:32,260 --> 00:47:33,500
+16 times 16.
+
+414
+00:47:37,200 --> 00:47:55,360
+From this column, I'm going to assume distance here depth divided by 2, depth divided by 2, depth divided by 2, to assume a new area.
+
+415
+00:47:56,820 --> 00:48:01,040
+And this area can be called area of punch.
+
+416
+00:48:04,520 --> 00:48:08,300
+By the way, can you tell me what is the total length here?
+
+417
+00:48:10,760 --> 00:48:12,480
+Can you tell me what is the total length here?
+
+418
+00:48:13,820 --> 00:48:16,400
+In inch. What is the total length?
+
+419
+00:48:17,620 --> 00:48:23,200
+The length of the column, plus to anyone.
+
+420
+00:48:25,020 --> 00:48:30,080
+We have depth divided two from this side and the depth divided two from this side. That means we have depth.
+
+421
+00:48:31,240 --> 00:48:34,060
+And this lens is 16 plus 21.
+
+422
+00:48:35,720 --> 00:48:43,480
+So 16 plus 21, 37 inch and the 37 inch.
+
+423
+00:48:44,080 --> 00:48:45,740
+What is the perimeter b-node?
+
+424
+00:48:46,280 --> 00:48:48,040
+37 times 4.
+
+425
+00:48:49,750 --> 00:48:53,900
+We have four sides, 148 inch.
+
+426
+00:49:00,120 --> 00:49:10,880
+What is the value of the ultimate two equal P ultimate minus Q ultimate time this area?
+
+427
+00:49:15,720 --> 00:49:36,300
+p ultimate 496 times 1000 to be in bound minus q ultimate just you calculated it 5,989.6 times
+
+428
+00:49:36,920 --> 00:49:50,360
+the value of this area, 37 times 37. This lens times this lens. But 37 and inch, 37 and inch,
+
+429
+00:49:50,540 --> 00:49:59,260
+I will divide it by 12. Why? To convert it to feet. Why? Because this q ultimate is bound
+
+430
+00:49:59,520 --> 00:50:06,279
+bare feet square. If you multiply bound bare feet square times feet square, your value will be
+
+431
+00:50:06,280 --> 00:50:13,680
+inbound I can subtract it from this value which is inbound. So your final value of the ultimate two
+
+432
+00:50:14,220 --> 00:50:14,500
+will be
+
+433
+00:50:28,040 --> 00:50:32,120
+4,000 300 or 43,000 900.
+
+434
+00:50:34,190 --> 00:50:38,400
+No, no, 439,057.2.
+
+435
+00:50:42,240 --> 00:50:49,360
+Okay, we need to check of the depth. Do you remember the value to check? I'm gonna use
+
+436
+00:50:50,040 --> 00:51:01,400
+the first expression. v ultimate 2 divide p for lambda. v ultimate 2 divide p for lambda square root
+
+437
+00:51:01,470 --> 00:51:05,020
+f prime c time p0. Go ahead and put your numbers.
+
+438
+00:51:08,680 --> 00:51:24,640
+v alternate to fa 0.75 for lambda is one root of 3,000 time b0 the perimeter of this area 148
+
+439
+00:51:26,160 --> 00:51:34,759
+make sure 148 outside the square root so what is the value of dips i hope the value will be good
+
+440
+00:51:43,120 --> 00:51:58,320
+There you go 18.1 inch. What did you assumed? Wow we are good. This is for punch. We need
+
+441
+00:51:58,320 --> 00:52:14,800
+to check tip number eight check of shear or one-way shear just to remind you we
+
+442
+00:52:14,860 --> 00:52:25,900
+have a footing and here is a column guys this total lens is 9.1 feet this lens
+
+443
+00:52:25,900 --> 00:52:40,060
+of the column, 16 inch. I'm gonna draw a distance equal D which is 21 inch. I have a critical
+
+444
+00:52:40,200 --> 00:52:53,500
+section here. Can you tell me? By the way, before telling you me this lens for the footing
+
+445
+00:52:53,500 --> 00:53:06,940
+is 9.1 feet. Can you tell me what is the lens for this area? Be careful. I need answers.
+
+446
+00:53:07,420 --> 00:53:17,100
+I need one to help me to figure out this lens. I'm looking for what is the lens here.
+
+447
+00:53:34,940 --> 00:53:36,640
+Any answer?
+
+448
+00:53:42,220 --> 00:53:42,840
+Is there any answer?
+
+449
+00:53:58,619 --> 00:53:59,220
+25
+
+450
+00:54:01,020 --> 00:54:04,120
+Brock this lens this total lens is 9.1
+
+451
+00:54:05,550 --> 00:54:09,900
+You are kidding me that means this lens is 25. Oh my goodness
+
+452
+00:54:12,440 --> 00:54:21,220
+No, it's not 2.56. No. Guys, I give you a hint last meeting to help you to figure out these
+
+453
+00:54:21,360 --> 00:54:34,500
+distances because it's very critical. It's confused. No Brian. No. Okay. So guys, what is the distance
+
+454
+00:54:34,580 --> 00:54:52,800
+between this center line and the edge. 9.1 divided by 2. 4.55. From this lens, please subtract 8 inch
+
+455
+00:54:54,480 --> 00:55:03,220
+and the 21 inch. Please convert them to feet. 8 inch. Yes, 8 inch. You are talking about half
+
+456
+00:55:03,220 --> 00:55:17,620
+of the column. So 8 inch plus 21 inch divided 12 subtract it from 4.55. This lens will be 2.13 feet.
+
+457
+00:55:19,900 --> 00:55:26,540
+If you would like to get the V ultimate one will be Q ultimate time this area.
+
+458
+00:55:29,060 --> 00:55:35,960
+The value of Q ultimate 5,989.
+
+459
+00:55:40,640 --> 00:55:45,040
+Time this area 2.13 times 9.1.
+
+460
+00:55:56,100 --> 00:56:06,040
+This value will be 116,266 pounds. Can you check? Please go ahead and check for depth
+
+461
+00:56:06,880 --> 00:56:10,420
+d2 shear. It's very easy. You can check it and it will be okay also.
+
+462
+00:56:16,060 --> 00:56:17,680
+Thank you Nancy. Thank you.
+
+463
+00:56:22,020 --> 00:56:26,900
+Number nine, moment, which is the last step, moment.
+
+464
+00:56:28,940 --> 00:56:36,700
+For me, as an instructor, I would like to draw the footing and the column every step.
+
+465
+00:56:38,880 --> 00:56:46,620
+Do you remember what is the critical, where is the critical location for moment at the face
+
+466
+00:56:48,180 --> 00:56:52,820
+of the column. So can you tell me what is the lense here right now?
+
+467
+00:56:57,060 --> 00:56:58,960
+This one is more easy.
+
+468
+00:57:07,720 --> 00:57:08,140
+Any answer?
+
+469
+00:57:11,180 --> 00:57:16,440
+Thank you Nancy. Second time 3.88.
+
+470
+00:57:19,000 --> 00:57:31,700
+The same also, I'm using the same meaning from the center line of the footing. This lens is 9.1 divided by 2, which is 4.55.
+
+471
+00:57:33,020 --> 00:57:40,580
+Subtract this little distance which is 8 inch. Make sure you convert it to feet. I can figure out this lens.
+
+472
+00:57:41,080 --> 00:57:53,180
+So we have area. Do you like to get the force? On this area will be q ultimate time this area.
+
+473
+00:57:55,080 --> 00:58:04,580
+The value of q ultimate was 5,989.
+
+474
+00:58:05,520 --> 00:58:11,720
+Time this area 3.88 times 9.1.
+
+475
+00:58:24,040 --> 00:58:34,120
+If M ultimate will be this force time, this have distance, which is 3.88 divided by 2.
+
+476
+00:58:39,300 --> 00:58:43,400
+Will be 410584 bound foot.
+
+477
+00:58:45,930 --> 00:58:49,680
+Can I figure out M ultimate divided by b d square?
+
+478
+00:58:52,360 --> 00:58:55,140
+By the way, this depth is 21.
+
+479
+00:58:56,180 --> 00:59:00,400
+This B is 9.1 feet times 12.
+
+480
+00:59:02,980 --> 00:59:06,700
+The width of the footing is 9.1 feet.
+
+481
+00:59:07,040 --> 00:59:09,400
+So I converted it to inch.
+
+482
+00:59:10,820 --> 00:59:11,740
+Fae 0.9.
+
+483
+00:59:12,240 --> 00:59:15,860
+M ultimate, please multiply it by 12.
+
+484
+00:59:16,020 --> 00:59:17,160
+It will be inbound inch.
+
+485
+00:59:18,480 --> 00:59:19,880
+Then I can figure out rho.
+
+486
+00:59:20,120 --> 00:59:26,660
+check between the row minimum and the row maximum, then I can get the area still.
+

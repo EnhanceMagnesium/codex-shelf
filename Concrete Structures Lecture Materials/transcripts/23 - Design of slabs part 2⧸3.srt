@@ -1,0 +1,1776 @@
+1
+00:00:00,919 --> 00:00:01,480
+[SPLASH]
+
+2
+00:00:03,040 --> 00:00:05,340
+to work with slips.
+
+3
+00:00:06,760 --> 00:00:09,420
+And I started with one-way slip.
+
+4
+00:00:10,400 --> 00:00:11,880
+One-way slip is a piece of cake.
+
+5
+00:00:13,280 --> 00:00:17,500
+We just need to figure out what is the minimum thickness
+
+6
+00:00:18,800 --> 00:00:19,380
+for the slip.
+
+7
+00:00:20,600 --> 00:00:22,300
+And we can figure out the own weight,
+
+8
+00:00:23,160 --> 00:00:25,460
+sober-imposed load and the life load.
+
+9
+00:00:26,480 --> 00:00:28,840
+And we can take one strip, one strip,
+
+10
+00:00:29,320 --> 00:00:37,540
+with unit width in the short direction, make sure one strip with unit width in the short
+
+11
+00:00:37,900 --> 00:00:46,480
+direction and then I can draw bending moment if it's simply supported or two span or more than
+
+12
+00:00:46,510 --> 00:00:54,440
+two span. So I can figure out the bending moment. Based on the on weight, sober embossed did load
+
+13
+00:00:54,440 --> 00:01:00,140
+and the life-loop. Don't forget to make a combination in ultimate. So did loot time 1.2,
+
+14
+00:01:00,480 --> 00:01:07,300
+life-loop time 1.6. Once I get the moment, I can design to figure out how much stereo
+
+15
+00:01:07,520 --> 00:01:13,920
+enforcement I need to check. This is stereo enforcement to be more than or equal to the minimum.
+
+16
+00:01:16,720 --> 00:01:20,160
+And we covered this example last time. Do you have any question?
+
+17
+00:01:25,040 --> 00:01:34,760
+looks good, looks good. Today I will start to talk about another type of sleep. It's not
+
+18
+00:01:34,860 --> 00:01:44,480
+simple but it's interesting because actually in the real life if you are engineer, if you are
+
+19
+00:01:44,520 --> 00:01:50,540
+designer, I will not use my hand calculation to design a slab. I will use a software.
+
+20
+00:01:51,620 --> 00:01:55,860
+And I promise you by the end of this semester, the last week we have project
+
+21
+00:01:57,040 --> 00:02:03,040
+and this project I will solve it with you. Don't worry because I need you to learn. This project
+
+22
+00:02:05,070 --> 00:02:12,300
+and I believe this project is most important part in this course. This project I'm going to use software.
+
+23
+00:02:15,580 --> 00:02:22,380
+I'm going to use something called floor or RISA, I'm sorry, RISA floor.
+
+24
+00:02:24,720 --> 00:02:36,160
+This software is another product for RISA, will help you to design slab, beams, columns.
+
+25
+00:02:39,580 --> 00:02:42,420
+In a few seconds, I'm sorry, a few minutes to be realistic.
+
+26
+00:02:43,080 --> 00:02:46,700
+A few minutes, I'm going to design slabs, beams, and the columns.
+
+27
+00:02:47,980 --> 00:02:52,320
+And I'm going to show you how to use Reza foundation.
+
+28
+00:02:52,780 --> 00:02:54,960
+It's another product for this software.
+
+29
+00:02:56,120 --> 00:03:01,900
+This software can help you to design any foundation, actually, for footing.
+
+30
+00:03:04,980 --> 00:03:11,300
+So what you learned in this course by hand calculation, we will cover it in one week
+
+31
+00:03:11,860 --> 00:03:19,860
+using a software by providing you a small scale for your Capstone project. So I'm gonna give you
+
+32
+00:03:20,040 --> 00:03:29,980
+a building. This building has floor with a slab and a beam with column with foundation and we need
+
+33
+00:03:29,980 --> 00:03:37,740
+to design the whole building as concrete structure, but using software not hand calculation.
+
+34
+00:03:39,400 --> 00:03:44,860
+Okay, so it will be very interesting, very, very interesting and most important, very important
+
+35
+00:03:45,240 --> 00:03:48,020
+also. Okay.
+
+36
+00:03:51,660 --> 00:04:01,780
+guys the second type of slab which called two-way slab. Two-way slab means from the meaning
+
+37
+00:04:02,900 --> 00:04:13,100
+or from the name two-way your slab is supported at four locations from all sides.
+
+38
+00:04:14,300 --> 00:04:27,280
+That means your lute can walk, can be moved, can be supported in this direction and this direction.
+
+39
+00:04:27,770 --> 00:04:36,660
+So we have two ways or two directions. So two way slabs are slabs that are supported on four sides.
+
+40
+00:04:37,980 --> 00:04:41,660
+In two ways, the load will be carried in both directions.
+
+41
+00:04:43,360 --> 00:04:48,380
+That means the mean steering force meant in both directions.
+
+42
+00:04:49,360 --> 00:04:52,180
+Guys, do you remember I told you for one way slope?
+
+43
+00:04:53,170 --> 00:04:56,220
+We have, we have what?
+
+44
+00:04:57,760 --> 00:05:01,420
+We have mean direction, mean direction.
+
+45
+00:05:03,100 --> 00:05:04,800
+And we have secondary direction.
+
+46
+00:05:05,420 --> 00:05:10,140
+The main direction we have is ministerial reinforcement area steel mean.
+
+47
+00:05:11,610 --> 00:05:17,240
+In the other direction we have minimum reinforcement just minimum.
+
+48
+00:05:19,640 --> 00:05:27,680
+We have only one direction but for two ways lab we have two direction that means the ministerial
+
+49
+00:05:27,680 --> 00:05:36,040
+enforcement will be provided in the two directions. The slabs are considered as
+
+50
+00:05:36,080 --> 00:05:42,880
+spanning two-way. This condition is very important when I consider the slab to be
+
+51
+00:05:42,880 --> 00:05:58,980
+way if longer divided shorter is less than two. So longer divided shorter less than two.
+
+52
+00:06:01,620 --> 00:06:11,120
+Sometimes your two ways lab sometimes with beans can you watch this picture please between this column
+
+53
+00:06:11,120 --> 00:06:17,780
+and this column we have a beam. We have a beam. We have a beam. We have a beam from four sides.
+
+54
+00:06:18,760 --> 00:06:29,440
+And these beams are supporting this slip. So we have two ways to slip with beams.
+
+55
+00:06:31,480 --> 00:06:41,100
+Sometimes we don't have beams. The slab is supported directly on column. So
+
+56
+00:06:41,100 --> 00:06:49,960
+this square or this rectangle shape, we have here a column, we have here a column, column, column.
+
+57
+00:06:50,360 --> 00:07:02,440
+So your slab is supported at these corners by columns directly. So we have two-way slab without beams.
+
+58
+00:07:03,759 --> 00:07:05,120
+Any questions so far?
+
+59
+00:07:07,220 --> 00:07:08,380
+Any questions so far?
+
+60
+00:07:09,020 --> 00:07:11,280
+We need to understand, we need to figure out,
+
+61
+00:07:11,860 --> 00:07:15,180
+we need to understand what is the meaning of this concept.
+
+62
+00:07:16,039 --> 00:07:16,860
+Very important.
+
+63
+00:07:18,680 --> 00:07:22,540
+Okay. I'm going to focus a little bit on this slab.
+
+64
+00:07:22,860 --> 00:07:24,260
+By the way, this slab,
+
+65
+00:07:24,480 --> 00:07:26,400
+which is two-way without beams,
+
+66
+00:07:26,640 --> 00:07:28,320
+can be called flat slab.
+
+67
+00:07:30,600 --> 00:07:32,300
+Sometimes we can call it flat.
+
+68
+00:07:33,060 --> 00:07:39,140
+"Clap" means we don't have anything dropping down from the slab. It's a flit.
+
+69
+00:07:40,760 --> 00:07:43,480
+Just "slab" rested on columns.
+
+70
+00:07:46,980 --> 00:07:49,240
+For two-way slab without beams,
+
+71
+00:07:51,600 --> 00:07:55,780
+the normal or the regular shape is this one.
+
+72
+00:07:57,780 --> 00:07:58,580
+Just a slab,
+
+73
+00:07:59,340 --> 00:08:02,520
+rested on columns like this.
+
+74
+00:08:05,240 --> 00:08:09,300
+Your column, maybe circular column, square, rectangle,
+
+75
+00:08:09,660 --> 00:08:11,640
+whatever the shape of the column, I don't care.
+
+76
+00:08:12,260 --> 00:08:13,440
+But the slab itself,
+
+77
+00:08:13,920 --> 00:08:16,560
+rested directly on the column.
+
+78
+00:08:20,400 --> 00:08:21,760
+Sometimes you're,
+
+79
+00:08:25,460 --> 00:08:25,840
+Do you know?
+
+80
+00:08:27,040 --> 00:08:28,180
+Let me explain it here.
+
+81
+00:08:28,630 --> 00:08:34,060
+If you are sitting at home right now, can you bring a piece of paper like this?
+
+82
+00:08:36,700 --> 00:08:49,800
+Can you try to hold down your pencil with sharp point on the paper?
+
+83
+00:08:50,400 --> 00:08:51,100
+What do you expect?
+
+84
+00:08:52,460 --> 00:08:54,360
+If this pencil
+
+85
+00:08:56,920 --> 00:08:58,760
+hold down on the paper
+
+86
+00:09:00,660 --> 00:09:01,540
+so what do you expect?
+
+87
+00:09:02,880 --> 00:09:04,160
+What will happen for the paper?
+
+88
+00:09:05,840 --> 00:09:08,140
+Do you, what do you expect? Any answer?
+
+89
+00:09:09,220 --> 00:09:09,760
+Make a hole.
+
+90
+00:09:11,940 --> 00:09:14,760
+This hole or this phenomena
+
+91
+00:09:15,500 --> 00:09:17,220
+can be called punch.
+
+92
+00:09:20,340 --> 00:09:23,940
+The pencil will punch the paper.
+
+93
+00:09:25,740 --> 00:09:29,800
+Okay, can we flip this shape?
+
+94
+00:09:30,030 --> 00:09:34,600
+We have a slab with a little thickness.
+
+95
+00:09:35,260 --> 00:09:39,280
+It's okay, four inch or five inch, it's still very thin.
+
+96
+00:09:40,639 --> 00:09:43,460
+Five or four or five inches, nothing.
+
+97
+00:09:44,180 --> 00:09:45,180
+And we have a column.
+
+98
+00:09:45,340 --> 00:09:57,760
+column and this column underneath this label. If this column is small for any reason, we
+
+99
+00:09:57,800 --> 00:10:04,640
+will cover it next week. And this is lab, it's not thick enough. So what do you expect
+
+100
+00:10:05,900 --> 00:10:10,040
+at this connection, we expect bunching.
+
+101
+00:10:13,820 --> 00:10:17,400
+That's right, we expect bunching.
+
+102
+00:10:19,060 --> 00:10:23,740
+So what is the solution for this phenomena?
+
+103
+00:10:24,340 --> 00:10:26,220
+We have different solutions.
+
+104
+00:10:27,700 --> 00:10:30,860
+The first one increase this thickness
+
+105
+00:10:31,480 --> 00:10:34,100
+rather than five inch to be 10 inch.
+
+106
+00:10:34,340 --> 00:10:36,340
+Mm-hmm, but it's costly.
+
+107
+00:10:36,970 --> 00:10:38,460
+You will spend too much money
+
+108
+00:10:39,520 --> 00:10:42,360
+because you increased the thickness
+
+109
+00:10:43,240 --> 00:10:48,960
+for the whole slab only, for this region only.
+
+110
+00:10:50,900 --> 00:10:52,000
+Doesn't make sense.
+
+111
+00:10:53,780 --> 00:10:57,720
+Or you can increase the column,
+
+112
+00:10:59,130 --> 00:11:01,200
+the cross section of the column, BBGAR.
+
+113
+00:11:04,300 --> 00:11:07,160
+or we have these solutions.
+
+114
+00:11:08,920 --> 00:11:13,520
+This one called drop panel.
+
+115
+00:11:18,060 --> 00:11:20,620
+At this region around the column,
+
+116
+00:11:20,880 --> 00:11:23,080
+I'm gonna increase the thickness of the slab
+
+117
+00:11:24,320 --> 00:11:25,280
+to be 10 inch,
+
+118
+00:11:26,500 --> 00:11:29,380
+but the remaining slab will be five inch.
+
+119
+00:11:31,180 --> 00:11:34,120
+guys at the top of the slab, it's a flat,
+
+120
+00:11:34,840 --> 00:11:37,820
+but this difference in thickness will be from the bottom.
+
+121
+00:11:39,740 --> 00:11:41,160
+Because you are walking here,
+
+122
+00:11:41,380 --> 00:11:44,300
+you are sitting on the slab on the surface.
+
+123
+00:11:44,820 --> 00:11:46,040
+So I don't care about the bottom.
+
+124
+00:11:47,200 --> 00:11:47,860
+So what happened?
+
+125
+00:11:48,120 --> 00:11:52,380
+I increased the thickness only around this region.
+
+126
+00:11:52,500 --> 00:11:53,680
+Can you watch this video?
+
+127
+00:11:53,760 --> 00:11:55,820
+It's a real bit, I'm sorry, is this photo?
+
+128
+00:11:56,520 --> 00:11:58,600
+It's on site photo.
+
+129
+00:11:59,900 --> 00:12:04,100
+So I increase the thickness of the slab at this region only
+
+130
+00:12:05,010 --> 00:12:08,720
+to make sure to avoid the bunch
+
+131
+00:12:10,060 --> 00:12:13,540
+coming from this column to bunch this slab.
+
+132
+00:12:15,260 --> 00:12:18,600
+This called drop panel, drop panel.
+
+133
+00:12:20,740 --> 00:12:25,020
+We have another solution which called column head.
+
+134
+00:12:30,720 --> 00:12:35,360
+So this one avoided to increase the thickness for the whole slab.
+
+135
+00:12:35,460 --> 00:12:39,520
+We just increase the thickness of the slab around the column.
+
+136
+00:12:40,560 --> 00:12:47,140
+For this one avoid for head column avoided to increase the cross section of the column.
+
+137
+00:12:47,210 --> 00:12:51,980
+We just increased the cross section at the top of the column.
+
+138
+00:12:52,940 --> 00:12:55,040
+we did something called column head.
+
+139
+00:12:58,760 --> 00:13:03,920
+Sometimes we can combine this solution and this solution
+
+140
+00:13:04,080 --> 00:13:06,000
+for one solution like this.
+
+141
+00:13:06,100 --> 00:13:07,140
+Can you watch this photo?
+
+142
+00:13:07,920 --> 00:13:15,400
+It's a drop panel with column head.
+
+143
+00:13:18,450 --> 00:13:21,779
+So I increase the thickness of the slab at this location
+
+144
+00:13:21,780 --> 00:13:29,860
+only and I did something called a column head by the end of the column at the top.
+
+145
+00:13:33,660 --> 00:13:43,120
+So any question? Guys, do you have any question? So in the real life, if you are watching something
+
+146
+00:13:43,280 --> 00:13:50,579
+like this, it's a flat slab or two-way slab without beams, but we have droplet. If you are
+
+147
+00:13:50,580 --> 00:13:56,120
+watching something like this we have column head or column head with drop
+
+148
+00:13:56,180 --> 00:14:02,160
+panel but most of the z-slap will be like this just a slab
+
+149
+00:14:02,380 --> 00:14:04,160
+rested on columns
+
+150
+00:14:10,079 --> 00:14:17,619
+okay we need to figure out the thickness of the slip what is the thickness
+
+151
+00:14:19,140 --> 00:14:32,940
+So we have two situations. First one, if you don't have beans, no beans.
+
+152
+00:14:37,840 --> 00:14:44,840
+So based on the type of steel, if you're a steel 40,000 F yield, 60,000,
+
+153
+00:14:45,540 --> 00:14:58,260
+high strength steel 75,000 so I can select which condition. If you have drop panel or if you don't
+
+154
+00:14:58,420 --> 00:15:11,500
+have drop panel, if you have edge beams, if you don't have without or with edge beams.
+
+155
+00:15:12,340 --> 00:15:19,520
+So you need to think, think what condition do you have. I'm gonna start from the beginning.
+
+156
+00:15:20,280 --> 00:15:28,060
+Do you have interior beams or not? What type of steel you are using?
+
+157
+00:15:30,360 --> 00:15:35,660
+Are you talking about a exterior panel at the edge or interior panel?
+
+158
+00:15:37,700 --> 00:15:44,620
+Do you have drop bannals or not? Based on these conditions, I can decide which
+
+159
+00:15:46,140 --> 00:15:57,420
+expression I'm going to use. By the way, ln is the clearest band in the longer direction
+
+160
+00:15:57,960 --> 00:16:03,860
+of the slab measured face to face of cone. What do you mean by face of face, face to face?
+
+161
+00:16:05,140 --> 00:16:12,460
+What do you mean? Let me go to the homework number six, I think.
+
+162
+00:16:15,600 --> 00:16:15,920
+Here we go.
+
+163
+00:16:19,500 --> 00:16:23,260
+Guys, can you watch this homework, for example?
+
+164
+00:16:30,660 --> 00:16:40,660
+the distance between this center line and this center line how much 22 feet this one called l
+
+165
+00:16:42,680 --> 00:16:51,900
+but if you are talking about ln which means clearis band which is the distance from this face of the
+
+166
+00:16:51,940 --> 00:17:01,260
+column to this phase of the column. This one can be called ln. It will be
+
+167
+00:17:01,320 --> 00:17:06,980
+smaller than 22 a little bit. But to make sure you can understand what is the
+
+168
+00:17:07,000 --> 00:17:15,819
+meaning of ln. ln is a clear span. Clear span means phase to phase. Phase of
+
+169
+00:17:15,839 --> 00:17:23,160
+this column to face of this column. But the total span means center to center.
+
+170
+00:17:32,059 --> 00:17:41,540
+Okay, okay. If you have interior beams, it will be more complicated, but I'm gonna suggest
+
+171
+00:17:41,680 --> 00:17:50,220
+use 5 inch without all of these details. Forget all of these details just use 5 inch as a minimum
+
+172
+00:17:51,100 --> 00:17:56,320
+thickness. If you have beams, interior beams.
+
+173
+00:18:00,780 --> 00:18:01,600
+Any questions so far?
+
+174
+00:18:06,540 --> 00:18:07,260
+Okay.
+
+175
+00:18:11,600 --> 00:18:23,780
+guys for one way slab we assumed strip with unit width but for two way slabs we need to
+
+176
+00:18:23,880 --> 00:18:36,180
+divide your slab to mini strips the first one called column strip the second one called middle
+
+177
+00:18:36,180 --> 00:18:48,000
+strip. By the way, middle strip are supported by column strip. So guys, what do you think
+
+178
+00:18:48,240 --> 00:18:54,080
+column strip, what is the meaning of column strip? What is the meaning of column strip?
+
+179
+00:18:55,940 --> 00:19:06,140
+from the from the name column strip what does it mean if we are talking about x direction
+
+180
+00:19:07,520 --> 00:19:12,480
+this direction x what is the meaning of column strip
+
+181
+00:19:16,160 --> 00:19:23,700
+yeah yeah i'm talking about oliver i'm talking about if you have flat slab
+
+182
+00:19:25,140 --> 00:19:26,460
+with interior beam?
+
+183
+00:19:28,680 --> 00:19:31,320
+Just to make sure everything is good.
+
+184
+00:19:32,580 --> 00:19:34,720
+For your homework, we have two problems.
+
+185
+00:19:34,900 --> 00:19:37,280
+Problem number two, can you watch?
+
+186
+00:19:38,220 --> 00:19:39,860
+Do you have any interior beams?
+
+187
+00:19:40,760 --> 00:19:41,060
+No.
+
+188
+00:19:42,280 --> 00:19:44,700
+Second problem, do you have any interior beam?
+
+189
+00:19:44,980 --> 00:19:45,220
+Yes.
+
+190
+00:19:45,920 --> 00:19:50,940
+By the way, interior beams or beams in concrete
+
+191
+00:19:50,980 --> 00:19:54,560
+can be defined by these two lines.
+
+192
+00:19:57,580 --> 00:19:58,520
+We have a column here.
+
+193
+00:20:00,680 --> 00:20:01,980
+We have another column here.
+
+194
+00:20:03,440 --> 00:20:06,060
+In between, we have two lines.
+
+195
+00:20:06,640 --> 00:20:07,400
+Can you watch them?
+
+196
+00:20:08,140 --> 00:20:13,760
+These two lines represent that we have beams in between.
+
+197
+00:20:15,980 --> 00:20:19,700
+If you go to this figure, between this column
+
+198
+00:20:19,700 --> 00:20:23,160
+And this column, do you have multi-line?
+
+199
+00:20:23,190 --> 00:20:24,860
+Do you have this thing, double line?
+
+200
+00:20:26,140 --> 00:20:28,420
+No, so we don't have beans.
+
+201
+00:20:30,240 --> 00:20:34,560
+This one with beam, this one without interior beam.
+
+202
+00:20:36,180 --> 00:20:38,280
+Guys, all of these stuff are very important.
+
+203
+00:20:38,880 --> 00:20:41,100
+Doesn't make any sense for any student.
+
+204
+00:20:41,460 --> 00:20:44,820
+After graduation, he cannot understand,
+
+205
+00:20:44,920 --> 00:20:48,440
+he cannot figure out this is lab with or without beans.
+
+206
+00:20:49,140 --> 00:20:50,780
+These symbols are very important.
+
+207
+00:20:51,400 --> 00:20:54,160
+You should learn this stuff during your toolkit course.
+
+208
+00:20:55,960 --> 00:21:00,320
+If you are talking about beams for plane of floor,
+
+209
+00:21:01,879 --> 00:21:04,260
+beams represented like this.
+
+210
+00:21:05,519 --> 00:21:10,240
+Columns represented like this square or this rectangle,
+
+211
+00:21:10,560 --> 00:21:12,000
+whatever the shape of the column.
+
+212
+00:21:13,110 --> 00:21:14,820
+So if you have something like this,
+
+213
+00:21:15,760 --> 00:21:19,320
+And sometimes we are providing centerline.
+
+214
+00:21:22,600 --> 00:21:25,520
+This shape in the real life represent,
+
+215
+00:21:26,100 --> 00:21:27,300
+I'm talking about floor,
+
+216
+00:21:29,180 --> 00:21:29,420
+chain.
+
+217
+00:21:31,340 --> 00:21:33,580
+This shape represent column.
+
+218
+00:21:35,400 --> 00:21:37,460
+These two lines represent beam
+
+219
+00:21:38,720 --> 00:21:40,440
+between this column and this column.
+
+220
+00:21:44,340 --> 00:21:49,500
+Or you have a column and you have another column
+
+221
+00:21:50,800 --> 00:21:52,460
+and you have center lines, that's fine.
+
+222
+00:21:53,160 --> 00:21:55,900
+Center line just for construction, that's fine.
+
+223
+00:21:56,600 --> 00:21:58,100
+We don't have anything in between.
+
+224
+00:21:58,660 --> 00:22:03,580
+That means we have a slab without beam.
+
+225
+00:22:08,220 --> 00:22:10,740
+If you are looking to your final floor plan,
+
+226
+00:22:11,460 --> 00:22:14,320
+This one is philates slab, slab without beam.
+
+227
+00:22:15,000 --> 00:22:16,000
+This one with beam.
+
+228
+00:22:21,320 --> 00:22:22,500
+Any question for this point?
+
+229
+00:22:25,820 --> 00:22:27,160
+Any question for this point?
+
+230
+00:22:27,380 --> 00:22:28,840
+Guys, it's important.
+
+231
+00:22:30,520 --> 00:22:31,240
+It's important.
+
+232
+00:22:35,340 --> 00:22:35,580
+Okay.
+
+233
+00:22:40,420 --> 00:22:46,480
+So my question is, what is the meaning of column strip?
+
+234
+00:22:49,159 --> 00:22:57,440
+Column strip means I will come to x direction.
+
+235
+00:22:57,440 --> 00:22:59,120
+I'm talking about this direction, x.
+
+236
+00:23:00,080 --> 00:23:05,520
+I will come to this column and this column and this column
+
+237
+00:23:06,140 --> 00:23:06,880
+and this column.
+
+238
+00:23:07,580 --> 00:23:13,360
+and I'm going to assume strip from this side and this side.
+
+239
+00:23:19,520 --> 00:23:20,300
+And this strip
+
+240
+00:23:24,920 --> 00:23:33,420
+is supported by what? This strip is supported by what? This strip looks like this.
+
+241
+00:23:35,100 --> 00:23:46,900
+supported here by this column and here by this column and here by this column and here by this
+
+242
+00:23:47,670 --> 00:23:56,680
+column do you agree do you have any question for this point
+
+243
+00:23:59,100 --> 00:24:02,460
+Guys, what I'm talking about is just to understand.
+
+244
+00:24:03,799 --> 00:24:05,520
+Just to understand.
+
+245
+00:24:07,120 --> 00:24:09,300
+Because this point is confused a little bit.
+
+246
+00:24:10,020 --> 00:24:10,660
+It's confused.
+
+247
+00:24:12,400 --> 00:24:16,020
+So make sure you can put your hand what's going on.
+
+248
+00:24:18,020 --> 00:24:21,960
+Okay, for this column and this column and this column and this column,
+
+249
+00:24:22,320 --> 00:24:24,320
+we have another column strip.
+
+250
+00:24:32,299 --> 00:24:33,160
+And the same meaning.
+
+251
+00:24:34,120 --> 00:24:36,520
+This column strip, if you are talking about structure
+
+252
+00:24:36,660 --> 00:24:40,260
+analysis, would be looks like beam supported
+
+253
+00:24:40,820 --> 00:24:43,860
+at these columns like this.
+
+254
+00:24:47,700 --> 00:24:51,100
+And we have column strip here
+
+255
+00:24:52,960 --> 00:24:54,060
+and the column strip here.
+
+256
+00:24:57,780 --> 00:25:01,360
+Anybody has any comment, any question until this moment?
+
+257
+00:25:04,380 --> 00:25:10,220
+These green steps called column steps.
+
+258
+00:25:18,240 --> 00:25:23,180
+I'm talking about, by the way, I'm talking about x direction.
+
+259
+00:25:23,340 --> 00:25:37,520
+So, this lens can be called L1 and this lens from center of line to center of line can
+
+260
+00:25:37,520 --> 00:25:40,520
+be called L2.
+
+261
+00:25:41,390 --> 00:25:47,020
+So L1 and X, L2, perpendicular to your direction.
+
+262
+00:25:50,540 --> 00:25:59,020
+should ask me a question here. What is the question expected at this point? What is the question?
+
+263
+00:26:04,160 --> 00:26:11,240
+What is the question regarding columnist strip? What do you think? You should ask me a good question.
+
+264
+00:26:12,360 --> 00:26:21,280
+This question is, what is the question? What do you think?
+
+265
+00:26:35,340 --> 00:26:37,620
+the load okay that's a good question
+
+266
+00:26:41,700 --> 00:26:50,600
+how big thank you brock width that's a good question in one way slab we have a strip was
+
+267
+00:26:50,760 --> 00:26:58,700
+unit width but here no it's not unit what is the width here why are you stop why are you
+
+268
+00:26:59,260 --> 00:27:06,380
+I'm stopping here why not here not here so what is the width what is the width of
+
+269
+00:27:06,440 --> 00:27:14,180
+this strip you are talking about column strip that's right what is the width of
+
+270
+00:27:14,280 --> 00:27:27,099
+this strip that's right okay from this center line to this edge we have a value
+
+271
+00:27:27,760 --> 00:27:37,680
+which is 0.25L1 or 0.25L2.
+
+272
+00:27:43,099 --> 00:27:44,320
+The smallest value.
+
+273
+00:27:49,400 --> 00:27:53,820
+L1, this distance from this center line to this center line.
+
+274
+00:27:54,040 --> 00:27:57,340
+L2, this distance from this center line to this center line.
+
+275
+00:27:57,460 --> 00:28:01,040
+Please go ahead and get the quarter of these lenses.
+
+276
+00:28:02,160 --> 00:28:04,640
+So I have a value here and I have another value here.
+
+277
+00:28:05,000 --> 00:28:06,740
+Please use the smallest one.
+
+278
+00:28:07,420 --> 00:28:11,540
+The smallest value will be this width from this side.
+
+279
+00:28:12,200 --> 00:28:15,040
+We have the same on the other side,
+
+280
+00:28:15,340 --> 00:28:18,640
+So I can figure out the total weight of this strip.
+
+281
+00:28:24,140 --> 00:28:29,980
+So in this example, L1 equals 22 feet.
+
+282
+00:28:31,160 --> 00:28:32,600
+L2 equals 22.
+
+283
+00:28:32,620 --> 00:28:33,920
+You are lucky.
+
+284
+00:28:34,320 --> 00:28:35,540
+Both of them are equal.
+
+285
+00:28:36,460 --> 00:28:40,820
+So if you multiply 0.25 times 22,
+
+286
+00:28:41,380 --> 00:28:51,160
+your final will be 5.5 feet from this side, 5.5 feet from the other side, so the total width will be 11 feet.
+
+287
+00:28:59,180 --> 00:29:05,240
+Any question? So I have 11 here also, so 5.5 from this side
+
+288
+00:29:07,080 --> 00:29:09,240
+and the 5.5 from the other side.
+
+289
+00:29:13,500 --> 00:29:16,440
+From this center line I have 5.5.
+
+290
+00:29:17,760 --> 00:29:21,060
+From this center line I have 5.5.
+
+291
+00:29:21,880 --> 00:29:22,980
+Any questions so far guys?
+
+292
+00:29:24,720 --> 00:29:39,280
+So column strip is a design strip with a width on each side of a column center line equal to the laser of 0.2522 or 0.2511 column strip shall increase.
+
+293
+00:29:39,280 --> 00:29:44,840
+beans if you have beans if you have beans any questions so far
+
+294
+00:29:47,720 --> 00:29:54,960
+looks good looks good one of you will ask me what about the second strip we
+
+295
+00:29:55,020 --> 00:30:00,260
+have another strip called middle strip so how can I figure out the middle
+
+296
+00:30:00,380 --> 00:30:04,880
+strip no you don't need to figure them out because you are done the strip
+
+297
+00:30:04,880 --> 00:30:12,680
+The remaining between column strip and the column strip can be called middle strip.
+
+298
+00:30:13,530 --> 00:30:18,760
+So this strip is the remaining distance.
+
+299
+00:30:19,810 --> 00:30:25,680
+You don't need to figure them out because they will bob up alone.
+
+300
+00:30:31,080 --> 00:30:48,820
+red strips can be called middle strip my question to you guys can you tell me what
+
+301
+00:30:48,900 --> 00:30:58,860
+is the width so what is the width here I can figure it out I have a distance here
+
+302
+00:30:58,860 --> 00:31:04,460
+from center line to this edge 5.5 and I have another 5.5 here so the remaining
+
+303
+00:31:04,620 --> 00:31:12,100
+distance will be the width. Actually the total distance is 22 so 22 minus 5.5
+
+304
+00:31:12,360 --> 00:31:26,260
+minus 5.5 so it will be 11 feet. This width will be 11 feet. This width will be 11 feet.
+
+305
+00:31:27,620 --> 00:31:41,260
+So I divided my beam, I'm sorry, I divided my slab in x direction to column strip and the field
+
+306
+00:31:41,460 --> 00:31:51,660
+strip. Anybody has any question? Thank you Oliver, thank you Borat. Okay, I have question,
+
+307
+00:31:51,740 --> 00:31:52,760
+please pay attention.
+
+308
+00:31:54,300 --> 00:31:55,240
+Please pay attention.
+
+309
+00:31:58,620 --> 00:32:02,660
+Guys, I told you the column strip and that makes sense.
+
+310
+00:32:03,050 --> 00:32:09,920
+The column strip is supported by this column, and this column, and this column, and this column.
+
+311
+00:32:12,700 --> 00:32:14,480
+What about the middle strip?
+
+312
+00:32:15,430 --> 00:32:20,720
+If you are talking about this strip, this strip will be supported by what?
+
+313
+00:32:26,159 --> 00:32:39,160
+Do you have anything at the middle? You have any support inside this strip? Wow,
+
+314
+00:32:39,160 --> 00:32:41,320
+Wow, so we need to figure it out.
+
+315
+00:32:45,820 --> 00:32:48,560
+No, no, rebars not support.
+
+316
+00:32:49,200 --> 00:32:52,660
+I'm talking about support means we have column,
+
+317
+00:32:53,660 --> 00:32:57,480
+we have another beam, we have something to support.
+
+318
+00:32:58,100 --> 00:33:01,180
+Reinforcement are not support, reinforcement to support
+
+319
+00:33:01,340 --> 00:33:05,040
+moment, but I'm talking about number.
+
+320
+00:33:05,700 --> 00:33:10,900
+What is the support for these members?
+
+321
+00:33:15,520 --> 00:33:17,040
+Longitudinal column strip.
+
+322
+00:33:17,220 --> 00:33:18,580
+It's a good answer, Oliver,
+
+323
+00:33:18,720 --> 00:33:20,740
+but what you mean by longitudinal column strip?
+
+324
+00:33:24,000 --> 00:33:24,780
+It's a good answer.
+
+325
+00:33:26,040 --> 00:33:32,200
+But what is the relationship between this column strip,
+
+326
+00:33:32,230 --> 00:33:33,520
+you mean this column strip?
+
+327
+00:33:37,500 --> 00:33:39,040
+Thank you, thank you, Omairi.
+
+328
+00:33:39,720 --> 00:33:49,420
+Yes, guys, what you did in X direction must be done in Y direction.
+
+329
+00:33:51,940 --> 00:33:57,460
+So, at this column, we have here column strip.
+
+330
+00:34:00,940 --> 00:34:02,700
+watch this column is stripped
+
+331
+00:34:05,540 --> 00:34:07,220
+And we have here another column strip.
+
+332
+00:34:13,159 --> 00:34:14,860
+And we have another column strip.
+
+333
+00:34:19,159 --> 00:34:20,820
+And we have another column strip.
+
+334
+00:34:24,660 --> 00:34:29,960
+So if you are looking to this middle strip,
+
+335
+00:34:30,480 --> 00:34:32,440
+this middle strip will be supported here
+
+336
+00:34:32,560 --> 00:34:33,600
+by this column strip.
+
+337
+00:34:36,840 --> 00:34:42,579
+And this column is trip and this column is trip and this column strip what you call them the strip in
+
+338
+00:34:43,399 --> 00:34:43,960
+why
+
+339
+00:34:44,560 --> 00:34:44,860
+direction
+
+340
+00:34:47,879 --> 00:34:48,820
+You got it
+
+341
+00:34:50,580 --> 00:34:51,080
+You got it
+
+342
+00:34:53,100 --> 00:34:55,000
+So guys I need to
+
+343
+00:34:57,019 --> 00:34:58,760
+Divide I need to sketch
+
+344
+00:34:59,300 --> 00:35:06,300
+my plan to something called column strip and the middle strip in both direction in
+
+345
+00:35:07,200 --> 00:35:14,060
+Exo direction and the y direction and make sure you can understand this point
+
+346
+00:35:15,100 --> 00:35:16,000
+It's very important
+
+347
+00:35:17,040 --> 00:35:20,460
+You cannot find many to understand this concept
+
+348
+00:35:22,380 --> 00:35:24,580
+This strip is middle strip
+
+349
+00:35:26,480 --> 00:35:29,280
+Middle strip means no contact with a column
+
+350
+00:35:29,280 --> 00:35:36,560
+This middle strip is supported here and supported here and supported here with what?
+
+351
+00:35:37,410 --> 00:35:40,040
+The column strip in Y direction.
+
+352
+00:35:41,380 --> 00:35:43,880
+The column strip in Y direction.
+
+353
+00:35:45,320 --> 00:35:47,660
+The column strip in Y direction.
+
+354
+00:35:51,359 --> 00:35:57,260
+Also, also, it's very important to figure this out.
+
+355
+00:35:58,280 --> 00:36:16,860
+If you are talking about middle strip in y direction, this middle strip will be supported here by column strip, this column strip, and this column strip, and this column strip.
+
+356
+00:36:19,220 --> 00:36:22,320
+Support here, support here, support here.
+
+357
+00:36:26,559 --> 00:36:29,540
+This slide is very important.
+
+358
+00:36:30,430 --> 00:36:42,740
+If you can understand it, so you can understand the sequence of loading or the mechanism of loading on two ways lab without beams.
+
+359
+00:36:43,390 --> 00:36:45,140
+I'm talking about we don't have beams.
+
+360
+00:36:46,780 --> 00:36:51,400
+without beads. So how can the slab carry each other?
+
+361
+00:36:54,640 --> 00:37:04,380
+How this slab can carry each other? So we divided it to strips and one of these strips carrying the other strip.
+
+362
+00:37:06,280 --> 00:37:08,700
+column strip supporting middle strip.
+
+363
+00:37:09,080 --> 00:37:14,060
+But which column strip, the column strip in this direction,
+
+364
+00:37:14,820 --> 00:37:18,020
+supporting the middle strip in the opposite direction?
+
+365
+00:37:28,080 --> 00:37:29,300
+Little square.
+
+366
+00:37:30,600 --> 00:37:31,300
+Which is square?
+
+367
+00:37:32,680 --> 00:37:33,040
+This one?
+
+368
+00:37:35,500 --> 00:37:37,780
+You are talking about this one, it's not a little square.
+
+369
+00:37:38,380 --> 00:37:41,460
+This one is a part of this strip.
+
+370
+00:37:41,760 --> 00:37:44,360
+Guys, remember, your strip, it's not a line.
+
+371
+00:37:45,280 --> 00:37:49,620
+I'm trying to assume it a line to make, looks like beam,
+
+372
+00:37:50,360 --> 00:37:51,260
+but it's not a line.
+
+373
+00:37:51,380 --> 00:37:54,420
+Your strip is a width, the whole width.
+
+374
+00:37:56,240 --> 00:37:59,860
+So the whole width, this width, the whole width
+
+375
+00:38:01,500 --> 00:38:11,440
+is supported here by this strip and this strip and this strip.
+
+376
+00:38:12,920 --> 00:38:15,100
+But if you are talking about the structure analysis,
+
+377
+00:38:15,420 --> 00:38:19,160
+I'm going to assume this strip looks like a line.
+
+378
+00:38:21,160 --> 00:38:24,360
+And the supporting strip looks like one support.
+
+379
+00:38:25,620 --> 00:38:27,600
+But in the real life, it's not one line.
+
+380
+00:38:27,740 --> 00:38:30,440
+It's an area supported by another area.
+
+381
+00:38:33,520 --> 00:38:34,000
+Okay, Oliver?
+
+382
+00:38:35,680 --> 00:38:36,780
+Okay, that makes sense.
+
+383
+00:38:37,140 --> 00:38:40,660
+Okay, so guys, this point is very important.
+
+384
+00:38:41,400 --> 00:38:43,040
+You need to understand it.
+
+385
+00:38:44,900 --> 00:38:46,840
+Okay, actually for this week,
+
+386
+00:38:47,080 --> 00:38:50,220
+I'm gonna focus on understanding the concept,
+
+387
+00:38:50,380 --> 00:38:52,560
+the mechanism of these slaves.
+
+388
+00:38:53,200 --> 00:38:57,720
+Because on Friday, I'm gonna solve this homework
+
+389
+00:38:58,860 --> 00:39:00,340
+It's not a big deal for me.
+
+390
+00:39:00,860 --> 00:39:06,760
+As I told you, we recommend to solve Bslaps by software
+
+391
+00:39:07,320 --> 00:39:10,900
+because it's not easy to do it with handy calculation.
+
+392
+00:39:12,480 --> 00:39:16,480
+But the most important part to understand what's going on.
+
+393
+00:39:17,700 --> 00:39:17,940
+Okay.
+
+394
+00:39:20,860 --> 00:39:23,820
+Final step, we need to figure out what is the moment.
+
+395
+00:39:24,820 --> 00:39:29,340
+By the end of this sketch or of this division,
+
+396
+00:39:29,560 --> 00:39:31,600
+all of this stuff, I need to figure out,
+
+397
+00:39:31,960 --> 00:39:34,460
+we have a column strip, something like this,
+
+398
+00:39:34,800 --> 00:39:35,760
+supported by column.
+
+399
+00:39:36,220 --> 00:39:37,040
+So what is the moment?
+
+400
+00:39:38,740 --> 00:39:39,980
+I need to draw a moment.
+
+401
+00:39:41,920 --> 00:39:45,600
+And if you have middle strip supported by column strip,
+
+402
+00:39:46,380 --> 00:39:48,440
+we need to figure out what is the final moment.
+
+403
+00:39:49,480 --> 00:39:52,820
+Because once you draw bending moment,
+
+404
+00:39:54,340 --> 00:39:58,160
+your design is done because in ultimate divide,
+
+405
+00:39:58,440 --> 00:40:01,800
+say BD square, I can figure out this number.
+
+406
+00:40:02,120 --> 00:40:03,560
+So I can figure out the row.
+
+407
+00:40:03,860 --> 00:40:05,360
+So I can figure out the area still.
+
+408
+00:40:06,100 --> 00:40:06,500
+That's it.
+
+409
+00:40:07,720 --> 00:40:08,280
+That's it.
+
+410
+00:40:10,660 --> 00:40:12,840
+So how can I figure out the moment?
+
+411
+00:40:13,180 --> 00:40:15,280
+I will go through it quickly.
+
+412
+00:40:18,440 --> 00:40:21,840
+First step, we need to figure out this value.
+
+413
+00:40:22,400 --> 00:40:22,920
+Total moment.
+
+414
+00:40:24,740 --> 00:40:28,020
+M-nute, which equal Q-ultimate.
+
+415
+00:40:29,160 --> 00:40:31,640
+I'm talking about a method called direct to design method.
+
+416
+00:40:32,100 --> 00:40:36,860
+It's a very simple, the most simple method in ACI.
+
+417
+00:40:37,840 --> 00:40:40,260
+So Q-ultimate, which is 1.2,
+
+418
+00:40:40,820 --> 00:40:43,580
+did loot plus 1.6, life loot,
+
+419
+00:40:43,720 --> 00:40:45,420
+which you call it W-ultimate.
+
+420
+00:40:46,520 --> 00:40:50,360
+In ACI, they calling it Q-ultimate.
+
+421
+00:40:50,460 --> 00:40:51,920
+Anyway, it's not a big deal.
+
+422
+00:40:53,400 --> 00:40:54,380
+L2.
+
+423
+00:40:56,800 --> 00:41:01,220
+If you are talking about this direction, which is Y,
+
+424
+00:41:02,499 --> 00:41:04,520
+L2 is a
+
+425
+00:41:05,460 --> 00:41:10,680
+perpendicular direction from center line to center line of columns.
+
+426
+00:41:13,359 --> 00:41:21,080
+Ln is a clear distance between this phase of column and this phase of column.
+
+427
+00:41:21,340 --> 00:41:28,440
+ln. So I'm talking about a strip, for example, in y direction.
+
+428
+00:41:31,660 --> 00:41:40,740
+If you decide to talk about x direction, okay, if you are talking about x direction,
+
+429
+00:41:44,140 --> 00:41:54,360
+Ln will be from face to face. This is Ln. L2 will be from this center line to this center line.
+
+430
+00:41:55,220 --> 00:42:00,180
+So L2 all the time perpendicular to your strip.
+
+431
+00:42:02,360 --> 00:42:08,000
+Ln in the same direction of your strip, but from face to face.
+
+432
+00:42:12,540 --> 00:42:17,860
+ln in the direction you are considered.
+
+433
+00:42:22,540 --> 00:42:28,220
+l2 berbin declare or in the transverse direction.
+
+434
+00:42:32,420 --> 00:42:36,320
+I calculated mn which is a value.
+
+435
+00:42:38,300 --> 00:42:49,400
+one value. Once you calculate your Mn, your Mn, I'm gonna divide this Mn between positive
+
+436
+00:42:50,780 --> 00:43:02,560
+and negative values, 0.65 to the negative, 0.35 to the positive moment.
+
+437
+00:43:08,360 --> 00:43:17,180
+The positive moment will be divided between column strip and middle strip.
+
+438
+00:43:18,050 --> 00:43:25,360
+The column strip will get barred based on this table for interior
+
+439
+00:43:26,300 --> 00:43:36,380
+panel and based on this table for exterior panels. If you have beams, the beams will
+
+440
+00:43:36,480 --> 00:43:44,000
+take 80.85 from the column strip moment. Once you divide your moment between column
+
+441
+00:43:44,120 --> 00:43:53,099
+strip, the remaining moment will be for middle strip. This part have to divide
+
+442
+00:43:53,100 --> 00:43:59,220
+your calculated moment between column strip and middle strip, I'm gonna go
+
+443
+00:43:59,260 --> 00:44:07,940
+through it in more details on Friday by helping you to solve this problem and
+
+444
+00:44:09,480 --> 00:44:10,960
+this problem in the homework.
+

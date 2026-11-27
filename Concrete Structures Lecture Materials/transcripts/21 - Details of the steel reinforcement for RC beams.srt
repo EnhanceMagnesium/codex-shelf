@@ -1,0 +1,2060 @@
+1
+00:00:01,560 --> 00:00:14,060
+Thank you guys for joining me today. I will share with you very interesting details about steel reinforcement according to ACI.
+
+2
+00:00:15,000 --> 00:00:23,900
+and I will start first with the minimum spacing of steel rebars. Keep in your mind sometimes
+
+3
+00:00:25,000 --> 00:00:35,960
+in your cross-section we have a steel reinforcement in two layers like this you have question
+
+4
+00:00:36,880 --> 00:00:42,360
+with a steel reinforcement in two layers and sometimes we have only one layer
+
+5
+00:00:43,640 --> 00:00:50,480
+when I will decide to use two layers and when it must be one layer.
+
+6
+00:00:51,400 --> 00:00:51,960
+That makes sense.
+
+7
+00:00:52,760 --> 00:00:55,640
+And also I give you option.
+
+8
+00:00:56,220 --> 00:01:03,960
+Once you get the area steel value from your design, I will convert this area
+
+9
+00:01:04,040 --> 00:01:08,460
+steel to how many rebars of size, whatever.
+
+10
+00:01:08,840 --> 00:01:13,740
+So if you use number four, I'm going to use 10 rebars.
+
+11
+00:01:14,820 --> 00:01:17,540
+If you are going to use number, for example, six,
+
+12
+00:01:18,180 --> 00:01:20,460
+I'm going to use seven rebars.
+
+13
+00:01:21,320 --> 00:01:26,840
+If you use number eight rebars, I'm going to use four rebars.
+
+14
+00:01:27,360 --> 00:01:31,220
+And I give you the full freedom to select what you want.
+
+15
+00:01:32,120 --> 00:01:37,159
+But sometimes, if you are talking about minimum spacing
+
+16
+00:01:37,160 --> 00:01:47,220
+requirement, we can decide which number is the best, 10 or 7 or 4. By the way, I would like
+
+17
+00:01:48,100 --> 00:01:58,340
+to let you know that one layer reinforcement is better than two layers stereo reinforcement.
+
+18
+00:01:59,380 --> 00:02:05,720
+This case is better than this one, but if we have to use double layers, that's fine.
+
+19
+00:02:06,920 --> 00:02:16,440
+but one layer is bigger. Why? For one reason. Your depth D is measured from the top of the
+
+20
+00:02:16,820 --> 00:02:24,160
+concrete cross-section to the sterium forcement. This is your D. If you have two layers, that means
+
+21
+00:02:24,600 --> 00:02:31,660
+your depth will be smaller a little bit. Does that make sense? There's a very simple reason.
+
+22
+00:02:32,440 --> 00:02:39,340
+the depth of the stereo enforcement. Bigger depth means better performance for the cross-section,
+
+23
+00:02:39,680 --> 00:02:46,460
+better strength or greater strength. So if you bought your stereo enforcement in two layers,
+
+24
+00:02:46,800 --> 00:02:52,340
+actually the depth of the stereo first because the depth will be at the centroid,
+
+25
+00:02:52,660 --> 00:03:00,199
+which is in between the two layers. So your depth will be smaller a little bit because if you measure
+
+26
+00:03:01,160 --> 00:03:09,800
+from this location will be smaller if you measure from this location. I know it's not a big deal,
+
+27
+00:03:09,800 --> 00:03:15,380
+you are talking about one inch or two inch maximum, but we'll make a little difference.
+
+28
+00:03:16,730 --> 00:03:23,300
+Does that make sense? So one layer is better than two layer. I would like to let you know what is
+
+29
+00:03:23,300 --> 00:03:29,959
+the meaning of minimum spacing of stereo enforcement. We have exhibition here, one of them. I'm going to
+
+30
+00:03:29,960 --> 00:03:39,880
+use the greatest number. I'm sorry, the least the greatest of the greatest number. One inch
+
+31
+00:03:41,200 --> 00:03:49,820
+db which is the diameter of the steering bar. db means the diameter of the steering bar.
+
+32
+00:03:49,900 --> 00:03:56,840
+Keep in your mind if you are using a bar number for example five. This rebar has a diameter.
+
+33
+00:03:57,160 --> 00:04:07,200
+you can find this diameter from their table. For steel rebar number five, I can say for number
+
+34
+00:04:07,360 --> 00:04:25,540
+five the diameter is 0.625 inch. This diameter is 0.625 inch or four divided by three de-aggregate.
+
+35
+00:04:26,900 --> 00:04:34,500
+The third value, as you know, for any concrete, we have three main ingredients.
+
+36
+00:04:34,800 --> 00:04:41,640
+We have cement, we have coarse aggregate, and we have sand.
+
+37
+00:04:43,260 --> 00:04:52,119
+This coarse aggregate in form of gravel, stones, whatever, the maximum size of one
+
+38
+00:04:52,120 --> 00:05:05,440
+One part, go ahead and define the biggest part in this course aggregate, this course aggregate, the biggest size is called the maximum aggregate size.
+
+39
+00:05:07,420 --> 00:05:12,020
+That makes sense. D aggregate means the maximum aggregate size.
+
+40
+00:05:14,120 --> 00:05:17,020
+When I figure this out, we have something called the sieve analysis.
+
+41
+00:05:17,220 --> 00:05:22,420
+You will learn more about this in soil mechanics next semester, but we have something called
+
+42
+00:05:22,420 --> 00:05:23,360
+the sieve analysis.
+
+43
+00:05:24,400 --> 00:05:30,520
+This sieve analysis will be used to figure out what is the maximum size of these aggregates.
+
+44
+00:05:31,600 --> 00:05:40,039
+The biggest size, a four inch, six inch, two inch, you need to multiply this size by four
+
+45
+00:05:40,040 --> 00:05:48,500
+divide three. Why I have a concern about the size of the aggregate keeping your mind.
+
+46
+00:05:49,030 --> 00:05:57,000
+The minimum size is I'm sorry the minimum spacing is the clearest spacing between this rebar
+
+47
+00:05:57,420 --> 00:06:06,599
+and the nixie rebar to make sure your concrete can go through between the two rebars we have to
+
+48
+00:06:06,600 --> 00:06:10,220
+to make sure the maximum size, the biggest size
+
+49
+00:06:11,080 --> 00:06:15,980
+of the course aggregate is smaller than the spacing.
+
+50
+00:06:16,940 --> 00:06:19,020
+To make sure the concrete can go through
+
+51
+00:06:19,400 --> 00:06:20,880
+between the two rebars, that makes sense.
+
+52
+00:06:21,660 --> 00:06:26,060
+So keep in your mind, when you are putting your steel rebar
+
+53
+00:06:28,200 --> 00:06:29,580
+as one layer, for example,
+
+54
+00:06:30,260 --> 00:06:33,040
+at the bottom of the cross section like this,
+
+55
+00:06:33,940 --> 00:06:36,800
+Keep in your mind, we have minimum spacing,
+
+56
+00:06:37,300 --> 00:06:41,100
+clear minimum spacing between this face and this face.
+
+57
+00:06:41,900 --> 00:06:46,340
+This is basing must be the biggest value,
+
+58
+00:06:46,480 --> 00:06:50,020
+one inch or diameter of one rebar
+
+59
+00:06:50,840 --> 00:06:54,360
+or four divided three maximum aggregate size
+
+60
+00:06:54,700 --> 00:06:55,660
+for the course aggregate.
+
+61
+00:06:57,700 --> 00:07:01,459
+So for example, if we are using the number five
+
+62
+00:07:01,460 --> 00:07:06,500
+And the maximum aggregate size is one inch.
+
+63
+00:07:06,960 --> 00:07:10,080
+So we have three values, one inch, one of them.
+
+64
+00:07:11,380 --> 00:07:15,020
+And the diameter of the steel report is 0.625.
+
+65
+00:07:16,020 --> 00:07:21,840
+And the four divided three times the maximum aggregate size,
+
+66
+00:07:21,980 --> 00:07:28,460
+which is one inch, I got 1.33 inch.
+
+67
+00:07:29,340 --> 00:07:33,080
+So I'm going to use the minimum spacing, clear minimum spacing
+
+68
+00:07:33,240 --> 00:07:34,400
+between the steering bar.
+
+69
+00:07:34,920 --> 00:07:37,900
+Must be the greatest value of these three values,
+
+70
+00:07:38,360 --> 00:07:41,760
+which is 1.33 inch.
+
+71
+00:07:43,420 --> 00:07:43,900
+That make sense?
+
+72
+00:07:45,320 --> 00:07:46,180
+That make sense?
+
+73
+00:07:47,120 --> 00:07:47,920
+This is the minimum.
+
+74
+00:07:48,120 --> 00:07:53,200
+We cannot bought steering bars with this spacing,
+
+75
+00:07:53,580 --> 00:07:56,400
+clearly spacing, smaller than this value.
+
+76
+00:07:56,540 --> 00:07:59,200
+If you put this smaller than this value,
+
+77
+00:07:59,580 --> 00:08:04,320
+that means you are against the rules of the ACI
+
+78
+00:08:04,720 --> 00:08:07,020
+and we should expect more problem,
+
+79
+00:08:09,020 --> 00:08:10,960
+especially when you are poor in concrete.
+
+80
+00:08:12,480 --> 00:08:15,060
+I would like to highlight this using AutoCAD.
+
+81
+00:08:16,080 --> 00:08:20,320
+Let me assume we have a cross section
+
+82
+00:08:24,220 --> 00:08:33,800
+with depth total thickness over all depth 30 inch and width equal 16 inch
+
+83
+00:08:35,719 --> 00:08:44,060
+and we have a stereo enforcement here at the bottom equal for example six number five three bar
+
+84
+00:08:46,180 --> 00:08:52,779
+and we have a stirrups as you know we learned this last meeting how to figure out the required
+
+85
+00:08:52,780 --> 00:09:03,980
+the stirrups so I'm gonna assume we have stirrups this is stirrups will be number four every six inch
+
+86
+00:09:06,640 --> 00:09:14,560
+I would like to make sure the minimum spacing is good the minimum spacing between the stirry bar
+
+87
+00:09:14,560 --> 00:09:15,680
+we have here 60 bar.
+
+88
+00:09:20,580 --> 00:09:20,980
+Like this.
+
+89
+00:09:21,580 --> 00:09:23,660
+So to make sure everything is good,
+
+90
+00:09:23,880 --> 00:09:24,740
+I'm going to use AutoCAD.
+
+91
+00:09:25,880 --> 00:09:28,700
+So I will start first to draw a rectangle
+
+92
+00:09:30,280 --> 00:09:35,160
+with dimension 16 times 30.
+
+93
+00:09:37,020 --> 00:09:41,560
+So we have 16 times 30.
+
+94
+00:09:42,480 --> 00:09:43,220
+Keep in your mind.
+
+95
+00:09:44,960 --> 00:09:47,200
+After the concrete cross section,
+
+96
+00:09:47,280 --> 00:09:49,560
+we have here something called concrete cover.
+
+97
+00:09:50,670 --> 00:09:51,120
+Do you agree?
+
+98
+00:09:52,480 --> 00:09:57,920
+This concrete cover can be 1 and 1/2 inch, maybe 2 inch,
+
+99
+00:09:59,260 --> 00:10:00,540
+maybe 3 inch.
+
+100
+00:10:01,240 --> 00:10:01,920
+It's up to you.
+
+101
+00:10:02,060 --> 00:10:03,900
+I'm going to use 2 inch.
+
+102
+00:10:05,120 --> 00:10:10,079
+So I have offset O entered, and the distance
+
+103
+00:10:10,080 --> 00:10:15,020
+will be two inch to enter, then I will start to draw their
+
+104
+00:10:15,680 --> 00:10:16,160
+stirrups.
+
+105
+00:10:19,740 --> 00:10:22,780
+Keep in your mind, this is stirrup thickness
+
+106
+00:10:24,900 --> 00:10:27,680
+because this is stirrup represent the S-T rebar
+
+107
+00:10:28,080 --> 00:10:30,080
+and this is stirrup bar will have diameter.
+
+108
+00:10:31,530 --> 00:10:32,000
+Do you agree?
+
+109
+00:10:32,930 --> 00:10:34,940
+So it's not one line without thickness.
+
+110
+00:10:35,120 --> 00:10:37,140
+No, it's something with a thickness.
+
+111
+00:10:37,840 --> 00:10:42,040
+The thickness equals the diameter of this rebar number four.
+
+112
+00:10:42,660 --> 00:10:45,640
+So if you open your table for number four,
+
+113
+00:10:45,780 --> 00:10:47,820
+we have a diameter equal 0.5.
+
+114
+00:10:49,180 --> 00:10:52,120
+So I will do offset 0.5.
+
+115
+00:10:54,780 --> 00:10:58,720
+This represented the thickness of your steering.
+
+116
+00:11:00,200 --> 00:11:03,320
+We cannot bend the steering bars like sharp bends.
+
+117
+00:11:03,330 --> 00:11:07,820
+So I will use a fillet with a radius equal
+
+118
+00:11:07,820 --> 00:11:12,780
+at least 0.5 like this.
+
+119
+00:11:28,520 --> 00:11:29,000
+That makes sense.
+
+120
+00:11:30,040 --> 00:11:33,320
+So your cross section is the width if it's 16,
+
+121
+00:11:34,260 --> 00:11:39,880
+I bought concrete cover from this side and the concrete cover from the other side and
+
+122
+00:11:39,940 --> 00:11:45,740
+keeping your mind the stirrup has a thickness. The thickness of this stirrup equals the diameter
+
+123
+00:11:46,000 --> 00:11:51,460
+of your steely bar for the stirrup which is number four. Number four has a diameter equal
+
+124
+00:11:51,580 --> 00:11:57,500
+point five inch. So far so good. Anybody has any questions so far?
+
+125
+00:12:01,140 --> 00:12:06,040
+OK, we have a common in an autocad called donuts.
+
+126
+00:12:07,140 --> 00:12:10,240
+It's not donuts to eat, but something to draw.
+
+127
+00:12:10,940 --> 00:12:13,540
+Donuts, the inner diameter will be 0.
+
+128
+00:12:13,720 --> 00:12:21,280
+The outer diameter I will use, because we are using number 6--
+
+129
+00:12:21,280 --> 00:12:23,280
+I'm sorry, number 5 for a steering bar.
+
+130
+00:12:24,240 --> 00:12:29,140
+So number 5 has a diameter equal 0.625.
+
+131
+00:12:30,020 --> 00:12:32,080
+So the outer diameter would be 0.625.
+
+132
+00:12:33,220 --> 00:12:36,380
+And then I can put the sterile bar here.
+
+133
+00:12:36,500 --> 00:12:37,420
+This is the first one.
+
+134
+00:12:38,880 --> 00:12:40,000
+And this is the last one.
+
+135
+00:12:44,420 --> 00:12:44,860
+That makes sense?
+
+136
+00:12:45,740 --> 00:12:51,100
+Keep in your mind, this circle represents the sterile bars,
+
+137
+00:12:53,140 --> 00:12:55,660
+which are number five.
+
+138
+00:12:56,700 --> 00:12:58,080
+We should put six.
+
+139
+00:12:58,260 --> 00:13:00,720
+but I started with the first one and the last one.
+
+140
+00:13:01,700 --> 00:13:06,300
+Number five, number five has a diameter equal 0.625.
+
+141
+00:13:06,480 --> 00:13:10,640
+So if you would like to draw the circle representing number five,
+
+142
+00:13:11,100 --> 00:13:17,280
+this circle must have outer diameter equal 0.625.
+
+143
+00:13:19,260 --> 00:13:19,760
+Does that make sense?
+
+144
+00:13:23,720 --> 00:13:27,200
+I still need to put more spacing.
+
+145
+00:13:27,700 --> 00:13:31,680
+So you can measure what is the distance between the center
+
+146
+00:13:31,680 --> 00:13:34,500
+of this one and the center of this one.
+
+147
+00:13:34,580 --> 00:13:35,840
+How much is that spacing?
+
+148
+00:13:36,680 --> 00:13:38,640
+10.4 inch.
+
+149
+00:13:41,640 --> 00:13:43,620
+10.4 inch.
+
+150
+00:13:46,000 --> 00:13:49,940
+I need to arrange the remaining rebars
+
+151
+00:13:50,300 --> 00:13:52,220
+between this distance.
+
+152
+00:13:53,220 --> 00:13:57,820
+So how many spacing to both the remaining four,
+
+153
+00:13:59,220 --> 00:14:02,720
+I think one, two, three, six spacing.
+
+154
+00:14:03,380 --> 00:14:06,920
+So I will divide this number by six,
+
+155
+00:14:08,180 --> 00:14:09,480
+will give you 1.7.
+
+156
+00:14:10,640 --> 00:14:12,120
+So if you start to make copy,
+
+157
+00:14:16,520 --> 00:14:21,680
+and make Birbenduclar, 1.7, 3.4,
+
+158
+00:14:24,080 --> 00:14:48,620
+5.2, 6.9, and 8.6. There you go. I arranged my steering bars with equal spacing. One more
+
+159
+00:14:48,640 --> 00:15:00,320
+time I started to draw my cross section which is 16. I can make this one bigger just a second
+
+160
+00:15:00,500 --> 00:15:13,280
+modify per birds. Take is the height we can make it one yeah and your number primary on it
+
+161
+00:15:14,320 --> 00:15:18,060
+Just we need only this one. We need only
+
+162
+00:15:20,460 --> 00:15:34,080
+yeah this one okay looks good and also I can adjust the errors to be oblique
+
+163
+00:15:38,160 --> 00:15:51,760
+and I don't need a extension of and off and I can make the size bigger one one is good okay
+
+164
+00:15:53,340 --> 00:16:02,080
+so this one is 16 and the dimension linear this one is 30 I can make match I will highlight this
+
+165
+00:16:02,080 --> 00:16:09,160
+one and we have match here where is this one matchable parts to make this one looks like this
+
+166
+00:16:10,400 --> 00:16:17,600
+anyway after you draw your cross section the outer cross section with the thickest by 30 I
+
+167
+00:16:18,640 --> 00:16:26,000
+make offset for the concrete cover and another offset for the diameter of the stirrups then I
+
+168
+00:16:26,400 --> 00:16:29,100
+I put the first rebar and the last rebar.
+
+169
+00:16:30,680 --> 00:16:34,760
+And I measured the distance between the center of this rebar
+
+170
+00:16:34,920 --> 00:16:36,360
+to the center of this rebar.
+
+171
+00:16:36,520 --> 00:16:40,740
+I found this distance equal 10.3.
+
+172
+00:16:42,200 --> 00:16:45,220
+I divided this distance by the number of spacing.
+
+173
+00:16:46,140 --> 00:16:49,280
+And then make copy or array or whatever the command
+
+174
+00:16:49,800 --> 00:16:52,440
+to put your rebars in equal spacing.
+
+175
+00:16:54,040 --> 00:16:56,940
+Keep in your mind, I have to make sure that
+
+176
+00:17:09,040 --> 00:17:17,180
+I have to make sure that the spacing is a clear spacing between this edge and this edge.
+
+177
+00:17:18,319 --> 00:17:21,360
+Right now, this distance equal
+
+178
+00:17:29,000 --> 00:17:38,840
+1.16. This distance equal 1.16 inch. Clear distance between this rebar and this rebar.
+
+179
+00:17:38,880 --> 00:17:49,460
+1.16, unfortunately, unfortunately, you need clear distance equal 1.33.
+
+180
+00:17:51,430 --> 00:17:58,360
+So the minimum spacing between the steering bar does not satisfy the requirement of
+
+181
+00:18:00,400 --> 00:18:12,100
+is here. In this case, I will decide to make two layers of the stereo enforcement. Because if you
+
+182
+00:18:15,760 --> 00:18:18,760
+moved at least two rebar,
+
+183
+00:18:22,860 --> 00:18:30,380
+that means I need to put here not five, but I need to put three. That makes sense. So the distance
+
+184
+00:18:31,860 --> 00:18:49,420
+which is 10.3 will be divided by 4 spacing which is 2.5 so I will put copy 2.5 and the
+
+185
+00:18:49,460 --> 00:19:00,360
+5 and the 7.5 there you go how many rebars right now we have no we have 7 we should have how many
+
+186
+00:19:01,660 --> 00:19:24,560
+6. So we can remove this one and your spacing will be 10.3 divided by 3, 3.4. So copy 3.4
+
+187
+00:19:25,640 --> 00:19:29,060
+and another one from this side, 3.3.
+
+188
+00:19:29,450 --> 00:19:29,860
+There you go.
+
+189
+00:19:32,020 --> 00:19:34,440
+In this case, your clear distance
+
+190
+00:19:43,120 --> 00:19:48,080
+between the edge of this rebar and the edge of this rebar,
+
+191
+00:19:51,120 --> 00:19:52,680
+This distance will be--
+
+192
+00:19:58,540 --> 00:20:02,340
+Di enter between this one and this one equals 2.8 inch.
+
+193
+00:20:03,060 --> 00:20:03,560
+We are good.
+
+194
+00:20:03,760 --> 00:20:08,080
+2.8 is good because it's greater than the minimum
+
+195
+00:20:08,240 --> 00:20:09,880
+spacing, which is 1.3.
+
+196
+00:20:11,220 --> 00:20:13,700
+So how to botch your stereo enforcement
+
+197
+00:20:13,880 --> 00:20:17,500
+or to arrange your stereo enforcement is not one a second.
+
+198
+00:20:17,640 --> 00:20:17,800
+No.
+
+199
+00:20:18,220 --> 00:20:19,020
+You have to try.
+
+200
+00:20:19,480 --> 00:20:26,480
+First of all, I tried to put the steering bars as one layer like this.
+
+201
+00:20:27,700 --> 00:20:34,100
+Unfortunately, I found the distance between the edge of this rebar and the edge of this rebar
+
+202
+00:20:34,210 --> 00:20:42,500
+is smaller than the minimum spacing. So I decided to use double reinforcement. Keep in your mind,
+
+203
+00:20:42,840 --> 00:20:47,860
+If you decide to use double reinforcement, your number,
+
+204
+00:20:52,840 --> 00:20:56,580
+if you put something on this side, you have to put another one on the other side.
+
+205
+00:20:57,540 --> 00:21:02,060
+It's not accepted to find a stereo reinforcement like this,
+
+206
+00:21:04,360 --> 00:21:12,820
+and you put only one stereo bar here. At least you have to put two. And also I will start from
+
+207
+00:21:12,820 --> 00:21:19,100
+edge, this side and this side don't start from the middle. I mean if you have a
+
+208
+00:21:19,220 --> 00:21:23,880
+steering bars at the first layer don't start with the second layer here.
+
+209
+00:21:24,560 --> 00:21:30,460
+It's not good. I have to start from this edge and one more on the other edge. If
+
+210
+00:21:30,460 --> 00:21:37,880
+you have more you can put it inside. But the first priority is the edge at this
+
+211
+00:21:37,980 --> 00:21:41,480
+edge and this edge, this side and this side. That makes sense?
+
+212
+00:21:41,700 --> 00:21:49,500
+don't start with the mid. Anybody has any questions so far about the minimum reinforcement spacing?
+
+213
+00:21:51,140 --> 00:22:01,220
+No sir. If you would like, this is the final cross section. If you would like, I can make this
+
+214
+00:22:01,220 --> 00:22:07,320
+this is T-Rex more thicker like this.
+
+215
+00:22:10,159 --> 00:22:12,880
+And I can write if you want,
+
+216
+00:22:16,680 --> 00:22:18,240
+we have how many two-force?
+
+217
+00:22:21,820 --> 00:22:25,680
+I would say seven, but anyway, they should be seven.
+
+218
+00:22:26,920 --> 00:22:28,820
+So assume we have here
+
+219
+00:22:31,180 --> 00:22:31,800
+Seven, I'm sorry.
+
+220
+00:22:32,780 --> 00:22:33,920
+Looks like I did this mistake.
+
+221
+00:22:38,020 --> 00:22:43,060
+I can write, we have seven, number five.
+
+222
+00:22:47,180 --> 00:22:49,800
+I can make it bigger by scale.
+
+223
+00:22:52,480 --> 00:22:54,600
+You should be a professional, you know, to care
+
+224
+00:22:54,760 --> 00:22:56,660
+to be able to write what you want.
+
+225
+00:23:02,200 --> 00:23:09,760
+Maybe I need to make it bigger also like this and move to adjust it here.
+
+226
+00:23:11,660 --> 00:23:24,660
+Also, I can draw a line to this one like this and right, I can copy this one here and adjust it.
+
+227
+00:23:26,700 --> 00:23:28,560
+we decided this one is number four.
+
+228
+00:23:33,460 --> 00:23:35,120
+Every what is the inch?
+
+229
+00:23:37,680 --> 00:23:39,060
+Do you remember six inch?
+
+230
+00:23:43,540 --> 00:23:48,040
+There you go. This is how to draw your cross section of the P.
+
+231
+00:23:49,540 --> 00:23:53,820
+That makes sense. This is how to draw your cross section of the
+
+232
+00:23:57,480 --> 00:24:01,540
+Okay, this is the first slide which is talking about minimum spacing of the
+
+233
+00:24:01,720 --> 00:24:10,320
+stereo enforcement and this minimum spacing can force you or can enforce you to decide to use
+
+234
+00:24:10,480 --> 00:24:16,320
+double reinforcement. However, the single layer is better than double layer.
+
+235
+00:24:18,300 --> 00:24:27,100
+Second point, I would like to talk about something called development lens. If you remember, if you
+
+236
+00:24:27,180 --> 00:24:39,480
+have a beam by a column, we should have... Bending moment looks like this and the tension will be
+
+237
+00:24:39,520 --> 00:24:45,140
+at the top and we have compression at the bottom. I don't care about the bottom right now, but my
+
+238
+00:24:45,140 --> 00:24:55,060
+concern is the top. We have a stereo enforcement here to cover the tension at the top. I cannot
+
+239
+00:24:55,420 --> 00:25:02,760
+subbo, I cannot end up the stereo bar at the face of the column or the subboard. I have to extend it
+
+240
+00:25:02,820 --> 00:25:15,900
+more and maybe I have to put another more here leg looks like this shape why as you know your
+
+241
+00:25:16,300 --> 00:25:24,640
+steering enforcement is not working alone your steering bar is working with the surrounded concrete
+
+242
+00:25:28,020 --> 00:25:34,840
+we have concrete around this steel rebar. So we must have an
+
+243
+00:25:36,760 --> 00:25:49,100
+satisfaction or a satisfactory or enough linse or bond between the steel rebar and the surrounded
+
+244
+00:25:49,220 --> 00:26:00,060
+concrete. If your edge or face of the column is located here, so your bending moment diagram
+
+245
+00:26:01,500 --> 00:26:08,160
+looks like this. So we cannot end up the steering bar at the face. We have to
+
+246
+00:26:08,340 --> 00:26:18,960
+embedded the sterile bar beyond the end of the bending moment diagram. This lens is called
+
+247
+00:26:19,300 --> 00:26:28,720
+development lens to make sure we have enough bond between the sterile bar and their concrete.
+
+248
+00:26:28,950 --> 00:26:35,299
+Keep in your mind, under the analysis of your cross-section, this sterile bar will have
+
+249
+00:26:36,100 --> 00:26:45,740
+capital T and your concrete will have capital C. So this rebar has tension. If we don't have enough
+
+250
+00:26:46,260 --> 00:26:52,340
+lens embedded in concrete, this is still rebar can slip
+
+251
+00:26:56,060 --> 00:27:00,120
+from the concrete. If this happen, we don't have composite, we don't have
+
+252
+00:27:00,260 --> 00:27:08,440
+steel working together with concrete so failure will happen. So if you read what is the meaning of
+
+253
+00:27:08,580 --> 00:27:18,140
+development lengths defined as the amount of reinforcement lengths needed to be embedded
+
+254
+00:27:18,980 --> 00:27:26,980
+into concrete to establish the desired bond strength between the concrete and the steel.
+
+255
+00:27:28,340 --> 00:27:36,780
+If you see the original drawing, we don't have enough development lens. So if we have tension
+
+256
+00:27:37,040 --> 00:27:45,060
+in this stereo bar capital T, I promise the slip will happen between the stereo bar and the
+
+257
+00:27:45,080 --> 00:27:55,640
+concrete. You must extend this stereo bar more and maybe you have to create a leg like this.
+
+258
+00:27:57,380 --> 00:28:03,800
+to make sure we are good this lens is called LED,
+
+259
+00:28:06,340 --> 00:28:17,940
+developmental lens, that makes sense. Also at the middle of the beam your stereo bar must extend
+
+260
+00:28:18,840 --> 00:28:25,699
+to the support with a developmental lens also to make sure the tension in these stereo bars
+
+261
+00:28:25,700 --> 00:28:33,260
+is embedded in concrete. Bar tension force must be transferred from the bar or the rebar to the
+
+262
+00:28:33,320 --> 00:28:39,540
+concrete through the boosters. The distance over which this transfer takes place is called
+
+263
+00:28:39,680 --> 00:28:47,280
+developmental lens. This developmental lens can be defined as the minimum. This is the minimum.
+
+264
+00:28:47,620 --> 00:28:53,680
+you can provide something more but you cannot be smaller than this lens.
+
+265
+00:28:55,460 --> 00:29:04,560
+According to ECI, we have this equation can give you what is the minimum developmental
+
+266
+00:29:04,980 --> 00:29:12,739
+lens according to ECI. This one or this one, 12 inch or this one. So I'm going to use the
+
+267
+00:29:12,740 --> 00:29:19,120
+biggest value, this one or this one, biggest value. So I have to figure out the first equation, how much,
+
+268
+00:29:19,720 --> 00:29:26,500
+and the second one give me 12, I'm going to use the biggest. Your developmental lens for tension,
+
+269
+00:29:26,940 --> 00:29:34,020
+your steering bar is under tension, so I need to extend it more inside concrete. This developmental
+
+270
+00:29:34,420 --> 00:29:43,340
+Lengths Intention = 3/40, time F yield divided by lambda, time F, square root F prime C,
+
+271
+00:29:44,220 --> 00:29:56,620
+time Epsi T Epsi Epsi S, time dB divided by this expression, Cb + ktr divided by dB.
+
+272
+00:29:57,420 --> 00:30:03,460
+It's a very complicated equation, but we have to consider this. So for example,
+
+273
+00:30:04,220 --> 00:30:12,320
+For example, I will right now work with you to draw a cross-section.
+
+274
+00:30:12,990 --> 00:30:26,840
+So this cross-section, which is 30 feet, but we cannot draw 30 feet.
+
+275
+00:30:26,870 --> 00:30:31,320
+I have to consider a 30 inch in feet anyway.
+
+276
+00:30:32,080 --> 00:30:34,540
+So I will start with a line like this.
+
+277
+00:30:37,120 --> 00:30:42,720
+I can change the color to be red.
+
+278
+00:30:44,750 --> 00:30:50,960
+And I can change the style to be center.
+
+279
+00:30:59,600 --> 00:31:16,660
+I can define the purpose to be 1.1, maybe.
+
+280
+00:31:29,160 --> 00:31:30,200
+It's not a big deal.
+
+281
+00:31:31,320 --> 00:31:32,840
+Anyway, so the span between,
+
+282
+00:31:33,760 --> 00:31:37,340
+the span of this beam equal, for example, is 20 feet.
+
+283
+00:31:44,540 --> 00:31:46,240
+So we have one, two, three, four span.
+
+284
+00:31:47,440 --> 00:31:49,520
+And this is your beam.
+
+285
+00:31:54,160 --> 00:31:58,000
+I can make offsets for the column, one feet, okay.
+
+286
+00:31:59,000 --> 00:32:00,320
+one feet from the side.
+
+287
+00:32:14,300 --> 00:32:25,600
+So your beam depth is 30 inch, 30 divide 12 equal 2.5.
+
+288
+00:32:27,000 --> 00:32:34,080
+2.5 offset. So then I can make match properties for this one.
+
+289
+00:32:44,520 --> 00:32:46,460
+Don't worry, we'll see what will happen.
+
+290
+00:32:49,040 --> 00:32:50,760
+Then I can do trim.
+
+291
+00:33:07,500 --> 00:33:10,660
+So the span for this beam equal 20 feet,
+
+292
+00:33:12,020 --> 00:33:15,000
+which is the distance between center line to center line
+
+293
+00:33:15,320 --> 00:33:17,320
+for these supports.
+
+294
+00:33:25,460 --> 00:33:26,320
+That makes sense.
+
+295
+00:33:27,360 --> 00:33:30,200
+So if you would like measure linear
+
+296
+00:33:30,560 --> 00:33:31,840
+between this one and this one,
+
+297
+00:33:33,160 --> 00:33:35,040
+this distance equal 20 feet.
+
+298
+00:33:35,600 --> 00:33:37,900
+I can adjust this dimension to make it bigger
+
+299
+00:33:39,820 --> 00:33:41,920
+for aero to be oblique.
+
+300
+00:33:44,240 --> 00:33:45,640
+This one also oblique.
+
+301
+00:33:46,720 --> 00:33:49,320
+and make it bigger one.
+
+302
+00:33:51,220 --> 00:33:52,540
+And also for the tickets,
+
+303
+00:33:55,460 --> 00:33:58,060
+let me the first, just only two number,
+
+304
+00:33:58,200 --> 00:33:59,320
+decimal number is enough.
+
+305
+00:34:01,240 --> 00:34:03,320
+For the tickets to height, it will be one.
+
+306
+00:34:04,340 --> 00:34:04,640
+There you go.
+
+307
+00:34:06,920 --> 00:34:11,100
+And also dimension, linear between this one and this one,
+
+308
+00:34:12,899 --> 00:34:15,100
+between this one and this one.
+
+309
+00:34:16,980 --> 00:34:18,940
+And between this one and this one.
+
+310
+00:34:25,379 --> 00:34:26,280
+I can make match.
+
+311
+00:34:27,330 --> 00:34:28,740
+So this one would be the same.
+
+312
+00:34:29,340 --> 00:34:29,540
+Roberts.
+
+313
+00:34:30,510 --> 00:34:31,200
+Here is your beam.
+
+314
+00:34:32,350 --> 00:34:33,360
+It is one of your beam.
+
+315
+00:34:35,619 --> 00:34:39,399
+If you remember, we have at this location.
+
+316
+00:34:40,540 --> 00:34:42,320
+Steering enforcement at the top.
+
+317
+00:34:44,440 --> 00:34:51,120
+right? Do you remember that? Yes, I would like to remind you if you have a beam and
+
+318
+00:34:51,179 --> 00:34:56,139
+there is a support and there is a second support and there is a third support and
+
+319
+00:34:56,200 --> 00:35:00,840
+there is a fourth support whatever. If you remember we have been the moment looks
+
+320
+00:35:00,960 --> 00:35:12,039
+like this. That's right. Keep in your mind this lens also for this one and this
+
+321
+00:35:12,040 --> 00:35:28,820
+one, this one, and this one, this one. This lens approximately from 20.2% until 0.3%
+
+322
+00:35:28,820 --> 00:35:39,359
+of the spell lens. If this is spell lens equal, 20 feet approximately, this lens until the
+
+323
+00:35:39,360 --> 00:35:49,940
+The bending moment diagram is over. Approximately we can decide it 0.22. So 0.22 times 20 means 4 feet.
+
+324
+00:36:01,660 --> 00:36:02,500
+So...
+
+325
+00:36:02,500 --> 00:36:13,580
+offset four feet. Your bending moment diagram will be ended here. And also four feet from
+
+326
+00:36:13,660 --> 00:36:22,540
+the other side. Your bending moment diagram will be ended here. So this lens from here
+
+327
+00:36:23,580 --> 00:36:28,880
+To here, represent this total length.
+
+328
+00:36:36,240 --> 00:36:36,960
+This total length.
+
+329
+00:36:39,240 --> 00:36:39,940
+This total length.
+
+330
+00:36:42,320 --> 00:36:45,200
+This total, no, no, no, this one will be pointed to only.
+
+331
+00:36:46,720 --> 00:36:53,160
+So this one will be, I will extend this one up here and make offset.
+
+332
+00:36:55,220 --> 00:37:04,340
+only one fold from this side. That makes sense. So keep in your mind your
+
+333
+00:37:04,520 --> 00:37:13,880
+steering bar I will do offset and I will leave two inch. Two inch means around
+
+334
+00:37:13,880 --> 00:37:24,540
+point to two feet, point to two trim
+
+335
+00:37:34,060 --> 00:37:40,680
+and I can delete this one and I can delete this one. This is a required
+
+336
+00:37:40,720 --> 00:37:47,220
+the stereo enforcement at the top. This is the required stereo enforcement at the top.
+
+337
+00:37:47,620 --> 00:38:01,560
+I'm sorry. That makes sense? That makes sense? So, wait a moment.
+
+338
+00:38:06,720 --> 00:38:17,880
+heliport. This one and this one ended up at the end of the bending moment. We
+
+339
+00:38:17,940 --> 00:38:22,140
+stopped the steering bar at the end of the bending moment, at the end of the
+
+340
+00:38:22,220 --> 00:38:28,460
+bending moment, at the end of the bending moment. This is not true. You have to
+
+341
+00:38:28,600 --> 00:38:35,360
+extend your steering bar a little bit more, a little bit more. So one more time.
+
+342
+00:38:36,240 --> 00:38:42,520
+this end is at the end of your binding moment diagram.
+
+343
+00:38:44,920 --> 00:38:53,080
+This is at the end of your binding moment diagram. According to ACI, according to ACI,
+
+344
+00:38:56,560 --> 00:39:00,560
+we have to extend it a little bit equal to one of these.
+
+345
+00:39:03,520 --> 00:39:10,460
+greater than or equal, one of them, D, which is the depth of your cross-section, 12
+
+346
+00:39:11,160 --> 00:39:18,360
+diameters of the steel rebar or a span lens divided by a sea-tree. The clear
+
+347
+00:39:18,500 --> 00:39:27,680
+span lens divided by sea-tree. Your steel rebar cannot be ended at the end of the sea of the
+
+348
+00:39:27,680 --> 00:39:37,940
+bending moment. We have to extend it a little bit more to be embedded in concrete by one of these.
+
+349
+00:39:38,440 --> 00:39:45,960
+The biggest value. Diameter, I'm sorry, depth of the cross-section, 12 diameter of the steering
+
+350
+00:39:46,080 --> 00:39:53,760
+bar or is bent the right side. If you go back, what is the clearest bend? The clearest bend between
+
+351
+00:39:53,760 --> 00:40:13,280
+the columns equal 18 feet so 18 feet time 12 to be an inch divided by 16 I got here 13.5 inch
+
+352
+00:40:15,420 --> 00:40:19,500
+this one since we are using a number five and the number five
+
+353
+00:40:20,160 --> 00:40:22,680
+Steery bar has a diameter 0.625.
+
+354
+00:40:23,160 --> 00:40:26,460
+This diameter must be multiplied by 12.
+
+355
+00:40:28,400 --> 00:40:30,760
+So this value will give you 7.5 inch.
+
+356
+00:40:33,340 --> 00:40:36,420
+And the depth of the cross section, the total depth is 30.
+
+357
+00:40:36,520 --> 00:40:40,100
+If you subtract the 3 inch or 2 inch, it will be 28 inch.
+
+358
+00:40:41,200 --> 00:40:42,520
+Which one is the biggest value?
+
+359
+00:40:42,680 --> 00:40:46,620
+I'm going to use the biggest value is your depth, which is 28.
+
+360
+00:40:47,240 --> 00:41:02,280
+That means I have to extend this steering bar more 28 inch, which is 2.3 feet. So I have to add here 2.3 and another here 2.3.
+
+361
+00:41:04,280 --> 00:41:11,220
+So I can tell you what will be the total length of the steering bar. I need to order
+
+362
+00:41:11,840 --> 00:41:21,180
+steering bar with the length equal 14.6 feet to be over this corner.
+
+363
+00:41:23,890 --> 00:41:32,920
+Does that make sense? Holy line. I can make it one piece like this. So this is steering bar
+
+364
+00:41:34,040 --> 00:41:48,520
+will be, you can write here the length of the steering bar equal, how much?
+
+365
+00:41:50,490 --> 00:41:53,540
+Do you remember? Distance
+
+366
+00:41:57,320 --> 00:41:58,000
+40.6
+
+367
+00:42:08,680 --> 00:42:23,220
+I can make it bigger scale. There you go. So from your design, from your design, you decided that I
+
+368
+00:42:23,220 --> 00:42:30,900
+need here at this location for example at this is this four bar number five you did in your exam
+
+369
+00:42:31,780 --> 00:42:39,880
+so how to figure out the length of this is three bar to be over this column this is how to do this
+
+370
+00:42:40,620 --> 00:42:46,160
+first of all where is the end of your bending moment the end of your bending moment at distance
+
+371
+00:42:46,420 --> 00:42:54,760
+equal 20% of this balance, 20% of 20 feet from this side and 20% from the other side.
+
+372
+00:42:55,640 --> 00:43:00,560
+This is the end of your bending moment. I need to extend my steering bars
+
+373
+00:43:02,580 --> 00:43:09,820
+more than these two ends. How much? Based on ACI, I have to extend it one of these,
+
+374
+00:43:10,180 --> 00:43:14,500
+the biggest value, depth, the depth of the cross section, 12
+
+375
+00:43:14,760 --> 00:43:18,000
+diameter of the steering bar or clearest band divided by
+
+376
+00:43:18,120 --> 00:43:24,400
+secrecy, then I can decide the lens. Also keep in your mind
+
+377
+00:43:24,540 --> 00:43:31,140
+that this distance between the end of the steering bar and the
+
+378
+00:43:31,220 --> 00:43:42,400
+the face of your column, this distance will be or must be equal or at least greater than
+
+379
+00:43:42,690 --> 00:43:54,180
+the developmental lens. This one or this one, at least 12 inch or this one. So the developmental
+
+380
+00:43:54,740 --> 00:44:02,540
+Lens is the lens of the steering bar from the face of the column to the end of the steering bar.
+
+381
+00:44:02,540 --> 00:44:10,760
+So we have two limits right now. We have to satisfy. The first one, your steering bar must go
+
+382
+00:44:12,819 --> 00:44:20,179
+beyond or behind the end of the bending moment by a value. This value according to ACI
+
+383
+00:44:20,980 --> 00:44:21,720
+is one of these.
+
+384
+00:44:22,220 --> 00:44:24,100
+This one, or this one, or this one is the biggest one.
+
+385
+00:44:25,900 --> 00:44:29,100
+Once you satisfy this limit, you
+
+386
+00:44:29,130 --> 00:44:31,880
+have to satisfy another limit, which
+
+387
+00:44:32,040 --> 00:44:35,560
+is the distance between the end of the steering bar
+
+388
+00:44:36,040 --> 00:44:38,420
+to the face of the column.
+
+389
+00:44:39,040 --> 00:44:42,900
+This distance must be at least the volumetric lens or greater.
+
+390
+00:44:43,720 --> 00:44:45,840
+So we have right now 6.3 feet.
+
+391
+00:44:46,260 --> 00:44:52,420
+Hopefully, this lens will be smaller than this big to be good.
+
+392
+00:44:53,480 --> 00:44:55,280
+Just to give you a hint, I will not
+
+393
+00:44:55,340 --> 00:44:57,780
+go through this equation in more details.
+
+394
+00:44:58,000 --> 00:45:03,040
+But this lambda depends on what is the type of concrete.
+
+395
+00:45:03,220 --> 00:45:05,140
+Sometimes we have light with concrete.
+
+396
+00:45:05,260 --> 00:45:06,780
+Sometimes we have normal concrete.
+
+397
+00:45:06,880 --> 00:45:08,520
+For normal concrete, lambda equal 1.
+
+398
+00:45:10,380 --> 00:45:12,720
+If you yield, what is the yielding stress
+
+399
+00:45:12,900 --> 00:45:13,760
+of your stereo bar?
+
+400
+00:45:13,940 --> 00:45:17,100
+if prime C, what is the characteristic strengths of concrete?
+
+401
+00:45:18,740 --> 00:45:23,699
+We have Epsaite, this Epsaite depends on the position
+
+402
+00:45:24,620 --> 00:45:28,160
+of your sterile bar, but most of the time we are using it one.
+
+403
+00:45:29,580 --> 00:45:32,220
+Epsaite, based on the eboxy,
+
+404
+00:45:32,320 --> 00:45:36,160
+sometimes we have a specific type of sterile bars
+
+405
+00:45:36,380 --> 00:45:39,140
+with eboxy to increase the bond
+
+406
+00:45:39,360 --> 00:45:42,160
+between the sterile bars and the surrounded concrete,
+
+407
+00:45:42,620 --> 00:45:45,020
+but most of the time we are using uncoded.
+
+408
+00:45:46,000 --> 00:45:49,540
+We are using a normal sterile forcement without epoxy,
+
+409
+00:45:49,980 --> 00:45:51,380
+so the value will be one.
+
+410
+00:45:53,120 --> 00:45:57,540
+If psi is based on what is the size of your sterile bar,
+
+411
+00:45:57,680 --> 00:46:02,760
+keep in your mind, bigger size means bigger developmental
+
+412
+00:46:03,160 --> 00:46:05,880
+lens, because you have a very big sterile bars,
+
+413
+00:46:06,140 --> 00:46:09,859
+that means we have to provide very longer
+
+414
+00:46:11,340 --> 00:46:19,160
+development lens. So based on their size, number seven or larger, we are going to use one. For number
+
+415
+00:46:19,460 --> 00:46:24,900
+six or smaller, we are going to use point eight. And the db is the diameter of the stereo bar. If
+
+416
+00:46:25,000 --> 00:46:30,520
+you multiply these numbers together, you can get the development lens. This development lens must
+
+417
+00:46:30,700 --> 00:46:38,480
+be smaller than or at least equal the distance. So I believe six point three feet will be enough.
+
+418
+00:46:39,820 --> 00:46:48,600
+That makes sense. So this is how to put your steel rebars over the column.
+
+419
+00:46:49,720 --> 00:46:57,880
+And keep in your mind, this steel rebars at the end, at the column, the end of the column,
+
+420
+00:46:58,540 --> 00:47:08,740
+must be go through the column by a developmental lens. So this lens to here and here,
+
+421
+00:47:09,800 --> 00:47:18,660
+this lens of this part and this part behind the edge of the column must equal the developmental
+
+422
+00:47:19,220 --> 00:47:28,000
+lens from this equation or this one, 12 inch or the value from this one. Does that make sense?
+
+423
+00:47:30,760 --> 00:47:42,620
+what you did here will be the seam and did the seam here and what you did here
+
+424
+00:47:47,900 --> 00:47:55,059
+will be the seam here that makes sense this is how to put your steering bars
+
+425
+00:47:55,060 --> 00:48:02,940
+bars for the top reinforcement. At the bottom, at the bottom, we will put
+
+426
+00:48:03,260 --> 00:48:12,660
+steering enforcement like this. But keep in your mind, your steering bar must extend
+
+427
+00:48:13,340 --> 00:48:25,040
+to the columns. I totally understand that your moment here, from here to here, from
+
+428
+00:48:25,040 --> 00:48:33,120
+to here. So at the column we don't have moment but you have to extend your
+
+429
+00:48:33,240 --> 00:48:38,840
+stereo bar to the end of the column from the other side like this.
+
+430
+00:48:41,420 --> 00:48:44,960
+That makes sense and also for this one like this.
+
+431
+00:48:48,800 --> 00:48:53,880
+Does that make sense? So if you have another stereo bar from this one,
+
+432
+00:48:56,360 --> 00:49:02,660
+keeping your mind, I can make it higher like this. So this stereo bar must be extended to here
+
+433
+00:49:04,260 --> 00:49:11,620
+and this stereo bar must be extended to here. Does that make sense? So you can decide what is
+
+434
+00:49:11,620 --> 00:49:28,600
+that lens of your stereo bar the same here offset 0.2 and this one is 0.0 so this one
+
+435
+00:49:28,620 --> 00:49:37,780
+will be extended to the end, the other face of the cone. And this one the seam.
+
+436
+00:49:41,520 --> 00:49:46,720
+And this one to the end. Does that make sense?
+
+437
+00:49:50,100 --> 00:49:53,380
+And this one will be the seam here, you can copy.
+
+438
+00:49:58,220 --> 00:50:00,720
+and you can make copy from for this one
+
+439
+00:50:03,320 --> 00:50:09,960
+like this and then you copy for this one like this
+
+440
+00:50:12,520 --> 00:50:14,500
+and also you can make copy for these
+
+441
+00:50:20,860 --> 00:50:28,200
+this is called shop drawing shop drawing means you are providing more details about
+
+442
+00:50:28,200 --> 00:50:34,920
+the lenses of your steery bars so the worker can look to this drawing and they decide yes I need
+
+443
+00:50:34,920 --> 00:50:43,040
+to cut the steery bars for lenses for 10.6 feet and you have to write also here it's very important
+
+444
+00:50:43,990 --> 00:50:57,240
+you have to write here what is the number so it's four number five rebar so that you can make it
+
+445
+00:51:02,580 --> 00:51:09,380
+So the worker can say, hey, I need four pieces with number five.
+
+446
+00:51:09,860 --> 00:51:12,600
+Each has a length equal 14.6 feet.
+
+447
+00:51:14,090 --> 00:51:14,760
+Does that make sense?
+
+448
+00:51:16,310 --> 00:51:16,980
+Does that make sense?
+
+449
+00:51:17,900 --> 00:51:21,840
+And also, you can measure what is the distance between this one.
+
+450
+00:51:22,320 --> 00:51:25,300
+So the distance equal 1222 feet.
+
+451
+00:51:26,600 --> 00:51:43,000
+So I can make copy from this year and the lens can be adjusted to 22 feet and the number is not
+
+452
+00:51:43,260 --> 00:51:53,080
+four for example it's seven. That makes sense. So the worker can say okay I need to prepare
+
+453
+00:51:54,200 --> 00:52:01,920
+seven rebars, each size number five with a length equal 22 feet.
+
+454
+00:52:02,640 --> 00:52:04,220
+And what will be the length here?
+
+455
+00:52:05,840 --> 00:52:09,140
+Maybe a little different, 21.8.
+
+456
+00:52:10,100 --> 00:52:13,040
+If you would like to cut them 22 feet,
+
+457
+00:52:13,820 --> 00:52:16,640
+we can make a leg here, a little leg here up,
+
+458
+00:52:17,120 --> 00:52:18,680
+so the total length will be 22.
+
+459
+00:52:21,240 --> 00:52:34,220
+That makes sense. One of you will say, hey, sometimes we don't have this in office lens 22.
+
+460
+00:52:35,100 --> 00:52:42,120
+Maybe the maximum lens I have in my area is 12. So how can I figure out the total lens,
+
+461
+00:52:42,280 --> 00:52:47,360
+A total length is equal to 22. The maximum length I have only 12.
+
+462
+00:52:50,740 --> 00:52:55,900
+This 12. So how can I put another 10 feet
+
+463
+00:52:58,800 --> 00:53:04,780
+like this so the total will be 22. In this case we can make a splice.
+
+464
+00:53:06,320 --> 00:53:09,080
+In this case we have something called splice.
+
+465
+00:53:11,880 --> 00:53:21,580
+There you go. Lab supplies. Lab supplies means if the lens is that two rebar pieces can overlap
+
+466
+00:53:23,980 --> 00:53:30,360
+to create a bond as they are continuous. They are one rebar. Does that make sense?
+
+467
+00:53:31,340 --> 00:53:38,439
+In this case, we don't have enough lens for the three bar. We can make a splice between a piece
+
+468
+00:53:38,440 --> 00:53:50,320
+and another piece, but make sure this splice has a limit. According to ACI, this limit mostly
+
+469
+00:53:51,150 --> 00:54:04,920
+this one. 12 inch minimum or 1.3 the developmental lens that you calculated from 1.3.
+
+470
+00:54:06,600 --> 00:54:13,840
+So from AutoCAD, I have to extend this lens a little bit.
+
+471
+00:54:16,580 --> 00:54:22,780
+So this lens is called the splice lens because you are connecting between two steering bars.
+
+472
+00:54:23,280 --> 00:54:28,700
+Why? Because we don't have enough lens for one rebar to cover the whole lens.
+
+473
+00:54:29,660 --> 00:54:35,319
+So I can make a splice between two pieces, but keep in your mind, this is a splice or this
+
+474
+00:54:35,320 --> 00:54:38,820
+over length has a limit according to ECR.
+
+475
+00:54:39,420 --> 00:54:45,720
+This limit, 1.3, this developmental length, or 12 inch.
+
+476
+00:54:46,980 --> 00:54:48,240
+I'm gonna use the biggest divin.
+
+477
+00:54:49,460 --> 00:54:49,940
+Does that make sense?
+
+478
+00:54:51,760 --> 00:54:53,700
+And sometimes this is belize intention.
+
+479
+00:54:54,140 --> 00:54:55,920
+Sometimes we have a splicing compression.
+
+480
+00:54:55,960 --> 00:54:58,320
+We have another limits for the case
+
+481
+00:54:58,520 --> 00:54:59,720
+if you have a splicing compression,
+
+482
+00:54:59,720 --> 00:55:02,020
+but mostly in tension.
+
+483
+00:55:04,720 --> 00:55:05,240
+That makes sense.
+
+484
+00:55:07,840 --> 00:55:10,940
+So this is what I would like to highlight today.
+
+485
+00:55:11,640 --> 00:55:13,560
+The first point I highlighted,
+
+486
+00:55:13,780 --> 00:55:16,520
+how to use autocad to draw your cross-section.
+
+487
+00:55:17,660 --> 00:55:21,780
+How to use autocad to draw your beam reinforcement,
+
+488
+00:55:22,160 --> 00:55:24,680
+main reinforcement, I'm talking about main reinforcement.
+
+489
+00:55:26,500 --> 00:55:28,520
+The second point I covered,
+
+490
+00:55:29,020 --> 00:55:32,040
+what is the minimum spacing between your steery bars?
+
+491
+00:55:32,360 --> 00:55:40,180
+net spacing or clearly spacing because the decision behind this minimum spacing is you can decide
+
+492
+00:55:40,500 --> 00:55:46,960
+two layers or one layer of stereo force. Also I talked about developmental lens and what is the
+
+493
+00:55:46,960 --> 00:55:55,860
+meaning of developmental lens and also I talked about the stereo enforcement when or where I'm
+
+494
+00:55:55,880 --> 00:56:01,319
+sorry you need to stop it. We cannot stop the stereo enforcement by the end of the bending
+
+495
+00:56:01,320 --> 00:56:07,680
+moment but we have to extend it a little bit. After you satisfy this requirement, keeping your mind
+
+496
+00:56:07,820 --> 00:56:13,680
+from the face of the column to the end of the steering bar, we must have at least development
+
+497
+00:56:14,080 --> 00:56:26,039
+in it. You have to satisfy both of them. By the end, you can draw your stirrups just to align like
+
+498
+00:56:26,040 --> 00:56:33,420
+this and you can make offset six inch which is 0.5 feet like this so these are called
+
+499
+00:56:33,420 --> 00:56:42,060
+the stereo for stereo stirrups and you can make copy I will not draw all of them but at least
+
+500
+00:56:42,540 --> 00:56:47,760
+some of them that makes sense some of them at least
+
+501
+00:56:51,020 --> 00:56:58,780
+And then you can draw a line like this and like this.
+
+502
+00:57:03,220 --> 00:57:04,740
+And they make a line like this.
+
+503
+00:57:06,820 --> 00:57:09,360
+And they make a copy just you highlight it.
+
+504
+00:57:11,500 --> 00:57:16,520
+Highlighting these vertical lines. And I can write here.
+
+505
+00:57:18,280 --> 00:57:24,960
+You don't need to write from scratch. You can take one from this and put it here and you can adjust it.
+
+506
+00:57:26,300 --> 00:57:32,140
+We have for example number four every six inch.
+
+507
+00:57:35,900 --> 00:57:46,679
+Or you can make spacing between them like this. So if you look to this sketch you can understand
+
+508
+00:57:47,240 --> 00:58:06,960
+the, what exactly you need. I need, I need, I forget to put the steering ball here, just copy
+
+509
+00:58:09,160 --> 00:58:19,360
+and also here. And so I can understand from this one, I have a sterops number four every
+
+510
+00:58:19,540 --> 00:58:25,520
+60 inch along the total length of the beam. I can understand I have to provide the stereo
+
+511
+00:58:25,600 --> 00:58:31,700
+enforcement at the bottom with lengths equal to 22 feet seven rebars number five. And this
+
+512
+00:58:31,900 --> 00:58:37,040
+rebar will start from the second the face of this column to the end of this column.
+
+513
+00:58:37,400 --> 00:58:42,400
+That makes sense. So I have another piece here from this face of the column to this face of the
+
+514
+00:58:42,480 --> 00:58:49,660
+column, the length of this rebar is 22. I need seven pieces and number five. So I can read everything
+
+515
+00:58:49,940 --> 00:58:51,280
+I need from this drug.
+

@@ -1,0 +1,2488 @@
+1
+00:00:00,001 --> 00:00:00,440
+You know, sir?
+
+2
+00:00:02,160 --> 00:00:09,260
+So what we covered last meeting, I started to design of slabs.
+
+3
+00:00:10,080 --> 00:00:16,500
+And I mentioned that your slab can be one-way slab or two-way slabs.
+
+4
+00:00:17,220 --> 00:00:24,660
+We need to figure out what type of slab before starting if you decide to solve your slab with your hand.
+
+5
+00:00:26,400 --> 00:00:33,620
+because each type will have a different technique to solve or to analyze or to design your slab.
+
+6
+00:00:33,760 --> 00:00:42,700
+If you decide to use your hand calculation, but if you are using software, it's not a big deal
+
+7
+00:00:43,080 --> 00:00:48,620
+to find out what is the type of your slab. Is it one way or two ways? This is what we will do today.
+
+8
+00:00:52,000 --> 00:00:59,580
+Last meeting also, I told you that if your slab is one way, we can set up a minimum slab thickness
+
+9
+00:01:00,100 --> 00:01:07,260
+that can guide you to assume the thickness of your slab. And we learned how to design one-way
+
+10
+00:01:07,540 --> 00:01:13,280
+slab with hand calculation, how to draw bending moment, how to make your design, how finally
+
+11
+00:01:13,840 --> 00:01:17,040
+to figure out how much hysteria enforcement required.
+
+12
+00:01:20,220 --> 00:01:26,180
+Today, we will talk more a little about two-way slab and then I will open the software.
+
+13
+00:01:28,500 --> 00:01:37,300
+Two-way slabs, sometimes your slab will be with beams, sometimes your slab without beams.
+
+14
+00:01:37,760 --> 00:01:44,700
+If you look to this photo and look to this one, we have two techniques for a slab for two wayslips.
+
+15
+00:01:45,780 --> 00:01:54,660
+Sometimes we will provide beams between columns. I have a beam between each two columns.
+
+16
+00:01:55,880 --> 00:02:03,439
+These four beams will create a panel and you can put your slab here. So your slab is supported first
+
+17
+00:02:04,080 --> 00:02:12,380
+by the four beams and then the four beams are supported by their column and that makes sense
+
+18
+00:02:13,240 --> 00:02:21,360
+this is a typical structure system for any slab but in this case your slab is called solid slab
+
+19
+00:02:22,000 --> 00:02:33,359
+solid slab solid slab is not a common name but mainly slab with beams the second
+
+20
+00:02:33,360 --> 00:02:44,540
+And the case, which is a good case for architectural design, which is your slab is rested directly
+
+21
+00:02:45,440 --> 00:02:47,280
+on the column without beams.
+
+22
+00:02:47,960 --> 00:02:55,240
+If you look to the bottom surface of the slab, you cannot see any beam coming out from the
+
+23
+00:02:55,280 --> 00:02:56,800
+slab, just one surface.
+
+24
+00:02:58,160 --> 00:03:04,180
+In this case, the structure system is your slab is directly supported by the column.
+
+25
+00:03:07,300 --> 00:03:09,540
+I believe this one is called flat slab.
+
+26
+00:03:10,020 --> 00:03:10,380
+Flat.
+
+27
+00:03:12,260 --> 00:03:13,260
+This is a common name.
+
+28
+00:03:14,180 --> 00:03:17,860
+Flat slab means slab without beams.
+
+29
+00:03:19,020 --> 00:03:22,000
+So we have two cases right now for the two way slabs.
+
+30
+00:03:22,280 --> 00:03:29,120
+Your slab can be supported on beams first from the four sides of each manning.
+
+31
+00:03:29,120 --> 00:03:32,940
+We have a beam here, we have a beam, we have a beam and we have a beam.
+
+32
+00:03:33,540 --> 00:03:40,380
+These beams supporting your rectangle shape or rectangle panel or square panel of the
+
+33
+00:03:40,420 --> 00:03:40,760
+slab.
+
+34
+00:03:41,400 --> 00:03:43,980
+Then your beam is supported by column.
+
+35
+00:03:45,400 --> 00:03:52,400
+In the second case of slab without beams, you're a slab directly supported by columns.
+
+36
+00:03:56,060 --> 00:04:04,360
+So I think from my opinion as a structure engineer, this scenario is stronger than this
+
+37
+00:04:04,360 --> 00:04:04,580
+one.
+
+38
+00:04:05,000 --> 00:04:13,119
+If you provide beams, it will be more stronger or more strong than without beams because
+
+39
+00:04:13,120 --> 00:04:16,560
+Can you imagine the beams is very rigid, very strong
+
+40
+00:04:16,769 --> 00:04:18,200
+to support your slabs?
+
+41
+00:04:18,579 --> 00:04:21,640
+Then the beams is supported by columns.
+
+42
+00:04:21,840 --> 00:04:28,000
+It's not a big issue right now, but for two ways slab
+
+43
+00:04:28,640 --> 00:04:29,460
+without beams.
+
+44
+00:04:31,140 --> 00:04:35,220
+The biggest issue for the slab without beams
+
+45
+00:04:35,820 --> 00:04:38,680
+is this connection between the column
+
+46
+00:04:38,920 --> 00:04:41,340
+and the slab is not strong enough.
+
+47
+00:04:42,600 --> 00:04:52,100
+We can expect bunch. We can expect there. Column can break, can make a hole in the slab because the
+
+48
+00:04:52,100 --> 00:04:59,060
+slab is very thin. So this connection between the column and the slab is not strong enough.
+
+49
+00:04:59,780 --> 00:05:09,540
+Again, it's to punch. So we can provide some adjustment, especially at the column slab connection.
+
+50
+00:05:10,440 --> 00:05:13,420
+Sometimes we can provide something called a drop banin.
+
+51
+00:05:14,120 --> 00:05:15,720
+Looks like in the real life like this.
+
+52
+00:05:16,340 --> 00:05:19,960
+You have this column, you have this slab without beams.
+
+53
+00:05:20,000 --> 00:05:20,900
+We don't have beams.
+
+54
+00:05:21,520 --> 00:05:24,680
+So this connection is not strong enough.
+
+55
+00:05:25,080 --> 00:05:29,420
+So I made the slab more thick.
+
+56
+00:05:31,900 --> 00:05:35,720
+At this location, so the thickness of the slab is more thick.
+
+57
+00:05:36,740 --> 00:05:38,900
+By creating something called a drop banin,
+
+58
+00:05:39,360 --> 00:05:47,540
+you make the slab more thick at this location. Sometimes the drop panel is not enough, we can
+
+59
+00:05:48,180 --> 00:05:55,020
+provide column head. Sometimes we can provide column head. So the slab is more thick and the
+
+60
+00:05:55,160 --> 00:06:04,060
+column is more bigger. Can you see? The column is coming with a dimension. Before the connection,
+
+61
+00:06:04,240 --> 00:06:11,280
+I made the column bigger and I made the slab thicker.
+
+62
+00:06:12,130 --> 00:06:16,300
+So I made this connection more strong.
+
+63
+00:06:17,650 --> 00:06:18,320
+Can you see?
+
+64
+00:06:19,280 --> 00:06:21,800
+We did not provide beams.
+
+65
+00:06:22,480 --> 00:06:25,780
+We have another issue, which is a connection
+
+66
+00:06:25,920 --> 00:06:29,960
+between the column and the slab, which is not strong enough.
+
+67
+00:06:30,280 --> 00:06:35,600
+So we can overcome this issue by providing drop panel.
+
+68
+00:06:35,860 --> 00:06:40,340
+This one is called drop panel.
+
+69
+00:06:43,780 --> 00:06:51,160
+Sometimes we can provide also drop panel besides column head.
+
+70
+00:06:52,400 --> 00:06:56,719
+So the column at the connection with the slab
+
+71
+00:06:56,720 --> 00:07:00,120
+becomes bigger, becomes bigger.
+
+72
+00:07:01,080 --> 00:07:03,380
+This is the typical shape of flattice lab,
+
+73
+00:07:03,540 --> 00:07:05,160
+just a slab without beams.
+
+74
+00:07:05,780 --> 00:07:07,600
+The slab rested directly on the column.
+
+75
+00:07:08,040 --> 00:07:12,080
+Sometimes we are, we have a concern about this connection,
+
+76
+00:07:12,480 --> 00:07:15,980
+so we can make the slab thicker only at this location.
+
+77
+00:07:16,580 --> 00:07:18,200
+Sometimes we still have issue,
+
+78
+00:07:18,510 --> 00:07:22,380
+so we can make the column is bigger at this connection.
+
+79
+00:07:23,280 --> 00:07:26,500
+And these are the three cases without anything
+
+80
+00:07:27,460 --> 00:07:32,080
+with drop panel, with drop panel and column hit.
+
+81
+00:07:33,700 --> 00:07:37,740
+ACI give us some guide to assume the thickness
+
+82
+00:07:37,840 --> 00:07:41,660
+of your slab, the thickness if you have two ways slab.
+
+83
+00:07:43,680 --> 00:07:46,340
+If you have, if you don't have beams,
+
+84
+00:07:47,840 --> 00:07:51,079
+this is a table I'm gonna use to assume
+
+85
+00:07:51,080 --> 00:07:52,580
+the thickness of your slab.
+
+86
+00:07:53,600 --> 00:07:57,460
+If you have beams with beams,
+
+87
+00:07:57,940 --> 00:08:01,440
+this is the table I'm gonna use to assume the thickness.
+
+88
+00:08:02,260 --> 00:08:06,900
+We have different techniques to design two-way slabs.
+
+89
+00:08:07,140 --> 00:08:08,600
+They are more complicated
+
+90
+00:08:09,140 --> 00:08:11,560
+and we need to do more calculation
+
+91
+00:08:11,840 --> 00:08:15,420
+and more analysis using these tables,
+
+92
+00:08:15,880 --> 00:08:17,999
+but I will not go through them
+
+93
+00:08:19,160 --> 00:08:23,800
+because we have a very limited conditions to use this method.
+
+94
+00:08:24,480 --> 00:08:27,560
+Most of the time, these conditions are not satisfied.
+
+95
+00:08:27,740 --> 00:08:30,160
+So we are going to use a software.
+
+96
+00:08:33,099 --> 00:08:36,240
+Keeping your mind, which is this very important,
+
+97
+00:08:37,360 --> 00:08:39,740
+what is the main difference between this plane
+
+98
+00:08:40,020 --> 00:08:40,659
+and this plane?
+
+99
+00:08:40,740 --> 00:08:42,500
+You are a structure engineer right now,
+
+100
+00:08:42,680 --> 00:08:44,880
+and you have to understand this point.
+
+101
+00:08:46,520 --> 00:08:49,580
+This one and this one are floor plane.
+
+102
+00:08:50,860 --> 00:08:54,040
+But if you look here, we have two parallel lines.
+
+103
+00:08:54,740 --> 00:08:55,200
+Can you see?
+
+104
+00:08:55,400 --> 00:08:56,820
+We have two parallel lines.
+
+105
+00:08:57,980 --> 00:08:58,820
+Two parallel lines.
+
+106
+00:09:00,280 --> 00:09:02,500
+And here we don't have these two parallel lines.
+
+107
+00:09:03,160 --> 00:09:06,220
+That means we have beams in this one.
+
+108
+00:09:08,860 --> 00:09:12,160
+We have beams between the column.
+
+109
+00:09:12,340 --> 00:09:15,999
+We have a column here and we have a column here
+
+110
+00:09:16,000 --> 00:09:19,140
+and we have a column here, and we have a column here.
+
+111
+00:09:20,040 --> 00:09:24,080
+In between these columns, based on the given drawing,
+
+112
+00:09:24,860 --> 00:09:29,660
+I have a beam, I have a beam, I have a beam, I have a beam.
+
+113
+00:09:30,080 --> 00:09:32,920
+So the beams in the floor plan
+
+114
+00:09:33,560 --> 00:09:36,580
+are defined by two parallel lines.
+
+115
+00:09:38,000 --> 00:09:41,160
+If you cannot see these two parallel lines here,
+
+116
+00:09:41,460 --> 00:09:45,020
+That means we don't have beams between columns.
+
+117
+00:09:46,160 --> 00:09:49,160
+Even for the edge, we don't have here two parallel lines.
+
+118
+00:09:49,160 --> 00:09:52,860
+We have the center line and we have the edge of your slip.
+
+119
+00:09:54,500 --> 00:09:56,500
+But in here, we have two parallel line
+
+120
+00:09:56,900 --> 00:09:58,960
+and in between we have the center line.
+
+121
+00:09:59,260 --> 00:09:59,780
+That makes sense?
+
+122
+00:10:00,320 --> 00:10:03,440
+So be careful and try to think.
+
+123
+00:10:03,780 --> 00:10:05,060
+For example, for your homework,
+
+124
+00:10:06,700 --> 00:10:09,040
+I give you two problems in the homework.
+
+125
+00:10:09,460 --> 00:10:12,260
+Question number two, question number three,
+
+126
+00:10:12,680 --> 00:10:15,740
+you have to understand that for question number two,
+
+127
+00:10:16,680 --> 00:10:20,780
+this is a slab without beams, without.
+
+128
+00:10:23,140 --> 00:10:25,579
+This one is without beams,
+
+129
+00:10:30,940 --> 00:10:34,260
+because I cannot see any two barren lines.
+
+130
+00:10:34,940 --> 00:10:39,700
+These two lines represent the plan of your beam.
+
+131
+00:10:40,880 --> 00:10:45,220
+But in this one, no, this one will be with beam
+
+132
+00:10:46,180 --> 00:10:49,220
+or with beams between each columns
+
+133
+00:10:50,360 --> 00:10:52,160
+or between the columns, we have a beam,
+
+134
+00:10:52,260 --> 00:10:54,220
+between this column and this column,
+
+135
+00:10:54,440 --> 00:10:55,500
+we have a beam in between.
+
+136
+00:10:55,720 --> 00:10:57,320
+Why? Because we have two parallel lines.
+
+137
+00:10:58,060 --> 00:10:59,520
+Why? Because we have two parallel lines.
+
+138
+00:11:00,040 --> 00:11:01,580
+Why? Because we have two parallel lines.
+
+139
+00:11:01,740 --> 00:11:02,160
+That makes sense.
+
+140
+00:11:02,900 --> 00:11:07,020
+So this point is very important for you to understand
+
+141
+00:11:07,900 --> 00:11:11,260
+how can I figure out, I have a problem with beams
+
+142
+00:11:11,860 --> 00:11:12,860
+or without beams.
+
+143
+00:11:13,060 --> 00:11:15,620
+I have a slab with beams or without beams.
+
+144
+00:11:16,960 --> 00:11:20,260
+Just a reminder, if you look to your floor plan,
+
+145
+00:11:21,120 --> 00:11:24,820
+you have to, the problem will not say this.
+
+146
+00:11:25,060 --> 00:11:26,160
+I will not write this,
+
+147
+00:11:26,340 --> 00:11:30,340
+but you have to understand this from the drone.
+
+148
+00:11:32,500 --> 00:11:33,000
+That makes sense.
+
+149
+00:11:34,340 --> 00:11:36,820
+You have to understand this from the drum.
+
+150
+00:11:37,880 --> 00:11:40,440
+I will start to solve
+
+151
+00:11:43,740 --> 00:11:46,140
+one of the probably based on the time.
+
+152
+00:11:48,260 --> 00:11:50,760
+I will start with this problem of your homework.
+
+153
+00:11:51,400 --> 00:11:54,000
+The first one, this is what I covered last meeting.
+
+154
+00:11:54,180 --> 00:11:55,480
+You need to design one way slim.
+
+155
+00:11:55,560 --> 00:11:56,180
+It's one way slim.
+
+156
+00:11:57,040 --> 00:11:59,220
+But for this one, I'm going to use Reza floor.
+
+157
+00:12:00,200 --> 00:12:02,260
+I'm going to use the software RISA floor.
+
+158
+00:12:03,380 --> 00:12:07,060
+How to download your software?
+
+159
+00:12:08,640 --> 00:12:16,580
+Go to Google and search for RISA products.
+
+160
+00:12:19,620 --> 00:12:20,940
+RISA products.
+
+161
+00:12:23,300 --> 00:12:26,520
+And one of the products is called RISA floor.
+
+162
+00:12:28,800 --> 00:12:32,320
+Once you get it, you can try Riza now.
+
+163
+00:12:32,520 --> 00:12:35,560
+I think it will ask you to create an account.
+
+164
+00:12:35,840 --> 00:12:39,580
+You can use your university email to create your account
+
+165
+00:12:39,980 --> 00:12:44,080
+and it will load the software and start to set up the software.
+
+166
+00:12:45,080 --> 00:12:45,860
+It's very easy.
+
+167
+00:12:47,280 --> 00:12:50,480
+Once you download the program, you
+
+168
+00:12:50,540 --> 00:12:52,860
+will have Icon like this in install.
+
+169
+00:12:53,920 --> 00:13:02,960
+F11, RISA floor. Double click, you can start your setup. That makes sense? Once you set up your
+
+170
+00:13:03,200 --> 00:13:13,580
+program on the desktop, you will have this icon, RISA floor. Double click on this floor, on this
+
+171
+00:13:13,760 --> 00:13:22,159
+icon, and we don't have a license, but on campus you can have the license. We have a license on
+
+172
+00:13:22,160 --> 00:13:28,680
+canvas but at your home and your personal computer we don't have so we can launch demo.
+
+173
+00:13:30,740 --> 00:13:32,500
+Okay the program will open
+
+174
+00:13:35,180 --> 00:13:41,160
+and I will select click here to create a new floor plan.
+
+175
+00:13:43,360 --> 00:13:48,879
+I will select here concrete floor slab, concrete floor slab
+
+176
+00:13:50,380 --> 00:13:54,940
+And for now, this is left for office building.
+
+177
+00:13:55,480 --> 00:13:57,940
+For now, we can change it later.
+
+178
+00:13:59,040 --> 00:14:01,660
+But I selected concrete floor slab.
+
+179
+00:14:02,900 --> 00:14:05,320
+I selected office building.
+
+180
+00:14:05,840 --> 00:14:06,160
+OK.
+
+181
+00:14:07,440 --> 00:14:10,440
+And I can cancel this window.
+
+182
+00:14:12,140 --> 00:14:12,780
+That make sense?
+
+183
+00:14:15,060 --> 00:14:15,360
+Yes, sir.
+
+184
+00:14:15,920 --> 00:14:21,480
+This one looks like Riza2D that we learned last semester
+
+185
+00:14:21,880 --> 00:14:23,020
+with the structure analysis.
+
+186
+00:14:24,340 --> 00:14:30,680
+I can hide up this grid from view, drawing a grid,
+
+187
+00:14:31,380 --> 00:14:34,200
+can hide this grid.
+
+188
+00:14:34,580 --> 00:14:36,400
+If you would like to show them again,
+
+189
+00:14:37,220 --> 00:14:39,880
+go back to view, drawing a grid, you
+
+190
+00:14:39,960 --> 00:14:41,800
+can find them again one more time.
+
+191
+00:14:43,040 --> 00:14:48,380
+I can zoom in, zoom out, zoom in, zoom out using the scroll of your keyboard.
+
+192
+00:14:48,860 --> 00:14:50,080
+I'm sorry, the scroll of your mouse.
+
+193
+00:14:53,100 --> 00:14:55,880
+I would like to hide this drone again.
+
+194
+00:14:57,320 --> 00:15:00,440
+If you open the first problem in your homework,
+
+195
+00:15:02,000 --> 00:15:06,520
+we have a slab without beams. That's fine. We have columns. That's fine.
+
+196
+00:15:08,380 --> 00:15:10,600
+And the columns are 18 by 18 inch.
+
+197
+00:15:12,720 --> 00:15:24,300
+We have spacing in x direction 22 feet, 22 feet, 22 feet three times. So we have three spacing every
+
+198
+00:15:26,319 --> 00:15:35,440
+22 feet in x. In y we have also three spacing every
+
+199
+00:15:37,920 --> 00:15:52,240
+22 feet in Y. Can create these four, I'm sorry, nine panels. We can do this directly on Riza
+
+200
+00:15:52,740 --> 00:16:00,460
+floor. We have something here called project grid. If you open this one, project grid,
+
+201
+00:16:02,380 --> 00:16:05,260
+and I can generate project grids.
+
+202
+00:16:06,760 --> 00:16:08,920
+What I did one more time, one more time,
+
+203
+00:16:09,740 --> 00:16:13,400
+we have a window here with many options, with many.
+
+204
+00:16:14,030 --> 00:16:16,000
+We can use some of them right now,
+
+205
+00:16:16,700 --> 00:16:18,660
+but I will start with the project grid
+
+206
+00:16:19,400 --> 00:16:22,880
+and then I will generate project grid lines.
+
+207
+00:16:24,200 --> 00:16:28,119
+And I will write what I did here
+
+208
+00:16:28,160 --> 00:16:31,880
+in x3 spacing every 22 feet.
+
+209
+00:16:32,580 --> 00:16:35,580
+In y3 spacing every 22 feet.
+
+210
+00:16:36,580 --> 00:16:39,240
+So I will write here, we'll cancel this one,
+
+211
+00:16:39,340 --> 00:16:40,300
+and I will write.
+
+212
+00:16:41,280 --> 00:16:44,740
+In z means, I forget to mention this,
+
+213
+00:16:45,440 --> 00:16:47,740
+z means the horizontal direction.
+
+214
+00:16:48,920 --> 00:16:51,320
+Xe means the vertical direction.
+
+215
+00:16:52,100 --> 00:16:57,079
+So keep in your mind, this is the direction of z
+
+216
+00:16:57,080 --> 00:17:07,220
+in RISA and this is the direction of X in RISA. This is the default in the software based on the given
+
+217
+00:17:08,319 --> 00:17:19,319
+axis Z and the X here. So in Z it will be 3 every 22 feet in Y will be, I'm sorry, in X will be also
+
+218
+00:17:19,880 --> 00:17:31,500
+3 every 22 feet. So generate, I will write here in Z, I will write 3 every 22 feet.
+
+219
+00:17:32,660 --> 00:17:43,180
+In X, which is a vertical direction, it will be 3 every 22 feet. Once you say, "Abloy,
+
+220
+00:17:44,520 --> 00:17:54,860
+okay, and the clause, this window, you will have the grid lines looks like exactly.
+
+221
+00:17:56,480 --> 00:18:03,720
+What do you have in your property? That makes sense. So I defined in z direction,
+
+222
+00:18:04,480 --> 00:18:14,500
+3 spacing every 22 feet. I divided in x, which is this direction, 3 spacing every
+
+223
+00:18:15,539 --> 00:18:19,480
+So we have three spacing, one, two, three.
+
+224
+00:18:19,940 --> 00:18:21,680
+Each spacing will be 22 feet.
+
+225
+00:18:22,120 --> 00:18:24,420
+One, two, three spacing.
+
+226
+00:18:24,780 --> 00:18:26,660
+Every spacing is 22 feet.
+
+227
+00:18:27,120 --> 00:18:27,620
+That makes sense.
+
+228
+00:18:28,420 --> 00:18:29,040
+Very easy.
+
+229
+00:18:29,320 --> 00:18:33,180
+In a second, whatever you have, we can do it.
+
+230
+00:18:36,800 --> 00:18:44,480
+If you look to your floor plan, we have only slabs or slabs.
+
+231
+00:18:44,480 --> 00:18:53,660
+I think the thickness is given. It's not given. We can assume the thickness of this slab for example 5 inch.
+
+232
+00:18:57,280 --> 00:19:12,540
+And these columns are square 18 inch by 18 inch. Let's start to draw the columns first. So if you go to insert, we have columns.
+
+233
+00:19:12,540 --> 00:19:27,340
+and I can define exiblicite shape with rectangular cross-section 18 inch by 18 inch.
+
+234
+00:19:28,640 --> 00:19:38,560
+Okay, apply, then I can draw by click at each location of your corner.
+
+235
+00:19:42,060 --> 00:19:49,600
+Just click, wait until this red point show up, then you can both click.
+
+236
+00:19:50,500 --> 00:19:53,280
+Click, click, click.
+
+237
+00:19:54,740 --> 00:20:04,400
+if you look to 3D iso iso means isometric we have this little icon can show you the
+
+238
+00:20:04,440 --> 00:20:13,180
+isometric of your column if you click this little icon one more time and look
+
+239
+00:20:13,280 --> 00:20:21,300
+to plan PLN you can go back to the plan view so right now I am done with the
+
+240
+00:20:21,300 --> 00:20:32,640
+columns. I need to draw my slab. So from insert, we have something called here
+
+241
+00:20:33,180 --> 00:20:42,940
+slabs. Slabs. I will define the thickness of your slab which is 5 inch.
+
+242
+00:20:46,399 --> 00:20:55,340
+I'm sorry one more time insert slaps slaps your thickness is five I will go
+
+243
+00:20:55,380 --> 00:21:03,480
+back to draw slaps and then I can make click at each corner of this slip
+
+244
+00:21:09,420 --> 00:21:15,780
+then skip. I started to click at this corner, click at this corner, click at
+
+245
+00:21:15,860 --> 00:21:20,700
+this corner, click at this corner and I return it back to the first corner to
+
+246
+00:21:20,740 --> 00:21:28,240
+make click one more time. If you look to the plan as a isometric and this render
+
+247
+00:21:28,540 --> 00:21:37,620
+view you can see the columns and the slip. One more time click the render view, one
+
+248
+00:21:37,620 --> 00:21:40,880
+more time plan to go back to the plan.
+
+249
+00:21:42,600 --> 00:21:49,380
+Given your mind, I will not draw any beans based on the given
+
+250
+00:21:49,560 --> 00:21:56,540
+floor plan. We don't have beans. We don't have beans. We have
+
+251
+00:21:56,620 --> 00:22:02,800
+only columns and this way. Anybody has any questions so far?
+
+252
+00:22:04,580 --> 00:22:04,860
+No, sir.
+
+253
+00:22:07,100 --> 00:22:08,720
+This topic is very interesting.
+
+254
+00:22:09,340 --> 00:22:12,260
+I do recommend everybody to download the software
+
+255
+00:22:12,700 --> 00:22:14,260
+and train yourself.
+
+256
+00:22:14,960 --> 00:22:18,880
+This is the more best benefit from this course,
+
+257
+00:22:19,360 --> 00:22:23,320
+how to use a software to analyze your structure building.
+
+258
+00:22:27,160 --> 00:22:31,640
+I would like to define how much life load we have.
+
+259
+00:22:36,580 --> 00:22:45,040
+You can find it here from here, but I do recommend it to insert LUDE's area LUDE definition.
+
+260
+00:22:48,320 --> 00:22:52,500
+If you would like, we can start with area LUDE directly, but if you go to area LUDE,
+
+261
+00:22:55,100 --> 00:23:01,560
+RIZE has default definition. If your building is office, go ahead and select office.
+
+262
+00:23:02,580 --> 00:23:09,580
+storage, go ahead and select the storage. Public building, go ahead and use public building.
+
+263
+00:23:09,840 --> 00:23:17,180
+If this slab is a roof, go ahead and use roof. So Riza automatically will define how much he
+
+264
+00:23:17,260 --> 00:23:29,940
+looted. Do you remember how? Because based on the table 4-1 in chapter 4 ASCCE, and I told you
+
+265
+00:23:29,940 --> 00:23:38,860
+this last meeting, seven, based on the function of your building, we can define how much life
+
+266
+00:23:38,980 --> 00:23:50,760
+fluid we have. For example, for the residential building, we can figure out how much life fluid
+
+267
+00:23:50,760 --> 00:23:59,860
+do you have, based on some conditions. If you have roofs, we have values for the
+
+268
+00:23:59,900 --> 00:24:05,020
+life route. You can access, you cannot access, you can provide something on the
+
+269
+00:24:05,080 --> 00:24:11,200
+roof, you cannot, so we can find out the life route. If you have office building, we
+
+270
+00:24:11,240 --> 00:24:18,640
+can define which value of the life route. So reason, once you select what is the
+
+271
+00:24:18,640 --> 00:24:26,320
+function of your building, Risa can define the life load. Okay, I cannot find the function
+
+272
+00:24:26,320 --> 00:24:34,820
+of my building in these four or five selections. What should I do? You need to go to insert
+
+273
+00:24:35,440 --> 00:24:44,640
+loads and then you can define your load. This one will give you the office, the life load
+
+274
+00:24:44,640 --> 00:24:52,020
+equal 50. This value is given by Kibber square feet. KSF means Kibber square feet. It's a 50.
+
+275
+00:24:53,010 --> 00:24:59,320
+You can adjust it by the way. You can change it. If your office building based on this table
+
+276
+00:24:59,710 --> 00:25:08,500
+is not 50, which is this one, it's 100. So you can go back to Riza and change this value to be 0.1.
+
+277
+00:25:09,360 --> 00:25:12,100
+That's fine, no problem. You cannot just anything.
+
+278
+00:25:13,860 --> 00:25:20,780
+That makes sense, but I will leave everything. Okay, my function of the building is not listed here,
+
+279
+00:25:21,180 --> 00:25:29,360
+so I can come to the last row and then push enter. And I can define the new one called
+
+280
+00:25:32,380 --> 00:25:38,400
+residential building. I'm not sure if I'm right it correctly, but anyway, residential building.
+
+281
+00:25:44,440 --> 00:25:51,020
+residential building. What is the value of your life load based on this table for residential
+
+282
+00:25:51,220 --> 00:26:00,720
+building and looks like we have stairs or whatever I'm gonna assume it 30 so your value will be
+
+283
+00:26:00,720 --> 00:26:10,100
+0.03. That makes sense. Then I will close this one. And if you go back to insert
+
+284
+00:26:10,320 --> 00:26:18,320
+LUDE, area LUDE, and open these selections, you can find what you defined.
+
+285
+00:26:19,340 --> 00:26:27,600
+Residential building. That makes sense. Okay. And then I can define the LUDE by
+
+286
+00:26:27,600 --> 00:26:35,200
+click. Select this option just to click. Apply if you click here. It's not working
+
+287
+00:26:36,500 --> 00:26:41,140
+because we don't have beans. So insert, loads, we have different
+
+288
+00:26:41,320 --> 00:26:48,140
+options. I can select the last option. Point to point to draw. I will draw.
+
+289
+00:26:48,140 --> 00:26:59,680
+click here, click here, click here, click here and click back. Riza can define the life
+
+290
+00:27:00,180 --> 00:27:06,800
+loot. If you look here, once you define the life loot, the color of this life loot is
+
+291
+00:27:08,680 --> 00:27:16,940
+blue, not blue, but white blue, so or light blue, it's residential. That makes sense. Sometimes we
+
+292
+00:27:16,940 --> 00:27:21,480
+We have a part is residential, a part is office,
+
+293
+00:27:21,800 --> 00:27:23,380
+another part is storage,
+
+294
+00:27:23,640 --> 00:27:25,960
+so you can define the life looks for each part.
+
+295
+00:27:28,480 --> 00:27:34,980
+By the way, before solving, RISA will do it.
+
+296
+00:27:35,400 --> 00:27:38,380
+RISA floor will do it for you, loot combination.
+
+297
+00:27:39,420 --> 00:27:42,200
+We learned this during our course
+
+298
+00:27:42,560 --> 00:27:45,340
+that we need to add the loot.
+
+299
+00:27:45,340 --> 00:27:57,840
+load plus life load after you multiply each by a factor. This is the ultimate load combination,
+
+300
+00:27:58,320 --> 00:28:05,360
+1.2-digit load plus 1.6 life load. Riza will do it for you. Don't worry if you would like to check,
+
+301
+00:28:07,339 --> 00:28:14,880
+spreadsheets, we have here load combinations. Riza did it for you and the other, we have many.
+
+302
+00:28:14,940 --> 00:28:24,160
+For the strengths, dead and alive, we have dead multiplied by 1.2, life multiplied by 1.6.
+
+303
+00:28:25,350 --> 00:28:31,100
+These factors coming from the code. That makes sense. You can adjust them,
+
+304
+00:28:31,640 --> 00:28:40,899
+but we don't need because they are correct. We are ready to solve your slab. I can click
+
+305
+00:28:40,900 --> 00:28:52,320
+this little icon so Risa will start to solve. We are focusing today on the
+
+306
+00:28:52,540 --> 00:29:01,900
+slab. I would like to design my slab. This is the slab. So what is the building
+
+307
+00:29:02,020 --> 00:29:08,340
+moment on this slave. If you go to this little icon or f2,
+
+308
+00:29:10,610 --> 00:29:21,560
+or I think from view model display option, you have different way f2 or from view
+
+309
+00:29:22,520 --> 00:29:30,160
+model display option or this little icon. That makes sense. And the eye will look for slaves.
+
+310
+00:29:31,860 --> 00:29:42,160
+I will select here, and I will select the color fill, and I will select contours,
+
+311
+00:29:43,560 --> 00:29:56,620
+and I will select MZ, and I will select strength, dead and alive, which is the last combination,
+
+312
+00:29:56,900 --> 00:30:04,300
+combination number four and I will say okay I will have this
+
+313
+00:30:09,500 --> 00:30:10,140
+control line.
+
+314
+00:30:14,420 --> 00:30:21,020
+That makes sense. I will show you how to read this color but so far
+
+315
+00:30:22,020 --> 00:30:25,520
+This is the bending moment in the z direction.
+
+316
+00:30:27,000 --> 00:30:35,600
+If you remember from this little icon, I selected slabs, I selected color fill,
+
+317
+00:30:36,080 --> 00:30:43,960
+I selected contours, I selected from here MZ. Actually we have two options, MZ and Mx.
+
+318
+00:30:44,580 --> 00:30:53,800
+mz and mx both of them will work with me. mz okay will help you to figure out the steel
+
+319
+00:30:54,060 --> 00:31:01,660
+reinforcement in the z direction which is horizontal. keep in your mind the steel reinforcement in
+
+320
+00:31:01,780 --> 00:31:08,220
+the slab we have some in this direction and the sum in this direction because it's a two-way slab
+
+321
+00:31:09,360 --> 00:31:13,800
+So how to figure out with this stereo enforcement if you are working with mz
+
+322
+00:31:15,480 --> 00:31:18,220
+which is in the z direction based on the software.
+
+323
+00:31:20,520 --> 00:31:25,160
+If you would like to figure out with this stereo enforcement you have to work with mx
+
+324
+00:31:26,320 --> 00:31:32,240
+based on the software this is the direction for x that makes sense. So from Riese we are going to
+
+325
+00:31:32,260 --> 00:31:39,200
+use mz and we are going to use mx. mz will help you to figure out the stereo enforcement in
+
+326
+00:31:39,200 --> 00:31:47,320
+I'm sorry, it's smoothing X in horizontal direction and the MX will help you to figure out the serial enforcement in the vertical direction.
+
+327
+00:31:48,840 --> 00:32:08,900
+One more time, if you go back, slabs, color fill, contours, and you select MX, keep in your mind, you have to select the correct combination, which is the strands dead plus life, because we have strands dead only without life rule.
+
+328
+00:32:08,900 --> 00:32:11,160
+This is a case of looting.
+
+329
+00:32:11,320 --> 00:32:13,360
+If you go back to Ferris-Dimidule,
+
+330
+00:32:13,460 --> 00:32:14,720
+we have different combinations.
+
+331
+00:32:15,620 --> 00:32:18,520
+One of them is dead loot only, but this is not the case.
+
+332
+00:32:18,640 --> 00:32:20,540
+We are going to use dead blast life strengths.
+
+333
+00:32:21,280 --> 00:32:24,240
+Okay, you will have different colors
+
+334
+00:32:25,660 --> 00:32:28,060
+because the moment is right now in X.
+
+335
+00:32:29,900 --> 00:32:30,920
+Any questions so far?
+
+336
+00:32:32,600 --> 00:32:32,920
+- No sir.
+
+337
+00:32:34,700 --> 00:32:36,080
+- Remember last meeting,
+
+338
+00:32:37,240 --> 00:32:48,420
+When I solve it this example, the final conclusion after structure analysis and looting, we have
+
+339
+00:32:48,620 --> 00:32:50,100
+the moment in my ultimate.
+
+340
+00:32:52,000 --> 00:32:54,240
+Rizah will give you this value.
+
+341
+00:32:56,440 --> 00:32:58,380
+How can I read these colors?
+
+342
+00:32:59,080 --> 00:33:02,000
+These colors has a skin on your right.
+
+343
+00:33:02,860 --> 00:33:03,400
+Can you see here?
+
+344
+00:33:04,640 --> 00:33:08,700
+we have a very dark blue color
+
+345
+00:33:09,880 --> 00:33:13,340
+range it from 0.7 until 10.3
+
+346
+00:33:14,640 --> 00:33:16,980
+and we have light blue color
+
+347
+00:33:18,200 --> 00:33:21,900
+range it between 0.7 and 11.7.
+
+348
+00:33:23,260 --> 00:33:27,480
+So looks like the highest value of your moment
+
+349
+00:33:28,220 --> 00:33:32,320
+will be around 11.7
+
+350
+00:33:34,780 --> 00:33:46,860
+KEEP FOOT. That makes sense. So these colors and these values represent the value of moment
+
+351
+00:33:47,360 --> 00:33:55,240
+at any point on the slip. So please go ahead and see what color do you have. I don't care
+
+352
+00:33:55,280 --> 00:34:00,880
+about the green color, the green color over the columns. I don't care about them. I will
+
+353
+00:34:00,880 --> 00:34:09,040
+concern about the biggest colors which are light blue, light blue between 11.7 and the
+
+354
+00:34:09,060 --> 00:34:16,139
+point seven. We have a very dark which is in between this area between point seven and the
+
+355
+00:34:16,159 --> 00:34:21,879
+negative 10.3. So we have negative and positive up and down. So I'm going to use the biggest
+
+356
+00:34:21,919 --> 00:34:25,760
+the value which is 11.7 so if your bending moment
+
+357
+00:34:29,000 --> 00:34:40,200
+in my ultimate equal 11.7 Kibb foot can i design yes you can you have a strip
+
+358
+00:34:41,760 --> 00:34:49,919
+with a width 12 feet i'm sorry 12 inch which is one feet
+
+359
+00:34:50,040 --> 00:34:58,320
+and the thickness of your slab equal five feet, I'm sorry five inch, I would like this is your B
+
+360
+00:35:00,180 --> 00:35:06,760
+and your depth will be around four inch, this is your depth.
+
+361
+00:35:09,440 --> 00:35:19,900
+So keep in your mind, RISA, I'm gonna use RISA for structural analysis. Structural analysis means
+
+362
+00:35:19,900 --> 00:35:25,540
+loading, combination, and finally, what is the bending moment?
+
+363
+00:35:26,820 --> 00:35:30,760
+Then I will use my hand calculation to do my design.
+
+364
+00:35:32,200 --> 00:35:38,900
+So we have a strip, one strip with unit length with one feet.
+
+365
+00:35:39,600 --> 00:35:42,280
+And the thickness of the slab, we assume the five inch.
+
+366
+00:35:43,140 --> 00:35:48,840
+Then the moment on this strip equal 11.7 from reason.
+
+367
+00:35:49,700 --> 00:35:51,120
+This is a technique for design.
+
+368
+00:35:51,180 --> 00:35:52,040
+We have another technique.
+
+369
+00:35:52,240 --> 00:35:53,440
+I will cover it, don't worry.
+
+370
+00:35:54,340 --> 00:35:56,480
+But so far, I have the moment,
+
+371
+00:35:56,880 --> 00:35:58,400
+I have the strip cross-section,
+
+372
+00:35:58,840 --> 00:36:01,840
+so I can find out the M ultimate divided by
+
+373
+00:36:02,100 --> 00:36:06,220
+phi P D square.
+
+374
+00:36:07,760 --> 00:36:19,680
+Your value will be 11.7 times 12,000
+
+375
+00:36:19,680 --> 00:36:21,800
+by four inches square.
+
+376
+00:36:23,280 --> 00:36:28,000
+I have a value equal 812.5.
+
+377
+00:36:30,000 --> 00:36:35,000
+I can open my tables.
+
+378
+00:36:41,440 --> 00:36:42,040
+Just a moment.
+
+379
+00:36:47,900 --> 00:36:49,660
+And your...
+
+380
+00:36:49,660 --> 00:36:52,780
+F prime C 4000 and 60 000
+
+381
+00:37:00,320 --> 00:37:00,920
+there's the tables
+
+382
+00:37:06,260 --> 00:37:11,120
+4000 and 60 000 4000 4000 and 60 000
+
+383
+00:37:18,220 --> 00:37:33,580
+There you go, 4,000 and 60,000. What is your value? 812.5, 812, 812, 800. We have here 800, 811, 815.
+
+384
+00:37:34,920 --> 00:37:40,240
+This one will go, will be good. So the value after you check row minimum and the row maximum, your row
+
+385
+00:37:40,860 --> 00:37:43,360
+Equal 0.0158.
+
+386
+00:37:45,920 --> 00:37:51,620
+Rho equal 0.0158.
+
+387
+00:37:54,000 --> 00:37:54,460
+That makes sense?
+
+388
+00:37:55,900 --> 00:37:57,240
+Well, 0.0158, yes.
+
+389
+00:37:58,320 --> 00:38:02,720
+Once you get your rho, keep in your mind this rho equal area
+
+390
+00:38:03,020 --> 00:38:07,720
+steel divided by b time depth.
+
+391
+00:38:09,420 --> 00:38:13,820
+The value of rho 0.158, a value of d12 inch,
+
+392
+00:38:14,620 --> 00:38:17,740
+value of depth 4 inch, then I can find out
+
+393
+00:38:17,900 --> 00:38:20,380
+the required area steel for one strip.
+
+394
+00:38:21,400 --> 00:38:26,400
+The required area steel will be 0.158 times 12 times 4.
+
+395
+00:38:27,100 --> 00:38:33,560
+I got 0.758 inches square.
+
+396
+00:38:37,000 --> 00:38:42,720
+Based on the table, if you select your stereo enforcement and I do recommend to use one of them,
+
+397
+00:38:43,120 --> 00:38:48,180
+number three or number four. Don't use something bigger than this, number three or number four.
+
+398
+00:38:49,220 --> 00:38:53,900
+If it's a bridge or maybe something very big, we can use number five or number six,
+
+399
+00:38:54,200 --> 00:39:00,040
+but for building, for office, for any normal building, number three or number four. So let's see
+
+400
+00:39:00,040 --> 00:39:07,160
+number four. The area of one rebar of number four is pointy two. So if it's a number four,
+
+401
+00:39:08,780 --> 00:39:18,280
+I will need four rebars, number four for each one feet.
+
+402
+00:39:23,080 --> 00:39:33,140
+because this width is one feet. So for your slab, this is, keep in your mind, we are talking about
+
+403
+00:39:33,920 --> 00:39:43,260
+mz, the stereo enforcement, this is m0, this is mx. This is mx in wider in vertical direction. So
+
+404
+00:39:44,280 --> 00:39:48,660
+In this direction, I need every one feet.
+
+405
+00:39:49,000 --> 00:39:53,540
+I need to distribute four rebar number four.
+
+406
+00:39:54,920 --> 00:39:57,480
+This is coming from Mx.
+
+407
+00:40:00,920 --> 00:40:05,820
+If you go back to Risa and the select here Mz,
+
+408
+00:40:06,860 --> 00:40:11,120
+OK, I think you will have the same value, 10, 11.7,
+
+409
+00:40:11,240 --> 00:40:13,060
+because this slab is symmetric.
+
+410
+00:40:14,620 --> 00:40:17,440
+Symmetric means this dimension like this dimension,
+
+411
+00:40:17,560 --> 00:40:19,620
+so everything the same, the same hysteria enforcement.
+
+412
+00:40:19,780 --> 00:40:23,900
+So in this direction also, I need to distribute four rebars,
+
+413
+00:40:25,000 --> 00:40:30,080
+four rebars, number four, every one feet.
+
+414
+00:40:30,460 --> 00:40:33,300
+For each one feet, I need to distribute four rebars.
+
+415
+00:40:34,560 --> 00:40:37,420
+This is the final design of your slab.
+
+416
+00:40:39,040 --> 00:40:39,520
+Does that make sense?
+
+417
+00:40:41,440 --> 00:40:45,800
+So, Risa, Floor will help you to do structure analysis.
+
+418
+00:40:46,270 --> 00:40:50,080
+Keep in your mind, structure analysis is not a very small step.
+
+419
+00:40:50,600 --> 00:40:53,180
+It's a very big, because you have to provide the looting,
+
+420
+00:40:53,300 --> 00:40:54,940
+you have to provide the own way to the slab.
+
+421
+00:40:55,120 --> 00:40:56,280
+Risa will do this for you.
+
+422
+00:40:56,980 --> 00:41:00,400
+And Risa will give you the final bending moment on the slab.
+
+423
+00:41:01,360 --> 00:41:06,560
+Once you get your moment, your design is a very, very, very, very, very short step.
+
+424
+00:41:07,040 --> 00:41:14,240
+Just your moment divided your moment by feb d square find your row find your area steel you are done
+
+425
+00:41:16,660 --> 00:41:18,840
+Anybody has any question I
+
+426
+00:41:22,100 --> 00:41:24,980
+Will do what you can go through the
+
+427
+00:41:26,050 --> 00:41:27,760
+reason more in depth
+
+428
+00:41:28,820 --> 00:41:30,460
+but we have another
+
+429
+00:41:33,840 --> 00:41:37,080
+results for the slab, which is the deformative shape.
+
+430
+00:41:38,100 --> 00:41:39,580
+What you mean by deformative shape?
+
+431
+00:41:40,120 --> 00:41:41,880
+I think you are familiar with this
+
+432
+00:41:41,960 --> 00:41:45,980
+from engineering mechanics or from mechanics of material.
+
+433
+00:41:46,660 --> 00:41:50,680
+If you have any beam or any slab between two sub-boards,
+
+434
+00:41:52,580 --> 00:41:54,920
+if you stand on this slab,
+
+435
+00:41:56,640 --> 00:41:58,780
+this element will deflect.
+
+436
+00:42:02,080 --> 00:42:04,100
+Maybe you should expect deformation.
+
+437
+00:42:04,940 --> 00:42:06,040
+This is called deformation.
+
+438
+00:42:07,060 --> 00:42:09,440
+So the slab will move down a little bit.
+
+439
+00:42:10,640 --> 00:42:12,720
+You can figure this out from reason.
+
+440
+00:42:13,780 --> 00:42:17,360
+If you go back to the same icon and the slab,
+
+441
+00:42:18,680 --> 00:42:22,880
+and we, sorry, not slab, deflection, I'm sorry, deflection.
+
+442
+00:42:23,820 --> 00:42:29,700
+If you go to deflection and select this load combination,
+
+443
+00:42:30,540 --> 00:42:31,700
+let's try the magnification.
+
+444
+00:42:31,920 --> 00:42:36,220
+factor is forward. Let's see. And this is one more important thing. I'm going to use
+
+445
+00:42:36,380 --> 00:42:41,400
+the combination number two, surface did plus live. One of you will ask me what is
+
+446
+00:42:41,520 --> 00:42:45,980
+the main difference between surface did and the life strengths did and the life.
+
+447
+00:42:46,640 --> 00:42:52,740
+For deflection we are going to use surface based on ACI, did and the life. I can
+
+448
+00:42:52,980 --> 00:43:00,440
+tell you if you added load plus life load without any factor this is called
+
+449
+00:43:00,440 --> 00:43:06,540
+surface. And we are going to use this
+
+450
+00:43:06,640 --> 00:43:10,840
+combination for deflection based on their
+
+451
+00:43:12,160 --> 00:43:17,440
+ACI standard. But if you would like to
+
+452
+00:43:17,500 --> 00:43:20,180
+make design we need to multiply the
+
+453
+00:43:20,300 --> 00:43:25,380
+load by 1.2 and the life load by 1.6
+
+454
+00:43:26,140 --> 00:43:28,760
+and in this case this combination is
+
+455
+00:43:28,760 --> 00:43:38,540
+called strengths. Did and the life and this one is used for design. So if you would like to check
+
+456
+00:43:38,830 --> 00:43:44,060
+or to figure out the deflection of your slab, you need only to add did and the life without that
+
+457
+00:43:44,600 --> 00:43:51,560
+just the values the actual values of the loo. But for design, you need to multiply this one and this
+
+458
+00:43:51,560 --> 00:44:01,660
+when based on the ASC. So I will use surface did underline. Okay, you can see here the
+
+459
+00:44:01,720 --> 00:44:09,720
+deflection of your slim. The deflection of your slim. This is the deformation. Can you see the
+
+460
+00:44:09,780 --> 00:44:17,840
+original position of your slab in this line? We have deflection coming down. The slab went down.
+
+461
+00:44:18,120 --> 00:44:21,240
+at your subboards at the columns, we don't have deformation.
+
+462
+00:44:22,080 --> 00:44:22,800
+Still the same.
+
+463
+00:44:23,600 --> 00:44:27,660
+But in between, the slab went down a little bit.
+
+464
+00:44:27,840 --> 00:44:29,040
+You can read the values.
+
+465
+00:44:29,700 --> 00:44:37,700
+It's in the range between 2.9 inch and 5 inch.
+
+466
+00:44:37,700 --> 00:44:42,100
+You can actually put a range here.
+
+467
+00:44:43,100 --> 00:44:43,560
+Doesn't work.
+
+468
+00:44:43,960 --> 00:44:46,880
+You can make this one as bigger, maybe show up.
+
+469
+00:44:48,760 --> 00:44:57,640
+Yeah, it's a magnification. It's not the values, but just a magnification. You are zooming in to show the deflection more clear.
+
+470
+00:44:59,160 --> 00:45:03,420
+That makes sense. This is the shape of deformation of your slim.
+
+471
+00:45:07,560 --> 00:45:14,160
+Okay, so we cover the slabs, color, contour, ZMAX, we cover deflection.
+
+472
+00:45:15,140 --> 00:45:21,840
+Don't look for beams, we don't have beams, we did not draw beams, we don't have any
+
+473
+00:45:22,360 --> 00:45:24,680
+beams for this floor.
+
+474
+00:45:26,860 --> 00:45:27,400
+That makes sense?
+
+475
+00:45:28,940 --> 00:45:29,760
+Yes, sir.
+
+476
+00:45:29,760 --> 00:45:34,540
+Let me repeat what I did.
+
+477
+00:45:35,060 --> 00:45:37,500
+This is for the first problem in your homework.
+
+478
+00:45:40,640 --> 00:45:43,560
+Not first problem, but the first problem for two-way sleep.
+
+479
+00:45:44,200 --> 00:45:49,640
+The problem asking to use Riza to analyze this sleep.
+
+480
+00:45:50,620 --> 00:45:53,460
+So you have to provide me with everything.
+
+481
+00:45:54,300 --> 00:45:55,900
+How can I submit my homework?
+
+482
+00:45:56,520 --> 00:45:58,240
+I think you are familiar with this.
+
+483
+00:45:59,200 --> 00:45:59,640
+I believe.
+
+484
+00:46:03,160 --> 00:46:08,600
+Let me go back to the Andoforma chip.
+
+485
+00:46:09,080 --> 00:46:10,720
+I think we can show up there.
+
+486
+00:46:15,940 --> 00:46:16,140
+Yes.
+
+487
+00:46:17,760 --> 00:46:21,380
+And also for slaves, we can...
+
+488
+00:46:25,300 --> 00:46:25,460
+Yes.
+
+489
+00:46:26,560 --> 00:46:28,520
+So we went back from the beginning.
+
+490
+00:46:31,020 --> 00:46:38,460
+So you draw the plane.
+
+491
+00:46:39,680 --> 00:46:42,240
+If you open a word file
+
+492
+00:46:48,140 --> 00:46:56,360
+and you can write floor plan of question two.
+
+493
+00:46:58,260 --> 00:47:06,440
+You can go to Risa. We have something from Windows. It's called a snipping tool.
+
+494
+00:47:06,860 --> 00:47:15,000
+Snipping tool. And you can select from snipping tool, new, and make a window.
+
+495
+00:47:17,060 --> 00:47:17,800
+I'm sorry.
+
+496
+00:47:27,300 --> 00:47:28,220
+Like this.
+
+497
+00:47:31,960 --> 00:47:33,140
+And they make copy.
+
+498
+00:47:34,350 --> 00:47:35,080
+What is a copy?
+
+499
+00:47:38,480 --> 00:47:39,160
+This one?
+
+500
+00:47:40,080 --> 00:47:40,160
+No.
+
+501
+00:47:41,460 --> 00:47:41,620
+Copy.
+
+502
+00:47:41,880 --> 00:47:42,180
+I'm sorry.
+
+503
+00:47:42,300 --> 00:47:42,480
+Copy.
+
+504
+00:47:42,740 --> 00:47:43,180
+This one.
+
+505
+00:47:43,800 --> 00:47:51,780
+and go to the word file, right click paste, you can get it and it changes it to be on
+
+506
+00:47:51,860 --> 00:48:13,160
+front so you can move it anyway. Does that make sense? Then I can go back to Riza. This
+
+507
+00:48:13,160 --> 00:48:30,319
+with everything I can take another shot and the copy go to the world of file and
+
+508
+00:48:30,900 --> 00:48:39,820
+the right click paste that makes sense you can make it in front so you are
+
+509
+00:48:39,820 --> 00:48:46,020
+showing me that you did the plan and this is the final sheet.
+
+510
+00:48:49,860 --> 00:48:58,740
+Also from Reza, I will hide this and go back to the plan. I will show up there slabs,
+
+511
+00:48:59,580 --> 00:49:09,700
+color fill from tour, MZ first, ultimate or strengths, okay, this is the ship.
+
+512
+00:49:11,620 --> 00:49:20,460
+That makes sense. So you need to take another shot and make sure you select this scale on the right.
+
+513
+00:49:21,520 --> 00:49:26,560
+So I can understand the value. Even your mind, you need to select the scale on the right.
+
+514
+00:49:27,580 --> 00:49:33,700
+because if you select only this shape, how can I understand the value of the color?
+
+515
+00:49:34,840 --> 00:49:41,400
+That makes sense? Copy and on the word file, right click and delete here.
+
+516
+00:49:43,820 --> 00:49:49,740
+That makes sense? You can make it smaller, by the way. If you are feeling it's very big,
+
+517
+00:49:49,740 --> 00:50:04,380
+you can make it smaller. And you can write here this is mz for steel rebars in horizontal
+
+518
+00:50:06,400 --> 00:50:19,220
+directions. And the M ultimate from this one will be 11.7 hip foot. And if you would like,
+
+519
+00:50:19,220 --> 00:50:25,340
+go ahead and make your design. You can write what you want. This is what we did
+
+520
+00:50:26,560 --> 00:50:32,400
+for our design here. The value of emmultimate and you can sketch and you
+
+521
+00:50:32,540 --> 00:50:36,380
+can put your values and what is the value of row, what is the value of area
+
+522
+00:50:36,520 --> 00:50:42,520
+steel, what is the final design. This is for your x direction. That makes sense.
+
+523
+00:50:43,160 --> 00:50:48,260
+For y direction I need to go back to Risa and show up the value of moment in
+
+524
+00:50:48,260 --> 00:51:05,060
+X, okay, and then I can take another shot like this and the copy and put it here.
+
+525
+00:51:07,440 --> 00:51:14,340
+That makes sense. I can say I can write here if it's a very big, you can make it
+
+526
+00:51:14,340 --> 00:51:30,860
+smaller like this. I can write here Mx in vertical direction the value of M ultimate
+
+527
+00:51:30,920 --> 00:51:45,260
+equal 11.7 hip foot and I can with my so if you look here you are providing me
+
+528
+00:51:45,320 --> 00:51:49,900
+with everything I need from question number two you have to show me that you
+
+529
+00:51:49,940 --> 00:51:54,280
+define your slab correctly you have to show me that you define the thickness
+
+530
+00:51:54,460 --> 00:51:58,200
+and the dimension of the columns correctly you have to show me the results
+
+531
+00:51:58,200 --> 00:52:03,760
+on the slab in a horizontal direction and the vertical direction correctly and you need to
+
+532
+00:52:03,860 --> 00:52:09,740
+provide your design. You have to provide your design. This is what I wrote here
+
+533
+00:52:11,780 --> 00:52:17,980
+for the horizontal direction and vertical direction. That makes sense. So if you would like to provide
+
+534
+00:52:18,030 --> 00:52:28,180
+me with the RISA results, don't give me the file of RISA. I need to convert all results from RISA
+
+535
+00:52:28,180 --> 00:52:32,520
+to a word file, then convert your word file to a PDF file
+
+536
+00:52:32,920 --> 00:52:37,340
+from file export and create PDF file.
+
+537
+00:52:37,760 --> 00:52:39,000
+Then you can submit your home.
+
+538
+00:52:40,320 --> 00:52:40,820
+That makes sense?
+
+539
+00:52:43,140 --> 00:52:46,400
+We have another example here for the homework.
+
+540
+00:52:46,640 --> 00:52:48,840
+So I solved the two problems with you.
+
+541
+00:52:49,840 --> 00:52:52,800
+The second problem or the third problem of your homework
+
+542
+00:52:53,160 --> 00:52:55,040
+is a slab with beams.
+
+543
+00:52:56,580 --> 00:52:58,580
+because we have the two parallel lines.
+
+544
+00:53:01,120 --> 00:53:03,480
+I'm going to use RISA, but keep in your mind,
+
+545
+00:53:04,640 --> 00:53:08,240
+this dimension in horizontal direction is two spacing
+
+546
+00:53:10,480 --> 00:53:12,320
+every 22 feet.
+
+547
+00:53:14,820 --> 00:53:23,560
+And this direction, which is a vertical direction, is 17.5 feet.
+
+548
+00:53:24,020 --> 00:53:31,660
+We have three spacing every 17.5 feet, 1, 2, 3.
+
+549
+00:53:32,600 --> 00:53:34,280
+But this one is 1 and the 2.
+
+550
+00:53:35,280 --> 00:53:37,740
+So I will start file new.
+
+551
+00:53:40,080 --> 00:53:41,140
+I will start from scratch.
+
+552
+00:53:41,440 --> 00:53:43,460
+Click here to create a new floor plan.
+
+553
+00:53:43,980 --> 00:53:46,020
+I will select the concrete floor slab.
+
+554
+00:53:46,880 --> 00:53:47,180
+OK.
+
+555
+00:53:48,080 --> 00:53:49,360
+I will cancel this one.
+
+556
+00:53:49,580 --> 00:53:51,240
+I will hide this grid.
+
+557
+00:53:56,580 --> 00:54:19,580
+I think from view drawing a grid insert drawing a grid insert if you cannot not find it here
+
+558
+00:54:19,580 --> 00:54:27,440
+insert, drawing a grid for a horizontal direction I can say we have two spacing
+
+559
+00:54:27,820 --> 00:54:39,260
+every 22 feet in the y direction I have three spacing every 17.5 feet I can
+
+560
+00:54:39,300 --> 00:55:03,680
+of Law. Where is the... This is the ocean. Draw grid rectangular. There you go.
+
+561
+00:55:06,020 --> 00:55:15,620
+because I did not ask the software to draw. Make sure when you insert the wrong
+
+562
+00:55:15,740 --> 00:55:20,480
+grid and what you're spacing and a number of spacing and the value number
+
+563
+00:55:20,480 --> 00:55:23,860
+of spacing and value just to check this one drawing a grid so the grid can be
+
+564
+00:55:23,880 --> 00:55:32,020
+drawn. So I draw something looks like this one we have one here one here one
+
+565
+00:55:32,020 --> 00:55:36,080
+here, here, here, so you can find out your pattern.
+
+566
+00:55:39,720 --> 00:55:45,440
+I think this information is not given. We can assume any cross-section for the beams, for example,
+
+567
+00:55:48,140 --> 00:55:56,900
+14 by 30. And the columns can be assumed 18 by 18, like the previous example. And the
+
+568
+00:55:56,900 --> 00:56:01,680
+And you will slap the thickness equal 4 inch or 5 inch, whatever.
+
+569
+00:56:02,980 --> 00:56:13,280
+So from insert columns, explicit shape, I can define 18 by 18.
+
+570
+00:56:14,599 --> 00:56:21,220
+Okay, apply, then I can draw my columns.
+
+571
+00:56:24,220 --> 00:56:26,180
+This is what we covered in the previous example.
+
+572
+00:56:29,380 --> 00:56:33,020
+The new thing today, or in this example, beams.
+
+573
+00:56:34,220 --> 00:56:36,120
+Insert beams, beams.
+
+574
+00:56:37,040 --> 00:56:38,420
+I will select explicit.
+
+575
+00:56:39,780 --> 00:56:42,160
+I will define the depth is 30 inch,
+
+576
+00:56:42,620 --> 00:56:44,260
+the width is 14 inch.
+
+577
+00:56:45,020 --> 00:56:49,040
+Okay, apply, then I can click here
+
+578
+00:56:49,690 --> 00:56:53,040
+or just click between the two points to draw my.
+
+579
+00:56:57,100 --> 00:56:59,260
+That makes sense. Click.
+
+580
+00:57:14,420 --> 00:57:21,320
+There you go. If you would like to see it, isometric, this is your sheet. If you would like,
+
+581
+00:57:21,740 --> 00:57:30,940
+you can take a shot from this shape when you are constructing your model and put it to the word
+
+582
+00:57:31,200 --> 00:57:40,380
+file. This is question number two. I started in a new question, question number three, I'm sorry.
+
+583
+00:57:43,460 --> 00:57:46,260
+So you can put it here, here you go.
+
+584
+00:57:49,020 --> 00:57:51,180
+I can make it bigger or smaller.
+
+585
+00:57:53,000 --> 00:57:53,480
+That makes sense.
+
+586
+00:57:54,090 --> 00:57:58,300
+Keep in your mind, so far I draw only the columns, I draw only the beams.
+
+587
+00:57:59,100 --> 00:58:01,880
+So go back to plan, hide this isometric.
+
+588
+00:58:02,780 --> 00:58:05,180
+From insert, we have...
+
+589
+00:58:07,859 --> 00:58:09,020
+Where is the slab?
+
+590
+00:58:15,900 --> 00:58:17,560
+Insert, where is the slab?
+
+591
+00:58:19,140 --> 00:58:19,880
+It's not shaded.
+
+592
+00:58:20,460 --> 00:58:25,100
+Yeah, looks like we did not select something from the beginning.
+
+593
+00:58:28,560 --> 00:58:33,540
+Yeah, we have to select this one concrete floor slab. This is very important. Okay.
+
+594
+00:58:36,220 --> 00:58:42,720
+I can define the drawing a grid from here.
+
+595
+00:58:44,980 --> 00:58:53,820
+Two spacing for every 22, three spacing for every 17.5.
+
+596
+00:58:57,060 --> 00:58:57,720
+Then a blow.
+
+597
+00:59:01,500 --> 00:59:05,660
+Yeah, there you go. It's a highlighted one.
+
+598
+00:59:06,170 --> 00:59:08,220
+I'm sorry, I need to start from scratch.
+
+599
+00:59:09,140 --> 00:59:17,000
+So the columns, explicit shape 18, 18, okay, apply.
+
+600
+00:59:27,060 --> 00:59:36,040
+For beams, we have explicit, your beams rectangular 30 inch by 14 inch.
+
+601
+00:59:38,580 --> 00:59:41,320
+so I can draw my beams
+
+602
+00:59:59,400 --> 01:00:07,299
+then from insert slabs, slabs I can define the thick nith which is 4 inch
+
+603
+01:00:07,940 --> 01:00:16,620
+I'm sorry, insert slabs, slabs four inch and the draw slabs apply, I can click at each corner.
+
+604
+01:00:21,320 --> 01:00:23,980
+If you would like to show up there, the metric, that's fine.
+
+605
+01:00:27,620 --> 01:00:32,740
+From insert, loads, if you would like to define the load, it's up to you area load,
+
+606
+01:00:32,860 --> 01:00:37,580
+it's the office, I will apply it to its office and I will select it point to point or just click.
+
+607
+01:00:38,220 --> 01:00:44,140
+Let's try to click yes, we can click it. So if you look here the blue color is
+
+608
+01:00:44,320 --> 01:00:51,000
+office building. Spreadsheet make sure you have the required combination. This
+
+609
+01:00:51,140 --> 01:00:57,680
+is still just a check and then we can start to solve. Keep in your mind right
+
+610
+01:00:57,680 --> 01:01:07,060
+now we have beams so if you show up your slabs color contour emmézi
+
+611
+01:01:08,660 --> 01:01:19,900
+strength in it plus life this is the drone of the bending moment view beams you
+
+612
+01:01:19,940 --> 01:01:27,079
+can this is their bending moment if you would like to read these colors one more
+
+613
+01:01:27,080 --> 01:01:35,800
+time this blue dark blue any point in this dark blue means your moment is
+
+614
+01:01:35,880 --> 01:01:47,600
+ranged between 1.56 to 2.13 tip foot any point has a yellow color any point on
+
+615
+01:01:47,680 --> 01:01:57,060
+this slab has a yellow color means your moment ranged between point 7 to and 1.29
+
+616
+01:01:57,060 --> 01:02:04,440
+get the maximum value of moment which is around the three or maybe three point five seven and you
+
+617
+01:02:04,640 --> 01:02:14,180
+can do with this value to start your design and this value will give you the moment I'm sorry
+
+618
+01:02:14,260 --> 01:02:20,060
+will give you the stereo enforcement in the horizontal direction because it's MZ if you go back
+
+619
+01:02:20,420 --> 01:02:28,220
+and the show of the Mx, okay, will give you a different color for the steer reinforcement
+
+620
+01:02:29,100 --> 01:02:35,420
+in the vertical direction, this way. And the maximum value will be different, looks like it's
+
+621
+01:02:35,500 --> 01:02:45,700
+around 2.8. So we have a steer reinforcement in horizontal direction coming from Mz. How much?
+
+622
+01:02:46,340 --> 01:02:55,320
+I will use 3.57. This is the maximum value. So I can, in my ultimate equal 3.57, I can start my design.
+
