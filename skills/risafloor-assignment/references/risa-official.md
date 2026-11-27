@@ -31,3 +31,13 @@ Open result spreadsheets through the Results menu and capture the actual combina
 The software checks slab deflection for the entered thickness; it does not automatically redesign thickness for deflection. RISA describes long-term creep/deflection limitations for the Design Strips method. Record the selected analysis/design options and avoid claiming a long-term check unless its actual output supports it. Reconcile the selected software code edition with the course method.
 
 Sources: https://help.risa.com/risahelp/risafloor/Content/Common_Design/Punching%20Shear%20-%20Results.htm ; https://help.risa.com/risahelp/risafloor/Content/Common_Design/Punching%20Shear%20-%20Design.htm ; https://help.risa.com/risahelp/risafloor/Content/Floor_Only_Topics/Elevated%20Slabs%20-%20Design.htm ; https://help.risa.com/risahelp/risafloor/Content/Common_Topics/Results.htm
+
+
+## Additional model entry and results navigation
+
+- Columns: set the column shape, material, design rule, function and orientation in Draw Columns, click Apply and select grid intersections or existing points. The nearest grid/point coordinates appear in the status bar. Columns and Column Stacks spreadsheets provide another way to inspect entered locations. The current RISA help states concrete slab floors use concrete columns.
+- Column demands: Results > Column Forces opens the Column Forces spreadsheet. Its selector includes axial force, shear and top/bottom moments about both local axes; inspect the tabs, labels and load basis. Do not assume separately displayed extrema occur simultaneously.
+- Results: solution opens the Results toolbar and design spreadsheet; warnings appear when present. Model changes that invalidate results clear them and require another solution. Confirm the selected floor, combination and any selection filters.
+- Export: RISA documents right-click > Export to Excel on results spreadsheets, choosing the current tab or all tabs and the destination. Check the actual version and resulting workbook.
+
+Sources: https://help.risa.com/risahelp/risafloor/Content/Floor_Only_Topics/Columns.htm ; https://help.risa.com/risahelp/risafloor/Content/Floor_Only_Topics/Columns%20-%20Results.htm ; https://help.risa.com/risahelp/risafloor/Content/Common_Topics/Results.htm ; https://help.risa.com/risahelp/risafloor/Content/Common_Topics/Spreadsheet%20Operations.htm
