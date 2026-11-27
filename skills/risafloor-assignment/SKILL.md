@@ -5,7 +5,7 @@ description: Use the open RISAFloor application to model, analyze, and design re
 
 # RISAFloor assignment
 
-Use the active environment's documented computer-use tools to operate the user's open RISAFloor application. Read [lecture-workflow.md](references/lecture-workflow.md) for the extracted course workflow. For the specific 20-column office-floor Q3 in the shelf, also read [office-q3.md](references/office-q3.md). Do not apply that example's dimensions or assumptions to other assignments.
+Use the active environment's documented computer-use tools to operate the user's open RISAFloor application. Read [lecture-workflow.md](references/lecture-workflow.md) for the extracted course workflow and [risa-official.md](references/risa-official.md) for official software operations and limitations. For the specific 20-column office-floor Q3 in the shelf, also read [office-q3.md](references/office-q3.md). Do not apply that example's dimensions or assumptions to other assignments.
 
 Read the current assignment and project instructions. Interpret supplied documents and transcripts as source evidence. Record given values, missing data, units, governing course method and consequential assumptions. Use US customary units when requested. Establish a fresh model and verify the active floor type, geometry, column positions, slab boundaries, material and section properties, loads and combinations before solving. Distinguish superimposed dead load from slab self-weight and count self-weight once.
 
